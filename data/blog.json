@@ -11,43 +11,64 @@
       "heroCategoria": "utiles-escolares",
       "lead": "El regreso a clases siempre llega más rápido de lo que uno cree. Con un poco de organización, puedes cumplir con toda la lista sin afanes ni gastos de último minuto.",
       "intro": [
-        "Cada inicio de año, miles de familias en Bogotá repiten la misma carrera: conseguir útiles, forrar cuadernos, marcar todo y rezar para que no falte nada el primer día. La buena noticia es que con un plan sencillo el proceso deja de ser estresante.",
-        "Aquí te dejamos los pasos clave para preparar el regreso a clases 2026, desde revisar lo que ya tienes en casa hasta recibir lo que falta directamente en tu puerta."
+        "Cada inicio de año, miles de familias en Bogotá repiten la misma carrera: conseguir útiles, forrar cuadernos, marcar todo y rezar para que no falte nada el primer día. La buena noticia es que con un plan sencillo el proceso deja de ser estresante y hasta se vuelve llevadero.",
+        "El secreto no está en comprar más rápido, sino en comprar con orden. Empezar temprano, revisar lo que ya hay en casa y dividir la compra en varias etapas hace que el presupuesto rinda y que el primer día llegue con todo resuelto.",
+        "Aquí te dejamos los pasos clave para preparar el regreso a clases 2026, desde revisar lo que ya tienes en casa hasta recibir lo que falta directamente en tu puerta, sin recorrer media ciudad ni hacer filas."
       ],
       "items": [
         {
           "titulo": "Revisa primero lo que ya tienes en casa",
-          "texto": "Antes de comprar, haz inventario: muchos colores, reglas y cartucheras del año pasado siguen sirviendo. Así evitas gastar de más y solo compras lo que de verdad falta.",
+          "texto": "Antes de comprar, haz inventario sobre la mesa: muchos colores, reglas, cartucheras, tijeras y compases del año pasado siguen perfectamente útiles. Saca todo, sepáralo por estado y haz dos montones: lo que sirve y lo que hay que reponer. Así evitas gastar de más, reduces el desorden y solo compras lo que de verdad falta.",
           "ctaCategoria": "utiles-escolares",
           "ctaTexto": "Ver útiles escolares"
         },
         {
           "titulo": "Arma la lista por materias",
-          "texto": "Organiza la lista del colegio por asignatura para no perderte. Los cuadernos por materia, los esferos y los lápices son la base de cualquier lista de primaria y bachillerato.",
+          "texto": "Organiza la lista del colegio por asignatura para no perderte ni comprar de más. Los cuadernos por materia, los esferos y los lápices son la base de cualquier lista de primaria y bachillerato, y conviene anotar cantidades exactas al lado de cada renglón. Una lista clara también te sirve para cotizar todo de una sola vez.",
           "ctaCategoria": "escritura",
           "ctaTexto": "Ver escritura"
         },
         {
           "titulo": "No dejes los cuadernos para el final",
-          "texto": "Los cuadernos cosidos y argollados son lo que más se agota en temporada. Asegúralos con tiempo y elige diseños que motiven a los niños a estrenar.",
+          "texto": "Los cuadernos cosidos y argollados son lo que más se agota en temporada, sobre todo los de diseños y los de 100 hojas. Asegúralos con tiempo, confirma cuántas hojas pide el colegio y elige portadas que motiven a los niños a estrenar. Comprarlos temprano te evita pagar sobreprecio o conformarte con lo que quedó.",
           "ctaCategoria": "papeles-y-blocks",
           "ctaTexto": "Ver cuadernos y blocks"
         },
         {
           "titulo": "Renueva morral y lonchera si ya no dan más",
-          "texto": "Si el morral del año pasado quedó roto, vale la pena renovarlo. Un buen morral y una lonchera resistente acompañan al estudiante todo el año.",
+          "texto": "Si el morral del año pasado quedó con cremalleras rotas o costuras sueltas, vale la pena renovarlo antes de que falle a mitad de año. Un buen morral con espaldar acolchado y una lonchera resistente y fácil de limpiar acompañan al estudiante todo el año y cuidan su espalda en el trayecto diario.",
           "ctaCategoria": "morrales-y-loncheras",
           "ctaTexto": "Ver morrales y loncheras"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "Cómo distribuir el gasto del regreso a clases",
+          "parrafos": [
+            "El golpe al bolsillo no viene tanto por los precios como por concentrar todo en una sola semana. Si divides la compra en dos o tres etapas, el gasto se siente mucho más manejable: empieza por lo que se agota primero (cuadernos y morrales), sigue con la escritura básica y deja para el final lo que se repone durante el año.",
+            "Una buena práctica es fijar un tope por estudiante y anotar cada compra. Cuando hay más de un niño en casa, conviene comprar por volumen las cosas que ambos usan —resmas, cajas de lápices, colores— porque casi siempre sale mejor que comprarlas sueltas.",
+            "Y antes de pagar, compara: el mismo cuaderno o el mismo esfero puede tener precios distintos según dónde lo busques. Cotizar la lista completa de una vez te da una visión clara del total y te ayuda a ajustar sin sacrificar lo que el colegio pide."
+          ]
+        },
+        {
+          "titulo": "Marcar y forrar: el paso que todos dejan para el final",
+          "parrafos": [
+            "Marcar y forrar es lo que más tiempo quita la noche anterior al primer día. Para que no te coja la tarde, ten listos desde antes el forro, las etiquetas y un marcador permanente. Marca cuadernos, loncheras, colores y hasta los esferos: en el salón todo se parece y lo que no está marcado se pierde.",
+            "Forrar los cuadernos no es solo estética; un buen forro protege la portada de la humedad de la mochila y hace que el cuaderno aguante todo el año. Si los niños ya tienen edad, involúcralos: marcar y forrar juntos vuelve la tarea más rápida y los entusiasma con el regreso.",
+            "Deja todo marcado y forrado un par de días antes, no la misma noche. Llegar al primer día con la mochila lista, los cuadernos identificados y la lonchera empacada hace que el arranque del año se sienta tranquilo para todos."
+          ]
+        }
+      ],
       "cierre": [
-        "La clave del regreso a clases sin estrés es no dejar todo para la última semana. Empieza temprano, distribuye los gastos y deja que te llevemos lo que falta a casa.",
-        "¿Ya tienes la lista del colegio? Envíanosla por WhatsApp y la cotizamos completa para entregártela a tiempo en Bogotá."
+        "La clave del regreso a clases sin estrés es no dejar todo para la última semana. Empieza temprano, distribuye los gastos, revisa lo que ya tienes y deja que te llevemos lo que falta a casa.",
+        "¿Ya tienes la lista del colegio? Envíanosla por WhatsApp y la cotizamos completa para entregártela a tiempo en Bogotá, en una sola entrega."
       ],
       "faq": [
-        { "pregunta": "¿Cuándo debería empezar a comprar los útiles?", "respuesta": "Lo ideal es empezar dos o tres semanas antes del primer día de clases. En temporada alta algunas referencias se agotan, así que comprar con margen te asegura conseguir todo." },
-        { "pregunta": "¿Puedo comprar la lista completa de una vez?", "respuesta": "Sí. Envíanos la lista del colegio por WhatsApp y te la cotizamos completa para entregarla en una sola entrega a domicilio." },
-        { "pregunta": "¿Hacen entrega a domicilio en Bogotá?", "respuesta": "Sí, entregamos en todas las localidades de la ciudad. Coordinamos hora y dirección por WhatsApp." }
+        { "pregunta": "¿Cuándo debería empezar a comprar los útiles?", "respuesta": "Lo ideal es empezar dos o tres semanas antes del primer día de clases. En temporada alta algunas referencias se agotan, así que comprar con margen te asegura conseguir todo sin sobreprecio." },
+        { "pregunta": "¿Puedo comprar la lista completa de una vez?", "respuesta": "Sí. Envíanos la lista del colegio por WhatsApp y te la cotizamos completa para entregarla en una sola entrega a domicilio en Bogotá." },
+        { "pregunta": "¿Hacen entrega a domicilio en Bogotá?", "respuesta": "Sí, entregamos en todas las localidades de la ciudad. Coordinamos hora y dirección por WhatsApp para que llegue antes del primer día." },
+        { "pregunta": "¿Cómo organizo la lista si tengo varios hijos?", "respuesta": "Arma una lista por estudiante y marca lo que comparten para comprarlo por volumen. Las cosas comunes —resmas, lápices, colores— suelen salir mejor al llevar más cantidad." },
+        { "pregunta": "¿Qué útiles conviene comprar primero?", "respuesta": "Primero lo que más se agota: cuadernos y morrales. Luego la escritura básica, y al final lo que se repone durante el año, como esferos y lápices sueltos." }
       ],
       "categoriasRelacionadas": ["utiles-escolares", "escritura", "morrales-y-loncheras"]
     },
@@ -62,43 +83,64 @@
       "heroCategoria": "papeles-y-blocks",
       "lead": "En Colombia conviven el calendario A y el calendario B, y cada uno marca momentos distintos para armar la lista de útiles. Planear alrededor de esas fechas te evita las compras de pánico.",
       "intro": [
-        "El calendario A, el más común en colegios públicos, suele iniciar clases a comienzos de año, mientras que el calendario B arranca a mitad de año. Saber en cuál está tu colegio te ayuda a anticipar cuándo comprar.",
-        "Independientemente del calendario, la recomendación es la misma: prepara la lista con tiempo y aprovecha para distribuir el gasto en lugar de concentrarlo todo en una semana."
+        "El calendario A, el más común en colegios públicos, suele iniciar clases a comienzos de año, mientras que el calendario B arranca a mitad de año. Saber en cuál está tu colegio te ayuda a anticipar cuándo comprar y a no llegar tarde a la temporada.",
+        "La diferencia no es solo de fechas: cada calendario tiene su propio pico de demanda en las papelerías. Comprar justo antes de ese pico significa filas, agotados y precios más altos; comprar un poco antes significa tranquilidad.",
+        "Independientemente del calendario, la recomendación es la misma: prepara la lista con tiempo y aprovecha para distribuir el gasto en lugar de concentrarlo todo en una semana. Un cronograma sencillo hace toda la diferencia."
       ],
       "items": [
         {
           "titulo": "Identifica tu calendario (A o B)",
-          "texto": "Confirma con el colegio si es calendario A o B. Eso define tu fecha de inicio y, por lo tanto, el mejor momento para comprar sin pelear con la temporada alta.",
+          "texto": "Confirma con el colegio si es calendario A o B antes de hacer cualquier compra. Eso define tu fecha de inicio y, por lo tanto, el mejor momento para comprar sin pelear con la temporada alta. El calendario A arranca a comienzos de año y el B hacia la mitad, así que tu cronograma de compras depende por completo de este dato.",
           "ctaCategoria": "utiles-escolares",
           "ctaTexto": "Ver útiles escolares"
         },
         {
           "titulo": "Compra el papel y los blocks con anticipación",
-          "texto": "El papel, los blocks y las resmas son básicos que rara vez cambian de un año a otro. Comprarlos con tiempo te quita presión de encima cuando llegue el primer día.",
+          "texto": "El papel, los blocks y las resmas son básicos que rara vez cambian de un año a otro y que no se vencen. Comprarlos con tiempo te quita presión de encima cuando llegue el primer día y te protege de los agotados de temporada. Son justo el tipo de producto que conviene asegurar temprano porque siempre se va a usar.",
           "ctaCategoria": "papeles-y-blocks",
           "ctaTexto": "Ver papeles y blocks"
         },
         {
           "titulo": "Aparta lo de archivo y organización",
-          "texto": "Carpetas, folders y sobres se usan todo el año para entregar trabajos. Tenerlos listos desde el inicio evita carreras de última hora antes de cada entrega.",
+          "texto": "Carpetas, folders, sobres y separadores se usan todo el año para entregar trabajos, sobre todo en bachillerato. Tenerlos listos desde el inicio evita carreras de última hora la noche antes de cada entrega. Son baratos, no caducan y siempre hacen falta, así que vale la pena dejarlos comprados desde el arranque.",
           "ctaCategoria": "archivos-y-clasificacion",
           "ctaTexto": "Ver archivo y clasificación"
         },
         {
           "titulo": "Deja la escritura para reponer durante el año",
-          "texto": "Esferos y lápices se acaban; está bien comprar un lote inicial y reponer después. Así no inmovilizas todo el presupuesto en el primer mes.",
+          "texto": "Esferos y lápices se acaban o se pierden, así que está bien comprar un lote inicial y reponer después según haga falta. De esa forma no inmovilizas todo el presupuesto en el primer mes y aprovechas para ir comprando con calma. Una caja de repuesto en casa evita la carrera de buscar un esfero la noche antes de un examen.",
           "ctaCategoria": "escritura",
           "ctaTexto": "Ver escritura"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "Calendario A vs. calendario B: qué significan para tu bolsillo",
+          "parrafos": [
+            "El calendario A agrupa a la mayoría de los colegios del país y arranca a comienzos de año, lo que concentra la demanda de útiles en enero y las semanas previas. El calendario B, más frecuente en algunos colegios privados y de ciertas regiones, inicia hacia la mitad del año, así que su temporada de compras cae en un momento distinto.",
+            "Para tu bolsillo, la lección es clara: el momento de mayor presión sobre los precios y el inventario es justo antes del inicio de cada calendario. Si compras una o dos semanas antes de ese pico, encuentras mejor disponibilidad y evitas el sobreprecio típico de la última semana.",
+            "Si en casa hay estudiantes en calendarios diferentes, puedes aprovechar para escalonar las compras y repartir el gasto a lo largo del año, en lugar de juntar todo en una sola temporada."
+          ]
+        },
+        {
+          "titulo": "Un cronograma de compras mes a mes",
+          "parrafos": [
+            "Un mes antes del inicio: revisa lo que quedó del año pasado y arma la lista por materias con cantidades. Es el momento de asegurar lo que más se agota —cuadernos y morrales— y de comprar el papel y los blocks, que no caducan.",
+            "Dos semanas antes: completa la escritura básica, el archivo y los materiales de arte. Aquí ya tienes claridad de lo que falta y puedes cotizar la lista completa para comprarla de una sola vez y ahorrar vueltas.",
+            "La semana de inicio: deja solo el remate —marcar, forrar y reponer lo que se haya olvidado—. Si llegaste con el cronograma al día, esta semana se vuelve tranquila en lugar de una carrera contrarreloj."
+          ]
+        }
+      ],
       "cierre": [
-        "Planear la compra alrededor del calendario escolar es la forma más fácil de evitar el estrés y los sobreprecios de temporada alta.",
-        "Cuando tengas tu lista lista, escríbenos: te la entregamos a domicilio en Bogotá en el momento que la necesites."
+        "Planear la compra alrededor del calendario escolar es la forma más fácil de evitar el estrés y los sobreprecios de temporada alta. Un cronograma sencillo te ahorra filas, agotados y gastos de pánico.",
+        "Cuando tengas tu lista lista, escríbenos: te la entregamos a domicilio en Bogotá en el momento que la necesites, sin importar tu calendario."
       ],
       "faq": [
         { "pregunta": "¿Qué diferencia hay entre calendario A y B?", "respuesta": "El calendario A inicia clases a comienzos de año y el B hacia la mitad del año. Cada colegio define en cuál está; eso marca cuándo conviene comprar los útiles." },
-        { "pregunta": "¿Cuándo se agotan más los útiles?", "respuesta": "En las semanas previas al inicio de cada calendario. Comprar con anticipación te asegura conseguir las referencias antes de que se agoten." },
-        { "pregunta": "¿Puedo pedir solo una parte de la lista ahora y el resto después?", "respuesta": "Claro. Puedes hacer pedidos en distintos momentos para distribuir el gasto; coordinamos cada entrega por WhatsApp." }
+        { "pregunta": "¿Cuándo se agotan más los útiles?", "respuesta": "En las semanas previas al inicio de cada calendario. Comprar con anticipación te asegura conseguir las referencias antes de que se agoten y a mejor precio." },
+        { "pregunta": "¿Puedo pedir solo una parte de la lista ahora y el resto después?", "respuesta": "Claro. Puedes hacer pedidos en distintos momentos para distribuir el gasto; coordinamos cada entrega por WhatsApp." },
+        { "pregunta": "¿Cómo sé en qué calendario está mi colegio?", "respuesta": "Lo confirma directamente el colegio en su circular o cronograma del año. Si tienes duda, pregunta en secretaría; ese dato define tu fecha de inicio." },
+        { "pregunta": "¿Qué conviene comprar primero según el calendario?", "respuesta": "Independiente del calendario, primero lo que más se agota —cuadernos y morrales— y lo que no caduca —papel, blocks y archivo—. La escritura puedes reponerla durante el año." }
       ],
       "categoriasRelacionadas": ["papeles-y-blocks", "escritura", "archivos-y-clasificacion"]
     },
@@ -114,48 +156,69 @@
       "lead": "La lista de útiles puede pesar mucho en el bolsillo, sobre todo si hay más de un estudiante en casa. Con estos cinco trucos cumples con el colegio gastando menos.",
       "intro": [
         "Ahorrar en útiles no significa comprar lo más barato y que se dañe a la semana. Se trata de comprar inteligente: reutilizar lo que sirve, elegir calidad que dure y aprovechar los momentos correctos para comprar.",
-        "Estas estrategias son simples y las puede aplicar cualquier familia, sin sacrificar lo que el colegio pide."
+        "La mayoría del gasto se va en pocos renglones —cuadernos, morral, escritura— y ahí es donde una buena decisión se nota más. Saber dónde apretar y dónde no es lo que separa una lista cara de una lista bien comprada.",
+        "Estas estrategias son simples y las puede aplicar cualquier familia, sin sacrificar lo que el colegio pide ni la calidad que los niños necesitan para todo el año."
       ],
       "items": [
         {
           "titulo": "Reutiliza lo del año pasado",
-          "texto": "Colores a medio usar, reglas, cartucheras y tijeras suelen durar varios años. Revisa antes de comprar y reserva el presupuesto para lo que de verdad falta.",
+          "texto": "Colores a medio usar, reglas, cartucheras, compases y tijeras suelen durar varios años en buen estado. Revisa todo antes de comprar y reserva el presupuesto para lo que de verdad falta. Este simple paso de hacer inventario en casa es, por lejos, la forma más fácil de bajar el total de la lista sin que el colegio note la diferencia.",
           "ctaCategoria": "utiles-escolares",
           "ctaTexto": "Ver útiles escolares"
         },
         {
           "titulo": "Compra por volumen o la lista completa",
-          "texto": "Comprar varias unidades o la lista completa de una vez suele salir más económico que ir comprando suelto. Pregunta siempre por el precio al llevar más cantidad.",
+          "texto": "Comprar varias unidades o la lista completa de una vez suele salir más económico que ir comprando suelto a lo largo de las semanas. Pregunta siempre por el precio al llevar más cantidad, y si hay varios estudiantes en casa, junta las compras comunes. El volumen es tu mejor aliado para negociar un mejor precio.",
           "ctaCategoria": "escritura",
           "ctaTexto": "Ver escritura"
         },
         {
           "titulo": "Aprovecha las ofertas",
-          "texto": "Estar atento a las promociones de temporada puede ahorrarte bastante. Antes de comprar, revisa qué productos están rebajados.",
+          "texto": "Estar atento a las promociones de temporada puede ahorrarte bastante en los renglones que más pesan. Antes de comprar, revisa qué productos están rebajados y compáralos con tu lista; a veces vale la pena adelantar una compra solo porque está en oferta. La planeación y la paciencia se traducen en ahorro real.",
           "ctaCategoria": "pintar",
           "ctaTexto": "Ver artículos para pintar"
         },
         {
           "titulo": "Elige calidad que dure",
-          "texto": "Un cuaderno o un morral barato que se daña a mitad de año termina costando más caro. A veces conviene invertir un poco más en lo que se usa a diario.",
+          "texto": "Un cuaderno o un morral barato que se daña a mitad de año termina costando más caro, porque toca volver a comprarlo. A veces conviene invertir un poco más en lo que se usa a diario —el morral, la lonchera, los cuadernos— y ahorrar en lo desechable. Pensar en el costo por todo el año, y no solo en el precio de hoy, es comprar con cabeza.",
           "ctaCategoria": "morrales-y-loncheras",
           "ctaTexto": "Ver morrales y loncheras"
         },
         {
           "titulo": "Pide a domicilio y ahorra transporte",
-          "texto": "Recorrer varias papelerías cuesta tiempo y plata en transporte. Pedir todo a domicilio concentra la compra y te ahorra esas vueltas.",
+          "texto": "Recorrer varias papelerías cuesta tiempo y plata en transporte, y casi siempre terminas comprando algo extra que no estaba en la lista. Pedir todo a domicilio concentra la compra, te ahorra esas vueltas y te deja comparar precios con calma desde casa. El ahorro no es solo de dinero: también es de tiempo y de antojos.",
           "ctaCategoria": "papeles-y-blocks",
           "ctaTexto": "Ver papeles y blocks"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "El costo oculto de comprar barato",
+          "parrafos": [
+            "El precio más bajo no siempre es el más económico. Un morral que se descose en marzo, una caja de colores que pinta mal o un cuaderno con hojas que se sueltan terminan obligando a una segunda compra que borra cualquier ahorro inicial. A eso se le llama costo oculto, y es el error más común al armar la lista.",
+            "La forma de evitarlo es separar la lista en dos grupos: lo que se usa a diario y todo el año, y lo desechable o de un solo proyecto. En el primer grupo —morral, lonchera, cuadernos principales, calculadora— conviene invertir en calidad. En el segundo —papel de colores, plastilina, fomi— puedes optar por lo más económico sin remordimiento.",
+            "Pensar en el costo por uso, y no solo en el precio de la etiqueta, cambia por completo las decisiones. Lo que dura todo el año casi siempre sale más barato a la larga."
+          ]
+        },
+        {
+          "titulo": "Compras compartidas y al por mayor entre familias",
+          "parrafos": [
+            "Una estrategia que pocos aprovechan es comprar entre varias familias del mismo salón. Muchos materiales —resmas, cajas de lápices, colores, témperas, pegante— rinden más comprados por volumen, y dividir esas compras entre dos o tres hogares baja el precio para todos.",
+            "Funciona especialmente bien con lo que el colegio pide en cantidad para el grupo, como block iris, cartulinas o material de arte. En lugar de que cada familia compre una unidad suelta y cara, una compra conjunta consigue mejor precio y alcanza para todos.",
+            "Coordínalo con tiempo por el grupo de papás del curso y arma un solo pedido. Además de ahorrar, simplifica la logística: una sola cotización, una sola entrega a domicilio y el material repartido entre quienes lo necesitan."
+          ]
+        }
+      ],
       "cierre": [
-        "Ahorrar en la lista de útiles es cuestión de planear y comprar con cabeza. Con estos trucos, el regreso a clases pesa menos en el presupuesto.",
-        "¿Quieres una cotización con el mejor precio? Envíanos tu lista por WhatsApp y te ayudamos a ahorrar."
+        "Ahorrar en la lista de útiles es cuestión de planear y comprar con cabeza: reutilizar, distinguir lo que vale la pena, aprovechar el volumen y evitar el costo oculto de lo barato. Con estos trucos, el regreso a clases pesa menos en el presupuesto.",
+        "¿Quieres una cotización con el mejor precio? Envíanos tu lista por WhatsApp y te ayudamos a ahorrar, con entrega a domicilio en Bogotá."
       ],
       "faq": [
-        { "pregunta": "¿Hacen descuento por comprar la lista completa?", "respuesta": "Sí, al comprar la lista completa o varias unidades podemos ofrecerte un mejor precio. Consúltalo por WhatsApp." },
-        { "pregunta": "¿Dónde veo los productos en oferta?", "respuesta": "En la sección de ofertas del sitio o escribiéndonos por WhatsApp para contarte qué promociones tenemos activas." },
-        { "pregunta": "¿Los productos económicos son de buena calidad?", "respuesta": "Elegimos referencias económicas pero confiables, de marcas que duran todo el año, para que ahorres sin arriesgar la calidad." }
+        { "pregunta": "¿Hacen descuento por comprar la lista completa?", "respuesta": "Sí, al comprar la lista completa o varias unidades podemos ofrecerte un mejor precio. Consúltalo por WhatsApp con tu lista a la mano." },
+        { "pregunta": "¿Dónde veo los productos en oferta?", "respuesta": "En la sección de ofertas del sitio o escribiéndonos por WhatsApp para contarte qué promociones tenemos activas en el momento." },
+        { "pregunta": "¿Los productos económicos son de buena calidad?", "respuesta": "Elegimos referencias económicas pero confiables, de marcas que duran todo el año, para que ahorres sin arriesgar la calidad." },
+        { "pregunta": "¿Conviene comprar entre varias familias del salón?", "respuesta": "Sí, sobre todo lo que se pide por cantidad —resmas, cartulinas, material de arte—. Una compra conjunta consigue mejor precio y se entrega en un solo pedido." },
+        { "pregunta": "¿En qué útiles vale la pena gastar un poco más?", "respuesta": "En lo que se usa a diario y todo el año: morral, lonchera, cuadernos principales y calculadora. En lo desechable o de un solo proyecto puedes ahorrar." }
       ],
       "categoriasRelacionadas": ["utiles-escolares", "escritura", "pintar"]
     },
@@ -170,43 +233,64 @@
       "heroCategoria": "morrales-y-loncheras",
       "lead": "Elegir morral y lonchera es de las decisiones más personales del regreso a clases. Estas son las tendencias que marcan el 2026 para acompañar a los estudiantes con estilo y comodidad.",
       "intro": [
-        "Cada año cambian los diseños favoritos, pero hay algo constante: los estudiantes quieren algo que les guste y que aguante. La tendencia de 2026 combina personalidad con practicidad.",
-        "Desde los colores que se imponen hasta los detalles funcionales que facilitan el día a día, esto es lo que conviene mirar antes de comprar."
+        "Cada año cambian los diseños favoritos, pero hay algo constante: los estudiantes quieren algo que les guste y que aguante. La tendencia de 2026 combina personalidad con practicidad, sin sacrificar lo uno por lo otro.",
+        "Detrás de la moda hay decisiones que importan más que el estampado: el tamaño correcto, el espaldar que cuida la espalda y los materiales que resisten un año entero de uso diario. Lo bonito atrae, pero lo funcional es lo que hace que la compra valga la pena.",
+        "Desde los colores que se imponen hasta los detalles que facilitan el día a día, esto es lo que conviene mirar antes de comprar el morral y la lonchera de este año."
       ],
       "items": [
         {
           "titulo": "Diseños con personalidad",
-          "texto": "Los estampados, los personajes y los colores vivos siguen dominando entre los más pequeños, mientras los jóvenes prefieren diseños unicolor y sobrios. Hay para todos los gustos.",
+          "texto": "Los estampados, los personajes y los colores vivos siguen dominando entre los más pequeños, mientras los jóvenes prefieren diseños unicolor, sobrios y de líneas limpias. La tendencia es que el morral exprese la personalidad del estudiante, así que hay opciones para quien quiere llamar la atención y para quien prefiere algo discreto que combine con todo.",
           "ctaCategoria": "morrales-y-loncheras",
           "ctaTexto": "Ver morrales y loncheras"
         },
         {
           "titulo": "Loncheras térmicas y prácticas",
-          "texto": "La tendencia apunta a loncheras que conservan la temperatura y son fáciles de limpiar. Una buena lonchera mantiene el refrigerio fresco hasta el descanso.",
+          "texto": "La tendencia apunta a loncheras que conservan la temperatura y son fáciles de limpiar por dentro. Una buena lonchera térmica mantiene el refrigerio fresco hasta el descanso y evita que la comida se dañe en una mañana calurosa. Los modelos con interior impermeable y cierre seguro se llevan toda la atención este año.",
           "ctaCategoria": "morrales-y-loncheras",
           "ctaTexto": "Ver loncheras"
         },
         {
           "titulo": "Cartucheras de varios compartimentos",
-          "texto": "Las cartucheras con varios bolsillos ayudan a mantener esferos, colores y borradores organizados. Cada cosa en su lugar y nada que se pierda en el morral.",
+          "texto": "Las cartucheras con varios bolsillos ayudan a mantener esferos, colores, borradores y reglas organizados y a la mano. Cada cosa en su lugar y nada que se pierda en el fondo del morral. Las de dos o tres niveles son las más buscadas porque separan la escritura del color y evitan que todo termine revuelto.",
           "ctaCategoria": "utiles-escolares",
           "ctaTexto": "Ver útiles escolares"
         },
         {
           "titulo": "Comodidad y ergonomía",
-          "texto": "Los morrales con espaldar acolchado y tirantes anchos cuidan la espalda de los niños. La comodidad dejó de ser un lujo para volverse prioridad.",
+          "texto": "Los morrales con espaldar acolchado, tirantes anchos y soporte lumbar cuidan la espalda de los niños durante el trayecto y la jornada. La comodidad dejó de ser un lujo para volverse prioridad, sobre todo cuando el morral carga varios cuadernos. Un buen reparto del peso previene molestias y hace que el estudiante lo use sin quejas.",
           "ctaCategoria": "morrales-y-loncheras",
           "ctaTexto": "Ver morrales"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "Cómo elegir el morral según la edad y la espalda",
+          "parrafos": [
+            "El mejor morral no es el más grande ni el más vistoso, sino el que se ajusta al tamaño del estudiante. Una regla práctica: el morral no debería ser más ancho que la espalda del niño ni colgar por debajo de la cintura. Para preescolar y primaria conviene un tamaño mediano y liviano; para bachillerato, uno más amplio pero con buen soporte.",
+            "El peso cargado también importa. Los especialistas recomiendan que un morral lleno no supere alrededor del 10% al 15% del peso del niño. Por eso ayudan los compartimentos: distribuir los cuadernos pegados a la espalda y lo liviano hacia afuera mejora el equilibrio y evita molestias.",
+            "Fíjate en el espaldar acolchado, los tirantes anchos y, si es posible, una correa de pecho que reparta la carga. Esos detalles, más que el diseño, son los que hacen que el morral cuide la postura durante todo el año escolar."
+          ]
+        },
+        {
+          "titulo": "Materiales y cuidados: que dure todo el año",
+          "parrafos": [
+            "Un morral aguanta más según sus materiales. Las telas tipo poliéster resistente y las costuras reforzadas en las esquinas soportan mejor el trajín diario, mientras que las cremalleras de buena calidad son justo lo que primero falla en los modelos económicos. Revisar cierres y costuras antes de comprar ahorra disgustos a mitad de año.",
+            "El cuidado también alarga la vida útil. Vaciar el morral cada cierto tiempo, limpiar los derrames apenas ocurren y evitar sobrecargarlo previene que las costuras cedan. La lonchera, por su parte, se conserva mejor si se lava por dentro a diario y se deja secar bien para evitar olores.",
+            "Con materiales adecuados y un mínimo de mantenimiento, un buen morral y una buena lonchera acompañan al estudiante el año completo, lo que a la larga resulta más económico que reponerlos a mitad de camino."
+          ]
+        }
+      ],
       "cierre": [
-        "Más allá de la moda, el mejor morral es el que le gusta al estudiante y le dura todo el año. Combina diseño con resistencia y vas seguro.",
+        "Más allá de la moda, el mejor morral es el que le gusta al estudiante, le queda del tamaño correcto y le dura todo el año. Combina diseño con resistencia y ergonomía, y vas seguro.",
         "Mira nuestra variedad de morrales, loncheras y cartucheras, y pídelos a domicilio en Bogotá para estrenar el primer día."
       ],
       "faq": [
-        { "pregunta": "¿Qué tamaño de morral conviene para primaria?", "respuesta": "Para primaria conviene un morral mediano, cómodo y con espaldar acolchado, que cargue cuadernos sin lastimar la espalda. Te asesoramos por WhatsApp según la edad." },
-        { "pregunta": "¿Tienen loncheras térmicas?", "respuesta": "Sí, manejamos varias opciones de loncheras. Escríbenos y te indicamos las referencias térmicas disponibles." },
-        { "pregunta": "¿Entregan morrales a domicilio?", "respuesta": "Sí, en toda Bogotá. Coordinamos la entrega por WhatsApp para que llegue antes del primer día de clases." }
+        { "pregunta": "¿Qué tamaño de morral conviene para primaria?", "respuesta": "Para primaria conviene un morral mediano, liviano y con espaldar acolchado, que cargue cuadernos sin lastimar la espalda. Te asesoramos por WhatsApp según la edad y la estatura." },
+        { "pregunta": "¿Tienen loncheras térmicas?", "respuesta": "Sí, manejamos varias opciones de loncheras. Escríbenos y te indicamos las referencias térmicas y fáciles de limpiar disponibles." },
+        { "pregunta": "¿Entregan morrales a domicilio?", "respuesta": "Sí, en toda Bogotá. Coordinamos la entrega por WhatsApp para que llegue antes del primer día de clases." },
+        { "pregunta": "¿Cuánto peso debería cargar un morral escolar?", "respuesta": "Como referencia, un morral lleno no debería superar alrededor del 10% al 15% del peso del niño. Los compartimentos ayudan a distribuir la carga y cuidar la postura." },
+        { "pregunta": "¿Cómo hago para que el morral dure todo el año?", "respuesta": "Elige telas resistentes y cremalleras de buena calidad, no lo sobrecargues y limpia los derrames a tiempo. Un mínimo de cuidado evita que las costuras cedan." }
       ],
       "categoriasRelacionadas": ["morrales-y-loncheras", "utiles-escolares", "escritura"]
     },
@@ -221,43 +305,64 @@
       "heroCategoria": "utiles-escolares",
       "lead": "Hay útiles que aparecen en prácticamente todas las listas y que se agotan primero en temporada. Estos son los que más salen para el regreso a clases en Bogotá.",
       "intro": [
-        "Si quieres asegurar lo esencial antes de que se agote, conviene saber qué es lo que más se vende. Spoiler: son los básicos de siempre, pero por algo lo son.",
-        "Te contamos cuáles son los protagonistas de la temporada para que no te quedes sin ellos."
+        "Si quieres asegurar lo esencial antes de que se agote, conviene saber qué es lo que más se vende. Spoiler: son los básicos de siempre, pero por algo lo son. Estos productos están en casi todas las listas porque son los que de verdad se usan cada día.",
+        "El patrón se repite año tras año: lo más vendido es lo más buscado, y lo más buscado es lo primero en agotarse. Conocer ese ranking te da ventaja para comprar a tiempo y a buen precio.",
+        "Te contamos cuáles son los protagonistas de la temporada para que no te quedes sin ellos y para que sepas qué priorizar al armar tu pedido."
       ],
       "items": [
         {
           "titulo": "Cuadernos, los reyes de la temporada",
-          "texto": "Cosidos, argollados, de 50 o 100 hojas, con diseños o sencillos: los cuadernos son lo primero que se agota. Asegúralos con tiempo.",
+          "texto": "Cosidos, argollados, de 50 o 100 hojas, con diseños o sencillos: los cuadernos son lo primero que se agota en cada temporada. Cada estudiante necesita varios, uno por materia, así que la demanda es enorme y los diseños más populares vuelan. Asegúralos con tiempo y confirma el número de hojas que pide el colegio para no quedarte corto.",
           "ctaCategoria": "utiles-escolares",
           "ctaTexto": "Ver cuadernos"
         },
         {
           "titulo": "Esferos y lápices, los infaltables",
-          "texto": "Ningún estudiante sobrevive sin esferos y lápices. Se compran por lotes porque se acaban o se pierden, así que siempre están en el top de ventas.",
+          "texto": "Ningún estudiante sobrevive sin esferos y lápices, y por eso encabezan siempre el top de ventas. Se compran por lotes porque se acaban, se secan o se pierden a lo largo del año, de primaria a bachillerato. Tener una reserva en casa evita la carrera de buscar uno la noche antes de un examen.",
           "ctaCategoria": "escritura",
           "ctaTexto": "Ver escritura"
         },
         {
           "titulo": "Colores y témperas para artística",
-          "texto": "Las cajas de colores y las témperas son protagonistas en primaria. Buena pigmentación y rendimiento marcan la diferencia en la clase de arte.",
+          "texto": "Las cajas de colores y las témperas son protagonistas en preescolar y primaria, donde la clase de arte es de las favoritas. La buena pigmentación y el rendimiento marcan la diferencia entre un trabajo que luce y uno que decepciona. Son de los productos que más rotan en temporada porque cada niño necesita los suyos.",
           "ctaCategoria": "pintar",
           "ctaTexto": "Ver artículos para pintar"
         },
         {
           "titulo": "Morrales y loncheras nuevos",
-          "texto": "El estreno de morral y lonchera es casi un ritual del regreso a clases. Por eso vuelan en las primeras semanas de temporada.",
+          "texto": "El estreno de morral y lonchera es casi un ritual del regreso a clases, y por eso vuelan en las primeras semanas de temporada. Muchos estudiantes esperan el inicio de año para renovar el que ya no da más, así que los diseños más buscados se agotan rápido. Comprarlos temprano te garantiza el modelo y el color que quieren.",
           "ctaCategoria": "morrales-y-loncheras",
           "ctaTexto": "Ver morrales y loncheras"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "Por qué estos básicos nunca pasan de moda",
+          "parrafos": [
+            "Los útiles más vendidos lo son porque resuelven necesidades que no cambian: escribir, tomar apuntes, dibujar y cargar todo de la casa al colegio. Por más que evolucionen los diseños o lleguen novedades, el cuaderno, el esfero y el morral siguen siendo el corazón de cualquier lista escolar.",
+            "También influye la mecánica del consumo. Algunos de estos productos se agotan por uso —esferos, lápices, colores— y obligan a reponer durante el año, mientras que otros se renuevan por temporada, como el morral y la lonchera. Esa combinación mantiene la demanda alta de forma constante.",
+            "Para las familias, la enseñanza es práctica: si estos básicos siempre se van a necesitar, vale la pena asegurarlos temprano y, cuando se pueda, comprarlos por volumen para conseguir mejor precio."
+          ]
+        },
+        {
+          "titulo": "Cómo evitar quedarte sin los más buscados",
+          "parrafos": [
+            "La regla de oro es simple: lo más vendido es lo primero en agotarse, así que no lo dejes para la última semana. Los cuadernos de diseños populares y los morrales con personajes son justo las referencias que desaparecen primero del inventario en plena temporada.",
+            "Una buena táctica es separar la lista en 'urgente' y 'reponible'. Lo urgente —cuadernos, morral, lonchera— conviene comprarlo o reservarlo con anticipación. Lo reponible —esferos, lápices, colores sueltos— puede esperar y comprarse a lo largo del año.",
+            "Si te preocupa que se agote justo lo que quieres, puedes reservarlo. Escríbenos con las referencias y cantidades, y coordinamos para apartarlo y entregártelo a domicilio antes del primer día."
+          ]
+        }
+      ],
       "cierre": [
-        "Lo más vendido es lo más buscado, y por eso lo primero en agotarse. Si quieres asegurar tus referencias, no esperes a la última semana.",
-        "Escríbenos por WhatsApp y reservamos lo que necesitas para entregártelo a domicilio en Bogotá."
+        "Lo más vendido es lo más buscado, y por eso lo primero en agotarse. Si quieres asegurar tus referencias y los diseños que los niños quieren, no esperes a la última semana.",
+        "Escríbenos por WhatsApp y reservamos lo que necesitas para entregártelo a domicilio en Bogotá, antes de que se acabe."
       ],
       "faq": [
-        { "pregunta": "¿Qué útiles se agotan primero?", "respuesta": "Los cuadernos y los morrales suelen ser lo primero en agotarse en temporada alta. Comprar con anticipación te asegura conseguirlos." },
-        { "pregunta": "¿Puedo reservar productos?", "respuesta": "Sí, escríbenos por WhatsApp y coordinamos la reserva y entrega de los productos que necesites." },
-        { "pregunta": "¿Tienen variedad de diseños en cuadernos?", "respuesta": "Sí, manejamos cuadernos cosidos y argollados en distintos números de hojas y diseños. Consúltanos disponibilidad." }
+        { "pregunta": "¿Qué útiles se agotan primero?", "respuesta": "Los cuadernos y los morrales suelen ser lo primero en agotarse en temporada alta, sobre todo los diseños populares. Comprar con anticipación te asegura conseguirlos." },
+        { "pregunta": "¿Puedo reservar productos?", "respuesta": "Sí, escríbenos por WhatsApp con las referencias y cantidades, y coordinamos la reserva y entrega de los productos que necesites." },
+        { "pregunta": "¿Tienen variedad de diseños en cuadernos?", "respuesta": "Sí, manejamos cuadernos cosidos y argollados en distintos números de hojas y diseños. Consúltanos disponibilidad por WhatsApp." },
+        { "pregunta": "¿Conviene comprar los básicos por volumen?", "respuesta": "Sí. Los básicos que se reponen durante el año —esferos, lápices, colores— suelen salir mejor por volumen, y aseguras tener repuesto en casa." },
+        { "pregunta": "¿Qué debo priorizar al armar el pedido?", "respuesta": "Prioriza lo que más se agota y se usa a diario: cuadernos, morral, lonchera y escritura básica. El resto puedes irlo completando con calma." }
       ],
       "categoriasRelacionadas": ["utiles-escolares", "escritura", "pintar"]
     },
@@ -272,43 +377,64 @@
       "heroCategoria": "accesorios-de-escritorio-y-oficina",
       "lead": "Un espacio de estudio ordenado mejora la concentración y hace que las tareas fluyan. Organizar el escritorio en casa es más fácil de lo que parece.",
       "intro": [
-        "Con clases híbridas y tareas que se hacen en casa, el escritorio se volvió un lugar clave para el rendimiento de los estudiantes. Un buen orden ahorra tiempo y evita distracciones.",
-        "No necesitas mucho espacio ni una gran inversión: con algunos accesorios y un sistema sencillo, cualquier rincón se convierte en una zona de estudio funcional."
+        "Con clases híbridas y tareas que se hacen en casa, el escritorio se volvió un lugar clave para el rendimiento de los estudiantes. Un buen orden ahorra tiempo, evita distracciones y le da al niño una señal clara de que ese es su espacio para concentrarse.",
+        "El desorden no es solo estético: cada vez que hay que levantarse a buscar un esfero o despejar la mesa para abrir el cuaderno, se rompe la concentración. Un escritorio bien montado elimina esas pequeñas fricciones que, sumadas, restan mucho a una tarde de estudio.",
+        "No necesitas mucho espacio ni una gran inversión: con algunos accesorios y un sistema sencillo, cualquier rincón se convierte en una zona de estudio funcional que invita a sentarse a trabajar."
       ],
       "items": [
         {
           "titulo": "Empieza por los organizadores",
-          "texto": "Un organizador de escritorio mantiene esferos, lápices y tijeras a la mano y libera la superficie. Menos desorden, más concentración.",
+          "texto": "Un organizador de escritorio mantiene esferos, lápices, tijeras y resaltadores a la mano y libera la superficie de trabajo. Cuando cada cosa tiene su lugar, el estudiante deja de perder tiempo buscando y la mesa queda despejada para abrir cuadernos y libros. Menos desorden a la vista se traduce, casi siempre, en más concentración.",
           "ctaCategoria": "accesorios-de-escritorio-y-oficina",
           "ctaTexto": "Ver accesorios de escritorio"
         },
         {
           "titulo": "Clasifica los documentos",
-          "texto": "Carpetas y folders ayudan a separar materias y guardar trabajos sin que se arruguen. Cada asignatura en su carpeta y todo bajo control.",
+          "texto": "Carpetas, folders y separadores ayudan a dividir las materias y a guardar trabajos sin que se arruguen ni se pierdan. Cada asignatura en su carpeta y todo bajo control, listo para entregar cuando toque. Este sistema simple evita la angustia de buscar una hoja suelta entre el desorden la mañana de una entrega.",
           "ctaCategoria": "archivos-y-clasificacion",
           "ctaTexto": "Ver archivo y clasificación"
         },
         {
           "titulo": "Ten a mano lo que más usas",
-          "texto": "Esferos, resaltadores y notas adhesivas deben estar siempre cerca. Reponer estos básicos a tiempo evita interrupciones a mitad de tarea.",
+          "texto": "Esferos, resaltadores, lápices y notas adhesivas deben estar siempre cerca, en el primer cajón o en el organizador de la mesa. Reponer estos básicos a tiempo evita interrupciones justo cuando el estudiante está enfocado en una tarea. Tener una pequeña reserva en casa hace que nunca falte lo esencial a media tarde.",
           "ctaCategoria": "escritura",
           "ctaTexto": "Ver escritura"
         },
         {
           "titulo": "Suma un toque personal",
-          "texto": "Un portarretrato, una libreta bonita o un detalle que motive hacen que el estudiante quiera sentarse a estudiar. El gusto también ayuda a rendir.",
+          "texto": "Un portarretrato, una libreta bonita, un calendario o un detalle que motive hacen que el estudiante quiera sentarse a estudiar en su espacio. El gusto también ayuda a rendir: un escritorio que se siente propio invita a usarlo. Personalizarlo, sin recargarlo de distracciones, convierte la zona de estudio en un lugar al que da gusto volver.",
           "ctaCategoria": "papeles-y-blocks",
           "ctaTexto": "Ver papeles y blocks"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "La regla de los tres niveles: a la vista, a la mano, guardado",
+          "parrafos": [
+            "Una forma sencilla de mantener el orden es organizar los útiles en tres niveles según la frecuencia de uso. A la vista, sobre la mesa, va solo lo que se usa todos los días: el organizador con esferos y lápices, los resaltadores y las notas adhesivas. Nada más, para no recargar la superficie.",
+            "A la mano, en el primer cajón o en un estante cercano, va lo de uso frecuente pero no diario: las carpetas de las materias, la calculadora, la regla y el repuesto de escritura. Está cerca, pero no estorba mientras se estudia.",
+            "Guardado, en un cajón inferior o una caja, va lo ocasional: el material de arte, los cuadernos viejos que se conservan y los repuestos. Con este sistema, lo importante siempre está disponible y la mesa nunca se satura."
+          ]
+        },
+        {
+          "titulo": "Luz, postura y distracciones: el entorno también estudia",
+          "parrafos": [
+            "El mejor organizador no sirve de mucho si el entorno juega en contra. La luz es lo primero: idealmente luz natural de día y, de noche, una lámpara que ilumine el cuaderno sin reflejos. Una buena iluminación reduce el cansancio visual y ayuda a sostener la atención por más tiempo.",
+            "La postura importa igual. Una silla a la altura adecuada, con los pies apoyados y la pantalla o el cuaderno al nivel de los ojos, evita molestias de espalda y cuello en sesiones largas. Pequeños ajustes en la altura de la silla o la mesa hacen una gran diferencia.",
+            "Por último, las distracciones. Mantener el celular fuera del alcance durante los bloques de estudio y dejar sobre la mesa solo lo necesario para la tarea del momento ayuda al estudiante a entrar en foco más rápido y a quedarse ahí."
+          ]
+        }
+      ],
       "cierre": [
-        "Un escritorio organizado es una pequeña inversión que se nota en el rendimiento. Empieza por lo básico y ajusta según las necesidades de cada estudiante.",
+        "Un escritorio organizado es una pequeña inversión que se nota en el rendimiento. Empieza por lo básico, aplica la regla de los tres niveles y cuida la luz y la postura; el resto fluye solo.",
         "¿Quieres montar el espacio de estudio ideal? Escríbenos y te ayudamos a elegir los accesorios, con entrega a domicilio en Bogotá."
       ],
       "faq": [
         { "pregunta": "¿Qué accesorios necesito para un escritorio de estudio?", "respuesta": "Lo esencial es un organizador, carpetas para clasificar documentos y los útiles de escritura a la mano. A partir de ahí, ajustas según la edad y las materias." },
         { "pregunta": "¿Venden organizadores de escritorio?", "respuesta": "Sí, manejamos organizadores y accesorios de escritorio en varios formatos. Consúltanos disponibilidad por WhatsApp." },
-        { "pregunta": "¿Entregan a domicilio?", "respuesta": "Sí, en toda Bogotá. Coordinamos la entrega por WhatsApp." }
+        { "pregunta": "¿Entregan a domicilio?", "respuesta": "Sí, en toda Bogotá. Coordinamos la entrega por WhatsApp en el horario que te quede mejor." },
+        { "pregunta": "¿Cómo mantengo ordenado el escritorio con el tiempo?", "respuesta": "Aplica la regla de los tres niveles: a la vista solo lo diario, a la mano lo frecuente y guardado lo ocasional. Revísalo cada cierto tiempo para que no se acumule." },
+        { "pregunta": "¿Qué tan importante es la luz y la silla?", "respuesta": "Mucho. Buena luz reduce el cansancio visual y una silla a la altura correcta evita molestias de espalda en sesiones largas. El entorno influye tanto como el orden." }
       ],
       "categoriasRelacionadas": ["accesorios-de-escritorio-y-oficina", "archivos-y-clasificacion", "escritura"]
     },
@@ -323,43 +449,64 @@
       "heroCategoria": "papeles-y-blocks",
       "lead": "Para que no se te escape nada, aquí tienes el checklist de papelería esencial de la vuelta a clases. Revísalo categoría por categoría y marca lo que ya tienes.",
       "intro": [
-        "Las listas del colegio varían, pero hay una base de papelería que se repite en casi todas. Tener este checklist a la mano te ayuda a comprar de forma ordenada y sin olvidos.",
-        "Recórrelo por bloques: escritura, cuadernos y papel, archivo y arte. Así te aseguras de cubrir todas las áreas."
+        "Las listas del colegio varían de un grado a otro, pero hay una base de papelería que se repite en casi todas. Tener este checklist a la mano te ayuda a comprar de forma ordenada, sin olvidos ni compras repetidas.",
+        "La ventaja de revisar por bloques es que evitas el clásico 'se me olvidó algo' que aparece justo el primer día. Cada bloque cubre un área distinta, y al ir marcando vas viendo con claridad qué tienes y qué falta.",
+        "Recórrelo por secciones: escritura, cuadernos y papel, archivo y arte. Así te aseguras de cubrir todas las áreas y de armar la lista completa en una sola pasada."
       ],
       "items": [
         {
           "titulo": "Escritura básica",
-          "texto": "Esferos negros, azules y rojos, lápices, borrador, tajalápiz, resaltadores y regla. Es la base de cualquier lista, de primaria a bachillerato.",
+          "texto": "Esferos negros, azules y rojos, lápices, borrador, tajalápiz, sacapuntas, resaltadores y regla. Es la base de cualquier lista, de primaria a bachillerato, y lo que más se repone durante el año. Conviene comprar un lote inicial y dejar una pequeña reserva en casa para no quedarte sin lo esencial a mitad de semestre.",
           "ctaCategoria": "escritura",
           "ctaTexto": "Ver escritura"
         },
         {
           "titulo": "Cuadernos y papel",
-          "texto": "Cuadernos por materia, block, papel y notas adhesivas. Define cuántos cuadernos pide el colegio y de cuántas hojas para no quedarte corto.",
+          "texto": "Cuadernos por materia, block, papel, hojas de examen y notas adhesivas. Define cuántos cuadernos pide el colegio y de cuántas hojas para no quedarte corto ni comprar de más. Es el bloque que más se agota en temporada, así que es buena idea asegurarlo temprano y confirmar si los piden cosidos o argollados.",
           "ctaCategoria": "papeles-y-blocks",
           "ctaTexto": "Ver papeles y blocks"
         },
         {
           "titulo": "Archivo y organización",
-          "texto": "Carpetas, folders, sobres y separadores para mantener los trabajos en orden durante todo el año. Indispensables en bachillerato.",
+          "texto": "Carpetas, folders, sobres, separadores y ganchos legajadores para mantener los trabajos en orden durante todo el año. Son indispensables en bachillerato, donde se entregan informes y talleres con frecuencia. Baratos y de larga duración, conviene tenerlos listos desde el inicio para no improvisar la noche antes de una entrega.",
           "ctaCategoria": "archivos-y-clasificacion",
           "ctaTexto": "Ver archivo y clasificación"
         },
         {
           "titulo": "Arte y manualidades",
-          "texto": "Colores, témperas, plastilina, tijeras y pegante para la clase de artística. Más presentes en preescolar y primaria.",
+          "texto": "Colores, témperas, plastilina, fomi, tijeras de punta roma y pegante para la clase de artística. Más presentes en preescolar y primaria, donde el arte es parte del día a día. Revisa qué pide exactamente el colegio, porque algunos materiales se piden por cantidad para proyectos grupales y conviene coordinarlos con tiempo.",
           "ctaCategoria": "pintar",
           "ctaTexto": "Ver artículos para pintar"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "Cómo leer la lista del colegio sin enredarte",
+          "parrafos": [
+            "Las listas del colegio a veces vienen con términos que confunden o con marcas sugeridas que parecen obligatorias. Lo primero es separar lo que es una especificación real —tipo de cuaderno, número de hojas, cantidad— de lo que es solo una sugerencia de marca. En la mayoría de los casos, una referencia equivalente de buena calidad cumple igual.",
+            "Presta atención a las cantidades y a los detalles técnicos: si pide cuaderno cuadriculado o de raya, cosido o argollado, de 50 o 100 hojas. Esos datos evitan devoluciones y compras repetidas. Anótalos al lado de cada renglón para tenerlos claros al momento de cotizar.",
+            "Si algo en la lista no queda claro, no adivines: pregunta en el colegio o en el grupo de papás. Una duda resuelta a tiempo te ahorra comprar dos veces el mismo cuaderno por un malentendido."
+          ]
+        },
+        {
+          "titulo": "Qué comprar ya y qué dejar para reponer",
+          "parrafos": [
+            "No todo el checklist tiene la misma urgencia. Conviene comprar de inmediato lo que más se agota y lo que no caduca: cuadernos, papel, blocks y todo lo de archivo. Asegurar estos renglones temprano te protege de los agotados y los sobreprecios de la última semana.",
+            "Lo que se consume durante el año —esferos, lápices, resaltadores, pegante— puedes comprarlo en un lote inicial y reponerlo después. Así distribuyes el gasto y no inmovilizas todo el presupuesto en el primer mes.",
+            "El material de arte merece atención aparte: revisa si el colegio lo pide para una fecha específica o por proyectos. Algunos materiales se usan solo en ciertos momentos del año, así que no hace falta tenerlos todos desde el primer día."
+          ]
+        }
+      ],
       "cierre": [
-        "Con este checklist como guía, armar la lista se vuelve cuestión de ir marcando. Lo que te falte, lo completamos nosotros.",
-        "Envíanos tu checklist o la lista del colegio por WhatsApp y te lo entregamos completo a domicilio en Bogotá."
+        "Con este checklist como guía, armar la lista se vuelve cuestión de ir marcando por bloques. Compra primero lo urgente, deja para reponer lo que se consume, y lo que te falte lo completamos nosotros.",
+        "Envíanos tu checklist o la lista del colegio por WhatsApp y te lo entregamos completo a domicilio en Bogotá, en una sola entrega."
       ],
       "faq": [
         { "pregunta": "¿Tienen todo lo de este checklist?", "respuesta": "Sí, cubrimos escritura, cuadernos, papel, archivo y arte. Si falta una referencia exacta, te ofrecemos una equivalente de la misma calidad." },
-        { "pregunta": "¿Puedo enviarles mi propia lista?", "respuesta": "Claro. Envíanos la lista del colegio por WhatsApp y te la cotizamos completa." },
-        { "pregunta": "¿Cuánto tarda la entrega?", "respuesta": "Depende de tu zona y la hora del pedido; muchas veces entregamos el mismo día. Te confirmamos al pedir." }
+        { "pregunta": "¿Puedo enviarles mi propia lista?", "respuesta": "Claro. Envíanos la lista del colegio por WhatsApp y te la cotizamos completa, respetando las cantidades y especificaciones." },
+        { "pregunta": "¿Cuánto tarda la entrega?", "respuesta": "Depende de tu zona y la hora del pedido; muchas veces entregamos el mismo día. Te confirmamos al pedir." },
+        { "pregunta": "¿Es obligatorio comprar la marca que sugiere el colegio?", "respuesta": "Casi nunca. La marca suele ser una sugerencia; una referencia equivalente de buena calidad cumple igual, salvo que la lista indique algo muy específico." },
+        { "pregunta": "¿Qué del checklist conviene comprar primero?", "respuesta": "Primero lo que más se agota y no caduca: cuadernos, papel, blocks y archivo. La escritura y el arte puedes irlos completando o reponiendo durante el año." }
       ],
       "categoriasRelacionadas": ["papeles-y-blocks", "escritura", "archivos-y-clasificacion"]
     },
@@ -374,43 +521,64 @@
       "heroCategoria": "pintar",
       "lead": "La clase de artística es de las favoritas de los niños, y con los materiales correctos las manualidades quedan mucho mejor. Aquí van ideas y los infaltables del kit de arte.",
       "intro": [
-        "Las manualidades estimulan la creatividad y la motricidad, sobre todo en preescolar y primaria. Pero todo proyecto sale mejor cuando se tienen los materiales adecuados a la mano.",
-        "Te dejamos ideas sencillas y la lista de materiales que conviene tener listos para cualquier tarea de arte que manden del colegio."
+        "Las manualidades estimulan la creatividad, la motricidad fina y la paciencia, sobre todo en preescolar y primaria. Pero todo proyecto sale mejor cuando se tienen los materiales adecuados a la mano y no toca improvisar a última hora.",
+        "Tener un kit de arte básico en casa cambia la experiencia: el niño puede sentarse a crear sin que cada tarea de artística se convierta en una salida de emergencia a la papelería. Y cuando los materiales son de buena calidad, los resultados motivan a seguir.",
+        "Te dejamos ideas sencillas y la lista de materiales que conviene tener listos para cualquier tarea de arte que manden del colegio, desde una cartelera hasta una figura en plastilina."
       ],
       "items": [
         {
           "titulo": "El kit de pintura básico",
-          "texto": "Témperas, pinceles, acuarelas y una paleta abren la puerta a mil proyectos. Materiales con buena pigmentación hacen que los trabajos luzcan.",
+          "texto": "Témperas, pinceles de distintos grosores, acuarelas y una paleta abren la puerta a mil proyectos. Materiales con buena pigmentación hacen que los trabajos luzcan y que los colores no queden aguados. Un kit básico bien elegido rinde todo el año y sirve tanto para carteleras como para dibujos libres y tareas de artística.",
           "ctaCategoria": "pintar",
           "ctaTexto": "Ver artículos para pintar"
         },
         {
           "titulo": "Plastilina y fomi para crear en 3D",
-          "texto": "La plastilina y el fomi son protagonistas de las manualidades escolares. Sirven para figuras, carteleras y proyectos que piden volumen y color.",
+          "texto": "La plastilina y el fomi son protagonistas de las manualidades escolares porque permiten crear en volumen y con color. Sirven para figuras, maquetas, carteleras y proyectos que piden textura. La plastilina trabaja la motricidad de los más pequeños, y el fomi, fácil de cortar y pegar, resuelve casi cualquier decoración o letrero.",
           "ctaCategoria": "utiles-escolares",
           "ctaTexto": "Ver útiles escolares"
         },
         {
           "titulo": "Colores y marcadores",
-          "texto": "Una buena caja de colores y marcadores resuelve dibujos, carteleras y tareas creativas. Rinden todo el año si son de calidad.",
+          "texto": "Una buena caja de colores y marcadores resuelve dibujos, carteleras y tareas creativas durante todo el año. Si son de calidad, rinden y no se secan a las pocas semanas. Conviene tener colores de madera para el trabajo fino y marcadores para los títulos y los rellenos grandes, así se cubren todas las necesidades de la clase.",
           "ctaCategoria": "escritura",
           "ctaTexto": "Ver escritura"
         },
         {
           "titulo": "Tijeras y pegante, los aliados",
-          "texto": "Ninguna manualidad se arma sin tijeras y pegante. Para los más pequeños, tijeras de punta roma que recortan seguro.",
+          "texto": "Ninguna manualidad se arma sin tijeras y pegante, los aliados de toda tarea de artística. Para los más pequeños, conviene tijeras de punta roma que recortan seguro, y un pegante en barra que no ensucie. Tener silicona líquida o colbón a la mano resuelve los proyectos que piden más resistencia, como las maquetas.",
           "ctaCategoria": "utiles-escolares",
           "ctaTexto": "Ver tijeras y pegantes"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "Tres manualidades fáciles para empezar",
+          "parrafos": [
+            "Para arrancar sin complicaciones, un clásico que nunca falla es la cartelera temática: una cartulina, títulos en fomi, dibujos con marcadores y unos detalles en escarcha. Es ideal para exposiciones y permite que el niño practique composición y orden sin necesidad de materiales raros.",
+            "Otra opción es la figura en plastilina o porcelanicrón: animales, frutas o personajes que trabajan la motricidad fina y la paciencia. Solo necesitas plastilina de varios colores y una superficie para amasar; es perfecta para los más pequeños.",
+            "Y para sumar textura, el collage con papel y fomi: recortar formas, combinarlas y pegarlas sobre una base. Con tijeras de punta roma, pegante en barra y retazos de colores, los niños arman composiciones vistosas mientras practican el recorte y la combinación de colores."
+          ]
+        },
+        {
+          "titulo": "Cómo guardar y cuidar los materiales de arte",
+          "parrafos": [
+            "Los materiales de arte duran más con un poco de cuidado. Las témperas y los pegantes deben quedar bien cerrados después de cada uso para que no se sequen, y conviene guardarlos en posición vertical para evitar derrames dentro del cajón.",
+            "Los pinceles se conservan si se lavan apenas se termina de pintar y se dejan secar con las cerdas hacia arriba o de lado, nunca apoyados sobre la punta. Un pincel bien cuidado mantiene su forma y rinde temporada tras temporada.",
+            "Para el resto del kit, una caja o un organizador por tipo de material —pintura, papel, pegado— evita que todo se revuelva y que los proyectos empiecen con una búsqueda. Tener el material ordenado y a la mano es lo que hace que la próxima manualidad sea un momento divertido y no un dolor de cabeza."
+          ]
+        }
+      ],
       "cierre": [
-        "Con un buen kit de arte, las manualidades dejan de ser un dolor de cabeza y se vuelven un momento divertido para los niños.",
+        "Con un buen kit de arte y un par de ideas a la mano, las manualidades dejan de ser un dolor de cabeza y se vuelven un momento divertido para los niños. Cuida los materiales y te durarán todo el año.",
         "Arma tu kit de manualidades con nosotros y te lo entregamos a domicilio en Bogotá, listo para el próximo proyecto."
       ],
       "faq": [
-        { "pregunta": "¿Qué materiales necesito para la clase de artística?", "respuesta": "Lo básico es témperas, pinceles, colores, plastilina, tijeras y pegante. Según el proyecto se suman fomi, cartulina y marcadores." },
-        { "pregunta": "¿Las tijeras son seguras para niños?", "respuesta": "Manejamos tijeras de punta roma diseñadas para que los más pequeños recorten con seguridad." },
-        { "pregunta": "¿Tienen sets de pintura completos?", "respuesta": "Sí, manejamos sets de pintura con paleta y pincel en distintas presentaciones. Consúltanos por WhatsApp." }
+        { "pregunta": "¿Qué materiales necesito para la clase de artística?", "respuesta": "Lo básico es témperas, pinceles, colores, plastilina, tijeras y pegante. Según el proyecto se suman fomi, cartulina, escarcha y marcadores." },
+        { "pregunta": "¿Las tijeras son seguras para niños?", "respuesta": "Manejamos tijeras de punta roma diseñadas para que los más pequeños recorten con seguridad y comodidad." },
+        { "pregunta": "¿Tienen sets de pintura completos?", "respuesta": "Sí, manejamos sets de pintura con paleta y pincel en distintas presentaciones. Consúltanos por WhatsApp." },
+        { "pregunta": "¿Cómo evito que las témperas y pinceles se dañen?", "respuesta": "Cierra bien las témperas después de usarlas, guárdalas en vertical y lava los pinceles apenas termines, dejándolos secar sin apoyarlos sobre la punta." },
+        { "pregunta": "¿Qué manualidad sencilla puedo hacer con lo básico?", "respuesta": "Una cartelera temática con cartulina, fomi y marcadores, o una figura en plastilina. Ambas usan materiales básicos y son ideales para empezar." }
       ],
       "categoriasRelacionadas": ["pintar", "utiles-escolares", "escritura"]
     },
@@ -425,43 +593,64 @@
       "heroCategoria": "decoracion-de-fiesta",
       "lead": "El cierre del año escolar merece una celebración. Con un poco de decoración y los desechables correctos, el salón se transforma para una despedida o fiesta de grado inolvidable.",
       "intro": [
-        "Las fiestas de fin de año y los grados son momentos especiales para los niños. Organizar la celebración del salón no tiene que ser complicado ni costoso.",
-        "Con decoración sencilla, desechables prácticos y unos dulces, cualquier salón queda listo para festejar. Aquí van las ideas básicas."
+        "Las fiestas de fin de año y los grados son momentos especiales para los niños, el cierre de un año de esfuerzo y de amistades. Organizar la celebración del salón no tiene que ser complicado ni costoso si se planea con tiempo.",
+        "La clave está en repartir las tareas y elegir bien los básicos: una decoración sencilla pero vistosa, desechables que faciliten la repartición y unos dulces que alegren a los niños. Con eso, cualquier salón queda listo para festejar.",
+        "Aquí van las ideas esenciales y cómo coordinarlas entre varios papás para que la celebración salga bonita sin que recaiga todo sobre una sola familia."
       ],
       "items": [
         {
           "titulo": "Decoración que transforma el salón",
-          "texto": "Globos, guirnaldas y manteles de color cambian por completo el ambiente del salón. Poco esfuerzo, gran efecto para las fotos del recuerdo.",
+          "texto": "Globos, guirnaldas, banderines y manteles de color cambian por completo el ambiente del salón con poco esfuerzo. Un arco de globos en la entrada o detrás de la mesa principal es un golpe de efecto perfecto para las fotos del recuerdo. La decoración es lo que más se nota y, bien elegida, no tiene por qué ser cara.",
           "ctaCategoria": "decoracion-de-fiesta",
           "ctaTexto": "Ver decoración de fiesta"
         },
         {
           "titulo": "Desechables prácticos",
-          "texto": "Platos, vasos y servilletas desechables facilitan la repartición y la limpieza. Ideales para compartir torta y refrigerio sin enredos.",
+          "texto": "Platos, vasos, servilletas y manteles desechables facilitan la repartición de la torta y el refrigerio, y hacen que la limpieza al final sea cuestión de minutos. Son ideales para compartir sin enredos en un espacio como el salón, donde no hay cocina. Elige cantidades con un poco de margen para no quedarte corto.",
           "ctaCategoria": "desechables",
           "ctaTexto": "Ver desechables"
         },
         {
           "titulo": "Dulces y confitería",
-          "texto": "Una mesa de dulces siempre alegra a los niños. La confitería es el toque final que vuelve memorable cualquier celebración escolar.",
+          "texto": "Una mesa de dulces siempre alegra a los niños y es el centro de atención de cualquier celebración escolar. La confitería —gomas, chocolates, mensajes— es el toque final que vuelve memorable la fiesta. Puedes armar bolsitas individuales para entregar al final, así cada niño se lleva su recuerdo a casa.",
           "ctaCategoria": "confiteria",
           "ctaTexto": "Ver confitería"
         },
         {
           "titulo": "Detalles temáticos",
-          "texto": "Si el grupo quiere un tema, los artículos de fiestas temáticas ayudan a darle identidad a la celebración. Un hilo conductor que une todo.",
+          "texto": "Si el grupo quiere un tema —un personaje, un color, una temporada—, los artículos de fiestas temáticas ayudan a darle identidad y un hilo conductor a la celebración. Un tema unifica la decoración, los desechables y hasta los dulces, y hace que todo se vea pensado y coherente en las fotos. No hace falta mucho, solo elegir bien.",
           "ctaCategoria": "fiestas-tematicas",
           "ctaTexto": "Ver fiestas temáticas"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "Organizar la celebración entre varios papás",
+          "parrafos": [
+            "La forma más fácil de que una celebración de salón salga bien sin agotar a nadie es repartir las tareas. Arma una lista corta —decoración, desechables, torta, dulces, refrigerio— y asigna cada renglón a una familia o grupo de familias. Así nadie carga con todo y los costos se distribuyen de forma justa.",
+            "Define con anticipación un presupuesto por niño y comunícalo claro en el grupo del curso. Cuando todos saben cuánto se aporta y para qué, la coordinación fluye y se evitan los malentendidos de última hora.",
+            "Una sola persona puede encargarse de consolidar el pedido de decoración, desechables y dulces para conseguir mejor precio por volumen y una única entrega a domicilio. Es más económico y mucho más cómodo que comprar cada cosa por separado."
+          ]
+        },
+        {
+          "titulo": "Una decoración temática sencilla paso a paso",
+          "parrafos": [
+            "Empieza por elegir dos o tres colores base, idealmente los del tema o los del colegio. Esa paleta guía todo: globos, manteles, servilletas y banderines en esos colores hacen que el salón se vea coordinado sin esfuerzo y sin gastar de más.",
+            "El punto focal es lo que más rinde: concentra la decoración en un solo lugar, como la pared detrás de la mesa de la torta. Un arco de globos, un banner con el nombre del curso y unas guirnaldas bastan para crear el fondo perfecto para las fotos grupales.",
+            "Remata con los detalles sobre la mesa: mantel del color elegido, platos y vasos a juego, y las bolsitas de dulces como decoración y recuerdo a la vez. Con un par de horas de montaje, el salón queda transformado y listo para celebrar."
+          ]
+        }
+      ],
       "cierre": [
-        "Celebrar el fin de año escolar es premiar el esfuerzo de todo un año. Con estos básicos, la fiesta del salón queda lista sin estrés.",
-        "¿Organizas la celebración del curso? Escríbenos y te ayudamos con la decoración, los desechables y los dulces, a domicilio en Bogotá."
+        "Celebrar el fin de año escolar es premiar el esfuerzo de todo un año. Con estos básicos y un poco de coordinación entre papás, la fiesta del salón queda lista sin estrés y sin que recaiga sobre una sola familia.",
+        "¿Organizas la celebración del curso? Escríbenos y te ayudamos con la decoración, los desechables y los dulces, a domicilio en Bogotá y en un solo pedido."
       ],
       "faq": [
-        { "pregunta": "¿Tienen todo para una fiesta de salón?", "respuesta": "Sí, manejamos decoración, desechables, confitería y artículos de fiestas temáticas para armar la celebración completa." },
-        { "pregunta": "¿Puedo pedir por cantidad para todo el curso?", "respuesta": "Claro, atendemos pedidos por cantidad para celebraciones de salón. Pídenos una cotización por WhatsApp." },
-        { "pregunta": "¿Entregan a domicilio en Bogotá?", "respuesta": "Sí, en toda la ciudad. Coordinamos la entrega por WhatsApp con anticipación." }
+        { "pregunta": "¿Tienen todo para una fiesta de salón?", "respuesta": "Sí, manejamos decoración, desechables, confitería y artículos de fiestas temáticas para armar la celebración completa en un solo pedido." },
+        { "pregunta": "¿Puedo pedir por cantidad para todo el curso?", "respuesta": "Claro, atendemos pedidos por cantidad para celebraciones de salón. Pídenos una cotización por WhatsApp y conseguimos mejor precio por volumen." },
+        { "pregunta": "¿Entregan a domicilio en Bogotá?", "respuesta": "Sí, en toda la ciudad. Coordinamos la entrega por WhatsApp con anticipación para que llegue a tiempo el día de la celebración." },
+        { "pregunta": "¿Cómo coordino la compra entre varias familias?", "respuesta": "Reparte los renglones —decoración, desechables, torta, dulces— entre familias y deja que una sola persona consolide el pedido. Sale más económico y llega en una entrega." },
+        { "pregunta": "¿Cómo logro una decoración bonita sin gastar mucho?", "respuesta": "Elige dos o tres colores base y concentra la decoración en un punto focal, como la pared de la torta. Un arco de globos y unos banderines rinden muchísimo en las fotos." }
       ],
       "categoriasRelacionadas": ["decoracion-de-fiesta", "desechables", "confiteria"]
     },
@@ -476,43 +665,64 @@
       "heroCategoria": "utiles-escolares",
       "lead": "Comprar útiles a domicilio dejó de ser un lujo para volverse la opción más práctica. Te ahorra tiempo, filas y vueltas, sobre todo en plena temporada escolar.",
       "intro": [
-        "La temporada escolar coincide con papelerías llenas, filas largas y referencias agotadas. Pedir a domicilio le da la vuelta a todo eso desde la comodidad de tu casa.",
-        "Estas son las razones por las que cada vez más familias en Bogotá prefieren armar la lista del colegio en línea y recibirla en la puerta."
+        "La temporada escolar coincide con papelerías llenas, filas largas y referencias agotadas. Pedir a domicilio le da la vuelta a todo eso desde la comodidad de tu casa, sin pelear con multitudes ni con el tráfico.",
+        "Más allá de la comodidad, comprar la lista en línea te da control: revisas opciones con calma, comparas precios y armas todo el pedido sin la presión de un mostrador lleno de gente esperando su turno.",
+        "Estas son las razones por las que cada vez más familias en Bogotá prefieren armar la lista del colegio en línea y recibirla en la puerta, junto con cómo hacerlo paso a paso."
       ],
       "items": [
         {
           "titulo": "Te ahorras las filas",
-          "texto": "En temporada, las papelerías se llenan. Pedir a domicilio te evita las filas y el caos de comprar a última hora con todo el mundo buscando lo mismo.",
+          "texto": "En temporada, las papelerías se llenan y las filas se vuelven eternas. Pedir a domicilio te evita el caos de comprar a última hora con todo el mundo buscando lo mismo, y la frustración de llegar al mostrador para que justo se haya agotado lo que querías. Compras desde casa, a tu ritmo y sin aglomeraciones.",
           "ctaCategoria": "utiles-escolares",
           "ctaTexto": "Ver útiles escolares"
         },
         {
           "titulo": "Todo en una sola entrega",
-          "texto": "En lugar de recorrer varias tiendas buscando referencias, reúnes toda la lista en un solo pedido que llega junto a tu casa.",
+          "texto": "En lugar de recorrer varias tiendas buscando referencias que no siempre están, reúnes toda la lista en un solo pedido que llega junto a tu casa. Una sola cotización, un solo pago y una sola entrega con todo adentro. Es la forma más simple de resolver la lista completa del colegio sin dejar nada pendiente para después.",
           "ctaCategoria": "papeles-y-blocks",
           "ctaTexto": "Ver papeles y blocks"
         },
         {
           "titulo": "Comparas precios con calma",
-          "texto": "Comprar desde casa te deja revisar opciones y precios sin presión, para elegir mejor y ajustar el presupuesto.",
+          "texto": "Comprar desde casa te deja revisar opciones y precios sin presión, comparar referencias y ajustar el pedido al presupuesto. Sin la prisa del mostrador, eliges mejor y evitas las compras impulsivas que suelen colarse cuando uno está de afán en la tienda. La calma se traduce en decisiones más inteligentes para el bolsillo.",
           "ctaCategoria": "escritura",
           "ctaTexto": "Ver escritura"
         },
         {
           "titulo": "Ahorras tiempo y transporte",
-          "texto": "El tiempo y el transporte también cuestan. Pedir a domicilio concentra la compra y te deja libre para otras cosas.",
+          "texto": "El tiempo y el transporte también cuestan, y recorrer varias papelerías se lleva una mañana entera más los pasajes. Pedir a domicilio concentra la compra en un solo movimiento y te deja libre para otras cosas. Ese tiempo recuperado, sumado al ahorro en transporte, hace que el domicilio salga a cuenta más veces de las que uno cree.",
           "ctaCategoria": "morrales-y-loncheras",
           "ctaTexto": "Ver morrales y loncheras"
         }
       ],
+      "secciones": [
+        {
+          "titulo": "Cómo enviar la lista del colegio por WhatsApp (paso a paso)",
+          "parrafos": [
+            "Pedir a domicilio es más sencillo de lo que parece. El primer paso es tener la lista a la mano: puedes enviarnos una foto de la lista del colegio, escribirla en el chat o ir agregando productos desde el catálogo del sitio. Cualquiera de las tres opciones funciona.",
+            "Con la lista recibida, confirmamos disponibilidad, te indicamos las equivalencias si alguna referencia exacta no está, y te pasamos el total con todo incluido. Ahí puedes ajustar cantidades, quitar lo que ya tienes o sumar algo que falte, todo por el mismo chat.",
+            "Cuando apruebas la cotización, coordinamos la dirección, la fecha y la hora de entrega. Recibes el pedido completo en tu casa, revisas que esté todo y listo: la lista del colegio resuelta sin salir de casa."
+          ]
+        },
+        {
+          "titulo": "Domicilio en temporada: qué tener en cuenta",
+          "parrafos": [
+            "En plena temporada escolar la demanda sube, así que el mejor consejo es pedir con anticipación. Hacer la cotización una o dos semanas antes del inicio de clases asegura disponibilidad y te da margen para que la entrega llegue antes del primer día, sin afanes.",
+            "Ten lista la dirección completa y un horario en el que haya alguien para recibir. Esos detalles agilizan la coordinación y evitan reprogramaciones. Si vives en conjunto o edificio, avisar en portería también ayuda a que la entrega sea rápida.",
+            "Y si te preocupa que algo se agote, puedes reservar. Al apartar las referencias clave con tiempo, te aseguras de conseguir justo lo que necesitas aunque sea temporada alta, con la tranquilidad de recibirlo en la puerta de tu casa."
+          ]
+        }
+      ],
       "cierre": [
-        "Pedir los útiles a domicilio es la forma más cómoda e inteligente de resolver la lista del colegio, especialmente en temporada alta.",
-        "Arma tu pedido y escríbenos por WhatsApp: nosotros te lo llevamos a tu casa en Bogotá."
+        "Pedir los útiles a domicilio es la forma más cómoda e inteligente de resolver la lista del colegio, especialmente en temporada alta. Ahorras filas, tiempo y transporte, y recibes todo en una sola entrega.",
+        "Arma tu pedido y escríbenos por WhatsApp: nosotros te lo llevamos a tu casa en Bogotá, a la hora que mejor te quede."
       ],
       "faq": [
-        { "pregunta": "¿Cómo pido mis útiles a domicilio?", "respuesta": "Explora el catálogo, arma tu lista y escríbenos por WhatsApp. Confirmamos disponibilidad, precio total y dirección de entrega." },
+        { "pregunta": "¿Cómo pido mis útiles a domicilio?", "respuesta": "Explora el catálogo, arma tu lista o envíanos una foto de la lista del colegio por WhatsApp. Confirmamos disponibilidad, precio total y dirección de entrega." },
         { "pregunta": "¿En cuánto tiempo llega el pedido?", "respuesta": "Depende de tu zona y la hora del pedido; en muchos casos entregamos el mismo día. Te confirmamos el tiempo al pedir." },
-        { "pregunta": "¿Tiene costo el domicilio?", "respuesta": "El costo depende de tu dirección dentro de Bogotá. Te lo confirmamos al coordinar el pedido por WhatsApp." }
+        { "pregunta": "¿Tiene costo el domicilio?", "respuesta": "El costo depende de tu dirección dentro de Bogotá. Te lo confirmamos al coordinar el pedido por WhatsApp, antes de que apruebes." },
+        { "pregunta": "¿Puedo enviar una foto de la lista en lugar de escribirla?", "respuesta": "Sí. Puedes enviarnos una foto de la lista del colegio y nosotros la transcribimos y cotizamos completa por ti." },
+        { "pregunta": "¿Qué pasa si una referencia está agotada?", "respuesta": "Te avisamos y te ofrecemos una equivalente de la misma calidad. Y si quieres asegurar algo específico, puedes reservarlo con anticipación." }
       ],
       "categoriasRelacionadas": ["utiles-escolares", "escritura", "papeles-y-blocks"]
     }

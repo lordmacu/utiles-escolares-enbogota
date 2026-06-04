@@ -224,6 +224,24 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
             ))}
           </div>
 
+          {/* Secciones de fondo */}
+          {post.secciones && post.secciones.length > 0 && (
+            <div className="mt-12 space-y-10">
+              {post.secciones.map((sec, i) => (
+                <section key={i}>
+                  <h2 className="mb-4 font-display text-2xl font-bold leading-snug text-[var(--color-ink)] sm:text-3xl">
+                    {sec.titulo}
+                  </h2>
+                  <div className="space-y-4">
+                    {sec.parrafos.map((par, j) => (
+                      <p key={j} className="text-lg leading-relaxed text-[var(--color-ink-soft)]">{par}</p>
+                    ))}
+                  </div>
+                </section>
+              ))}
+            </div>
+          )}
+
           {/* Cierre */}
           <div className="mt-10 space-y-4">
             {post.cierre.map((p, i) => (

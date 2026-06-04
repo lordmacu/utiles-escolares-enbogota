@@ -30,6 +30,8 @@ export interface Post {
   lead: string;
   intro: string[];
   items: BlogItem[];
+  /** Secciones de fondo (prosa multi-párrafo) para dar profundidad editorial/SEO. */
+  secciones?: { titulo: string; parrafos: string[] }[];
   cierre: string[];
   faq: { pregunta: string; respuesta: string }[];
   categoriasRelacionadas: string[];
