@@ -65,14 +65,24 @@ export const metadata: Metadata = {
 
 const storeLd = {
   "@context": "https://schema.org",
-  "@type": "Store",
+  "@type": ["Store", "OnlineStore"],
   "@id": `${SITE_URL}/#store`,
   inLanguage: "es-CO",
   name: SITE_NAME,
   url: SITE_URL,
   logo: `${SITE_URL}/icon.svg`,
+  image: `${SITE_URL}/icon.svg`,
   description: config.descripcion,
   slogan: config.tagline,
+  knowsAbout: [
+    "útiles escolares",
+    "papelería",
+    "lista de útiles escolares",
+    "cuadernos",
+    "morrales y loncheras",
+    "regreso a clases",
+    "papelería al por mayor",
+  ],
   address: {
     "@type": "PostalAddress",
     addressLocality: "Bogotá",
@@ -93,7 +103,28 @@ const storeLd = {
       closes: "19:00",
     },
   ],
-  sameAs: [`https://instagram.com/${config.instagram}`],
+  sameAs: [
+    `https://instagram.com/${config.instagram}`,
+    `https://facebook.com/${config.facebook}`,
+  ],
+};
+
+const websiteLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": `${SITE_URL}/#website`,
+  name: SITE_NAME,
+  url: SITE_URL,
+  inLanguage: "es-CO",
+  publisher: { "@id": `${SITE_URL}/#store` },
+  potentialAction: {
+    "@type": "SearchAction",
+    target: {
+      "@type": "EntryPoint",
+      urlTemplate: `${SITE_URL}/productos?q={search_term_string}`,
+    },
+    "query-input": "required name=search_term_string",
+  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
@@ -101,7 +132,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="es" className={`${jakarta.variable} ${inter.variable}`}>
       <body className="flex min-h-screen flex-col" suppressHydrationWarning>
-        <JsonLd data={storeLd} />
+        <JsonLd data={[storeLd, websiteLd]} />
         <CartProvider>
           <Header navSubs={navSubs} />
           <main className="flex-1">{children}</main>
