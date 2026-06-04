@@ -51,6 +51,8 @@ export function Footer() {
               <li><Link href="/" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Inicio</Link></li>
               <li><Link href="/productos" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Todos los productos</Link></li>
               <li><Link href="/categorias" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Categorías</Link></li>
+              <li><Link href="/blog" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Blog</Link></li>
+              <li><Link href="/guias" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Guías</Link></li>
               <li><Link href="/carrito" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Mi carrito</Link></li>
             </ul>
           </div>
