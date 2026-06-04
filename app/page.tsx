@@ -162,9 +162,11 @@ export default function HomePage() {
       {/* CTA band */}
       <section className="bg-[var(--color-primary)]">
         <div className="mx-auto flex max-w-7xl flex-col items-center gap-5 px-4 py-14 text-center sm:px-6 lg:px-8">
-          <h2 className="font-display text-2xl font-extrabold text-white text-balance sm:text-3xl">
-            ¿Tienes la lista escolar a la mano?
-          </h2>
+          <Link href="/categorias/utiles-escolares" className="transition-opacity hover:opacity-90">
+            <h2 className="font-display text-2xl font-extrabold text-white text-balance underline-offset-4 hover:underline sm:text-3xl">
+              ¿Tienes la lista escolar a la mano?
+            </h2>
+          </Link>
           <p className="max-w-xl text-white/80">
             Arma tu pedido con los productos que necesitas y confírmalo por WhatsApp. Nosotros nos encargamos del resto.
           </p>
