@@ -1,8 +1,25 @@
 import Link from "next/link";
 import { Logo } from "@/components/Logo";
 import { CATEGORIAS } from "@/lib/categorias";
+import { BARRIOS } from "@/lib/landings";
 import { waLink } from "@/lib/site";
 import config from "@/data/config.json";
+
+// Landings SEO destacadas para el enlazado interno desde el footer.
+const MAS_BUSCADOS: { label: string; slug: string }[] = [
+  { label: "Útiles a domicilio", slug: "utiles-escolares-a-domicilio-bogota" },
+  { label: "Papelería a domicilio", slug: "papeleria-a-domicilio-bogota" },
+  { label: "Útiles baratos", slug: "utiles-escolares-baratos-bogota" },
+  { label: "Al por mayor", slug: "utiles-escolares-al-por-mayor-bogota" },
+  { label: "Lista de útiles", slug: "lista-de-utiles-escolares" },
+  { label: "Preescolar", slug: "utiles-escolares-preescolar" },
+  { label: "Primaria", slug: "utiles-escolares-primaria" },
+  { label: "Bachillerato", slug: "utiles-escolares-bachillerato" },
+  { label: "Cuadernos", slug: "cuadernos-escolares-bogota" },
+  { label: "Morrales y loncheras", slug: "morrales-y-loncheras-escolares-bogota" },
+  { label: "Colores y pinturas", slug: "colores-y-pinturas-escolares-bogota" },
+  { label: "Kit escolar", slug: "kit-escolar-completo-bogota" },
+];
 
 export function Footer() {
   const year = 2026;
@@ -63,6 +80,38 @@ export function Footer() {
                 </a>
               </li>
             </ul>
+          </div>
+        </div>
+
+        {/* Enlaces SEO: landings (más buscados + cobertura por zona) */}
+        <div className="mt-12 space-y-6 border-t border-[var(--color-line)] pt-8">
+          <div>
+            <h3 className="font-display text-sm font-bold uppercase tracking-wide text-[var(--color-ink)]">Más buscados</h3>
+            <div className="mt-3 flex flex-wrap gap-2">
+              {MAS_BUSCADOS.map((l) => (
+                <Link
+                  key={l.slug}
+                  href={`/${l.slug}`}
+                  className="rounded-full border border-[var(--color-line)] px-3 py-1.5 text-xs font-medium text-[var(--color-ink-soft)] transition-colors hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]"
+                >
+                  {l.label}
+                </Link>
+              ))}
+            </div>
+          </div>
+          <div>
+            <h3 className="font-display text-sm font-bold uppercase tracking-wide text-[var(--color-ink)]">Útiles escolares por zona de Bogotá</h3>
+            <div className="mt-3 flex flex-wrap gap-2">
+              {BARRIOS.map((b) => (
+                <Link
+                  key={b.slug}
+                  href={`/${b.slug}`}
+                  className="rounded-full border border-[var(--color-line)] px-3 py-1.5 text-xs font-medium text-[var(--color-ink-soft)] transition-colors hover:border-[var(--color-primary)] hover:text-[var(--color-primary)]"
+                >
+                  {b.nombre}
+                </Link>
+              ))}
+            </div>
           </div>
         </div>
 

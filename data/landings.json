@@ -1,0 +1,615 @@
+{
+  "landings": [
+    {
+      "slug": "utiles-escolares-a-domicilio-bogota",
+      "tipo": "intencion",
+      "title": "Útiles Escolares a Domicilio en Bogotá | Entrega Rápida",
+      "metaDescription": "Compra útiles escolares a domicilio en Bogotá: cuadernos, esferos, colores, morrales y más. Catálogo amplio, precios bajos y entrega rápida. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en Bogotá",
+      "subtitulo": "Arma la lista del cole sin salir de casa: cuadernos, esferos, colores y todo lo que necesitas, entregado en la puerta de tu casa en toda Bogotá.",
+      "keywords": ["utiles escolares a domicilio bogota", "utiles escolares domicilio", "comprar utiles escolares bogota", "papeleria a domicilio"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "Conseguir los útiles escolares ya no significa hacer filas ni recorrer varias papelerías. Reunimos en un solo catálogo todo lo que piden los colegios de Bogotá —cuadernos cosidos y argollados, esferos, lápices, colores, témperas, carpetas, tijeras y pegantes— y te lo llevamos directo a tu casa, oficina o conjunto. Tú armas el pedido con calma y nosotros nos encargamos de la entrega.",
+        "Trabajamos con marcas reconocidas como Scribe, Totto, Pelikan y Bazic, para que cada artículo te dure todo el año escolar. Coordinamos la entrega por WhatsApp, te confirmamos disponibilidad y precio al instante, y despachamos a cualquier localidad de la ciudad. Comprar útiles escolares a domicilio en Bogotá nunca había sido tan simple."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en toda Bogotá", "texto": "Llevamos tu pedido a cualquier localidad de la ciudad, a tu casa u oficina." },
+        { "titulo": "Catálogo completo", "texto": "Miles de referencias de papelería y útiles en un solo lugar, sin ir de tienda en tienda." },
+        { "titulo": "Precios bajos", "texto": "Comparamos precios para ofrecerte útiles de calidad sin pagar de más." },
+        { "titulo": "Pedido por WhatsApp", "texto": "Escríbenos, armamos tu lista juntos y coordinamos la entrega en minutos." }
+      ],
+      "faq": [
+        { "pregunta": "¿Hacen entregas a domicilio en toda Bogotá?", "respuesta": "Sí. Entregamos útiles escolares en todas las localidades de Bogotá, a tu casa, oficina o conjunto residencial. Coordinamos hora y dirección por WhatsApp." },
+        { "pregunta": "¿Cuánto tarda la entrega?", "respuesta": "El tiempo depende de tu zona y del horario del pedido. Si pides temprano, en muchos casos entregamos el mismo día. Te confirmamos el tiempo exacto al hacer tu pedido." },
+        { "pregunta": "¿Cómo hago mi pedido?", "respuesta": "Explora el catálogo, elige tus productos y escríbenos por WhatsApp con la lista. Confirmamos disponibilidad, precio total y dirección de entrega." },
+        { "pregunta": "¿Puedo pedir la lista completa de un colegio?", "respuesta": "Claro. Envíanos la lista de útiles de tu colegio por WhatsApp y te cotizamos todos los productos para entregártelos juntos." }
+      ]
+    },
+    {
+      "slug": "papeleria-a-domicilio-bogota",
+      "tipo": "intencion",
+      "title": "Papelería a Domicilio en Bogotá | Útiles y Oficina",
+      "metaDescription": "Papelería a domicilio en Bogotá para estudio, oficina y hogar: cuadernos, esferos, carpetas, organizadores y más. Entrega rápida. Pide por WhatsApp.",
+      "h1": "Papelería a domicilio en Bogotá",
+      "subtitulo": "Todo lo de la papelería —para el colegio, la universidad o la oficina— a un mensaje de distancia, con entrega en toda Bogotá.",
+      "keywords": ["papeleria a domicilio bogota", "papeleria domicilio", "comprar papeleria bogota", "papeleria online bogota"],
+      "categoriasFuente": ["escritura", "papeles-y-blocks", "accesorios-de-escritorio-y-oficina", "archivos-y-clasificacion"],
+      "ctaCategoria": "escritura",
+      "intro": [
+        "Una buena papelería resuelve el día a día: el cuaderno que se acabó, los esferos que nunca aparecen, la carpeta para entregar el trabajo o el organizador para poner orden en el escritorio. En nuestra papelería a domicilio en Bogotá encuentras artículos de escritura, papeles y blocks, carpetas, sobres y accesorios de oficina, todos listos para despachar.",
+        "Ya seas estudiante, profesional o tengas un negocio en casa, te ahorramos el viaje hasta el centro o el centro comercial. Eliges lo que necesitas, lo pides por WhatsApp y lo recibes donde estés. Surtimos tanto compras pequeñas como pedidos grandes para oficinas y emprendimientos."
+      ],
+      "beneficios": [
+        { "titulo": "Para estudio y oficina", "texto": "Desde un esfero hasta organizadores y carpetas para tu trabajo o negocio." },
+        { "titulo": "Despacho rápido", "texto": "Pide hoy y coordina la entrega a domicilio en tu zona de Bogotá." },
+        { "titulo": "Compra al detal o por mayor", "texto": "Atendemos pedidos pequeños y volúmenes grandes para empresas." },
+        { "titulo": "Asesoría por WhatsApp", "texto": "Te ayudamos a encontrar la referencia exacta que necesitas." }
+      ],
+      "faq": [
+        { "pregunta": "¿Venden papelería para empresas y oficinas?", "respuesta": "Sí. Surtimos papelería y artículos de oficina tanto al detal como por volumen para empresas, emprendimientos y trabajo en casa. Pídenos una cotización por WhatsApp." },
+        { "pregunta": "¿Qué productos de papelería manejan?", "respuesta": "Cuadernos, esferos, lápices, marcadores, papeles, blocks, carpetas, folders, sobres, organizadores y accesorios de escritorio, entre muchos otros." },
+        { "pregunta": "¿Tienen entrega el mismo día?", "respuesta": "En muchos casos sí, según tu zona y la hora del pedido. Confírmalo con nosotros al momento de pedir." },
+        { "pregunta": "¿Puedo pagar contra entrega?", "respuesta": "Coordinamos el medio de pago por WhatsApp al confirmar tu pedido, buscando siempre la opción más cómoda para ti." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-baratos-bogota",
+      "tipo": "intencion",
+      "title": "Útiles Escolares Baratos en Bogotá | Precios Bajos",
+      "metaDescription": "Útiles escolares baratos en Bogotá sin sacrificar calidad: cuadernos, colores, esferos y más a precios bajos. Ahorra en la lista del cole. Pide por WhatsApp.",
+      "h1": "Útiles escolares baratos en Bogotá",
+      "subtitulo": "Cumple con toda la lista del colegio gastando menos: útiles de calidad a precios bajos, con entrega a domicilio en Bogotá.",
+      "keywords": ["utiles escolares baratos", "utiles escolares economicos bogota", "utiles escolares precios bajos", "donde comprar utiles escolares baratos"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "pintar"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "La temporada escolar pesa en el bolsillo, sobre todo cuando hay más de un estudiante en casa. Por eso reunimos útiles escolares baratos en Bogotá que cumplen con lo que pide el colegio sin que tengas que pagar de más: cuadernos, colores, esferos, témperas y los básicos del día a día a precios pensados para que rinda el presupuesto.",
+        "Barato no significa malo. Seleccionamos marcas confiables y referencias que aguantan todo el año, para que no tengas que volver a comprar a mitad de semestre. Y si quieres ahorrar todavía más, pregúntanos por las ofertas y por los descuentos al comprar la lista completa o varias unidades."
+      ],
+      "beneficios": [
+        { "titulo": "Precios bajos reales", "texto": "Útiles de calidad al mejor precio para que rinda tu presupuesto." },
+        { "titulo": "Ahorro por volumen", "texto": "Descuentos al comprar la lista completa o varias unidades." },
+        { "titulo": "Calidad que dura", "texto": "Marcas confiables que aguantan todo el año escolar." },
+        { "titulo": "Ofertas frecuentes", "texto": "Pregúntanos por los productos en promoción antes de comprar." }
+      ],
+      "faq": [
+        { "pregunta": "¿Los útiles baratos son de buena calidad?", "respuesta": "Sí. Elegimos referencias económicas pero confiables, de marcas que duran todo el año. Ahorras sin arriesgar la calidad." },
+        { "pregunta": "¿Hacen descuento por comprar la lista completa?", "respuesta": "Sí. Al comprar toda la lista del colegio o varias unidades podemos ofrecerte un mejor precio. Consúltalo por WhatsApp." },
+        { "pregunta": "¿Cómo veo los productos en oferta?", "respuesta": "Revisa la sección de ofertas del sitio o escríbenos y te contamos qué promociones tenemos activas en útiles escolares." },
+        { "pregunta": "¿Tienen entrega a domicilio?", "respuesta": "Sí, entregamos en toda Bogotá. Coordinamos zona, hora y dirección por WhatsApp." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-al-por-mayor-bogota",
+      "tipo": "intencion",
+      "title": "Útiles Escolares al por Mayor en Bogotá | Mayorista",
+      "metaDescription": "Útiles escolares y papelería al por mayor en Bogotá. Precios mayoristas para papelerías, colegios y revendedores. Despacho de grandes volúmenes. Cotiza por WhatsApp.",
+      "h1": "Útiles escolares al por mayor en Bogotá",
+      "subtitulo": "Surte tu papelería, colegio o negocio con útiles escolares al por mayor: precios mayoristas y despacho de grandes volúmenes en Bogotá.",
+      "keywords": ["utiles escolares al por mayor bogota", "papeleria al por mayor", "utiles escolares mayorista", "distribuidor utiles escolares bogota"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "Si tienes una papelería de barrio, una variedad, un colegio o revendes en temporada escolar, comprar al por mayor marca la diferencia en tu margen. Manejamos útiles escolares y papelería al por mayor en Bogotá con precios mayoristas por volumen, para que surtas tu negocio con buena rotación y mejor utilidad.",
+        "Cuadernos, esferos, lápices, colores, témperas y los productos que más se venden en temporada, disponibles para pedidos grandes. Te armamos una cotización a tu medida según las cantidades y referencias que necesites, y coordinamos el despacho dentro de la ciudad. Compras concentradas, menos proveedores y más tiempo para vender."
+      ],
+      "beneficios": [
+        { "titulo": "Precios mayoristas", "texto": "Mejor precio por volumen para que aumentes tu margen de venta." },
+        { "titulo": "Alta rotación", "texto": "Las referencias que más se venden en temporada escolar." },
+        { "titulo": "Cotización a tu medida", "texto": "Armamos tu pedido según cantidades y productos que necesites." },
+        { "titulo": "Despacho de volúmenes", "texto": "Coordinamos la entrega de pedidos grandes dentro de Bogotá." }
+      ],
+      "faq": [
+        { "pregunta": "¿Cuál es la cantidad mínima para precio al por mayor?", "respuesta": "El precio mayorista depende del volumen y de las referencias. Escríbenos con lo que necesitas y te armamos una cotización con el mejor precio posible." },
+        { "pregunta": "¿Le venden a papelerías y revendedores?", "respuesta": "Sí. Surtimos papelerías, variedades, colegios y revendedores que compran para revender en temporada escolar." },
+        { "pregunta": "¿Entregan pedidos grandes a domicilio?", "respuesta": "Sí, coordinamos el despacho de volúmenes dentro de Bogotá. Definimos logística y tiempos al confirmar tu pedido." },
+        { "pregunta": "¿Cómo solicito una cotización mayorista?", "respuesta": "Envíanos por WhatsApp la lista de productos y cantidades. Te respondemos con precios mayoristas y disponibilidad." }
+      ]
+    },
+    {
+      "slug": "lista-de-utiles-escolares",
+      "tipo": "intencion",
+      "title": "Lista de Útiles Escolares 2026 | Cómpra Todo en Bogotá",
+      "metaDescription": "Arma y compra la lista de útiles escolares 2026 en Bogotá en un solo lugar. Te cotizamos toda la lista del colegio y la entregamos a domicilio. Pide por WhatsApp.",
+      "h1": "Lista de útiles escolares: cómprala completa",
+      "subtitulo": "Envíanos la lista del colegio y te la cotizamos completa: cuadernos, colores, esferos y todo lo del año, entregado a domicilio en Bogotá.",
+      "keywords": ["lista de utiles escolares", "lista utiles escolares 2026", "comprar lista de utiles escolares", "lista escolar bogota"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks", "pintar"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "Cada colegio entrega su propia lista de útiles, y conseguir todo por separado se vuelve una tarea eterna. Nosotros te la resolvemos completa: nos envías la lista de útiles escolares de tu colegio —tal cual te la dieron— y te cotizamos cada producto, te decimos qué hay disponible y te lo entregamos junto, sin que tengas que recorrer media ciudad.",
+        "Cubrimos lo que aparece en casi todas las listas: cuadernos cosidos y argollados, block, esferos, lápices, colores, témperas, marcadores, tijeras, pegantes, carpetas y forros. Si una referencia exacta no está, te ofrecemos una equivalente de la misma calidad. Una sola compra, una sola entrega, lista lista para el primer día de clases."
+      ],
+      "beneficios": [
+        { "titulo": "Cotizamos toda la lista", "texto": "Nos envías la lista del colegio y te la armamos completa." },
+        { "titulo": "Una sola entrega", "texto": "Recibe todos los útiles juntos, sin recorrer varias tiendas." },
+        { "titulo": "Equivalentes de calidad", "texto": "Si falta una referencia, te ofrecemos otra igual de buena." },
+        { "titulo": "Lista para el primer día", "texto": "Llega todo a tiempo para empezar el año escolar sin estrés." }
+      ],
+      "faq": [
+        { "pregunta": "¿Cómo les envío la lista de mi colegio?", "respuesta": "Tómale una foto a la lista o escríbela en el chat de WhatsApp. Con eso te cotizamos cada producto y te decimos qué tenemos disponible." },
+        { "pregunta": "¿Y si no tienen una referencia exacta?", "respuesta": "Te ofrecemos una equivalente de la misma calidad y precio similar, para que la lista quede completa sin problemas." },
+        { "pregunta": "¿Puedo comprar solo algunos productos de la lista?", "respuesta": "Por supuesto. Compras lo que necesites, desde un par de productos hasta la lista completa." },
+        { "pregunta": "¿Entregan a tiempo para el inicio de clases?", "respuesta": "Sí. Coordina tu pedido con anticipación y entregamos a tiempo para el primer día. En temporada alta te recomendamos pedir con días de margen." }
+      ]
+    },
+
+    {
+      "slug": "utiles-escolares-preescolar",
+      "tipo": "nivel",
+      "title": "Útiles Escolares para Preescolar en Bogotá | Jardín",
+      "metaDescription": "Útiles escolares para preescolar y jardín en Bogotá: crayolas, plastilina, témperas, tijeras punta roma y colores. Seguros y a domicilio. Pide por WhatsApp.",
+      "h1": "Útiles escolares para preescolar",
+      "subtitulo": "Todo para los más pequeños del jardín y preescolar: materiales seguros, coloridos y resistentes, entregados a domicilio en Bogotá.",
+      "keywords": ["utiles escolares preescolar", "utiles para jardin infantil", "utiles escolares para niños pequeños", "lista utiles preescolar bogota"],
+      "categoriasFuente": ["pintar", "escritura", "utiles-escolares"],
+      "filtroNombre": ["crayola", "plastilina", "color", "tempera", "pincel", "tijera", "fomy", "pegante", "colbon"],
+      "ctaCategoria": "pintar",
+      "intro": [
+        "En preescolar y jardín los útiles tienen que ser, antes que nada, seguros y fáciles de usar para manos pequeñas. Por eso reunimos crayolas gruesas, colores, plastilina, témperas lavables, tijeras de punta roma, pinceles ergonómicos y fomy: materiales pensados para que los niños pinten, recorten y creen sin riesgos y con mucho color.",
+        "Sabemos que en el jardín todo se usa, se comparte y a veces se pierde, así que priorizamos productos resistentes y de buen rendimiento que aguanten el trajín diario. Arma la lista del preescolar de tu hijo y la entregamos a domicilio en Bogotá, lista para que empiece su primera etapa escolar con todo lo necesario."
+      ],
+      "beneficios": [
+        { "titulo": "Materiales seguros", "texto": "Tijeras punta roma, témperas lavables y productos pensados para niños." },
+        { "titulo": "Mucho color", "texto": "Crayolas, plastilina y témperas para estimular su creatividad." },
+        { "titulo": "Fáciles de usar", "texto": "Diseños ergonómicos para manos pequeñas que apenas empiezan." },
+        { "titulo": "Resistentes", "texto": "Productos que aguantan el uso diario del jardín." }
+      ],
+      "faq": [
+        { "pregunta": "¿Las tijeras son seguras para niños de jardín?", "respuesta": "Sí. Manejamos tijeras de punta roma diseñadas para que los más pequeños recorten con seguridad." },
+        { "pregunta": "¿Tienen témperas y plastilina lavables?", "respuesta": "Sí, contamos con témperas, plastilina y materiales de manualidades ideales para preescolar. Pregúntanos por las referencias lavables." },
+        { "pregunta": "¿Puedo pedir la lista del jardín completa?", "respuesta": "Claro. Envíanos la lista del preescolar por WhatsApp y te la cotizamos y entregamos completa a domicilio." },
+        { "pregunta": "¿Entregan en toda Bogotá?", "respuesta": "Sí, llevamos los útiles de preescolar a cualquier localidad de la ciudad." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-primaria",
+      "tipo": "nivel",
+      "title": "Útiles Escolares para Primaria en Bogotá | Lista Completa",
+      "metaDescription": "Útiles escolares para primaria en Bogotá: cuadernos, colores, esferos, lápices, reglas y más. Arma la lista completa y recíbela a domicilio. Pide por WhatsApp.",
+      "h1": "Útiles escolares para primaria",
+      "subtitulo": "La lista de primaria resuelta en un solo lugar: cuadernos, colores, esferos y todo lo que piden de 1º a 5º, a domicilio en Bogotá.",
+      "keywords": ["utiles escolares primaria", "lista utiles primaria bogota", "utiles escolares basica primaria", "comprar utiles primaria"],
+      "categoriasFuente": ["escritura", "utiles-escolares", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "La primaria es la etapa donde la lista crece: aparecen los cuadernos por materia, los colores, los esferos, la regla, el transportador y los primeros trabajos manuales. Reunimos todo lo que piden los colegios de Bogotá para básica primaria, de primero a quinto, para que armes la lista sin dar vueltas y sin que falte nada el primer día.",
+        "Elegimos cuadernos resistentes, esferos y lápices de buena escritura y colores que rinden, porque en primaria los útiles se usan a diario y deben durar todo el año. Cotízanos la lista de tu hijo, agrégale forros y separadores si los necesitas, y te lo entregamos completo a domicilio en cualquier zona de la ciudad."
+      ],
+      "beneficios": [
+        { "titulo": "Lista por materias", "texto": "Cuadernos y útiles para cubrir todas las asignaturas de primaria." },
+        { "titulo": "Útiles que duran", "texto": "Resistentes para el uso diario de todo el año escolar." },
+        { "titulo": "Todo en un pedido", "texto": "Desde cuadernos hasta colores y reglas, en una sola compra." },
+        { "titulo": "Entrega a domicilio", "texto": "Recibe la lista de primaria en tu casa, en toda Bogotá." }
+      ],
+      "faq": [
+        { "pregunta": "¿Tienen todo lo de la lista de primaria?", "respuesta": "Sí. Cubrimos cuadernos, colores, esferos, lápices, reglas, tijeras, pegantes y los materiales de trabajo que piden los colegios. Si falta una referencia, te ofrecemos una equivalente." },
+        { "pregunta": "¿Manejan cuadernos cosidos y argollados?", "respuesta": "Sí, tenemos cuadernos cosidos y argollados de distintos números de hojas y diseños para primaria." },
+        { "pregunta": "¿Puedo cotizar la lista exacta del colegio?", "respuesta": "Claro. Envíanos la lista por WhatsApp y te cotizamos cada producto con su precio y disponibilidad." },
+        { "pregunta": "¿Cuánto demora la entrega?", "respuesta": "Depende de tu zona y la hora del pedido; muchas veces entregamos el mismo día. Te confirmamos al pedir." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-bachillerato",
+      "tipo": "nivel",
+      "title": "Útiles Escolares para Bachillerato en Bogotá | Secundaria",
+      "metaDescription": "Útiles escolares para bachillerato y secundaria en Bogotá: blocks, carpetas, calculadora, esferos, juego geométrico y más. A domicilio. Pide por WhatsApp.",
+      "h1": "Útiles escolares para bachillerato",
+      "subtitulo": "Lo que necesitan los grandes del colegio: blocks, carpetas, juego geométrico, esferos y más, entregado a domicilio en Bogotá.",
+      "keywords": ["utiles escolares bachillerato", "utiles escolares secundaria", "lista utiles bachillerato bogota", "utiles para bachillerato"],
+      "categoriasFuente": ["papeles-y-blocks", "archivos-y-clasificacion", "escritura", "accesorios-de-escritorio-y-oficina"],
+      "ctaCategoria": "escritura",
+      "intro": [
+        "En bachillerato la lista cambia de carácter: menos manualidades y más herramientas de estudio. Aparecen los blocks, las carpetas y folders para organizar trabajos, el juego geométrico, los esferos de distintos colores, los resaltadores y los cuadernos por asignatura. Reunimos todo lo que piden los colegios de Bogotá para secundaria, de sexto a once.",
+        "Pensamos en estudiantes que escriben, subrayan, presentan trabajos y se preparan para el ICFES. Por eso priorizamos referencias prácticas y resistentes: carpetas que protegen los documentos, esferos que no se acaban a la semana y blocks de buena calidad. Cotiza la lista de tu hijo y la recibes a domicilio, completa y a tiempo."
+      ],
+      "beneficios": [
+        { "titulo": "Herramientas de estudio", "texto": "Blocks, juego geométrico, carpetas y resaltadores para secundaria." },
+        { "titulo": "Organización", "texto": "Folders y carpetas para entregar trabajos bien presentados." },
+        { "titulo": "Escritura de calidad", "texto": "Esferos y marcadores que rinden durante todo el periodo." },
+        { "titulo": "A domicilio", "texto": "Recibe la lista de bachillerato en tu casa, en toda Bogotá." }
+      ],
+      "faq": [
+        { "pregunta": "¿Tienen juego geométrico y calculadora?", "respuesta": "Manejamos juego geométrico, reglas y útiles de geometría. Por calculadora, consúltanos disponibilidad y referencia por WhatsApp." },
+        { "pregunta": "¿Venden carpetas y folders para trabajos?", "respuesta": "Sí, tenemos carpetas, folders y sobres en varios formatos y colores para organizar y entregar trabajos." },
+        { "pregunta": "¿Puedo comprar por unidad?", "respuesta": "Sí, compras lo que necesites: una sola referencia o la lista completa de bachillerato." },
+        { "pregunta": "¿Hacen entrega a domicilio en Bogotá?", "respuesta": "Sí, entregamos en todas las localidades de la ciudad. Coordinamos por WhatsApp." }
+      ]
+    },
+
+    {
+      "slug": "utiles-escolares-chapinero",
+      "tipo": "barrio",
+      "zonaNombre": "Chapinero",
+      "puntosReferencia": ["Zona G", "Chapinero Alto", "Lourdes", "Marly", "Calle 63", "Quinta Camacho"],
+      "title": "Útiles Escolares en Chapinero | Domicilio Bogotá",
+      "metaDescription": "Útiles escolares y papelería a domicilio en Chapinero, Bogotá. Cuadernos, esferos, colores y más con entrega rápida en la zona. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en Chapinero",
+      "subtitulo": "Papelería y útiles escolares entregados en Chapinero y sus alrededores, sin filas ni desplazamientos.",
+      "keywords": ["utiles escolares chapinero", "papeleria chapinero", "utiles escolares domicilio chapinero", "papeleria a domicilio chapinero"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "Si vives, estudias o trabajas en Chapinero, no necesitas bajar al centro ni recorrer la séptima buscando papelería. Llevamos útiles escolares y de oficina directamente a tu dirección en la Zona G, Chapinero Alto, Lourdes, Marly o cerca de la Calle 63. Pides por WhatsApp y nosotros nos encargamos del resto.",
+        "Chapinero concentra colegios, universidades y oficinas, y eso significa que siempre hace falta un cuaderno, un esfero o una carpeta a última hora. Para eso estamos: catálogo completo, precios justos y entrega rápida en toda la zona, ya sea tu apartamento, tu oficina o tu salón de clases."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en Chapinero", "texto": "Llegamos a la Zona G, Chapinero Alto, Lourdes, Marly y alrededores." },
+        { "titulo": "Ideal para estudiantes", "texto": "Cerca de colegios y universidades de la zona." },
+        { "titulo": "También para oficinas", "texto": "Surtimos papelería para los negocios del sector." },
+        { "titulo": "Pedido por WhatsApp", "texto": "Rápido y sin filas: escríbenos y coordinamos la entrega." }
+      ],
+      "faq": [
+        { "pregunta": "¿Entregan en toda la zona de Chapinero?", "respuesta": "Sí, cubrimos Chapinero y sus barrios: Zona G, Chapinero Alto, Lourdes, Marly, Quinta Camacho y alrededores." },
+        { "pregunta": "¿Cuánto tarda el domicilio en Chapinero?", "respuesta": "Al estar en una zona central, las entregas suelen ser rápidas. Te confirmamos el tiempo exacto al hacer el pedido." },
+        { "pregunta": "¿Puedo pedir a una oficina o universidad?", "respuesta": "Sí, entregamos en apartamentos, oficinas, colegios y universidades de Chapinero." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-usaquen",
+      "tipo": "barrio",
+      "zonaNombre": "Usaquén",
+      "puntosReferencia": ["Hacienda Santa Bárbara", "Calle 116", "Unicentro", "Country", "Usaquén Centro", "Calle 100"],
+      "title": "Útiles Escolares en Usaquén | Domicilio Bogotá",
+      "metaDescription": "Útiles escolares y papelería a domicilio en Usaquén, Bogotá. Cuadernos, colores, esferos y más con entrega rápida en la zona norte. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en Usaquén",
+      "subtitulo": "Papelería y útiles escolares entregados en Usaquén y el norte de Bogotá, directo a tu casa u oficina.",
+      "keywords": ["utiles escolares usaquen", "papeleria usaquen", "utiles escolares domicilio usaquen", "papeleria a domicilio usaquen"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "En Usaquén la vida es de ritmo rápido y conseguir útiles escolares no debería robarte la tarde. Te llevamos cuadernos, esferos, colores y toda la papelería a tu dirección, ya sea cerca de la Hacienda Santa Bárbara, la Calle 116, Unicentro o el sector del Country. Tú pides por WhatsApp y nosotros entregamos.",
+        "La zona norte tiene muchos colegios y familias que cada año arman la lista escolar, además de oficinas que necesitan reabastecerse seguido. Por eso ofrecemos un catálogo amplio con entrega ágil en todo Usaquén, para que resuelvas la lista del colegio o el pedido de la oficina sin moverte de donde estás."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en Usaquén", "texto": "Cubrimos la Calle 116, Santa Bárbara, el Country y la zona norte." },
+        { "titulo": "Lista escolar completa", "texto": "Arma toda la lista del colegio y recíbela en una sola entrega." },
+        { "titulo": "Papelería de oficina", "texto": "Surtimos los negocios y oficinas del sector." },
+        { "titulo": "Sin desplazamientos", "texto": "Pide por WhatsApp y ahorra el viaje al centro comercial." }
+      ],
+      "faq": [
+        { "pregunta": "¿Hasta qué barrios del norte entregan?", "respuesta": "Cubrimos Usaquén y alrededores: Santa Bárbara, Calle 116, Country, Usaquén Centro y zonas cercanas a la Calle 100 y 127." },
+        { "pregunta": "¿Puedo pedir la lista escolar completa?", "respuesta": "Sí, envíanos la lista del colegio por WhatsApp y te la cotizamos y entregamos completa en Usaquén." },
+        { "pregunta": "¿Tienen entrega el mismo día?", "respuesta": "En muchos casos sí, según la hora del pedido. Confírmalo con nosotros al pedir." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-suba",
+      "tipo": "barrio",
+      "zonaNombre": "Suba",
+      "puntosReferencia": ["Suba Centro", "La Campiña", "El Rincón", "Tibabuyes", "Niza", "Aures"],
+      "title": "Útiles Escolares en Suba | Domicilio Bogotá",
+      "metaDescription": "Útiles escolares y papelería a domicilio en Suba, Bogotá. Cuadernos, colores, morrales y más con entrega en toda la localidad. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en Suba",
+      "subtitulo": "Toda la papelería y los útiles del cole entregados en Suba, una de las localidades más grandes de Bogotá.",
+      "keywords": ["utiles escolares suba", "papeleria suba", "utiles escolares domicilio suba", "papeleria a domicilio suba"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "morrales-y-loncheras"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "Suba es enorme y a veces la papelería del barrio no tiene todo lo de la lista. Nosotros te llevamos los útiles escolares hasta tu casa en Suba Centro, La Campiña, El Rincón, Tibabuyes o Niza, sin que tengas que cruzar la localidad buscando una referencia. Pides por WhatsApp y te entregamos en tu dirección.",
+        "Con tantas familias y colegios en la zona, la temporada escolar en Suba es de las más movidas. Por eso tenemos catálogo completo —cuadernos, colores, esferos, morrales y loncheras— y coordinamos entregas en toda la localidad, para que armes la lista de tus hijos cómodo y a tiempo."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en toda Suba", "texto": "Cubrimos Suba Centro, La Campiña, El Rincón, Tibabuyes y Niza." },
+        { "titulo": "Morrales y loncheras", "texto": "Además de útiles, encuentra morrales y loncheras para el cole." },
+        { "titulo": "Catálogo completo", "texto": "Todo lo de la lista escolar sin recorrer la localidad." },
+        { "titulo": "Pide por WhatsApp", "texto": "Coordinamos tu entrega en Suba de forma rápida y sencilla." }
+      ],
+      "faq": [
+        { "pregunta": "¿Entregan en los barrios alejados de Suba?", "respuesta": "Sí, cubrimos buena parte de la localidad, incluyendo El Rincón, Tibabuyes, La Campiña y Suba Centro. Confírmanos tu dirección por WhatsApp." },
+        { "pregunta": "¿Venden morrales y loncheras?", "respuesta": "Sí, además de útiles tenemos morrales, loncheras y cartucheras para el regreso a clases." },
+        { "pregunta": "¿Puedo pedir la lista completa del colegio?", "respuesta": "Claro, envíanos la lista y te la entregamos completa en Suba." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-kennedy",
+      "tipo": "barrio",
+      "zonaNombre": "Kennedy",
+      "puntosReferencia": ["Américas", "Timiza", "Patio Bonito", "Bandera", "Castilla", "Kennedy Central"],
+      "title": "Útiles Escolares en Kennedy | Domicilio Bogotá",
+      "metaDescription": "Útiles escolares y papelería a domicilio en Kennedy, Bogotá. Cuadernos, colores, esferos y más a buen precio con entrega en la localidad. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en Kennedy",
+      "subtitulo": "Útiles escolares a buen precio entregados en Kennedy, una de las localidades más pobladas de Bogotá.",
+      "keywords": ["utiles escolares kennedy", "papeleria kennedy", "utiles escolares domicilio kennedy", "papeleria a domicilio kennedy"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "En Kennedy hay miles de estudiantes y cada año la lista escolar se siente en el bolsillo. Por eso llevamos útiles escolares a buen precio hasta tu casa en Américas, Timiza, Patio Bonito, Bandera o Castilla, para que cumplas con el colegio sin gastar de más ni perder tiempo en desplazamientos.",
+        "Sabemos que en una localidad tan grande conviene comprar todo de una y recibirlo en casa. Tenemos cuadernos, esferos, colores y los básicos de la lista, con opción de descuento al llevar la lista completa o varias unidades. Pides por WhatsApp y coordinamos la entrega en tu barrio de Kennedy."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en Kennedy", "texto": "Cubrimos Américas, Timiza, Patio Bonito, Bandera y Castilla." },
+        { "titulo": "Precios bajos", "texto": "Útiles de calidad pensados para el presupuesto familiar." },
+        { "titulo": "Ahorro por lista completa", "texto": "Descuento al comprar toda la lista o varias unidades." },
+        { "titulo": "Domicilio cómodo", "texto": "Recibe todo en casa sin recorrer la localidad." }
+      ],
+      "faq": [
+        { "pregunta": "¿En qué barrios de Kennedy entregan?", "respuesta": "Cubrimos buena parte de la localidad: Américas, Timiza, Patio Bonito, Bandera, Castilla y Kennedy Central, entre otros." },
+        { "pregunta": "¿Hacen descuento por comprar la lista completa?", "respuesta": "Sí, al llevar la lista del colegio completa o varias unidades te damos un mejor precio. Consúltalo por WhatsApp." },
+        { "pregunta": "¿Cómo coordino la entrega?", "respuesta": "Escríbenos por WhatsApp con tu pedido y dirección, y acordamos hora de entrega en tu barrio de Kennedy." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-engativa",
+      "tipo": "barrio",
+      "zonaNombre": "Engativá",
+      "puntosReferencia": ["Normandía", "Boyacá Real", "Las Ferias", "Álamos", "La Florida", "Engativá Centro"],
+      "title": "Útiles Escolares en Engativá | Domicilio Bogotá",
+      "metaDescription": "Útiles escolares y papelería a domicilio en Engativá, Bogotá. Cuadernos, esferos, colores y más con entrega en la localidad. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en Engativá",
+      "subtitulo": "Papelería y útiles del cole entregados en Engativá, directo a la puerta de tu casa.",
+      "keywords": ["utiles escolares engativa", "papeleria engativa", "utiles escolares domicilio engativa", "papeleria a domicilio engativa"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "Engativá es una localidad de barrios familiares donde cada inicio de año la lista escolar es protagonista. Te llevamos los útiles a tu casa en Normandía, Boyacá Real, Las Ferias, Álamos o La Florida, para que no tengas que salir a buscar referencia por referencia en plena temporada.",
+        "Con un catálogo amplio de cuadernos, esferos, colores y materiales de trabajo, resolvemos la lista de todo el colegio en un solo pedido. Coordinamos por WhatsApp y entregamos en tu barrio de Engativá, con precios justos y la comodidad de recibir todo en casa."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en Engativá", "texto": "Cubrimos Normandía, Boyacá Real, Las Ferias, Álamos y La Florida." },
+        { "titulo": "Lista en un pedido", "texto": "Toda la lista del colegio resuelta de una sola vez." },
+        { "titulo": "Precios justos", "texto": "Útiles de calidad sin pagar de más." },
+        { "titulo": "Comodidad", "texto": "Recibe en casa y olvídate de recorrer la localidad." }
+      ],
+      "faq": [
+        { "pregunta": "¿Qué barrios de Engativá cubren?", "respuesta": "Entregamos en Normandía, Boyacá Real, Las Ferias, Álamos, La Florida y Engativá Centro, entre otros sectores." },
+        { "pregunta": "¿Puedo pedir solo algunos útiles?", "respuesta": "Sí, compras lo que necesites, desde unas pocas referencias hasta la lista completa." },
+        { "pregunta": "¿Cuánto cuesta el domicilio?", "respuesta": "Depende de tu dirección dentro de Engativá. Te lo confirmamos al coordinar el pedido por WhatsApp." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-cedritos",
+      "tipo": "barrio",
+      "zonaNombre": "Cedritos",
+      "puntosReferencia": ["Calle 140", "Calle 147", "Mazurén", "Gilmar", "Cedritos", "Santa Bárbara Occidental"],
+      "title": "Útiles Escolares en Cedritos | Domicilio Bogotá",
+      "metaDescription": "Útiles escolares y papelería a domicilio en Cedritos, Bogotá. Cuadernos, colores, esferos y más con entrega rápida en el norte. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en Cedritos",
+      "subtitulo": "Papelería y útiles escolares entregados en Cedritos y el norte de Bogotá, sin salir de casa.",
+      "keywords": ["utiles escolares cedritos", "papeleria cedritos", "utiles escolares domicilio cedritos", "papeleria a domicilio cedritos"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "Cedritos es zona de familias, colegios y apartamentos, y la papelería siempre hace falta: el cuaderno que se acabó, los colores del proyecto o la lista completa del inicio de año. Te llevamos todo a tu dirección entre la Calle 140 y la 147, Mazurén, Gilmar y alrededores, con solo pedirlo por WhatsApp.",
+        "Te ahorramos la vuelta a Unicentro o al centro comercial más cercano. Con catálogo completo y entrega ágil en Cedritos, resuelves la lista del colegio o reabasteces la oficina en casa cómodamente, recibiendo tu pedido en tu propio edificio."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en Cedritos", "texto": "Cubrimos la Calle 140-147, Mazurén, Gilmar y la zona norte." },
+        { "titulo": "Rápido y cómodo", "texto": "Recibe en tu edificio sin ir al centro comercial." },
+        { "titulo": "Catálogo completo", "texto": "Desde un cuaderno hasta la lista entera del colegio." },
+        { "titulo": "Pedido por WhatsApp", "texto": "Escríbenos y coordinamos la entrega en Cedritos." }
+      ],
+      "faq": [
+        { "pregunta": "¿Entregan en los conjuntos de Cedritos?", "respuesta": "Sí, entregamos en apartamentos y conjuntos de Cedritos, Mazurén, Gilmar y la zona de la Calle 140 a la 147." },
+        { "pregunta": "¿Tienen entrega rápida?", "respuesta": "Al ser una zona del norte bien cubierta, las entregas suelen ser ágiles. Te confirmamos el tiempo al pedir." },
+        { "pregunta": "¿Puedo pedir para la oficina?", "respuesta": "Claro, surtimos papelería para hogar y oficina en toda la zona de Cedritos." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-chico",
+      "tipo": "barrio",
+      "zonaNombre": "Chicó",
+      "puntosReferencia": ["Parque de la 93", "Zona Rosa", "Calle 85", "El Retiro", "Chicó Norte", "Calle 100"],
+      "title": "Útiles Escolares en el Chicó | Domicilio Bogotá",
+      "metaDescription": "Útiles escolares y papelería a domicilio en el Chicó, Bogotá. Cuadernos, esferos, carpetas y artículos de oficina con entrega rápida. Pide por WhatsApp.",
+      "h1": "Útiles escolares y papelería a domicilio en el Chicó",
+      "subtitulo": "Papelería para estudio y oficina entregada en el Chicó y la zona financiera de Bogotá.",
+      "keywords": ["utiles escolares chico", "papeleria chico bogota", "papeleria a domicilio chico", "papeleria zona rosa bogota"],
+      "categoriasFuente": ["escritura", "papeles-y-blocks", "accesorios-de-escritorio-y-oficina"],
+      "ctaCategoria": "escritura",
+      "intro": [
+        "El Chicó es zona de oficinas, empresas y estudiantes universitarios, donde la papelería del día a día no puede faltar. Llevamos esferos, cuadernos, carpetas, organizadores y artículos de oficina a tu dirección cerca del Parque de la 93, la Zona Rosa, la Calle 85 o El Retiro, con la rapidez que la zona necesita.",
+        "Para empresas que se reabastecen seguido y para quienes estudian o trabajan por el sector, ofrecemos un catálogo amplio con entrega ágil. Pides por WhatsApp, te cotizamos al instante y coordinamos el domicilio en el Chicó, ya sea a tu oficina o a tu apartamento."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en el Chicó", "texto": "Cubrimos la 93, la Zona Rosa, la Calle 85 y El Retiro." },
+        { "titulo": "Papelería de oficina", "texto": "Organizadores, carpetas y artículos para empresas del sector." },
+        { "titulo": "Reabastecimiento ágil", "texto": "Ideal para oficinas que piden con frecuencia." },
+        { "titulo": "Cotización al instante", "texto": "Escríbenos por WhatsApp y te respondemos de inmediato." }
+      ],
+      "faq": [
+        { "pregunta": "¿Venden papelería para empresas del Chicó?", "respuesta": "Sí, surtimos oficinas y empresas con papelería y artículos de escritorio, al detal y por volumen. Pide tu cotización por WhatsApp." },
+        { "pregunta": "¿Entregan a oficinas y edificios empresariales?", "respuesta": "Sí, entregamos en oficinas, edificios y apartamentos de la zona del Chicó y la Calle 100." },
+        { "pregunta": "¿Qué tan rápido es el domicilio?", "respuesta": "Al ser una zona central, las entregas suelen ser rápidas. Te confirmamos el tiempo al hacer el pedido." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-teusaquillo",
+      "tipo": "barrio",
+      "zonaNombre": "Teusaquillo",
+      "puntosReferencia": ["Galerías", "Palermo", "La Soledad", "Parkway", "Quinta Paredes", "Ciudad Salitre cercano"],
+      "title": "Útiles Escolares en Teusaquillo | Domicilio Bogotá",
+      "metaDescription": "Útiles escolares y papelería a domicilio en Teusaquillo, Bogotá. Cuadernos, esferos, colores y más con entrega en Galerías, Palermo y alrededores. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en Teusaquillo",
+      "subtitulo": "Papelería y útiles escolares entregados en Teusaquillo, zona de universidades y colegios de Bogotá.",
+      "keywords": ["utiles escolares teusaquillo", "papeleria teusaquillo", "papeleria galerias bogota", "papeleria a domicilio teusaquillo"],
+      "categoriasFuente": ["escritura", "utiles-escolares", "papeles-y-blocks"],
+      "ctaCategoria": "escritura",
+      "intro": [
+        "Teusaquillo está lleno de universidades, colegios y estudiantes, así que la demanda de papelería es constante. Te llevamos cuadernos, esferos, colores, blocks y carpetas a tu dirección en Galerías, Palermo, La Soledad o el Parkway, para que no interrumpas tus estudios buscando útiles.",
+        "Desde el trabajo final que hay que imprimir y argollar hasta la lista completa del colegio, tenemos el catálogo y la entrega que la zona necesita. Pides por WhatsApp y coordinamos el domicilio en Teusaquillo, rápido y sin complicaciones."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en Teusaquillo", "texto": "Cubrimos Galerías, Palermo, La Soledad y el Parkway." },
+        { "titulo": "Zona universitaria", "texto": "Ideal para estudiantes que necesitan útiles a la mano." },
+        { "titulo": "Blocks y carpetas", "texto": "Todo para trabajos, exposiciones y entregas académicas." },
+        { "titulo": "Domicilio rápido", "texto": "Coordina por WhatsApp y recibe sin moverte." }
+      ],
+      "faq": [
+        { "pregunta": "¿Entregan cerca de las universidades de Teusaquillo?", "respuesta": "Sí, cubrimos Galerías, Palermo, La Soledad, Parkway y los sectores universitarios de la zona." },
+        { "pregunta": "¿Tienen materiales para trabajos universitarios?", "respuesta": "Sí, manejamos blocks, carpetas, papeles, marcadores y todo lo que necesitas para entregas y exposiciones." },
+        { "pregunta": "¿Puedo pedir poca cantidad?", "respuesta": "Claro, atendemos desde pedidos pequeños hasta listas completas." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-centro-bogota",
+      "tipo": "barrio",
+      "zonaNombre": "el Centro de Bogotá",
+      "puntosReferencia": ["La Candelaria", "San Victorino", "Avenida Jiménez", "Las Nieves", "Las Aguas", "Universidades"],
+      "title": "Útiles Escolares en el Centro de Bogotá | Domicilio",
+      "metaDescription": "Útiles escolares y papelería a domicilio en el centro de Bogotá. Cuadernos, esferos, colores y más con entrega en La Candelaria, San Victorino y alrededores. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en el centro de Bogotá",
+      "subtitulo": "La papelería del centro, sin las filas de San Victorino: útiles escolares entregados en La Candelaria y el centro de Bogotá.",
+      "keywords": ["utiles escolares centro bogota", "papeleria centro bogota", "papeleria san victorino domicilio", "papeleria la candelaria"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "El centro de Bogotá es el corazón de la papelería de la ciudad, pero ir hasta San Victorino o La Candelaria a buscar útiles significa filas, multitudes y tiempo perdido. Nosotros te llevamos los útiles escolares a tu dirección en el centro, ya sea en Las Nieves, la Avenida Jiménez, Las Aguas o cerca de las universidades.",
+        "Concentramos en un catálogo lo que normalmente tocaría buscar local por local: cuadernos, esferos, colores, papeles y materiales de trabajo. Pides por WhatsApp y recibes en tu casa, residencia estudiantil u oficina del centro, con la comodidad de no tener que cargar nada por la calle."
+      ],
+      "beneficios": [
+        { "titulo": "Sin filas de San Victorino", "texto": "La variedad del centro entregada en tu puerta." },
+        { "titulo": "Entrega en el centro", "texto": "Cubrimos La Candelaria, Las Nieves, Jiménez y Las Aguas." },
+        { "titulo": "Zona universitaria", "texto": "Ideal para estudiantes de las universidades del centro." },
+        { "titulo": "Pide por WhatsApp", "texto": "Coordina tu entrega sin recorrer el centro a pie." }
+      ],
+      "faq": [
+        { "pregunta": "¿Entregan en La Candelaria y zona universitaria?", "respuesta": "Sí, cubrimos La Candelaria, Las Nieves, Las Aguas, Avenida Jiménez y los sectores universitarios del centro." },
+        { "pregunta": "¿Sus precios son como los de San Victorino?", "respuesta": "Trabajamos con precios competitivos y ofrecemos descuentos por volumen, con la ventaja de la entrega a domicilio." },
+        { "pregunta": "¿Puedo pedir al por mayor para revender?", "respuesta": "Sí, atendemos pedidos al por mayor. Pídenos una cotización mayorista por WhatsApp." }
+      ]
+    },
+    {
+      "slug": "utiles-escolares-fontibon",
+      "tipo": "barrio",
+      "zonaNombre": "Fontibón",
+      "puntosReferencia": ["Modelia", "Hayuelos", "Fontibón Centro", "Versalles", "Ciudad Salitre cercano", "Capellanía"],
+      "title": "Útiles Escolares en Fontibón | Domicilio Bogotá",
+      "metaDescription": "Útiles escolares y papelería a domicilio en Fontibón, Bogotá. Cuadernos, colores, esferos y más con entrega en Modelia, Hayuelos y alrededores. Pide por WhatsApp.",
+      "h1": "Útiles escolares a domicilio en Fontibón",
+      "subtitulo": "Papelería y útiles del cole entregados en Fontibón, Modelia y el occidente de Bogotá.",
+      "keywords": ["utiles escolares fontibon", "papeleria fontibon", "papeleria modelia", "papeleria a domicilio fontibon"],
+      "categoriasFuente": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "En el occidente de la ciudad, Fontibón y sus barrios crecen año tras año y con ellos la necesidad de papelería cercana. Te llevamos los útiles escolares a tu casa en Modelia, Hayuelos, Versalles o Fontibón Centro, para que armes la lista del colegio sin tener que desplazarte a otras zonas.",
+        "Con catálogo completo de cuadernos, esferos, colores y materiales de trabajo, y entrega coordinada por WhatsApp, resolvemos la temporada escolar de las familias de Fontibón. Recibes todo en casa, con precios justos y sin las complicaciones de salir a buscar referencia por referencia."
+      ],
+      "beneficios": [
+        { "titulo": "Entrega en Fontibón", "texto": "Cubrimos Modelia, Hayuelos, Versalles y Fontibón Centro." },
+        { "titulo": "Cercanía", "texto": "Papelería completa sin salir del occidente de Bogotá." },
+        { "titulo": "Lista del colegio", "texto": "Arma toda la lista y recíbela en una sola entrega." },
+        { "titulo": "Precios justos", "texto": "Útiles de calidad al mejor precio para tu familia." }
+      ],
+      "faq": [
+        { "pregunta": "¿Qué barrios de Fontibón cubren?", "respuesta": "Entregamos en Modelia, Hayuelos, Versalles, Capellanía, Fontibón Centro y sectores cercanos." },
+        { "pregunta": "¿Entregan también en Modelia y Hayuelos?", "respuesta": "Sí, Modelia y Hayuelos están dentro de nuestra cobertura en el occidente de Bogotá." },
+        { "pregunta": "¿Puedo pedir la lista completa del colegio?", "respuesta": "Claro, envíanos la lista por WhatsApp y te la cotizamos y entregamos completa en Fontibón." }
+      ]
+    },
+
+    {
+      "slug": "cuadernos-escolares-bogota",
+      "tipo": "producto",
+      "title": "Cuadernos Escolares en Bogotá | Cosidos y Argollados",
+      "metaDescription": "Cuadernos escolares en Bogotá: cosidos, argollados, ferrocarril y cuadriculados, en varios diseños y números de hojas. Entrega a domicilio. Pide por WhatsApp.",
+      "h1": "Cuadernos escolares en Bogotá",
+      "subtitulo": "Cuadernos cosidos, argollados y ferrocarril en todos los diseños y números de hojas, entregados a domicilio en Bogotá.",
+      "keywords": ["cuadernos escolares bogota", "comprar cuadernos bogota", "cuadernos cosidos", "cuadernos argollados domicilio"],
+      "categoriasFuente": ["utiles-escolares", "papeles-y-blocks"],
+      "filtroNombre": ["cuaderno"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "El cuaderno es el útil que nunca falta en ninguna lista, y por eso tenemos una gran variedad para que encuentres exactamente el que pide el colegio: cosidos, argollados, ferrocarril, cuadriculados y a rayas, en distintos números de hojas y con diseños que les encantan a los niños. Desde el cuaderno de matemáticas hasta el de dibujo, aquí lo consigues.",
+        "Manejamos cuadernos resistentes que aguantan todo el año escolar, de marcas reconocidas y con buena calidad de papel para que la escritura no se traspase. Elige los diseños y cantidades que necesitas, pídelos por WhatsApp y te los entregamos a domicilio en cualquier zona de Bogotá."
+      ],
+      "beneficios": [
+        { "titulo": "Cosidos y argollados", "texto": "Todos los formatos: ferrocarril, cuadriculado, a rayas y más." },
+        { "titulo": "Muchos diseños", "texto": "Personajes y portadas que les encantan a los niños." },
+        { "titulo": "Buena calidad de papel", "texto": "Cuadernos resistentes que aguantan todo el año." },
+        { "titulo": "Entrega a domicilio", "texto": "Recíbelos en casa en cualquier zona de Bogotá." }
+      ],
+      "faq": [
+        { "pregunta": "¿Qué tipos de cuaderno manejan?", "respuesta": "Tenemos cuadernos cosidos y argollados, ferrocarril, cuadriculados y a rayas, en distintos números de hojas y diseños." },
+        { "pregunta": "¿Tienen cuadernos con diseños de personajes?", "respuesta": "Sí, manejamos varios diseños y portadas. Escríbenos por WhatsApp y te contamos qué diseños tenemos disponibles." },
+        { "pregunta": "¿Puedo comprar cuadernos por cantidad?", "respuesta": "Sí, vendemos por unidad y por cantidad. Para volúmenes grandes te damos precio especial." },
+        { "pregunta": "¿Hacen entrega a domicilio de cuadernos?", "respuesta": "Sí, entregamos en toda Bogotá. Coordinamos zona y dirección por WhatsApp." }
+      ]
+    },
+    {
+      "slug": "morrales-y-loncheras-escolares-bogota",
+      "tipo": "producto",
+      "title": "Morrales y Loncheras Escolares en Bogotá | Domicilio",
+      "metaDescription": "Morrales, loncheras y cartucheras escolares en Bogotá. Variedad de diseños y colores para el regreso a clases, con entrega a domicilio. Pide por WhatsApp.",
+      "h1": "Morrales y loncheras escolares en Bogotá",
+      "subtitulo": "Morrales, loncheras y cartucheras para el regreso a clases, en muchos diseños y colores, a domicilio en Bogotá.",
+      "keywords": ["morrales escolares bogota", "loncheras escolares", "morrales y loncheras bogota", "cartucheras escolares domicilio"],
+      "categoriasFuente": ["morrales-y-loncheras"],
+      "ctaCategoria": "morrales-y-loncheras",
+      "intro": [
+        "El regreso a clases no está completo sin el morral y la lonchera, y aquí encuentras una gran variedad para todos los gustos: morrales unicolor y con diseños, loncheras térmicas, cartucheras de varios bolsillos, bolsos manos libres y porta comidas. Todo pensado para acompañar a los estudiantes durante el año, con resistencia y buen estilo.",
+        "Elegir morral y lonchera es de las partes más divertidas de la temporada escolar. Por eso tenemos opciones para niños y jóvenes, en distintos tamaños y colores, listas para entregar a domicilio en Bogotá. Pídelos por WhatsApp y recíbelos en casa para estrenar el primer día."
+      ],
+      "beneficios": [
+        { "titulo": "Morrales y loncheras", "texto": "Variedad de diseños, tamaños y colores para todas las edades." },
+        { "titulo": "Cartucheras y porta comidas", "texto": "Complementa con cartucheras, bolsos y porta comidas." },
+        { "titulo": "Resistentes", "texto": "Pensados para aguantar el uso diario de todo el año." },
+        { "titulo": "Entrega a domicilio", "texto": "Recíbelos en casa, listos para estrenar el primer día." }
+      ],
+      "faq": [
+        { "pregunta": "¿Tienen morrales para niños y para jóvenes?", "respuesta": "Sí, manejamos morrales y loncheras en distintos tamaños y diseños, para niños de primaria y jóvenes de bachillerato." },
+        { "pregunta": "¿Las loncheras son térmicas?", "respuesta": "Tenemos varias opciones de loncheras. Escríbenos por WhatsApp y te indicamos las referencias térmicas disponibles." },
+        { "pregunta": "¿Venden cartucheras y porta comidas?", "respuesta": "Sí, además de morrales y loncheras tenemos cartucheras de varios bolsillos y porta comidas." },
+        { "pregunta": "¿Entregan a domicilio en Bogotá?", "respuesta": "Sí, en toda la ciudad. Coordinamos la entrega por WhatsApp." }
+      ]
+    },
+    {
+      "slug": "colores-y-pinturas-escolares-bogota",
+      "tipo": "producto",
+      "title": "Colores y Pinturas Escolares en Bogotá | Domicilio",
+      "metaDescription": "Colores, témperas, crayolas, pinceles y pinturas escolares en Bogotá. Todo para arte y manualidades del cole, con entrega a domicilio. Pide por WhatsApp.",
+      "h1": "Colores y pinturas escolares en Bogotá",
+      "subtitulo": "Colores, témperas, crayolas, plastilina y pinceles para arte y manualidades, entregados a domicilio en Bogotá.",
+      "keywords": ["colores escolares bogota", "temperas escolares", "pinturas escolares domicilio", "crayolas y colores bogota"],
+      "categoriasFuente": ["escritura", "pintar"],
+      "filtroNombre": ["color", "tempera", "crayola", "acuarela", "pincel", "pintura", "plastilina", "marcador"],
+      "ctaCategoria": "pintar",
+      "intro": [
+        "El arte y las manualidades son parte esencial del colegio, sobre todo en los primeros años. Reunimos colores, témperas, crayolas, acuarelas, plastilina, pinceles y marcadores para que los estudiantes pinten, dibujen y creen con materiales de buena pigmentación y rendimiento. Desde la caja de colores básica hasta los sets de pintura completos.",
+        "Buscamos materiales que rindan y que tengan colores vivos, porque nada desanima más que una témpera que no pinta o un color que se acaba enseguida. Arma tu set de arte para el cole y te lo entregamos a domicilio en Bogotá, listo para el próximo proyecto o la clase de artística."
+      ],
+      "beneficios": [
+        { "titulo": "Colores y témperas", "texto": "Buena pigmentación y rendimiento para que rindan más." },
+        { "titulo": "Para arte y manualidades", "texto": "Crayolas, acuarelas, plastilina, pinceles y marcadores." },
+        { "titulo": "Sets completos", "texto": "Desde la caja básica hasta sets de pintura con paleta y pincel." },
+        { "titulo": "Entrega a domicilio", "texto": "Recibe tus materiales de arte en casa, en toda Bogotá." }
+      ],
+      "faq": [
+        { "pregunta": "¿Qué materiales de arte manejan?", "respuesta": "Colores, témperas, crayolas, acuarelas, plastilina, pinceles, marcadores y sets de pintura, entre otros." },
+        { "pregunta": "¿Tienen sets de pintura completos?", "respuesta": "Sí, manejamos sets de pintura con paleta y pincel en distintas presentaciones, ideales para el colegio." },
+        { "pregunta": "¿Los colores son de buena calidad?", "respuesta": "Elegimos referencias con buena pigmentación y rendimiento para que rindan durante el año escolar." },
+        { "pregunta": "¿Entregan a domicilio?", "respuesta": "Sí, en toda Bogotá. Coordina tu pedido por WhatsApp." }
+      ]
+    },
+    {
+      "slug": "kit-escolar-completo-bogota",
+      "tipo": "producto",
+      "title": "Kit Escolar Completo en Bogotá | Todo en Uno",
+      "metaDescription": "Kits escolares completos en Bogotá: combos de útiles listos con cuadernos, colores y esferos. Práctico y económico, a domicilio. Pide por WhatsApp.",
+      "h1": "Kit escolar completo en Bogotá",
+      "subtitulo": "Combos de útiles listos para empezar el año: práctico, económico y entregado a domicilio en Bogotá.",
+      "keywords": ["kit escolar bogota", "kit de utiles escolares", "combo utiles escolares", "kit escolar completo domicilio"],
+      "categoriasFuente": ["utiles-escolares", "escritura"],
+      "filtroNombre": ["kit"],
+      "ctaCategoria": "utiles-escolares",
+      "intro": [
+        "Si quieres resolver los útiles sin armar la lista pieza por pieza, los kits escolares son la opción más práctica: vienen con los básicos ya reunidos, en un solo combo, para que ahorres tiempo y dinero. Tenemos kits con distintos diseños y contenidos, ideales para empezar el año con lo esencial cubierto.",
+        "Los kits son perfectos para padres ocupados, para regalar en el regreso a clases o para complementar lo que ya tienes. Y si necesitas algo más, siempre puedes añadir productos sueltos al pedido. Elige tu kit, pídelo por WhatsApp y lo entregamos a domicilio en Bogotá, listo para usar."
+      ],
+      "beneficios": [
+        { "titulo": "Todo en un combo", "texto": "Los básicos del cole reunidos, sin armar la lista pieza por pieza." },
+        { "titulo": "Práctico y económico", "texto": "Ahorras tiempo y dinero frente a comprar por separado." },
+        { "titulo": "Varios diseños", "texto": "Kits con distintos contenidos y diseños para elegir." },
+        { "titulo": "Listo para usar", "texto": "Recíbelo a domicilio y empieza el año sin pendientes." }
+      ],
+      "faq": [
+        { "pregunta": "¿Qué incluye un kit escolar?", "respuesta": "Depende del kit, pero suelen traer los básicos como cuadernos, colores, esferos o lápices. Escríbenos y te detallamos el contenido de cada uno." },
+        { "pregunta": "¿Puedo agregar productos al kit?", "respuesta": "Sí, complementas el kit con cualquier producto suelto del catálogo en el mismo pedido." },
+        { "pregunta": "¿Los kits salen más económicos?", "respuesta": "Por lo general sí, comprar el combo resulta más conveniente que adquirir cada artículo por separado." },
+        { "pregunta": "¿Entregan los kits a domicilio?", "respuesta": "Sí, entregamos en toda Bogotá. Coordinamos por WhatsApp." }
+      ]
+    }
+  ]
+}
