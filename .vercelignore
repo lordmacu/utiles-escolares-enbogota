@@ -1,0 +1,15 @@
+# Pipeline de datos en Python (no se usa en el build de Vercel)
+.venv
+vendor
+__pycache__
+*.pyc
+*.py
+
+# Prompts y notas internas
+prompts
+.claude
+PROYECTO.md
+
+# Entorno local / secrets (la API key del LLM vive aquí)
+.env
+.env*.local
