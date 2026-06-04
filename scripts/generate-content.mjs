@@ -68,10 +68,11 @@ async function loadEnv() {
 }
 
 function parseArgs(argv) {
-  const args = { type: "auto", dryRun: false, commit: false };
+  const args = { type: "auto", dryRun: false, commit: false, noPull: false };
   for (const a of argv.slice(2)) {
     if (a === "--dry-run") args.dryRun = true;
     else if (a === "--commit") args.commit = true;
+    else if (a === "--no-pull") args.noPull = true;
     else if (a.startsWith("--type=")) args.type = a.slice(7);
   }
   return args;
@@ -451,6 +452,18 @@ function commitPush(file, message) {
   console.error("✓ commit + push hechos");
 }
 
+// Trae cambios remotos antes de generar (la PC y el celular empujan al mismo
+// branch). No es fatal: si falla, se sigue con lo que haya en local.
+function gitPull() {
+  try {
+    const branch = currentBranch();
+    const out = git(["pull", "--rebase", "--autostash", "origin", branch]);
+    console.error(`↻ git pull --rebase origin ${branch}: ${(out.split("\n").pop() || "ok").trim()}`);
+  } catch (e) {
+    console.error("⚠ git pull falló (continúo con lo local):", String(e.message || e).split("\n")[0]);
+  }
+}
+
 // ───────────────────────────── main ────────────────────────────────
 async function main() {
   await loadEnv();
@@ -462,6 +475,9 @@ async function main() {
   const apiStyle = resolveApiStyle(process.env.LLM_API_STYLE, baseUrl);
   const maxTokens = parseInt(process.env.LLM_MAX_TOKENS || "", 10) || 16000;
   if (!apiKey) { console.error("Error: falta LLM_API_KEY (definir en .env.local)"); process.exit(1); }
+
+  // Antes de generar nada, traemos lo último del remoto (salvo --no-pull).
+  if (!args.noPull) gitPull();
 
   const [categoriasData, productosData, config, humanizeText] = await Promise.all([
     readFile(CATEGORIAS_FILE, "utf8").then(JSON.parse),
@@ -511,9 +527,10 @@ async function main() {
     ? sanitizeNoticia(raw, validSet, fecha, existingSlugs)
     : sanitizeGuia(raw, validSet, fecha, existingSlugs);
 
+  const tituloSeo = nuevo.metaTitle || nuevo.title;
   console.error(`\n→ ${type}: ${nuevo.h1}`);
   console.error(`  slug: ${nuevo.slug}`);
-  console.error(`  metaTitle (${nuevo.metaTitle.length}): ${nuevo.metaTitle}`);
+  console.error(`  título SEO (${tituloSeo.length}): ${tituloSeo}`);
   console.error(`  metaDescription (${nuevo.metaDescription.length})`);
   console.error(`  categorías referenciadas: ${type === "noticia" ? nuevo.items.map((i) => i.ctaCategoria).join(", ") : nuevo.categoriasRelacionadas.join(", ")}`);
 
