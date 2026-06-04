@@ -14,7 +14,7 @@ interface SubChip {
 const PAGE = 24;
 type Orden = "relevancia" | "precio-asc" | "precio-desc";
 
-function countBy(items: ProductoIndex[], key: "color" | "marca"): { value: string; count: number }[] {
+function countBy(items: ProductoIndex[], key: "color" | "marca" | "tipo"): { value: string; count: number }[] {
   const m = new Map<string, number>();
   for (const p of items) {
     const v = (p[key] || "").trim();
@@ -47,6 +47,7 @@ export function CategoryFilter({
   subcategorias?: SubChip[];
 }) {
   const [subcat, setSubcat] = useState("");
+  const [tipos, setTipos] = useState<Set<string>>(new Set());
   const [colors, setColors] = useState<Set<string>>(new Set());
   const [brands, setBrands] = useState<Set<string>>(new Set());
   const [orden, setOrden] = useState<Orden>("relevancia");
@@ -59,6 +60,7 @@ export function CategoryFilter({
     [productos, subcat]
   );
 
+  const tipoFacet = useMemo(() => countBy(base, "tipo"), [base]);
   const colorFacet = useMemo(() => countBy(base, "color"), [base]);
   const brandFacet = useMemo(() => countBy(base, "marca"), [base]);
   const bounds = useMemo(() => {
@@ -73,6 +75,7 @@ export function CategoryFilter({
 
   const filtrados = useMemo(() => {
     let res = base;
+    if (tipos.size) res = res.filter((p) => p.tipo && tipos.has(p.tipo));
     if (colors.size) res = res.filter((p) => p.color && colors.has(p.color));
     if (brands.size) res = res.filter((p) => p.marca && brands.has(p.marca));
     if (precio) res = res.filter((p) => p.precio >= precio[0] && p.precio <= precio[1]);
@@ -80,10 +83,10 @@ export function CategoryFilter({
     else if (orden === "precio-desc") res = [...res].sort((a, b) => b.precio - a.precio);
     else res = [...res].sort((a, b) => Number(b.popular) - Number(a.popular));
     return res;
-  }, [base, colors, brands, precio, orden]);
+  }, [base, tipos, colors, brands, precio, orden]);
 
   const mostrados = filtrados.slice(0, visible);
-  const algunFiltro = subcat || colors.size || brands.size || precio;
+  const algunFiltro = subcat || tipos.size || colors.size || brands.size || precio;
 
   function reset(setter: () => void) { setter(); setVisible(PAGE * 2); }
   function toggle(set: Set<string>, val: string): Set<string> {
@@ -92,7 +95,7 @@ export function CategoryFilter({
     return n;
   }
   function limpiar() {
-    setSubcat(""); setColors(new Set()); setBrands(new Set()); setPrecio(null); setVisible(PAGE * 2);
+    setSubcat(""); setTipos(new Set()); setColors(new Set()); setBrands(new Set()); setPrecio(null); setVisible(PAGE * 2);
   }
 
   const sidebar = (
@@ -118,6 +121,22 @@ export function CategoryFilter({
                   <span>{s.nombre}</span>
                   <span className="text-xs text-[var(--color-ink-soft)]/70">{s.count}</span>
                 </button>
+              </li>
+            ))}
+          </ul>
+        </Section>
+      )}
+
+      {tipoFacet.length > 1 && (
+        <Section titulo="Tipo de producto">
+          <ul className="max-h-60 space-y-1.5 overflow-y-auto pr-1 text-sm">
+            {tipoFacet.map((t) => (
+              <li key={t.value}>
+                <label className="flex cursor-pointer items-center gap-2 text-[var(--color-ink-soft)]">
+                  <input type="checkbox" checked={tipos.has(t.value)} onChange={() => reset(() => setTipos((s) => toggle(s, t.value)))} className="h-4 w-4 rounded border-[var(--color-line)] accent-[var(--color-primary)]" />
+                  <span className="flex-1">{t.value}</span>
+                  <span className="text-xs text-[var(--color-ink-soft)]/70">{t.count}</span>
+                </label>
               </li>
             ))}
           </ul>

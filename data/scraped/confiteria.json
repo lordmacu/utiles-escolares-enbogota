@@ -840,7 +840,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "confiteria",
-      "subcategoria": "dulces-y-gomas"
+      "subcategoria": "dulces-y-gomas",
+      "tipo": "Cintas"
     },
     {
       "id": "dulce-cinta-fini-colombia-paquete-70-gr-43657",
@@ -863,7 +864,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "confiteria",
-      "subcategoria": "dulces-y-gomas"
+      "subcategoria": "dulces-y-gomas",
+      "tipo": "Cintas"
     },
     {
       "id": "dulce-cinta-fini-fresa-acida-paquete-70-gr-43656",
@@ -886,7 +888,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "confiteria",
-      "subcategoria": "dulces-y-gomas"
+      "subcategoria": "dulces-y-gomas",
+      "tipo": "Cintas"
     },
     {
       "id": "goma-forma-de-cinta-enrollada-sandia-43655",
@@ -909,7 +912,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "confiteria",
-      "subcategoria": "dulces-y-gomas"
+      "subcategoria": "dulces-y-gomas",
+      "tipo": "Cintas"
     },
     {
       "id": "dulces-fini-tubos-fresa-acido-paquete-80-gr-43653",

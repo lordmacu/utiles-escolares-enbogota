@@ -28,7 +28,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Beige"
+      "color": "Beige",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "papel-seda-x50-surtido-los-tres-elefantes-0153457007cl969003",
@@ -52,7 +53,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "papel-seda-surtido-los-tres-elefantes-0153457007py969044",
@@ -76,7 +78,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "papel-seda-x50-surtido-los-tres-elefantes-0153457007py969028",
@@ -100,7 +103,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "plastico-de-burbujas-de-30x150cm-los-tres-elefantes-0153454006st5037",
@@ -145,7 +149,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "papel-seda-x50-surtido-los-tres-elefantes-0153457007cl968995",
@@ -169,7 +174,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "papel-seda-x50-surtido-los-tres-elefantes-0153457007cl969013",
@@ -193,7 +199,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "canva-39x50-cm-48225",
@@ -349,7 +356,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-dibujo-40-hojas-22x30-cm-35436",
@@ -371,7 +379,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "papel-adhesivo-transparente-35435",
@@ -395,7 +404,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "cartulina-de-presentacion-colores-surtidos-35434",
@@ -419,7 +429,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "cartulina-blanca-medio-pliego-35433",
@@ -442,7 +453,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "papel-manualidades-35432",
@@ -465,7 +477,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "fomi-carta-blanca-x4-35276",
@@ -488,7 +501,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "fomi-carta-negra-x4-35275",
@@ -511,7 +525,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "fomi-carta-colores-surtd-color-individual-29031",
@@ -540,7 +555,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "papel-fomi-con-escarcha-color-individual-29030",
@@ -571,7 +587,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "paquete-fomi-x2-20205",
@@ -597,7 +614,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "fichas-bibliografica-blanca-19278",
@@ -698,7 +716,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "hoja-fomi-naranja-18991",
@@ -731,7 +750,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Naranja"
+      "color": "Naranja",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "hoja-fomi-verde-oscuro-18990",
@@ -764,7 +784,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "fomi-carta-glamur-color-individual-18989",
@@ -796,7 +817,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "fomi-carta-color-pastel-color-individual-18988",
@@ -828,7 +850,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "papel-adhesivo-amarillo-3m-x-45-cm-17840",
@@ -853,7 +876,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Amarillo"
+      "color": "Amarillo",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "canva-40x50-cm-14981",
@@ -909,7 +933,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "papel-fotografico-x20-180-gr-14976",
@@ -937,7 +962,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "hoja-carta-foami-azul--9908",
@@ -964,7 +990,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hoja-corcho-30x45-centimetros-9719",
@@ -1012,7 +1039,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "block-papel-manualidades-22x30-cm-9649",
@@ -1035,7 +1063,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "block-papel-manualidades-45x30-cm-9648",
@@ -1058,7 +1087,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "100-hojas-carpeta-26x20cm-9547",
@@ -1081,7 +1111,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "cartulina-colores-surtido-9399",
@@ -1104,7 +1135,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "cartulina-colores-tropicales-9398",
@@ -1126,7 +1158,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "cartulina-colores-arena-9397",
@@ -1148,7 +1181,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "cartulina-colores-neon-9396",
@@ -1170,7 +1204,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "cartulina-colores-invierno-9395",
@@ -1192,7 +1227,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "cartulina-colores-tierra-9394",
@@ -1214,7 +1250,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "cartulina-colores-pastel-9393",
@@ -1236,7 +1273,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "cartulina-colores-primarios-9392",
@@ -1258,7 +1296,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "cartulina-x24-15cm-tonos-rosados-9391",
@@ -1283,7 +1322,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "cartulina-x24-15cm-tonos-azules-9390",
@@ -1308,7 +1348,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "cartulina-x24-15cm-tonos-calidos-9389",
@@ -1330,7 +1371,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "cartulina-x24-15cm-tonos-rojos-9388",
@@ -1355,7 +1397,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "cartulina-x24-15cm-tonos-violeta-9387",
@@ -1378,7 +1421,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "hojas-x100-10x10cm-tonos-grises-9386",
@@ -1423,7 +1467,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hojas-foami-diseno-princesa-9382",
@@ -1445,7 +1490,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hoja-foami-diseno-nautico-9381",
@@ -1467,7 +1513,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hoja-foami-lila-9379",
@@ -1492,7 +1539,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hoja-foami-rosado-9378",
@@ -1517,7 +1565,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hoja-foami-verde-claro-9377",
@@ -1542,7 +1591,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hoja-foami-beige-9376",
@@ -1565,7 +1615,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Beige"
+      "color": "Beige",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hoja-foami-amarillo-neon-9374",
@@ -1590,7 +1641,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Amarillo"
+      "color": "Amarillo",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hoja-foami-azul-claro-9372",
@@ -1615,7 +1667,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "hoja-foami-verde-9371",
@@ -1640,7 +1693,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "fieltro-fucsia-22x30cm-9370",
@@ -2238,7 +2292,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "fieltro-rojo-con-escarcha-22x30cm-9344",
@@ -2263,7 +2318,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "fieltro-verde-con-escarcha-22x30cm-9343",
@@ -2288,7 +2344,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "fieltro-blanco-con-escarcha-22x30cm-9342",
@@ -2313,7 +2370,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "block-carta-cuaderno-in-black-70-hojas-8736",
@@ -2340,7 +2398,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "block-carta-cuaderno-incolors-70-hojas-surtido-8735",
@@ -2368,7 +2427,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "block-oficio-cuaderno-qnota70-hojas-surtido-8734",
@@ -2396,7 +2456,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "papeles-y-blocks",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "block-carta-rayado-inblack-70-hojas-surtido-8729",
@@ -2609,7 +2670,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "papeles-y-blocks"
+      "categoria": "papeles-y-blocks",
+      "tipo": "Cartulinas y papeles"
     }
   ]
 }

@@ -20,6 +20,8 @@ export interface Producto {
   subcategoria?: string;
   /** Color inferido del nombre (faceta de filtro), si aplica. */
   color?: string;
+  /** Tipo de producto inferido del nombre (faceta de filtro), si aplica. */
+  tipo?: string;
 }
 
 /** Versión liviana para listados/búsqueda en cliente (menos bytes al navegador). */
@@ -38,6 +40,8 @@ export interface ProductoIndex {
   subcategoria?: string;
   /** Color inferido (faceta de filtro), si aplica. */
   color?: string;
+  /** Tipo de producto inferido (faceta de filtro), si aplica. */
+  tipo?: string;
   popular: boolean;
 }
 

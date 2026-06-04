@@ -47,7 +47,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "set-pintura-x6-con-paleta-y-pincel-48214",
@@ -68,7 +69,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "set-pintura-x12-con-paleta-y-pincel-48213",
@@ -89,7 +91,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "set-pintura-con-acuarelas-y-crayolas-46902",
@@ -112,7 +115,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "pincel-ergonomico-x3-46901",
@@ -133,7 +137,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-pastel-x6-20-ml-37929",
@@ -154,7 +159,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-neon-x6-20-ml-37928",
@@ -175,7 +181,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "set-x5-pinceles-surtido-35319",
@@ -198,7 +205,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "acuarela-x36-con-pincel-35318",
@@ -220,7 +228,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "flores-x4-para-pintar-35183",
@@ -265,7 +274,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "pajaro-x4-para-pintar-35181",
@@ -358,7 +368,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "set-bolsa-animales-con-marcadores-35176",
@@ -381,7 +392,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "mini-canvas-carro-14-cm-35175",
@@ -427,7 +439,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "mini-canvas-dinosaurio-14-cm-35173",
@@ -542,7 +555,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "set-para-pintar-unicornio-10-cm-35168",
@@ -611,7 +625,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "set-para-pintar-puntos-sirena-14-cm-35164",
@@ -795,7 +810,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "set-para-pintar-puntos-animales-35151",
@@ -910,7 +926,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "set-animales-sticker-diamantes-35146",
@@ -933,7 +950,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "patela-divisiones-x10--35133",
@@ -977,7 +995,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "esponjas-para-pintar-x2-35131",
@@ -1130,7 +1149,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "paleta-acuarelas-x12--35121",
@@ -1151,7 +1171,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-neon-x4-35120",
@@ -1173,7 +1194,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-plateada-escarcha-neon-75-ml-35119",
@@ -1195,7 +1217,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "tempera-dorada-escarchada-neon-75-ml-35118",
@@ -1217,7 +1240,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "tempera-azul-neon-75-ml-35117",
@@ -1239,7 +1263,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-amrailla-75-ml-35116",
@@ -1260,7 +1285,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-blanca-75-ml-35115",
@@ -1282,7 +1308,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-roja-75-ml-35114",
@@ -1304,7 +1331,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-morada-75-ml-35113",
@@ -1326,7 +1354,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-naranja-75-ml-35112",
@@ -1348,7 +1377,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Naranja"
+      "color": "Naranja",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-cafe-75-ml-35111",
@@ -1370,7 +1400,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Café"
+      "color": "Café",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-azul-75-ml-35110",
@@ -1392,7 +1423,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "set-para-pintar-al-gato-33427",
@@ -1440,7 +1472,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "vinilo-rojo-x80-cc-28868",
@@ -1463,7 +1496,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "tempera-metalizada-x6-28867",
@@ -1484,7 +1518,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "set-pinceles-esponja-manualidades-6pcs-27883",
@@ -1509,7 +1544,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "pinceles-x6-20180",
@@ -1534,7 +1570,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "acuarela-pincel-colores-x12-19179",
@@ -1560,7 +1597,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "acuarela-pincel-colores-x8-19178",
@@ -1586,7 +1624,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "pintura-pincel-colores-19176",
@@ -1613,7 +1652,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "paleta-x8-acuarelas-18976",
@@ -1647,7 +1687,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "acuarelas-x12-con-pincel-18975",
@@ -1681,7 +1722,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "vinilo-azul-x80-cc-18625",
@@ -1705,7 +1747,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "vinilo-amarillo-x80-cc-18624",
@@ -1729,7 +1772,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Amarillo"
+      "color": "Amarillo",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "acuarela-bus-x12-18623",
@@ -1752,7 +1796,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "acuarela-x12-pastel-junior-18622",
@@ -1777,7 +1822,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "paleta-blanca-10-repuestos-9484",
@@ -1846,7 +1892,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "pinceles-x9-9479",
@@ -1867,7 +1914,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "acuarelas-x12-con-pincel-9478",
@@ -1888,7 +1936,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "acuarelas-x16-9477",
@@ -1909,7 +1958,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "set-pintura-con-acuarela-deportes-9108",
@@ -1931,7 +1981,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "titeres-de-palo-foami-armables-x3-granja-9106",
@@ -1955,7 +2006,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "palos-de-paleta-animales-salvajes-9104",
@@ -2001,7 +2053,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "perro-madera-3-mini-marcadores-9101",
@@ -2023,7 +2076,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "cocodrilo-madera-3-mini-marcadores-9100",
@@ -2045,7 +2099,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "leon-madera-3-mini-marcadores-9099",
@@ -2067,7 +2122,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "dinosaurio-madera-3-mini-marcadores-9097",
@@ -2089,7 +2145,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "set-pintura-unicornio-3d--9096",
@@ -2111,7 +2168,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "set-pintura-jirafa-3d--9095",
@@ -2133,7 +2191,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "set-pintura-oveja-3d--9093",
@@ -2155,7 +2214,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "pincel-y-brochas-x11-9062",
@@ -2176,7 +2236,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "pincel-y-brochas-x9-9061",
@@ -2197,7 +2258,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "espumas-x3-9060",
@@ -2240,7 +2302,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "pintar",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "pintura-x3-barra-9057",
@@ -2261,7 +2324,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "pintura-x3-barra-9056",
@@ -2284,7 +2348,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "paleta-x12-acuarelas-con-pincel-9055",
@@ -2305,7 +2370,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "temperas-x18-con-pincel-9053",
@@ -2328,7 +2394,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "pintar"
+      "categoria": "pintar",
+      "tipo": "Pinceles y pintura"
     }
   ]
 }

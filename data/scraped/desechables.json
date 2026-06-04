@@ -977,7 +977,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "platos-y-bandejas"
+      "subcategoria": "platos-y-bandejas",
+      "tipo": "Elásticos y caucho"
     },
     {
       "id": "porta-cupcake-dragon-ball-42910",
@@ -1093,7 +1094,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "manteles"
+      "subcategoria": "manteles",
+      "tipo": "Elásticos y caucho"
     },
     {
       "id": "mantel-avengers-108x182-cm-42904",
@@ -2631,7 +2633,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "platos-y-bandejas"
+      "subcategoria": "platos-y-bandejas",
+      "tipo": "Elásticos y caucho"
     },
     {
       "id": "platos-avengers-x6-17-cm-41141",
@@ -3382,7 +3385,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "manteles"
+      "subcategoria": "manteles",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "set-x30-carpeta-13-cm-41038",
@@ -3405,7 +3409,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "manteles"
+      "subcategoria": "manteles",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "cuchara-dorada-x96-38261",
@@ -3876,7 +3881,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "vasos-y-copas"
+      "subcategoria": "vasos-y-copas",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "vaso-dinosaurio-9-oz-x8-37925",
@@ -4216,7 +4222,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "platos-y-bandejas"
+      "subcategoria": "platos-y-bandejas",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "plato-metalizado-vibrante-x8-37910",
@@ -5162,7 +5169,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "servilletas"
+      "subcategoria": "servilletas",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "servilleta-metalizado-nino-o-nina-x16-37869",
@@ -5408,7 +5416,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "platos-y-bandejas"
+      "subcategoria": "platos-y-bandejas",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "servilletas-28921",
@@ -8812,7 +8821,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "platos-y-bandejas"
+      "subcategoria": "platos-y-bandejas",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "platos-plateados-triangulos-18-cm-x8-21545",
@@ -9128,7 +9138,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "servilletas"
+      "subcategoria": "servilletas",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "servilletas-triangulos-x16-21522",
@@ -9709,7 +9720,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "desechables",
-      "subcategoria": "accesorios-de-bar-y-picadas"
+      "subcategoria": "accesorios-de-bar-y-picadas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "accesorios-de-bar-18780",

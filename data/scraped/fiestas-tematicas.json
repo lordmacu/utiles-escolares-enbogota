@@ -58,7 +58,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "fiestas-tematicas",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "globo-metalizado-paw-patrol-skye-45-cm-43006",
@@ -833,7 +834,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "fiestas-tematicas",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-troquelado-plateado-x8-12x18-cm-42839",
@@ -856,7 +858,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "fiestas-tematicas",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-troquelado-plateado-x8-14-5-cm-42838",
@@ -879,7 +882,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "fiestas-tematicas",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-troquelado-dorado-x8-15-5-cm-42837",
@@ -902,7 +906,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "fiestas-tematicas",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-troquelado-dorado-x8-14-5-cm-42836",
@@ -925,7 +930,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "fiestas-tematicas",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "tarjeta-de-invitacion-1-boy-x8-42513",
@@ -1316,7 +1322,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "fiestas-tematicas"
+      "categoria": "fiestas-tematicas",
+      "tipo": "Elásticos y caucho"
     },
     {
       "id": "flecos-dragon-ball-x6-41205",
@@ -4406,7 +4413,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "fiestas-tematicas"
+      "categoria": "fiestas-tematicas",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "caja-de-regalo-mariposa-27469",
@@ -4436,7 +4444,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "fiestas-tematicas"
+      "categoria": "fiestas-tematicas",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "caja-de-regalo-hadas-del-bosque-27468",
@@ -5888,7 +5897,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "fiestas-tematicas"
+      "categoria": "fiestas-tematicas",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "globos-metalizados-18722",
@@ -6244,7 +6254,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "fiestas-tematicas"
+      "categoria": "fiestas-tematicas",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "confeti-princesas-con-corazon-18459",

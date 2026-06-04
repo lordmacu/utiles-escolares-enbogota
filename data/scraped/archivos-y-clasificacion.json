@@ -30,7 +30,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "folder-carta-sobre-horizontal-surtido-46941",
@@ -55,7 +56,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-carta-transparente-x2-35462",
@@ -79,7 +81,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-carta-cremalleras-trasnparente-35461",
@@ -102,7 +105,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-color-vertical-35460",
@@ -125,7 +129,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-transparente-vertical-35459",
@@ -148,7 +153,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-vertical-x4-25x332-cm-35373",
@@ -171,7 +177,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-vertical-x5-22x30-cm-35372",
@@ -194,7 +201,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-vertical-x6-15x22-cm-35371",
@@ -217,7 +225,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-metalizado-21x28-cm-35370",
@@ -240,7 +249,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-metalizado-15x23-cm-35369",
@@ -262,7 +272,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "porta-tarjetas-x10-35368",
@@ -331,7 +342,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "separadores-oficio-35365",
@@ -354,7 +366,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "protectores-x20-para-hojas-35364",
@@ -424,7 +437,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-verde-argollas-bolsillos-35359",
@@ -448,7 +462,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-argollas-carta-35358",
@@ -470,7 +485,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-blanca-argollas-bolsillos-35357",
@@ -493,7 +509,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-expansible-13-compartimeintos-carta-35355",
@@ -516,7 +533,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "archivador-expandible-5-divisiones-35354",
@@ -563,7 +581,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Etiquetas y rótulos"
     },
     {
       "id": "set-x504-etiquetas-redondas-35328",
@@ -585,7 +604,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Etiquetas y rótulos"
     },
     {
       "id": "rotulo-adhesivo-marca-carpetas-35327",
@@ -608,7 +628,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobres-azules-x6-35253",
@@ -631,7 +652,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobres-blancos-x6-35252",
@@ -655,7 +677,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "separadores-plastico-105-mujer-25915",
@@ -680,7 +703,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "pasta-argolla-105-plastica-sin-solapa-25914",
@@ -845,7 +869,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "pasta-105-disney-disney-25909",
@@ -1047,7 +1072,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-porta-documento-carta-surtido-19289",
@@ -1075,7 +1101,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-carta-con-cierre-elastico-surtida-19287",
@@ -1103,7 +1130,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-bicolor-carta-2-bolsillos-surtido-19286",
@@ -1131,7 +1159,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-carta-2-bolsillos-19285",
@@ -1158,7 +1187,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-25-cm-x-32-cmx-3-unidades-19206",
@@ -1184,7 +1214,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "portafolio-argollado-0-5-blanco-2-bolsillos-19202",
@@ -1211,7 +1242,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "folder-tipo-cheque-surtido-individual-19200",
@@ -1246,7 +1278,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-carta-clip-color-surtida-9678",
@@ -1270,7 +1303,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "carpeta-bolsillos-x8-surtida-9677",
@@ -1294,7 +1328,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-boton-carta-surtida-9674",
@@ -1318,7 +1353,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-bicolor-seguridad-surtida-9673",
@@ -1342,7 +1378,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "portafolio-burbuja-surtido-9671",
@@ -1418,7 +1455,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobre-papel-x4-22x30cm-9548",
@@ -1440,7 +1478,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "etiqueta-de-refuerzo-x544-9545",
@@ -1463,7 +1502,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Etiquetas y rótulos"
     },
     {
       "id": "carpeta-3-anillos-9542",
@@ -1486,7 +1526,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-3-anillos-surtida-9541",
@@ -1510,7 +1551,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-3-anillos-surtida-9540",
@@ -1534,7 +1576,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-3-anillos-5-cm-9538",
@@ -1557,7 +1600,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobres-x5-blanco-9258",
@@ -1582,7 +1626,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobres-x6-dorado-9257",
@@ -1605,7 +1650,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobres-x6-gris-9256",
@@ -1628,7 +1674,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Gris"
+      "color": "Gris",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "sobres-x6-rosado-9255",
@@ -1653,7 +1700,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "archivos-y-clasificacion",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-legajadora-oficio-8745",
@@ -1675,7 +1723,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-legajadora-carta-8744",
@@ -1697,7 +1746,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-con-resorte-natural-zoo-8743",
@@ -1719,7 +1769,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-con-resporte-liga-justicia-2-8742",
@@ -1741,7 +1792,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-con-resorte-liga-justicia-2-8741",
@@ -1763,7 +1815,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-con-resorte-tribals-8740",
@@ -1785,7 +1838,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "carpeta-con-resorte-jurasssic-world-8738",
@@ -1807,7 +1861,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "archivos-y-clasificacion"
+      "categoria": "archivos-y-clasificacion",
+      "tipo": "Carpetas y archivo"
     }
   ]
 }

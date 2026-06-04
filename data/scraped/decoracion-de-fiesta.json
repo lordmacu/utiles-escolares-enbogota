@@ -211,7 +211,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "decoracion-de-fiesta"
+      "subcategoria": "decoracion-de-fiesta",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "molde-cupcake-diseno-x24-48197",
@@ -233,7 +234,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "decoracion-de-fiesta"
+      "subcategoria": "decoracion-de-fiesta",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "molde-cupcake-pequeno-46893",
@@ -255,7 +257,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "decoracion-de-fiesta"
+      "subcategoria": "decoracion-de-fiesta",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "vela-estrellas-plateadas-x3-46049",
@@ -537,7 +540,8 @@
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
       "subcategoria": "decoracion-de-fiesta",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "pozo-vidrio-con-pajaros-43811",
@@ -711,7 +715,8 @@
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
       "subcategoria": "decoracion-de-fiesta",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "set-x12-decoracion-baby-rosado-43743",
@@ -1411,7 +1416,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "globos-y-accesorios"
+      "subcategoria": "globos-y-accesorios",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "topper-plateado-numero-8-42983",
@@ -1887,7 +1893,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "decoracion-de-fiesta"
+      "subcategoria": "decoracion-de-fiesta",
+      "tipo": "Elásticos y caucho"
     },
     {
       "id": "banderines-liga-de-la-justicia-42939",
@@ -1910,7 +1917,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "decoracion-de-fiesta"
+      "subcategoria": "decoracion-de-fiesta",
+      "tipo": "Elásticos y caucho"
     },
     {
       "id": "guirnalda-feliz-cumpleanos-t-rex-42938",
@@ -3346,7 +3354,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "vela-iris-numero-9-41249",
@@ -3369,7 +3378,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "vela-iris-numero-8-41248",
@@ -3392,7 +3402,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "vela-iris-numero-7-41247",
@@ -3415,7 +3426,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "vela-iris-numero-5-41246",
@@ -3438,7 +3450,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "vela-iris-numero-3-41245",
@@ -3462,7 +3475,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "vela-neon-numero-9-41244",
@@ -4488,7 +4502,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "decoracion-de-fiesta"
+      "subcategoria": "decoracion-de-fiesta",
+      "tipo": "Elásticos y caucho"
     },
     {
       "id": "abanicos-superman-x2-41175",
@@ -5087,7 +5102,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "vela-escarchada-numero-8-41036",
@@ -5110,7 +5126,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "vela-escarchada-numero-7-41035",
@@ -5134,7 +5151,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "vela-escarchada-numero-6-41034",
@@ -5157,7 +5175,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "vela-escarchada-numero-3-41033",
@@ -5180,7 +5199,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "vela-escarchada-numero-0-41032",
@@ -5203,7 +5223,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "set-de-velas-polka-x12-41031",
@@ -5588,7 +5609,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "velita-letras-feliz-cumpleanos-metal-nina-37848",
@@ -6504,7 +6526,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "globos-y-accesorios"
+      "subcategoria": "globos-y-accesorios",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "globo-latex-pastel-dusk-surtido-r-12-x-12-unidades-37799",
@@ -7047,7 +7070,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "vela-numero-30-escarchada--28907",
@@ -7072,7 +7096,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "globo-numero-7-plateado--28900",
@@ -10935,7 +10960,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "tarjeta-de-invitacion-con-diseno-de-globos-x8--18708",
@@ -13968,7 +13994,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "vela-spiral-x24-15591",
@@ -14074,7 +14101,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "decoracion-de-fiesta",
-      "subcategoria": "velas"
+      "subcategoria": "velas",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "recordatorio-primera-comunion-8-cm-9875",

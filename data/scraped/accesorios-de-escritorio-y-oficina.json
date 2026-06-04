@@ -91,7 +91,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "tabla-chequeo-46936",
@@ -217,7 +218,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "set-x3-portalapiz-organizador-portautiles-surtido-42070",
@@ -329,7 +331,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "organizador-documentos-3-divisiones-38564",
@@ -422,7 +425,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "juego-geometrico-5-piezas-37962",
@@ -443,7 +447,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "almohadilla-dactilar-negra-37935",
@@ -486,7 +491,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "almohadilla-sellos-plastica-mediana-37933",
@@ -507,7 +513,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "caja-organizadora-12x7-cm-35458",
@@ -919,7 +926,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "set-trazado-x4-35420",
@@ -1012,7 +1020,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "accesorios-de-escritorio-y-oficina",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "caja-organizadora-17x5-cm-35299",
@@ -1356,7 +1365,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "set-libro-y-esfero-unicornio-33878",
@@ -1379,7 +1389,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "set-libro-y-esfero-unicornio-33877",
@@ -1402,7 +1413,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "tinta-para-sellos-negro-30cc-28872",
@@ -1426,7 +1438,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "accesorios-de-escritorio-y-oficina",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "soporte-decorativo-25263",
@@ -1647,7 +1660,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "accesorios-de-escritorio-y-oficina",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "tabla-chequeo-puntos-surtida-19280",
@@ -1735,7 +1749,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "accesorios-de-escritorio-y-oficina"
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "hoja-de-corcho-18987",
@@ -1819,7 +1834,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "accesorios-de-escritorio-y-oficina",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "portacarnet-con-cinta-negra-7-5x10cm-17846",
@@ -1844,7 +1860,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "accesorios-de-escritorio-y-oficina",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Cintas"
     },
     {
       "id": "organizador-x6-apilable-12943",
@@ -2134,7 +2151,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "accesorios-de-escritorio-y-oficina",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "tizas-x4-jumbo-marmol-colores-surtidos-9341",
@@ -2159,7 +2177,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "accesorios-de-escritorio-y-oficina",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "tizas-x20-colores-surtidos-9339",
@@ -2182,7 +2201,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "accesorios-de-escritorio-y-oficina",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "tizas-x6-jumbo-colores-surtidos-9338",
@@ -2205,7 +2225,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "accesorios-de-escritorio-y-oficina",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "tizas-x20-blancas-9335",

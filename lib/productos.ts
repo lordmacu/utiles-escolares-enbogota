@@ -29,6 +29,7 @@ function toIndex(p: Producto): ProductoIndex {
     catPrincipal: getSubcategoriaParent(p.categoria)?.slug || p.categoria,
     subcategoria: p.subcategoria,
     color: p.color,
+    tipo: p.tipo,
     popular: !!p.popular,
   };
 }

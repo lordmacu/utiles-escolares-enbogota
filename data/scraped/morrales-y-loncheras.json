@@ -549,7 +549,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "cartuchera-multiuso-sobre-glitter-pequena-rosada-mujer-48727",
@@ -577,7 +578,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "cartuchera-multiuso-sobre-pequena-morada-mujer-48726",
@@ -605,7 +607,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "cartuchera-multiuso-sobre-pequena-azul-hombre-48725",
@@ -633,7 +636,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "cartuchera-escolar-en-peluche-para-nina-fluffy-rosada-48722",
@@ -1307,7 +1311,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "lonchera-borrador-morado-48678",
@@ -1334,7 +1339,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "lonchera-borrador-negro-48676",
@@ -1361,7 +1367,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "lonchera-bel-azul-48675",
@@ -1529,7 +1536,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "lonchera-termica-anori-color-morado-48653",
@@ -2749,7 +2757,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "morral-universitario-porta-pc-14-trik-verde-hombre-48592",
@@ -4488,7 +4497,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "multiusos-sobre-azul-35686",
@@ -4515,7 +4525,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "multiusos-sobre-rosado-35685",
@@ -4542,7 +4553,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Carpetas y archivo"
     },
     {
       "id": "lonchera-azul-pizarra-35672",
@@ -5053,7 +5065,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Gris"
+      "color": "Gris",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "morral-negro-acuarela-35529",
@@ -5080,7 +5093,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "morrales-y-loncheras",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "morral-azul-plaine-35528",

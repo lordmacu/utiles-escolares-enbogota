@@ -168,7 +168,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "empaques-de-regalos"
+      "categoria": "empaques-de-regalos",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "bolsa-regalo-holografica-con-ventana-los-tres-elefantes-0153456721ge8519-s",
@@ -212,7 +213,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "empaques-de-regalos"
+      "categoria": "empaques-de-regalos",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "bolsa-regalo--rombos-unicolor--los-tres-elefantes-0153456712ge8012-xl",
@@ -369,7 +371,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "empaques-de-regalos"
+      "categoria": "empaques-de-regalos",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "bolsa-regalo-navidad-brillante-los-tres-elefantes-0153456803gx8178-mh",

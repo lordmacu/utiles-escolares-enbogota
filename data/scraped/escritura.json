@@ -27,7 +27,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esfero-borrable-x3-48223",
@@ -49,7 +50,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esfero-borrable-x3-48222",
@@ -71,7 +73,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "kit-escolar-muneca-46926",
@@ -182,7 +185,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esfero-negro-x10-46921",
@@ -205,7 +209,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esfero-glitter-x12-46920",
@@ -227,7 +232,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "set-notas-adhesivas-x4-46905",
@@ -250,7 +256,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "tubo-colores-x12-46904",
@@ -272,7 +279,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "tubo-colores-x24-46903",
@@ -294,7 +302,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "boligrafo-corazon-surtido-42645",
@@ -319,7 +328,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "portaminas-tinky-ice-0-7-mm-37961",
@@ -341,7 +351,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-triangular-jumbo-x10-37960",
@@ -364,7 +375,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "boligrafo-ineo-green-oasis-37959",
@@ -387,7 +399,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafo-ineo-fiery-red-37958",
@@ -410,7 +423,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafo-ineo-ocean-blue-37956",
@@ -432,7 +446,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafo-jazz-pastel-peach-37955",
@@ -454,7 +469,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "plumon-pincel-markana-x12-37954",
@@ -476,7 +492,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "resaltador-textmarket-flash-buho-x16-37953",
@@ -498,7 +515,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "resaltador-textmarket-flash-pastel-x10-37952",
@@ -520,7 +538,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "colorella-star-jr-x6-37948",
@@ -586,7 +605,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-largos-pastel-x12-37930",
@@ -608,7 +628,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "set-x4-esferos-gel-36151",
@@ -636,7 +657,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esfero-borrable-surtido-36149",
@@ -664,7 +686,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "set-x4-resaltadores-36148",
@@ -688,7 +711,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "set-x6-resaltadores-36147",
@@ -712,7 +736,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-rojo-doble-punta-36146",
@@ -739,7 +764,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "lapices-triangulares-x12-35412",
@@ -763,7 +789,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "boligrafo-x3-35411",
@@ -787,7 +814,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esferos-colores-x4-35410",
@@ -811,7 +839,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "boligrafo-colores-x3-35407",
@@ -835,7 +864,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "esfero-roller-negro-x3-35406",
@@ -860,7 +890,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafo-nino-10-en-1-35404",
@@ -884,7 +915,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafo-retractil-colores-x10-35402",
@@ -908,7 +940,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "boligrafo-negro-x3-35401",
@@ -932,7 +965,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "resaltadores-neon-x4-35400",
@@ -956,7 +990,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "resaltadores-pastel-x4-35399",
@@ -979,7 +1014,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "mini-marcadores-lavables-x10-35396",
@@ -1003,7 +1039,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-triangula-borrable-x3-35395",
@@ -1026,7 +1063,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "set--x50-crayones-oleo-35323",
@@ -1050,7 +1088,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "set-x6-crayones-doble-punta-35321",
@@ -1074,7 +1113,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "set-x8-crayones-premiun-35320",
@@ -1098,7 +1138,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "esferos-gel-neon-x6-35271",
@@ -1122,7 +1163,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esferos-pastel-x6-35270",
@@ -1146,7 +1188,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafos-negros-x4-35269",
@@ -1170,7 +1213,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "marcador-plata-35267",
@@ -1195,7 +1239,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-metalizado-dorado--35266",
@@ -1220,7 +1265,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-tipo-tiza-rosado-neon-35265",
@@ -1245,7 +1291,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-tipo-tiza-naranja-neon-35264",
@@ -1270,7 +1317,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Naranja"
+      "color": "Naranja",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-tipo-tiza-blanco-35263",
@@ -1295,7 +1343,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-tipo-tiza-verde-neon-35262",
@@ -1319,7 +1368,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-tipo-tiza-amarillo-neon-35261",
@@ -1343,7 +1393,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Amarillo"
+      "color": "Amarillo",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-tipo-tiza-rosado-neon-35260",
@@ -1368,7 +1419,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-piel-metalizado-35259",
@@ -1392,7 +1444,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "portaminas-unicornio-surtido-33875",
@@ -1416,7 +1469,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Lápices"
     },
     {
       "id": "portaminas-marvel-surtido-33874",
@@ -1440,7 +1494,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Lápices"
     },
     {
       "id": "esferos-gel-frutas-x12-33873",
@@ -1464,7 +1519,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esfero-corazon-surtido-33872",
@@ -1488,7 +1544,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esfero-colores-x6-33871",
@@ -1511,7 +1568,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "resaltadores-pasteles-x6-33870",
@@ -1535,7 +1593,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "resaltadores-doblepunta-x6-33869",
@@ -1558,7 +1617,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "resaltadores-unicornio-surtido-33868",
@@ -1582,7 +1642,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "esfero-x6-gel-glitter-raimbow-29029",
@@ -1614,7 +1675,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "marcador-azul-metal-29028",
@@ -1646,7 +1708,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-morado-metal-29027",
@@ -1679,7 +1742,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-rosado-metal-29026",
@@ -1712,7 +1776,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "resaltador-x-5-28875",
@@ -1736,7 +1801,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "markana-pincel-pastel-x12-28874",
@@ -1760,7 +1826,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "marcador-negr-o-borraseco-28873",
@@ -1784,7 +1851,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "colores-redondos-28871",
@@ -1808,7 +1876,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x-36-28870",
@@ -1832,7 +1901,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "lapiz-nuvo-x6-25953",
@@ -1862,7 +1932,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "kit-escolar-spidey-25950",
@@ -1976,7 +2047,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-hb-jumbo-personajes-x6-25946",
@@ -2008,7 +2080,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-flower-power-x6-25945",
@@ -2034,7 +2107,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-negro-x12-25944",
@@ -2061,7 +2135,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Lápices"
     },
     {
       "id": "resaltador-escarchado-neon-x4-25940",
@@ -2091,7 +2166,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "punta-pincel-fpower-x12-colores-25937",
@@ -2121,7 +2197,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "super-plumon-conica-x12-co-25936",
@@ -2237,7 +2314,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-permanente-pastel-x6-co-25932",
@@ -2265,7 +2343,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "doble-punta-pincelconi-metal-x-8-color-25930",
@@ -2297,7 +2376,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "combo-marcador-permanente-x20-cartuchera-25929",
@@ -2331,7 +2411,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "doble-punta-pincelconi-pastel-x8-color-25928",
@@ -2363,7 +2444,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "colores-doble-punta-x12-25893",
@@ -2389,7 +2471,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-jumbo-personajes-x-12-25892",
@@ -2421,7 +2504,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-personajes-nino-x-12-25891",
@@ -2453,7 +2537,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-personajes-nina-x12-25890",
@@ -2485,7 +2570,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-black-x48-25889",
@@ -2513,7 +2599,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-macaron-x12-redondos-25888",
@@ -2543,7 +2630,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x36-25887",
@@ -2573,7 +2661,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "lapices-de-color-extreme-colors-x8-20856",
@@ -2605,7 +2694,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "lapices-de-color-efecto-metalico-x8-20855",
@@ -2643,7 +2733,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Lápices"
     },
     {
       "id": "portaminas-0-7-mm-azul-x4-19265",
@@ -2673,7 +2764,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-x8-neon-19262",
@@ -2700,7 +2792,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-x8-escarchado-19261",
@@ -2732,7 +2825,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "lapiz-x8-holografico-19260",
@@ -2759,7 +2853,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-n-2-x3-con-tajalapiz-19259",
@@ -2786,7 +2881,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-n-2-x-4-con-tajalapiz-19258",
@@ -2813,7 +2909,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-n-2-x-4-amarillo-19256",
@@ -2849,7 +2946,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Amarillo"
+      "color": "Amarillo",
+      "tipo": "Lápices"
     },
     {
       "id": "esfero-gel-colores-surtidos-x-6-19255",
@@ -2875,7 +2973,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "rotulador-x3-negro-19253",
@@ -2901,7 +3000,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "resaltadores-pastel-colores-x3-19251",
@@ -2929,7 +3029,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "resaltador-fluorescente-surtido-19250",
@@ -2958,7 +3059,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "resaltador-fluorecente-colores-x4-19249",
@@ -2986,7 +3088,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "marcador-lavable-arcoiris-x6-19246",
@@ -3014,7 +3117,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-seco-borrable-x3-19245",
@@ -3039,7 +3143,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-jumbo-x-3-permanente-negro-19244",
@@ -3070,7 +3175,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-permanenete-colores-x3-19243",
@@ -3095,7 +3201,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "marcador-x-5-neon-permanente-19242",
@@ -3128,7 +3235,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "set-de-marca-x-3borrables-con-borrador-19236",
@@ -3161,7 +3269,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "crayones-x-12-unidad-19184",
@@ -3193,7 +3302,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "crayones-x-12-unidades-jumbo-19183",
@@ -3225,7 +3335,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "crayones-x-8-unidades-con-mecanismo-19182",
@@ -3257,7 +3368,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "crayones-x-16-unidades-19181",
@@ -3284,7 +3396,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x-12-corto-19180",
@@ -3316,7 +3429,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "esfero-x6-gel-glitter-multicolor-18986",
@@ -3353,7 +3467,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "esferos-multicolor-x6-18985",
@@ -3390,7 +3505,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "minas-60-mm-0-7-hb-x3-18651",
@@ -3415,7 +3531,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-no-2x12-pz-40-18650",
@@ -3440,7 +3557,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "micropunta-plus-x12-18649",
@@ -3465,7 +3583,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "marcador-x10-grafico-18646",
@@ -3490,7 +3609,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "resaltador-flash-verde-18645",
@@ -3516,7 +3636,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-metalico-x10-18642",
@@ -3541,7 +3662,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-x8-permanente-18641",
@@ -3566,7 +3688,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-permanente-pastel-x5-18640",
@@ -3591,7 +3714,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-permanente-x4-18639",
@@ -3616,7 +3740,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "windows-markers-600-18638",
@@ -3670,7 +3795,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "crayones-x6-metal-jumbo-18629",
@@ -3697,7 +3823,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "pelicrayones-jumbo-pastel-x6-18628",
@@ -3772,7 +3899,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "boligrafo-azul-0-7-mm-17838",
@@ -3798,7 +3926,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafo-azul-17837",
@@ -3824,7 +3953,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafo-con-luz-led-9714",
@@ -3852,7 +3982,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "portaminas-07-con-minas-surtido-9631",
@@ -3877,7 +4008,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "esferos-y-lapices",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Lápices"
     },
     {
       "id": "boligrafo-escarchado-x5-9622",
@@ -3901,7 +4033,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "boligrafo-pastel-gel-x12-9620",
@@ -3924,7 +4057,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafo-escarchado-gel-x12-9619",
@@ -3948,7 +4082,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "boligrafo-neon-gel-x12-9618",
@@ -3971,7 +4106,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "boligrafo-escarchado-gel-essence-x24-9617",
@@ -3995,7 +4131,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "boligrado-gel-essence-x6-9611",
@@ -4067,7 +4204,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-lavable-punto-9603",
@@ -4091,7 +4229,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "boligrafo-borrable-x12-9602",
@@ -4115,7 +4254,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "marcador-lavable-super-x20-9600",
@@ -4139,7 +4279,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-lavable-punta-fina-x10-9598",
@@ -4162,7 +4303,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-doble-punta-lavable-x8-9597",
@@ -4185,7 +4327,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-jumbo-lavables-x8-9596",
@@ -4209,7 +4352,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-jumbo-x3-9591",
@@ -4233,7 +4377,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-permanente-x3-9590",
@@ -4256,7 +4401,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcadores-x10-pagina-neon-05x17-9498",
@@ -4280,7 +4426,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "crayones-x6-de-gel-sedoso-9495",
@@ -4304,7 +4451,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "crayones-x8-jumbo-9494",
@@ -4328,7 +4476,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "crayones-x24-gel-suave-9492",
@@ -4352,7 +4501,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "crayones-x12-9490",
@@ -4376,7 +4526,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "crayones-mini-x10-9489",
@@ -4400,7 +4551,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-neon-x8-9488",
@@ -4424,7 +4576,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x24-9487",
@@ -4448,7 +4601,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-mini-x24-9486",
@@ -4472,7 +4626,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "color-x12-largo-9485",
@@ -4519,7 +4674,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "boligrafo-x6-premium-metalizado-9326",
@@ -4542,7 +4698,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Esferos y bolígrafos"
     },
     {
       "id": "marcador-gris-metal-extrafino-9323",
@@ -4566,7 +4723,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Gris"
+      "color": "Gris",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-dorado-metal-extrafino-9322",
@@ -4590,7 +4748,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-x3-permamente-punta-surtida-9320",
@@ -4614,7 +4773,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-x3-permamente-punta-surtida-9319",
@@ -4638,7 +4798,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-x3-permamente-punta-surtida-9318",
@@ -4662,7 +4823,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-dorado-x3-permamente-punta-surtida-9315",
@@ -4686,7 +4848,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-negro-x3-permamente-punta-surtida-9314",
@@ -4712,7 +4875,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-x5-tipo-pintura-neon-9312",
@@ -4735,7 +4899,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-x5-tipo-pintura-9311",
@@ -4760,7 +4925,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "set-x12-crayones-tipo-marcador-9122",
@@ -4783,7 +4949,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "set-x16-crayones-9121",
@@ -4806,7 +4973,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x12-triangulares-premium-9120",
@@ -4829,7 +4997,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "set-escolar-buzz-lightyear-9042",
@@ -4877,7 +5046,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "lapiz-black-and-white-x6-9040",
@@ -4900,7 +5070,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "esferos-y-lapices"
+      "subcategoria": "esferos-y-lapices",
+      "tipo": "Lápices"
     },
     {
       "id": "plumon-doble-punta-x36-9037",
@@ -4946,7 +5117,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "colores-x6-9030",
@@ -4969,7 +5141,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-jumbo-x12-9029",
@@ -4992,7 +5165,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x12-9028",
@@ -5015,7 +5189,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x24-9027",
@@ -5038,7 +5213,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "resaltador-x6-pastel-incolors-8618",
@@ -5062,7 +5238,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "marcadores-y-resaltadores"
+      "subcategoria": "marcadores-y-resaltadores",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "plumon-x12-redondo-grueso-8617",
@@ -5132,7 +5309,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x13-doble-punta-8614",
@@ -5156,7 +5334,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x15-doble-punta-redondos-incolors-8613",
@@ -5179,7 +5358,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x15-pro-8612",
@@ -5202,7 +5382,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x15-8611",
@@ -5225,7 +5406,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x12-jumbo-triangulares-8610",
@@ -5249,7 +5431,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x24-redondos-8609",
@@ -5272,7 +5455,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "colores-x15-redondos-incolors-8608",
@@ -5296,7 +5480,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "escritura",
-      "subcategoria": "colores-y-crayolas"
+      "subcategoria": "colores-y-crayolas",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "marcador-amarillo-de-tiza-8086",
@@ -5324,7 +5509,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Amarillo"
+      "color": "Amarillo",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-verde-de-tiza-8085",
@@ -5352,7 +5538,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-rosado-de-tiza-8083",
@@ -5380,7 +5567,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-rojo-de-tiza-8081",
@@ -5408,7 +5596,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-amarillo-vidrio-ceramica-8079",
@@ -5436,7 +5625,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Amarillo"
+      "color": "Amarillo",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-naranja-vidrio-ceramica-8078",
@@ -5462,7 +5652,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Naranja"
+      "color": "Naranja",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-morado-vidrio-ceramica-8076",
@@ -5488,7 +5679,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Marcadores y resaltadores"
     },
     {
       "id": "marcador-rojo-vidrio-ceramica-8073",
@@ -5516,7 +5708,8 @@
       "stock": 10,
       "categoria": "escritura",
       "subcategoria": "marcadores-y-resaltadores",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Marcadores y resaltadores"
     }
   ]
 }

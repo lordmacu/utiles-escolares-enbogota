@@ -33,7 +33,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cinta-pegante-doble-faz-x2-48221",
@@ -54,7 +55,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "set-numeros-fomy-48218",
@@ -75,7 +77,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "tijera-cafe-pnta-redonda-48217",
@@ -97,7 +100,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Café"
+      "color": "Café",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "cinta-pegante-doble-faz-2-mts-46919",
@@ -118,7 +122,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "dispensador-elefantes-x2-cintas-surtido-46918",
@@ -141,7 +146,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-pegante-delgada-46917",
@@ -163,7 +169,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "tijera-oficina-46916",
@@ -184,7 +191,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "juego-notas-adhesivas-46915",
@@ -205,7 +213,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "juego-notas-adhesivas-46914",
@@ -226,7 +235,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "juego-notas-adhesivas-cintas-bibliograficas-46913",
@@ -247,7 +257,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "juego-notas-adhesivas-46912",
@@ -268,7 +279,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "set-notas-adhesivas-x100-46911",
@@ -290,7 +302,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "notas-adhesivas-carita-feliz-46910",
@@ -311,7 +324,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "set-notas-adhesivas-x300-46909",
@@ -332,7 +346,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "set-notas-adhesivas-x100-neon-46908",
@@ -353,7 +368,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "set-notas-adhesivas-x100-46907",
@@ -375,7 +391,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "set-notas-adhesivas-x4-46906",
@@ -397,7 +414,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "tarjeta-adhesiva-navidena-4-hojas-46460",
@@ -463,7 +481,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "libreta-mariposa-con-boligrafo-surtido-42649",
@@ -488,7 +507,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "hilos-colores-glamour-x5-39059",
@@ -509,7 +529,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "alfileres-x700-38778",
@@ -530,7 +551,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "silicon-liquido-solvente-250-ml-37945",
@@ -551,7 +573,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "silicon-liquido-solvente-30-ml-37944",
@@ -572,7 +595,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "silicon-liquido-solvente-100-ml-37943",
@@ -593,7 +617,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-en-barra-peliflix-40-g-37942",
@@ -614,7 +639,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-en-barra-peliflix-20-g-37941",
@@ -635,7 +661,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pasta-x4-limpiatipos-azul-37940",
@@ -657,7 +684,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "2-repuestos-click-borrador-37939",
@@ -678,7 +706,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "lapiz-borrador-click-2-repuestos-37938",
@@ -699,7 +728,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Lápices"
     },
     {
       "id": "tijeras-escolares-fancy-12-cm-37937",
@@ -720,7 +750,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijeras-escolares-ergonomicas-12-cm-37936",
@@ -741,7 +772,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "set-estuche-accesorios-de-costura-36727",
@@ -785,7 +817,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Elásticos y caucho"
     },
     {
       "id": "set-x8-broches-36473",
@@ -806,7 +839,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "set-x28-broches-surtidos-36472",
@@ -828,7 +862,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "frasco-de-escarcha-pequeno-x12-36156",
@@ -851,7 +886,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "tubos-de-escarcha-surtido-x12-36155",
@@ -875,7 +911,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "tubo-de-escarcha-surtido-x12-36154",
@@ -900,7 +937,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "set-x12-tubos-de-escarcha-colores-surtidos-36153",
@@ -924,7 +962,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "calculadora-lila-36145",
@@ -955,7 +994,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Calculadoras"
     },
     {
       "id": "calculadora-multicolor-36144",
@@ -983,7 +1023,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Calculadoras"
     },
     {
       "id": "calculadora-azul-36143",
@@ -1014,7 +1055,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Calculadoras"
     },
     {
       "id": "calculadora-multicolor-36142",
@@ -1045,7 +1087,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Calculadoras"
     },
     {
       "id": "corrector-liquido-oso-36141",
@@ -1071,7 +1114,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "borrador-animales-36140",
@@ -1095,7 +1139,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "borrador-frutas-36139",
@@ -1118,7 +1163,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "mi-diario-secreto---gris-35812",
@@ -1143,7 +1189,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Gris"
+      "color": "Gris",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cuadriculado-3-materias-35463",
@@ -1167,7 +1214,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "plastilina-potes-x6-35446",
@@ -1190,7 +1238,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-potes-x4-35445",
@@ -1213,7 +1262,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-color-fluorecente-x5-35444",
@@ -1235,7 +1285,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-color-primario-x5-35443",
@@ -1257,7 +1308,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-colores-x9-35442",
@@ -1280,7 +1332,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "plastilina-x12-3-moldes-35441",
@@ -1303,7 +1356,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-colores-neon-x4-35440",
@@ -1326,7 +1380,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "plastilina-colores-tierra-x4-35439",
@@ -1349,7 +1404,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "block-rayado-50-hojas-12x20-cm-35424",
@@ -1396,7 +1452,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "libreta-argollada-100-hojas-35422",
@@ -1420,7 +1477,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "libreta-de-bolsillo-35421",
@@ -1444,7 +1502,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "color-regla-30-cm-35417",
@@ -1467,7 +1526,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "regla-flexible-35415",
@@ -1490,7 +1550,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "set-compas-trasportador-y-lpiz-35414",
@@ -1513,7 +1574,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "pegamento-tipo-cemento-35391",
@@ -1536,7 +1598,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "super-pegamento-x6-3--gr-35390",
@@ -1558,7 +1621,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "super-pegamento-x4-3-gr-35389",
@@ -1580,7 +1644,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "super-pegamento-x5-0-5-gr-35388",
@@ -1603,7 +1668,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-barra-x2-36-gr-35386",
@@ -1625,7 +1691,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "cinta-color-4-7-cm-35385",
@@ -1648,7 +1715,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "dispensador-cinta-pequeno-35383",
@@ -1671,7 +1739,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "dispensador-de-cinta-2-5-cm-35382",
@@ -1694,7 +1763,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-cafe-4-7-cm-con-dispensador-35381",
@@ -1718,7 +1788,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Café"
+      "color": "Café",
+      "tipo": "Cintas"
     },
     {
       "id": "grapadora-standard-35378",
@@ -1741,7 +1812,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "grapadora-manual-35377",
@@ -1764,7 +1836,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "bandas-elasticas-medianas-56-gr-35375",
@@ -1786,7 +1859,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Elásticos y caucho"
     },
     {
       "id": "perforadora-1-hojal-35350",
@@ -1808,7 +1882,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "corrector-cinta-5-mm-6-mt-35348",
@@ -1830,7 +1905,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "set-x20-borradores-neon-35346",
@@ -1852,7 +1928,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "set-borrador-princesa-35345",
@@ -1874,7 +1951,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "sacapuntas-cuadrado-recipiente-35344",
@@ -1896,7 +1974,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "sacapuntas-x2-recipiente-35343",
@@ -1918,7 +1997,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "sacapuntas-redondo-recipiente-35342",
@@ -1940,7 +2020,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "sacapuntas-x2-recipiente-triangular-35341",
@@ -1962,7 +2043,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "sacapuntas-x4-recipiente-35340",
@@ -1984,7 +2066,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "sacapuntas-x3-recipiente-35339",
@@ -2006,7 +2089,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "tajalapiz-metalico-x3-35338",
@@ -2028,7 +2112,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "tijera-20-cm-35336",
@@ -2051,7 +2136,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijera-20-cm-35335",
@@ -2073,7 +2159,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijera-20-cm-35334",
@@ -2095,7 +2182,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "set-x2-bisturi-jumbo-mini-35333",
@@ -2117,7 +2205,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "bisturi-de-precision-plateado-35332",
@@ -2141,7 +2230,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "bisturi-pequeno-con-grip-35331",
@@ -2163,7 +2253,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "notas-adhesivas-rayadas-x50-10x15-cm-35326",
@@ -2186,7 +2277,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "notas-adhesivas-rayadas-x70-7x7-cm-35325",
@@ -2209,7 +2301,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "banderitas-neon-x100-35324",
@@ -2255,7 +2348,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "lentejuelas-rojas-25-gr-35286",
@@ -2278,7 +2372,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "set-moldes-letras-plasticas-35283",
@@ -2301,7 +2396,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "plastilina-x12-35280",
@@ -2323,7 +2419,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-barra-200-gr-x10--35279",
@@ -2345,7 +2442,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "pegamento-frasco-1-7-oz-35257",
@@ -2367,7 +2465,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-estilo-marcador-35256",
@@ -2389,7 +2488,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-estilo-marcador-35255",
@@ -2411,7 +2511,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "ganchos-decorativos-madera-x45-35254",
@@ -2434,7 +2535,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "stickers-candy-brill-35251",
@@ -2456,7 +2558,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "gemas-adhesivas-princesas-35249",
@@ -2479,7 +2582,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "gemas-adhesivas-violeta-35247",
@@ -2503,7 +2607,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "gemas-adhesivas-multicolor-35246",
@@ -2527,7 +2632,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "gemas-adhesivas-oceano-35245",
@@ -2550,7 +2656,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "gemas-transparente-adhesivas-35244",
@@ -2573,7 +2680,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "stickers-estrellas-escarchadas-35242",
@@ -2596,7 +2704,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "ojos-moviles-colores-x38--35237",
@@ -2618,7 +2727,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "ojos-moviles-x2-35236",
@@ -2641,7 +2751,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "ojos-movibles-x4-35235",
@@ -2664,7 +2775,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "rotulos-disenos-colores-35234",
@@ -2686,7 +2798,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "stickers-estrellas-35233",
@@ -2709,7 +2822,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-abc-polka-35231",
@@ -2731,7 +2845,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-con-cristales-abc-35229",
@@ -2754,7 +2869,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizados-flores-35227",
@@ -2777,7 +2893,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizados-bouquet-35226",
@@ -2800,7 +2917,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizados-suculentas-35225",
@@ -2823,7 +2941,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "flores-con-gemas-16-cm-35224",
@@ -2846,7 +2965,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "flores-con-gemas-16-cm-35223",
@@ -2869,7 +2989,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "stickers-rosas-x16-35222",
@@ -2892,7 +3013,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-rosas-rosas-x16-35221",
@@ -2915,7 +3037,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-rosas-azules-x16-35220",
@@ -2939,7 +3062,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-rosas-pastel-x16-35219",
@@ -2962,7 +3086,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-rosas-rojas-x9-35218",
@@ -2986,7 +3111,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-aviones-35217",
@@ -3009,7 +3135,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-transportes-35215",
@@ -3032,7 +3159,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizados-mariposa-35214",
@@ -3055,7 +3183,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizados-pajaro-35213",
@@ -3078,7 +3207,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizados-libelula-35212",
@@ -3100,7 +3230,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-mariposa-35211",
@@ -3122,7 +3253,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-mariposa-35210",
@@ -3144,7 +3276,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-buho-35209",
@@ -3166,7 +3299,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-insectos-35208",
@@ -3188,7 +3322,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizados-tiernas-criaturas-35207",
@@ -3211,7 +3346,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizados-transportes--35205",
@@ -3234,7 +3370,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizados-animales-salvajes-35204",
@@ -3257,7 +3394,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-tucanes-35202",
@@ -3280,7 +3418,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizado-unicornio-35201",
@@ -3303,7 +3442,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizado-gato-flor-35200",
@@ -3326,7 +3466,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-metalizado-cactus-35199",
@@ -3349,7 +3490,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-vacas-35197",
@@ -3371,7 +3513,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-abejas-35196",
@@ -3394,7 +3537,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "adhesivo-unicornio-3d-35194",
@@ -3440,7 +3584,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "tijeras-precision-profesional-16-cm-35185",
@@ -3463,7 +3608,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "cuchilla-para-papel-35184",
@@ -3486,7 +3632,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "barra-pegante-21-gr-33867",
@@ -3508,7 +3655,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "sacapuntas-doble-surtido-33866",
@@ -3531,7 +3679,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "libreta-unicornio-33829",
@@ -3556,7 +3705,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "libreta-cocodrilo-33828",
@@ -3580,7 +3730,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "sellos-halloween-surtido-31071",
@@ -3606,7 +3757,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "plastilina-marqueta-180-g-amarilla-28883",
@@ -3630,7 +3782,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Amarillo"
+      "color": "Amarillo",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-larga-x12-28882",
@@ -3653,7 +3806,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-pastel-x10-28881",
@@ -3676,7 +3830,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "set-sacapuntas-colores-3pcs-27886",
@@ -3702,7 +3857,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "set-tijeras-multiusos-4pcs-27885",
@@ -3729,7 +3885,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "cuaderno-5m-hombre-26003",
@@ -3771,7 +3928,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-jurassic-50h-25998",
@@ -3811,7 +3969,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-jurassic-100h-25996",
@@ -3851,7 +4010,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-spidey-marvel-50h-25995",
@@ -3891,7 +4051,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-spidey-marvel-100h-25994",
@@ -3931,7 +4092,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-paw-patrol-50h-25991",
@@ -3971,7 +4133,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-marvel-50h-25990",
@@ -4011,7 +4174,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-fpower-100h-25988",
@@ -4051,7 +4215,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-7m-hombre-25974",
@@ -4091,7 +4256,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-5m-hombre-25973",
@@ -4131,7 +4297,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-vertical-mujer-25970",
@@ -4171,7 +4338,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-hot-wheels-50h-rayas-25963",
@@ -4207,7 +4375,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-barbie-nina-100h-rayas-25961",
@@ -4247,7 +4416,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuadernod-spidey-marvel-100h-ferrocarril-25959",
@@ -4287,7 +4457,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-paw-patrol-50h-ferrocarril-25958",
@@ -4327,7 +4498,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-patrol-100h-ferrocarril-25957",
@@ -4367,7 +4539,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "set-geometria-flexible-x4-25954",
@@ -4396,7 +4569,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "pegante-barra-blanco-21g-25926",
@@ -4424,7 +4598,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "cinta-enmascarar-48mm-x-25m-25925",
@@ -4459,7 +4634,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-enmascarar-36mm-x-25m-25924",
@@ -4494,7 +4670,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-enmascarar-24mm-x-25m-25923",
@@ -4529,7 +4706,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-enmascarar-18mm-x-25m-25922",
@@ -4564,7 +4742,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-transparente-48mm-x-200m-25918",
@@ -4598,7 +4777,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-transparente-48mm-x-100m-25917",
@@ -4626,7 +4806,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Cintas"
     },
     {
       "id": "borrador-colores-pastel-blister-x-4-25899",
@@ -4653,7 +4834,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "borrador-flower-power-25898",
@@ -4686,7 +4868,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "tijeras-personajes-nino-25897",
@@ -4717,7 +4900,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "compas-lapiz-20203",
@@ -4743,7 +4927,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Lápices"
     },
     {
       "id": "compas-lapiz-20202",
@@ -4769,7 +4954,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Lápices"
     },
     {
       "id": "cinta-decorativa-20195",
@@ -4795,7 +4981,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-decorativa-halloween-20194",
@@ -4821,7 +5008,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "clips-flechas-20192",
@@ -4847,7 +5035,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "sticker-alfabetico-20191",
@@ -4873,7 +5062,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "borrador-lapiz-rojo-20188",
@@ -4900,7 +5090,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Lápices"
     },
     {
       "id": "borrador-azul-20186",
@@ -4925,7 +5116,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "libro-safari-para-raspar-y-revelar-lapiz-19296",
@@ -4964,7 +5156,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Lápices"
     },
     {
       "id": "libro-para-pintar-vehiculos-revelador-acuarela-19295",
@@ -5000,7 +5193,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pinceles y pintura"
     },
     {
       "id": "plastilna-x3-unidades-19282",
@@ -5034,7 +5228,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "borrador-ergonomico-surtido-19273",
@@ -5062,7 +5257,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "borrador-magneitco-tablero-surtido-19272",
@@ -5090,7 +5286,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "libreta-argollada-x4-surtido-individual-19270",
@@ -5123,7 +5320,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "compas-con-accesorios-x-5-surtido-individual-19269",
@@ -5156,7 +5354,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "set-compas-8-piezas-19268",
@@ -5183,7 +5382,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "set-geometrico-11-piezas-surtido-individual-19267",
@@ -5210,7 +5410,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "set-de-pegantes-surtidos-19234",
@@ -5235,7 +5436,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-con-aplicador-secado-rapido-epoxy-19233",
@@ -5267,7 +5469,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-colores-barra-x-4-19232",
@@ -5299,7 +5502,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegamento-madera-118ml-19229",
@@ -5326,7 +5530,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "sacagrapas-x-2-surtido-individual-19224",
@@ -5361,7 +5566,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "grapas-estandar-266-3000-colores-19223",
@@ -5395,7 +5601,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "grapas-estandar-266-5000-19222",
@@ -5429,7 +5636,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "grapadora-surtido-individual-19221",
@@ -5464,7 +5672,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "clips-brazo-satin-surtido-19220",
@@ -5492,7 +5701,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "clip-brazos-negro-x-4-unidades-grande-19217",
@@ -5519,7 +5729,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "clip-brazos-negro-x-8-unidades-mediano-19216",
@@ -5551,7 +5762,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "chinche-esfera-colores-19214",
@@ -5578,7 +5790,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "chinches-colores-x-200-unidades-19213",
@@ -5612,7 +5825,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "chinches-x-200-unidades-19212",
@@ -5646,7 +5860,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "chinches-dorados-x-200-unidades-19211",
@@ -5681,7 +5896,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "chinches-transparentes-x-100-unidades-19210",
@@ -5715,7 +5931,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "calculadora-cientifica-surtido-individual-19209",
@@ -5750,7 +5967,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Calculadoras"
     },
     {
       "id": "calculadora-escritorio-plateada-19208",
@@ -5785,7 +6003,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Calculadoras"
     },
     {
       "id": "corrector-2-en-1-con-aplicador-19198",
@@ -5817,7 +6036,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "corrector-lapiz-x-2-unidades-19197",
@@ -5849,7 +6069,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Lápices"
     },
     {
       "id": "borrador-ovalado-colores-x4-19195",
@@ -5876,7 +6097,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "borradores-bloque-x4-19194",
@@ -5900,7 +6122,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "tajalapiz-ovalado-con-deposito-surtido-individual-19192",
@@ -5935,7 +6158,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "tajalapiz-2-huecos-con-deposito-surtido-individual-19191",
@@ -5970,7 +6194,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "tajalapiz-x-5-unidades-19190",
@@ -6004,7 +6229,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "hojas-repuesto-x-8-unidades-19189",
@@ -6064,7 +6290,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "notas-adhesivas-colores-neon-surtido-19186",
@@ -6091,7 +6318,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "esferas-icopor-x2-19003",
@@ -6118,7 +6346,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "palitos-madera-colores-x-120pcs-19000",
@@ -6150,7 +6379,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "escarcha-pegante-200ml-18999",
@@ -6184,7 +6414,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "plastilina-190-gr-roja-18998",
@@ -6212,7 +6443,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-tubo-x-4-colores-primarios-18997",
@@ -6247,7 +6479,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "manualidades-fomi-mano-18981",
@@ -6274,7 +6507,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "set-manualidad-mascara-zorro-18978",
@@ -6334,7 +6568,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-marqueta-180-g-roja-18656",
@@ -6359,7 +6594,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "borrador-plastico-para-tablero-18655",
@@ -6383,7 +6619,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "transportador-360-18653",
@@ -6407,7 +6644,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "compas-de-precision-18652",
@@ -6431,7 +6669,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "corrector-lapiz-18637",
@@ -6455,7 +6694,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Lápices"
     },
     {
       "id": "borrador-nata-x3-18635",
@@ -6479,7 +6719,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "borrador-miga-pan-x2-18634",
@@ -6503,7 +6744,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "borrador-x3-negro-18633",
@@ -6528,7 +6770,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Negro"
+      "color": "Negro",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "escarcha-plateada-100gr-17842",
@@ -6553,7 +6796,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escharcha-azul-100-gr-17841",
@@ -6578,7 +6822,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Azul"
+      "color": "Azul",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "dispensador-de-cinta-adhesiva-2-17834",
@@ -6602,7 +6847,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "numeros-en-fomi-educativo-17832",
@@ -6624,7 +6870,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "corrector-liquido-12-ml-17830",
@@ -6648,7 +6895,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "bola-icopor-15-cm-14984",
@@ -6678,7 +6926,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "bola-icopor-x2-8-cm-14983",
@@ -6706,7 +6955,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "bola-icopor-x10-4-5-cm-14982",
@@ -6734,7 +6984,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "agenda-2024--196-hojas-14969",
@@ -6772,7 +7023,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cintas-satin-x5-14964",
@@ -6802,7 +7054,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "mini-cintas-x6-14963",
@@ -6832,7 +7085,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "mini-cintas-x5-14962",
@@ -6860,7 +7114,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "calculadora-cientifica-240-funciones-14961",
@@ -6888,7 +7143,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Calculadoras"
     },
     {
       "id": "fomi-sistema-digestivo-14959",
@@ -6916,7 +7172,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "tijeras-infantil-surtida-14958",
@@ -6945,7 +7202,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijeras-seguridad-surtidas-14957",
@@ -6974,7 +7232,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "cinta-metrica-automatica-surtida-12747",
@@ -6996,7 +7255,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-fucsia-457-metros-9901",
@@ -7021,7 +7281,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Fucsia"
+      "color": "Fucsia",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-perlas-blancas-8-metros-9898",
@@ -7048,7 +7309,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-perlas-beige-8-metros-9897",
@@ -7073,7 +7335,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Beige"
+      "color": "Beige",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-perlas-blancas-13-metros-9896",
@@ -7100,7 +7363,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Cintas"
     },
     {
       "id": "sticker-de-flor-9706",
@@ -7124,7 +7388,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "tijeras-punta-roma-9704",
@@ -7149,7 +7414,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "libro-stickers-dinosaurios-x80-9684",
@@ -7172,7 +7438,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "libro-stickers-animales-x80-9683",
@@ -7195,7 +7462,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "libro-stickers-princesas-x80-9682",
@@ -7218,7 +7486,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "libro-stickers-carro-x80-9681",
@@ -7241,7 +7510,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "palillos-madera-x15-30cm-9680",
@@ -7265,7 +7535,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "pegante-escarchado-4-onzas-surtida-9665",
@@ -7289,7 +7560,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "super-pegamento-x3-9584",
@@ -7312,7 +7584,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-barra-36-gramos-9583",
@@ -7335,7 +7608,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-barra-x2-21-gramos-9582",
@@ -7358,7 +7632,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-transparente-x2-9581",
@@ -7382,7 +7657,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "cinta-brillante-27-m-x-47-cm-surtida-9579",
@@ -7405,7 +7681,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-doble-faz-x2-127-mm-9573",
@@ -7428,7 +7705,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-doble-faz-x2-25-cm-x-18-m-9572",
@@ -7451,7 +7729,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-pegante-permanente-surtido-9571",
@@ -7475,7 +7754,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cintas"
     },
     {
       "id": "pines-x100-traslucidos-9552",
@@ -7498,7 +7778,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "calculadora-cientifica-240-funciones-surtida-9551",
@@ -7522,7 +7803,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Calculadoras"
     },
     {
       "id": "stickers-x72-9534",
@@ -7545,7 +7827,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-neon-x72-9533",
@@ -7569,7 +7852,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-emoji-x144-9530",
@@ -7591,7 +7875,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "glitter-stickers-emoji-x144-9529",
@@ -7613,7 +7898,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-x346-9528",
@@ -7635,7 +7921,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-x346-9527",
@@ -7658,7 +7945,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "corrector-jumbo-cinta-surtido-9526",
@@ -7682,7 +7970,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-correctora-surtido-9525",
@@ -7706,7 +7995,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cintas"
     },
     {
       "id": "borrador-retractil-x2-surtido-9522",
@@ -7732,7 +8022,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "borrador-retractil-x2-surtido-9521",
@@ -7756,7 +8047,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "borrador-blanco-ovalado-x4-9519",
@@ -7781,7 +8073,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "borrador-neon-x6-9518",
@@ -7804,7 +8097,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "tajalapiz-diamante-doble-surtido-9517",
@@ -7828,7 +8122,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "tajalapiz-doble-surtido-9515",
@@ -7852,7 +8147,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "tajalapiz-de-caja-surtido-9512",
@@ -7876,7 +8172,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Sacapuntas"
     },
     {
       "id": "tijeras-punta-roma-surtidas-9511",
@@ -7899,7 +8196,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijeras-de-seguridad-surtidas-9510",
@@ -7923,7 +8221,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "notas-adhesivas-x50-surtido-9504",
@@ -7947,7 +8246,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "notas-adhesivas-x100-9501",
@@ -7970,7 +8270,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "notas-adhesivas-x40-surtido-9499",
@@ -7994,7 +8295,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Notas adhesivas"
     },
     {
       "id": "flechas-con-dispensador-9497",
@@ -8064,7 +8366,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "media-bola-icopor-15-cm-9469",
@@ -8086,7 +8389,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "media-bola-x2-icopor-125-cm-9468",
@@ -8108,7 +8412,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "media-bola-x8-icopor-75-cm-9466",
@@ -8130,7 +8435,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "media-bola-x30-icopor-25-cmm-9464",
@@ -8152,7 +8458,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "figuras-x6-geometricas-icopor-surtidas-9460",
@@ -8175,7 +8482,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Reglas y geometría"
     },
     {
       "id": "numeros-icopor-75cm-9459",
@@ -8197,7 +8505,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "chelines-x40-colores-neon-9456",
@@ -8219,7 +8528,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "palitos-madera-x70-30-cm-9453",
@@ -8241,7 +8551,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "palitos-madera-x140-15-cm-9452",
@@ -8263,7 +8574,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "palitos-madera-x150-10-cm-9451",
@@ -8285,7 +8597,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "palitos-madera-x150-colores-15-cm-9448",
@@ -8307,7 +8620,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "palitos-madera-x150-colores-5-cm-9445",
@@ -8329,7 +8643,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "escarcha-x6-cristal-con-cordon-9441",
@@ -8352,7 +8667,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-con-pegante-mate-125-ml-surtido-9440",
@@ -8375,7 +8691,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-con-pegante-neon-125-ml-surtido-9439",
@@ -8398,7 +8715,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-con-pegante-metalizado-125-ml-surtido-9438",
@@ -8421,7 +8739,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-con-pegante-fluorecente-60-ml-surtido-9437",
@@ -8446,7 +8765,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-con-pegante-60-ml-surtido-9436",
@@ -8471,7 +8791,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-con-pegante-neon-60-ml-surtido-9435",
@@ -8496,7 +8817,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-con-pegante-80-ml-surtido-9434",
@@ -8521,7 +8843,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-con-pegante-neon-80-ml-surtido-9433",
@@ -8544,7 +8867,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-ultrafina-15-gramos-surtido-9430",
@@ -8567,7 +8891,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-ultrafina-15-gramos-surtido-9429",
@@ -8590,7 +8915,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-ultrafina-15-gramos-surtido-9428",
@@ -8613,7 +8939,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "escarcha-x6-18-gramos-pastel-surtido-9423",
@@ -8636,7 +8963,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "moldeadores-de-plastilina-x5-9421",
@@ -8658,7 +8986,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-190-gramos-rosada-9419",
@@ -8683,7 +9012,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-190-gramos-durazno-9418",
@@ -8705,7 +9035,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-190-gramos-fucsia-9417",
@@ -8728,7 +9059,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Fucsia"
+      "color": "Fucsia",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-190-gramos-verde-claro-9416",
@@ -8753,7 +9085,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "porcenalicron-x3-9410",
@@ -8775,7 +9108,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "porcenalicron-x3-tonos-morados-9407",
@@ -8798,7 +9132,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-5-onzas-piel-surtida-9406",
@@ -8823,7 +9158,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-5-onzas-frutas-surtida-9405",
@@ -8846,7 +9182,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Plastilina y arcilla"
     },
     {
       "id": "plastilina-escarcha-5-onzas-pastel-surtido-9404",
@@ -8869,7 +9206,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "plastilina-5-onzas-colores-surtido-9403",
@@ -8892,7 +9230,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "pegante-multiuso-neon-147-ml-surtido-9310",
@@ -8915,7 +9254,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-multiuso-metalico-147-ml-surtido-9309",
@@ -8938,7 +9278,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-multiuso-perlado-147-ml-surtido-9308",
@@ -8961,7 +9302,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-multiuso-fluorecente-147-ml-surtido-9307",
@@ -8988,7 +9330,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-dorado-multiuso-9306",
@@ -9011,7 +9354,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegamento-joyeria-4oz-9305",
@@ -9033,7 +9377,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegamento-carpinteria-2oz-9304",
@@ -9057,7 +9402,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegamento-4-oz-9303",
@@ -9079,7 +9425,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegantes-transparentes-premium-250-ml-9302",
@@ -9101,7 +9448,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegantes-x2-en-barra-25-gramos-9301",
@@ -9123,7 +9471,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegantes-x3-barra-9300",
@@ -9145,7 +9494,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-multiuso-blanco-250-gramos-9298",
@@ -9170,7 +9520,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-multiuso-blanco-125-gramos-9297",
@@ -9195,7 +9546,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "pegante-transparente-multiuso-9296",
@@ -9218,7 +9570,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Pegantes y silicona"
     },
     {
       "id": "hilo-x8-para-bordar-9288",
@@ -9240,7 +9593,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "hilo-x8-para-bordar-pastel-9287",
@@ -9262,7 +9616,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "lana-neon-combinados-x4-10-metros-9284",
@@ -9284,7 +9639,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "lana-pastel-combinados-x4-10-metros-9283",
@@ -9306,7 +9662,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "lana-colores-combinados-x4-10-metros-9282",
@@ -9328,7 +9685,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "lana-x6-9-metros-9281",
@@ -9350,7 +9708,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "lana-neon-x6-9-metros-9280",
@@ -9372,7 +9731,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "lana-pastel-x6-9-metros-9279",
@@ -9394,7 +9754,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "lana-x6-9-metros-9278",
@@ -9416,7 +9777,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "lana-x6-9-metros-9277",
@@ -9438,7 +9800,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "cordon-dorado-16-metros-9275",
@@ -9461,7 +9824,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Hilos, lanas y cordones"
     },
     {
       "id": "cinta-escarchada-verde-pastel-2-metros-9274",
@@ -9486,7 +9850,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-escarchada-amarilla-pastel-2-metros-9269",
@@ -9511,7 +9876,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Amarillo"
+      "color": "Amarillo",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-escarchada-violeta-2-metros-9267",
@@ -9534,7 +9900,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Morado"
+      "color": "Morado",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-escarchada-verde-2-metros-9266",
@@ -9559,7 +9926,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Verde"
+      "color": "Verde",
+      "tipo": "Cintas"
     },
     {
       "id": "cinta-escarchada-roja-2-metros-9265",
@@ -9584,7 +9952,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Rojo"
+      "color": "Rojo",
+      "tipo": "Cintas"
     },
     {
       "id": "mini-ganchos-x40-colores-surtidos-9262",
@@ -9607,7 +9976,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "mini-ganchos-x40-madera-9261",
@@ -9629,7 +9999,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "mini-ganchos-x45-colores-surtidos-9260",
@@ -9652,7 +10023,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "mini-ganchos-x40-pastel-9259",
@@ -9674,7 +10046,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Clips, ganchos y grapas"
     },
     {
       "id": "stickers-primavera-9252",
@@ -9696,7 +10069,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-baby-nino-9251",
@@ -9718,7 +10092,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-baby-nina-9250",
@@ -9740,7 +10115,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-globos-resina-9247",
@@ -9762,7 +10138,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-candy-9246",
@@ -9784,7 +10161,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-unicornio-9245",
@@ -9806,7 +10184,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-globos-9238",
@@ -9828,7 +10207,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-gorro-fiesta-9237",
@@ -9850,7 +10230,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-globos-resina-9236",
@@ -9872,7 +10253,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-corazones-relieve-9234",
@@ -9894,7 +10276,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-corazones-9233",
@@ -9916,7 +10299,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-corazones-plateados-escarchados-9230",
@@ -9939,7 +10323,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-corazones-dorados-escarchados-9229",
@@ -9962,7 +10347,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "ojos-con-pestanas-x38-adhesivos-surtidos-9223",
@@ -10007,7 +10393,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Colores y crayones"
     },
     {
       "id": "ojos-x4-adhesivos-45-mm-9219",
@@ -10097,7 +10484,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "sticker-sistema-solar-9213",
@@ -10119,7 +10507,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-estrella-relieve-9212",
@@ -10141,7 +10530,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-gemas-colores-9209",
@@ -10163,7 +10553,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-diamantes-colores-9208",
@@ -10185,7 +10576,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-numeros-negrilla-9204",
@@ -10207,7 +10599,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-abc-blanco-9202",
@@ -10232,7 +10625,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-abc-negrilla-9201",
@@ -10254,7 +10648,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "alfabeto-fomi-surtido-9198",
@@ -10277,7 +10672,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "stickers-cactus-9197",
@@ -10299,7 +10695,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-girasoles-flores-9196",
@@ -10321,7 +10718,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-flores-suculentas-9195",
@@ -10343,7 +10741,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-rosas-9194",
@@ -10365,7 +10764,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-perla-flor-9193",
@@ -10387,7 +10787,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-plateados-perla-flor-9192",
@@ -10410,7 +10811,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-dorados-perla-flor-9191",
@@ -10433,7 +10835,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-buhos-9179",
@@ -10455,7 +10858,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-unicornios-9178",
@@ -10477,7 +10881,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-animales-polares-9177",
@@ -10499,7 +10904,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-mariposas-gemas-9173",
@@ -10521,7 +10927,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-unicornios-gemas-9172",
@@ -10543,7 +10950,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-bajo-del-mar-9168",
@@ -10565,7 +10973,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-animales-salvajes-9165",
@@ -10587,7 +10996,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-relieve-animales-marino-9161",
@@ -10609,7 +11019,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-safari-relieve-9160",
@@ -10631,7 +11042,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-perros-brillantes-9158",
@@ -10653,7 +11065,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "mariposas-doradas-x4-con-gemas-9153",
@@ -10676,7 +11089,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Dorado"
+      "color": "Dorado",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "mariposas-plateadas-x4-con-gemas-9152",
@@ -10699,7 +11113,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Plateado"
+      "color": "Plateado",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "mariposas-azul-x33-surtidas-9151",
@@ -10724,7 +11139,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "mariposas-rosadas-x33-surtidas-9149",
@@ -10749,7 +11165,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "stickers-transparente-perros-reutilizable-9146",
@@ -10772,7 +11189,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-transparente-elefantes-reutilizable-9144",
@@ -10795,7 +11213,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Transparente"
+      "color": "Transparente",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "borrador-nata-blanco-x4-9143",
@@ -10822,7 +11241,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "tijeras-plasticas-ninos-x2-surtida-9141",
@@ -10845,7 +11265,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijeras-para-tela-y-cuero-10-cm-9140",
@@ -10867,7 +11288,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijeras-x3-surtidas-9138",
@@ -10890,7 +11312,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijera-ergonomica-21cm-9137",
@@ -10912,7 +11335,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijera-ergonomica-19-cm-9136",
@@ -10934,7 +11358,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijeras-ergonomica-165-cm-9135",
@@ -10956,7 +11381,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "tijeras-para-hilos-multiproposito-9134",
@@ -10978,7 +11404,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "set-bisturi-con-6-cuchillas-9131",
@@ -11000,7 +11427,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "mini-bisturi-ergonomico-x2-9130",
@@ -11022,7 +11450,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "bisturi-multiusos-9129",
@@ -11044,7 +11473,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "sello-foami-corazones-9127",
@@ -11066,7 +11496,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "sello-de-foami-reutilizable-diseno-nube-y-lluvia-9126",
@@ -11088,7 +11519,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "sello-de-foami-reutilizable-diseno-saturno-9125",
@@ -11110,7 +11542,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "sello-de-foami-reutilizable-diseno-luna-9124",
@@ -11132,7 +11565,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "sello-de-foami-reutilizable-diseno-sol-9123",
@@ -11154,7 +11588,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "set-manualidades-fomi-dinosaurio-9092",
@@ -11178,7 +11613,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "set-manualidades-fomi-unicornio-9091",
@@ -11202,7 +11638,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Cartulinas y papeles"
     },
     {
       "id": "foami-armable-t-rex-9087",
@@ -11224,7 +11661,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "foami-armable-unicornio-rosado-estrellas-9086",
@@ -11249,7 +11687,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Rosado"
+      "color": "Rosado",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "foami-armable-carro-9085",
@@ -11271,7 +11710,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "foami-armable-princesa-9084",
@@ -11293,7 +11733,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "foami-armable-pirata-9083",
@@ -11317,7 +11758,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "foami-armable-dinosaurio-3d-9081",
@@ -11339,7 +11781,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "foami-armable-unicornio-blanco-3d-9079",
@@ -11364,7 +11807,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Blanco"
+      "color": "Blanco",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "foami-armable-dragon-3d-9078",
@@ -11386,7 +11830,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "armable-foami-perro--9072",
@@ -11408,7 +11853,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "armable-foami-jirafa-9071",
@@ -11430,7 +11876,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "tijeras-infantiles-preschool-surtida-9032",
@@ -11455,7 +11902,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Tijeras y bisturíes"
     },
     {
       "id": "cuaderno-cosido-tribals-100-hojas-cuadriculado-surtido-8856",
@@ -11484,7 +11932,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-looney-tunes-50-hojas-cuadricualdo-surtido-8855",
@@ -11513,7 +11962,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-ladybug-100-hojas-ferrocarril-surtido-8853",
@@ -11542,7 +11992,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-ladybug-100-hojas-cuadriculado-surtido-8852",
@@ -11571,7 +12022,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-deadpool-50-hojas-cuadriculado-surtido-8851",
@@ -11600,7 +12052,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-deadpool-100-hojas-ferrocarril-surtido-8850",
@@ -11629,7 +12082,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-one-piece-50-hojas-cuadriculado-surtido-8849",
@@ -11658,7 +12112,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-one-piece-100-hojas-ferrocarril-8848",
@@ -11686,7 +12141,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-freefire-50-hojas-cuadriculado-surtido-8846",
@@ -11715,7 +12171,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-freefire-100-hojas-ferrocarril-surtido-8845",
@@ -11744,7 +12201,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-freefire-100-hojas-cuadriculado-surtido-8844",
@@ -11773,7 +12231,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-rainbow-100-hojas-ferrocarril-surtido-8839",
@@ -11802,7 +12261,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-villanas-100-hojas-cuadriculado-surtido-8836",
@@ -11831,7 +12291,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-starglow-50-hojas-cuadriculado-surtido-8835",
@@ -11860,7 +12321,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-starlow-100-hojas-ferrocarril-surtido-8834",
@@ -11889,7 +12351,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-starglow-100-hojas-cuadriculado-surtido-8833",
@@ -11918,7 +12381,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-rick-and-morty-50-hojas-cuadriculado-surtido-8830",
@@ -11947,7 +12411,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-mickey-100-hojas-surtido-8828",
@@ -11974,7 +12439,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-princesas-100-hojas-surtido-8827",
@@ -12003,7 +12469,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuadernocosido-princesas-100-hojas-cuadriculado-surtido-8826",
@@ -12031,7 +12498,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-justice-league-100-hojas-cuadriculado-surtido-8823",
@@ -12060,7 +12528,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-spiderman-cubitos-surtido-8822",
@@ -12088,7 +12557,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-magical-50-hojas-cuadriculado-surtido-8820",
@@ -12117,7 +12587,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-magical-100-hojas-cuadriculado-surtido-8819",
@@ -12146,7 +12617,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-lol-100-hojas-cuadriculado-surtido-8814",
@@ -12170,7 +12642,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-mickey-50-hojas-cuadriculado-surtido-8813",
@@ -12199,7 +12672,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-justice-league-50-hojas-cuadriculado-surtido-8812",
@@ -12223,7 +12697,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-mickey-100-hojas-cuadriculado-surtido-8811",
@@ -12252,7 +12727,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-incolors-50-hojas-cuadriculado-surtido-8810",
@@ -12281,7 +12757,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-incolors-100-hojas-cuadriculado-surtido-8809",
@@ -12310,7 +12787,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-natural-zoo-50-hojas-cuadriculado-surtido-8808",
@@ -12338,7 +12816,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-huellitas-50-hojas-cuadriculado-surtido-8807",
@@ -12366,7 +12845,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-princesas-50-hojas-cuadriculado-surtido-8805",
@@ -12394,7 +12874,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-minnie-100-hojas-cuadriculado-surtido-8803",
@@ -12423,7 +12904,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-mickey-100-hojas-cuadriculado-surtido-8802",
@@ -12451,7 +12933,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-tribals-50-hojas-cuadriculado-surtido-8801",
@@ -12480,7 +12963,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-incolors-50-hojas-cuadriculado-surtido-8797",
@@ -12509,7 +12993,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-tribals-100-hojas-cuadriculado-surtido-8796",
@@ -12538,7 +13023,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cosido-inblack-50-hojas-cuadriculado-surtido-8793",
@@ -12567,7 +13053,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-master-175-hojas-cuadriculado-surtido-8784",
@@ -12595,7 +13082,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-80-hojas-cuadriculado-surtido-8767",
@@ -12623,7 +13111,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-cuero-80-hojas-surtido-8764",
@@ -12650,7 +13139,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-80-hojas-cuadriculado-surtido-8763",
@@ -12678,7 +13168,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-80-hojas-cuadriculado-surtido-8762",
@@ -12706,7 +13197,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-black-80-hojas-cuadriculado-surtido-8761",
@@ -12735,7 +13227,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-canvas-80-hojas-cuadriculado-surtido-8760",
@@ -12764,7 +13257,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-incolors-80-hojas-surtido-8759",
@@ -12793,7 +13287,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-cuero-80-hojas-cuadriculado-surtido-8758",
@@ -12820,7 +13315,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-cuero-80-hojas-cuadriculado-surtido-8757",
@@ -12847,7 +13343,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-80-hojas-cuadriculado-surtido-8756",
@@ -12875,7 +13372,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-natural-zoo-80-hojas-cuadriculado-surtido-8753",
@@ -12904,7 +13402,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuadernoargollado-tribals-80-hojas-surtido-8752",
@@ -12933,7 +13432,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-incolors-80-hojas-cuadriculado-surtido-8750",
@@ -12962,7 +13462,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-argollado-incolors-80-hojas-surtido-8748",
@@ -12991,7 +13492,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-huellitas-80-hojas-cuadriculado-surtido-8747",
@@ -13016,7 +13518,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-ladybug-50-hojas-cosido-rayado-surtido-8718",
@@ -13045,7 +13548,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-ladybug-100-hojas-cosido-rayado-surtido-8717",
@@ -13074,7 +13578,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-deadpool-50-hojas-cosido-rayado-surtido-8716",
@@ -13102,7 +13607,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-deadpool-100-hojas-cosido-rayado-surtido-8715",
@@ -13131,7 +13637,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-one-piece-50-hojas-cosido-rayado-surtido-8714",
@@ -13160,7 +13667,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-one-piece-100-hojas-cosido-rayado-surtido-8713",
@@ -13184,7 +13692,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-freefire-50-hojas-cosido-rayado-surtido-8712",
@@ -13213,7 +13722,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-freefire-100-hojas-cosido-rayado-surtido-8711",
@@ -13242,7 +13752,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-minecraft-50-hojas-cosido-rayado-surtido-8710",
@@ -13271,7 +13782,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-minecraft-100-hojas-cosido-rayado-surtido-8709",
@@ -13295,7 +13807,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-villanas-50-hojas-cosido-rayado-surtido-8706",
@@ -13324,7 +13837,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-villanas-100-hojas-cosido-rayado-surtido-8705",
@@ -13353,7 +13867,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-starglow-100-hojas-cosido-rayado-surtido-8703",
@@ -13382,7 +13897,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-kimi-50-hojas-cosido-rayado-surtido-8702",
@@ -13410,7 +13926,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-rick-y-mort-50-hojas-cosido-rayado-surtido-8700",
@@ -13439,7 +13956,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-rick-y-mort-100-hojas-cosido-rayado-surtido-8699",
@@ -13468,7 +13986,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-spiderman-100-hojas-cosido-rayado-surtido-8698",
@@ -13496,7 +14015,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-princesas-100-hojas-cosido-rayado-surtido-8697",
@@ -13524,7 +14044,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-rick-y-morty-100-hojas-cosido-rayado-surtido-8694",
@@ -13550,7 +14071,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-lol-master-100-hojas-cosido-rayado-surtido-8693",
@@ -13574,7 +14096,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-xtreeme-master-100-hojas-cosido-rayado-surtido-8692",
@@ -13602,7 +14125,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-spiderman-100-hojas-cosido-rayado-surtido-8690",
@@ -13631,7 +14155,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-minnie-50-hojas-cosido-rayado-surtido-8688",
@@ -13660,7 +14185,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-magical-50-hojas-cosido-rayado-surtido-8687",
@@ -13689,7 +14215,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-magical-100-hojas-cosido-rayado-surtido-8686",
@@ -13718,7 +14245,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-legends-100-hojas-cosido-rayado-surtido-8685",
@@ -13748,7 +14276,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-lol-50-hojas-cosido-rayado-surtido-8683",
@@ -13772,7 +14301,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-justice-league-100-hojas-cosido-rayado-surtido-8682",
@@ -13796,7 +14326,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-mickey-100-hojas-cosido-rayado-surtido-8681",
@@ -13825,7 +14356,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-huellitas-50-hojas-cosido-rayado-surtido-8675",
@@ -13853,7 +14385,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-huellitas-100-hojas-cosido-rayado-surtido-8674",
@@ -13881,7 +14414,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-jurassic-100-hojas-cosido-rayado-surtido-8673",
@@ -13911,7 +14445,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-spiderman-100-hojas-cosido-sutido-8672",
@@ -13938,7 +14473,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "subcategoria": "cuadernos-agendas-y-libretas"
+      "subcategoria": "cuadernos-agendas-y-libretas",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-princesas-50-hojas-cosido-rayado-surtido-8671",
@@ -13967,7 +14503,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-princesas-100-hojas-cosido-rayado-surtido-8670",
@@ -13995,7 +14532,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-casamick-100-hojas-cosido-rayado-surtido-8669",
@@ -14024,7 +14562,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-tribals-50-hojas-cosido-rayado-surtido-8668",
@@ -14053,7 +14592,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-barcelona-50-hojas-cosido-rayado-surtido-8665",
@@ -14082,7 +14622,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-incolors-50-hojas-cosido-rayado-surtido-8663",
@@ -14111,7 +14652,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-master-50-hojas-cosido-rayado-surtido-8661",
@@ -14135,7 +14677,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-master-100-hojas-cosido-rayado-surtido-8660",
@@ -14159,7 +14702,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-in-black-100-hojas-cosido-rayado-surtido-8658",
@@ -14188,7 +14732,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-spiderman-100-hojas-cosido-rayado-surtido-8656",
@@ -14216,7 +14761,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-in-black-100-hojas-cosido-rayado-surtido-8655",
@@ -14245,7 +14791,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-spiderman-50-hojas-cosido-rayado-surtido-8654",
@@ -14274,7 +14821,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuadernominnie-100-hojas-cosido-rayado-surtido-8653",
@@ -14303,7 +14851,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-ladybug-cosido-50-hojs-ferrocarril-surtido-8652",
@@ -14332,7 +14881,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-deadpool-cosido-50-hojas-ferrocarril-surtido-8651",
@@ -14361,7 +14911,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-onepiece-50-hojas-cosido-ferrocarril-surtido-8650",
@@ -14390,7 +14941,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-freefire-50-hojas-cosido-ferrocarril-surtido-8649",
@@ -14419,7 +14971,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-minecraft-50-hojas-cosido-ferrocarril-surtido-8648",
@@ -14450,7 +15003,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-villanas-50-hojas-cosido-ferrocarril-surtido-8646",
@@ -14481,7 +15035,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-kimi-50-hojas-cosido-ferrocarril-surtido-8644",
@@ -14510,7 +15065,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-kimi-100-hojas-cosido-ferrocarril-surtido-8643",
@@ -14539,7 +15095,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-magical-50-hojas-cosido-ferrocarril-surtido-8642",
@@ -14568,7 +15125,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-magical-100-hojas-cosido-ferrocarril-surtido-8640",
@@ -14597,7 +15155,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-mickey-100-hojas-cosido-ferrocarril-surtido-8638",
@@ -14623,7 +15182,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-princesas-50-hojas-cosido-ferrocarril-surtido-8637",
@@ -14651,7 +15211,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-100-hojas-cosido-ferrocarril-surtido-8636",
@@ -14679,7 +15240,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-incolors-50-hojas-cosido-ferrocarril-surtido-8633",
@@ -14708,7 +15270,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-incolors-200-hojas-cosido-ferrocarril-surtido-8632",
@@ -14737,7 +15300,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-incolors-80-hojas-rayado-surtido-8630",
@@ -14766,7 +15330,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cuero-80-hojas-rayado-surtido-8626",
@@ -14793,7 +15358,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-cuero-fem-80-hojas-rayado-surtido-8625",
@@ -14820,7 +15386,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-80-hojas-rayado-sport-surtido-8624",
@@ -14848,7 +15415,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-grande-80-hojas-rayado-natural-zoo-surtido-8622",
@@ -14877,7 +15445,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "cuaderno-80-hojas-rayado-in-black-surtido-8620",
@@ -14906,7 +15475,8 @@
       "stock": 10,
       "categoria": "utiles-escolares",
       "subcategoria": "cuadernos-agendas-y-libretas",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Cuadernos y libretas"
     },
     {
       "id": "borrador-jumbo-14-cm-8160",
@@ -14930,7 +15500,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Borradores y correctores"
     },
     {
       "id": "esferas-x2-de-icopor-15-centimetros-8118",
@@ -14954,7 +15525,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "esferas-x3-de-icopor-75-centimetros-8117",
@@ -14978,7 +15550,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "palo-x2-espiga-29-centimetros-8108",
@@ -15044,7 +15617,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Icopor y manualidades"
     },
     {
       "id": "stickers-lujo-8064",
@@ -15068,7 +15642,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "stickers-3d-happy-birthday-nino-8055",
@@ -15092,7 +15667,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "3d-boda-stickers-8046",
@@ -15116,7 +15692,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "3d-boda-stickers-8045",
@@ -15140,7 +15717,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "letras-gemas-multicolor-8018",
@@ -15165,7 +15743,8 @@
       "visible": true,
       "stock": 10,
       "categoria": "utiles-escolares",
-      "color": "Surtido"
+      "color": "Surtido",
+      "tipo": "Escarcha, gemas y lentejuelas"
     },
     {
       "id": "sello-buho-stickers-8006",
@@ -15189,7 +15768,8 @@
       "popular": false,
       "visible": true,
       "stock": 10,
-      "categoria": "utiles-escolares"
+      "categoria": "utiles-escolares",
+      "tipo": "Stickers y calcomanías"
     },
     {
       "id": "cars-set-14-piezas-7969",
