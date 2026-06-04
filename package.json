@@ -8,6 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "deploy": "vercel --prod",
+    "deploy:preview": "vercel",
     "seo:generate": "node scripts/generate-seo.mjs",
     "seo:generate:force": "node scripts/generate-seo.mjs --force",
     "seo:generate:dry": "node scripts/generate-seo.mjs --dry-run --limit=1",
