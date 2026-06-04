@@ -3,7 +3,10 @@ import { SITE_URL } from "@/lib/site";
 import { getAllCategoriaSlugs } from "@/lib/categorias";
 import { PRODUCTOS, getSubcategoriaSlugsConProductos } from "@/lib/productos";
 import { getLandingSlugs } from "@/lib/landings";
-import { getPostSlugs, getGuiaSlugs } from "@/lib/blog";
+import { POSTS, GUIAS, heroDe, imagenDeCategoria } from "@/lib/blog";
+
+/** Convierte una ruta local (/images/...) en URL absoluta para el image sitemap. */
+const abs = (src: string): string => (src.startsWith("http") ? src : `${SITE_URL}${src}`);
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date("2026-06-04");
@@ -17,20 +20,43 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/guias`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
   ];
 
-  const contenido: MetadataRoute.Sitemap = [
-    ...getPostSlugs().map((slug) => `${SITE_URL}/blog/${slug}`),
-    ...getGuiaSlugs().map((slug) => `${SITE_URL}/guias/${slug}`),
-  ].map((url) => ({ url, lastModified: now, changeFrequency: "monthly" as const, priority: 0.6 }));
+  // Blog y guías: imagen del hero (IA o categoría) como image sitemap.
+  const posts: MetadataRoute.Sitemap = POSTS.map((p) => {
+    const img = heroDe(p).src;
+    return {
+      url: `${SITE_URL}/blog/${p.slug}`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.6,
+      images: img ? [abs(img)] : undefined,
+    };
+  });
 
+  const guias: MetadataRoute.Sitemap = GUIAS.map((g) => {
+    const img = heroDe(g).src;
+    return {
+      url: `${SITE_URL}/guias/${g.slug}`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.6,
+      images: img ? [abs(img)] : undefined,
+    };
+  });
+
+  // Categorías y subcategorías: imagen representativa de la categoría.
   const categorias: MetadataRoute.Sitemap = [
     ...getAllCategoriaSlugs(),
     ...getSubcategoriaSlugsConProductos(),
-  ].map((slug) => ({
-    url: `${SITE_URL}/categorias/${slug}`,
-    lastModified: now,
-    changeFrequency: "weekly",
-    priority: 0.7,
-  }));
+  ].map((slug) => {
+    const img = imagenDeCategoria(slug);
+    return {
+      url: `${SITE_URL}/categorias/${slug}`,
+      lastModified: now,
+      changeFrequency: "weekly",
+      priority: 0.7,
+      images: img ? [abs(img)] : undefined,
+    };
+  });
 
   const landings: MetadataRoute.Sitemap = getLandingSlugs().map((slug) => ({
     url: `${SITE_URL}/${slug}`,
@@ -39,12 +65,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  // Productos: imagen principal de cada producto (la gran ganancia para Google Images).
   const productos: MetadataRoute.Sitemap = PRODUCTOS.map((p) => ({
     url: `${SITE_URL}/producto/${p.slug}`,
     lastModified: now,
     changeFrequency: "weekly",
     priority: 0.6,
+    images: p.imagen ? [abs(p.imagen)] : undefined,
   }));
 
-  return [...estaticas, ...landings, ...categorias, ...contenido, ...productos];
+  return [...estaticas, ...landings, ...categorias, ...posts, ...guias, ...productos];
 }
