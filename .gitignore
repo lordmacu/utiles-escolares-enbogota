@@ -1,0 +1,28 @@
+# Python
+.venv/
+vendor/
+__pycache__/
+*.pyc
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel
+.vercel
+
+# Sistema
+.DS_Store
+*.pem
+
+# Env (la API key del LLM vive en .env.local — nunca commitear)
+.env
+.env*.local
+
+# NOTA: para el despliegue en Vercel vía Git, las imágenes self-host
+# (public/images/shop/) y data/productos.json SÍ se commitean — son parte
+# del sitio estático. Se regeneran con el pipeline si hace falta.

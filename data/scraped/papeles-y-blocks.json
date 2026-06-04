@@ -1,0 +1,2615 @@
+{
+  "categoria": "papeles-y-blocks",
+  "nombre": "Papeles y Blocks",
+  "slug": "papeles-y-blocks",
+  "descripcion": "Papeles y Blocks",
+  "imagen": "/images/shop/01534539131001-1-.webp",
+  "fuente": "https://www.lostreselefantes.com.co",
+  "productos": [
+    {
+      "id": "papel-de-seda-x10-beige-los-tres-elefantes-0153453913pt8812-wh",
+      "nombre": "Papel De Seda X10 Beige",
+      "slug": "papel-de-seda-x10-beige-los-tres-elefantes-0153453913pt8812-wh",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "Papel De Seda Por 10 Pliegos De Color Beige Resistente, Ideal Para Manualidades Y Realizar Figuras.",
+      "imagen": "/images/shop/01534539131001-1-.webp",
+      "galeria": [
+        "/images/shop/01534539131001-1-.webp"
+      ],
+      "contenido": [
+        "Color: Beige"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Beige"
+    },
+    {
+      "id": "papel-seda-x50-surtido-los-tres-elefantes-0153457007cl969003",
+      "nombre": "Papel Seda X50 Surtido",
+      "slug": "papel-seda-x50-surtido-los-tres-elefantes-0153457007cl969003",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 24900,
+      "precioAnterior": null,
+      "descripcion": "Papel De Seda Por 50 Pliegos De Colores Surtidos, Resistente, Ideal Para Manualidades Y Realizar Figuras.",
+      "imagen": "/images/shop/01534570070501-1-.webp",
+      "galeria": [
+        "/images/shop/01534570070501-1-.webp"
+      ],
+      "contenido": [
+        "Color: Surtido"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "papel-seda-surtido-los-tres-elefantes-0153457007py969044",
+      "nombre": "Papel Seda Surtido",
+      "slug": "papel-seda-surtido-los-tres-elefantes-0153457007py969044",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 24900,
+      "precioAnterior": null,
+      "descripcion": "Papel De Seda Por Pliegos De Colores Surtidos, Resistente, Ideal Para Manualidades Y Realizar Figuras.",
+      "imagen": "/images/shop/01534570070505-1-.webp",
+      "galeria": [
+        "/images/shop/01534570070505-1-.webp"
+      ],
+      "contenido": [
+        "Color: Surtido"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "papel-seda-x50-surtido-los-tres-elefantes-0153457007py969028",
+      "nombre": "Papel Seda X50 Surtido",
+      "slug": "papel-seda-x50-surtido-los-tres-elefantes-0153457007py969028",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 24900,
+      "precioAnterior": null,
+      "descripcion": "Papel De Seda Por 50 Pliegos De Colores Surtidos, Resistente, Ideal Para Manualidades Y Realizar Figuras.",
+      "imagen": "/images/shop/01534570070503-1-.webp",
+      "galeria": [
+        "/images/shop/01534570070503-1-.webp"
+      ],
+      "contenido": [
+        "Color: Surtido"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "plastico-de-burbujas-de-30x150cm-los-tres-elefantes-0153454006st5037",
+      "nombre": "Plastico De Burbujas De 30X150Cm",
+      "slug": "plastico-de-burbujas-de-30x150cm-los-tres-elefantes-0153454006st5037",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Plastico De Burbujas De 30X150 Centimetros, Ideal Para Proteger Objetos Delicados.",
+      "imagen": "/images/shop/01534540061200-1-.webp",
+      "galeria": [
+        "/images/shop/01534540061200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "papel-de-seda-x10-rosado-los-tres-elefantes-0153453913pt8810-pk",
+      "nombre": "Papel De Seda X10 Rosado",
+      "slug": "papel-de-seda-x10-rosado-los-tres-elefantes-0153453913pt8810-pk",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "Papel De Seda Por 10 Pliegos De Color Rosado Resistente, Ideal Para Manualidades Y Realizar Figuras.",
+      "imagen": "/images/shop/01534539131000-1-.webp",
+      "galeria": [
+        "/images/shop/01534539131000-1-.webp"
+      ],
+      "contenido": [
+        "Color: Rosado"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Rosado"
+    },
+    {
+      "id": "papel-seda-x50-surtido-los-tres-elefantes-0153457007cl968995",
+      "nombre": "Papel Seda X50 Surtido",
+      "slug": "papel-seda-x50-surtido-los-tres-elefantes-0153457007cl968995",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 24900,
+      "precioAnterior": null,
+      "descripcion": "Papel De Seda Por 50 Pliegos De Colores Surtidos, Resistente, Ideal Para Manualidades Y Realizar Figuras.",
+      "imagen": "/images/shop/01534570070500-1-.webp",
+      "galeria": [
+        "/images/shop/01534570070500-1-.webp"
+      ],
+      "contenido": [
+        "Color: Surtido"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "papel-seda-x50-surtido-los-tres-elefantes-0153457007cl969013",
+      "nombre": "Papel Seda X50 Surtido",
+      "slug": "papel-seda-x50-surtido-los-tres-elefantes-0153457007cl969013",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 24900,
+      "precioAnterior": null,
+      "descripcion": "Papel De Seda Por 50 Pliegos De Colores Surtidos, Resistente, Ideal Para Manualidades Y Realizar Figuras.",
+      "imagen": "/images/shop/01534570070502-1-.webp",
+      "galeria": [
+        "/images/shop/01534570070502-1-.webp"
+      ],
+      "contenido": [
+        "Color: Surtido"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "canva-39x50-cm-48225",
+      "nombre": "Canva 39X50 Cm",
+      "slug": "canva-39x50-cm-48225",
+      "marca": "SIMES LOGISTIC",
+      "precio": 17900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334540160500-1-.webp",
+      "galeria": [
+        "/images/shop/34334540160500-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "block-notas-rayas-46930",
+      "nombre": "Block Notas Rayas",
+      "slug": "block-notas-rayas-46930",
+      "marca": "SIMES LOGISTIC",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334540070703-1-.webp",
+      "galeria": [
+        "/images/shop/34334540070703-1-.webp",
+        "/images/shop/34334540070703-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "notas-bibliograficas-x100-7x12-5-cm-46929",
+      "nombre": "Notas Bibliograficas X100 7X12.5 Cm",
+      "slug": "notas-bibliograficas-x100-7x12-5-cm-46929",
+      "marca": "SIMES LOGISTIC",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334540071000-1-.webp",
+      "galeria": [
+        "/images/shop/34334540071000-1-.webp",
+        "/images/shop/34334540071000-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "notas-bibliograficas-azul-x100-7x12-5-cm-46928",
+      "nombre": "Notas Bibliograficas Azul X100 7X12.5 Cm",
+      "slug": "notas-bibliograficas-azul-x100-7x12-5-cm-46928",
+      "marca": "SIMES LOGISTIC",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334540071005-1-.webp",
+      "galeria": [
+        "/images/shop/34334540071005-1-.webp",
+        "/images/shop/34334540071005-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Azul"
+    },
+    {
+      "id": "notas-bibliograficas-x100-7x12-5-cm-46927",
+      "nombre": "Notas Bibliograficas X100 7X12.5 Cm",
+      "slug": "notas-bibliograficas-x100-7x12-5-cm-46927",
+      "marca": "SIMES LOGISTIC",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334540071002-1-.webp",
+      "galeria": [
+        "/images/shop/34334540071002-1-.webp",
+        "/images/shop/34334540071002-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "fichas-bibliograficas-x100-35438",
+      "nombre": "Fichas Bibliograficas x100",
+      "slug": "fichas-bibliograficas-x100-35438",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "CODIFICADO POR COLORES. 100 hojas por paquete con 5 colores diferentes: azul, verde, amarillo, naranja y rojo. Tamaño: 3″ x 5″ pulgadas (7,6 cm x 12,7 cm)\nMANTÉNGASE ORGANIZADO. Las fichas son excelentes para ayudarlo a mantenerse organizado, ya sea en casa, en la escuela o en la oficina. Siempre será conveniente tenerlas a mano.\nCALIDAD. Fabricadas con papel de 160 g/m². Las fichas son una gran herramienta para estudiar y mejorar la memorización. Es fácil escribir en ellas con bolígrafos, rotuladores y lápices.\nDISEÑO. Los bordes cortados con precisión ayudan a garantizar que las tarjetas tengan exactamente el mismo tamaño. Estas tarjetas de índice codificadas por colores tienen rayas en el frente y están en blanco en el reverso, lo que facilita la división de materias o temas por color.\nAMPLIA APLICACIÓN. Perfecta para el hogar, la escuela y la oficina. Ideal para crear listas de tareas, fichas de estudio, tarjetas de presentación, recordatorios rápidos y mucho más.",
+      "imagen": "/images/shop/30864540070302-1-.webp",
+      "galeria": [
+        "/images/shop/30864540070302-1-.webp",
+        "/images/shop/30864540070302-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cuaderno-dibujo-20-hojas-45x30-cm-35437",
+      "nombre": "Cuaderno Dibujo 20 Hojas 45X30 Cm",
+      "slug": "cuaderno-dibujo-20-hojas-45x30-cm-35437",
+      "marca": "BAZIC",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "DISEÑO ECONÓMICO. 20 hojas. Fabricadas en papel de 20 libras y 75 g/m². Las dimensiones de 45,7 x 30,5 cm ofrecen mucho espacio para poesía, escritura creativa, bocetos, dibujos, álbumes de recortes y caligrafía.\nMULTIUSOS. Ideal para artistas, escritores, ilustradores, principiantes o profesionales. También se puede utilizar como diario, agenda o lienzo para acuarela. Encuadernación en espiral para quitarlo fácilmente para exhibir las obras de arte.\nSEGURO DE USAR. Libre de ácido. Superficie lisa. Ideal para hacer bocetos en una variedad de medios: bolígrafo, lápiz, lápices de colores, marcador, tinta, carboncillo, pastel suave, pastel al óleo y crayón.\nIDEAL PARA CLASES. Excelente herramienta de pintura para niños. Permite que los niños exploren y descubran su creatividad, aprendan de forma práctica y se mantengan entretenidos en la escuela y en casa.\nPARA TODAS LAS EDADES. Un regalo perfecto para artistas, adultos y los más pequeños. Explore su creatividad con este bloc de dibujo. Disponible en paquetes a granel para ahorrarle costos a la escuela y a los maestros.",
+      "imagen": "/images/shop/30864540010501-1-.webp",
+      "galeria": [
+        "/images/shop/30864540010501-1-.webp",
+        "/images/shop/30864540010501-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cuaderno-dibujo-40-hojas-22x30-cm-35436",
+      "nombre": "Cuaderno Dibujo 40 Hojas 22X30 Cm",
+      "slug": "cuaderno-dibujo-40-hojas-22x30-cm-35436",
+      "marca": "BAZIC",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "DISEÑO ECONÓMICO. 40 hojas. Fabricadas en papel de 20 libras y 75 g/m². Las dimensiones de 9 x 12 pulgadas brindan mucho espacio para poesía, escritura creativa, bocetos, dibujos, álbumes de recortes y caligrafía.\nMULTIUSOS. Ideal para artistas, escritores, ilustradores, principiantes o profesionales. También se puede utilizar como diario, agenda o lienzo para acuarela. Encuadernación en espiral para quitarlo fácilmente para exhibir las obras de arte.\nSEGURO DE USAR. Libre de ácido. Superficie lisa. Ideal para hacer bocetos en una variedad de medios: bolígrafo, lápiz, lápices de colores, marcador, tinta, carboncillo, pastel suave, pastel al óleo y crayón.\nIDEAL PARA CLASES. Excelente herramienta de pintura para niños. Permite que los niños exploren y descubran su creatividad, aprendan de forma práctica y se mantengan entretenidos en la escuela y en casa.\nPARA TODAS LAS EDADES. Un regalo perfecto para artistas, adultos y los más pequeños. Explore su creatividad con este bloc de dibujo. Disponible en paquetes a granel para ahorrarle costos a la escuela y a los maestros.",
+      "imagen": "/images/shop/30864540010301-1-.webp",
+      "galeria": [
+        "/images/shop/30864540010301-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "papel-adhesivo-transparente-35435",
+      "nombre": "Papel Adhesivo Transparente",
+      "slug": "papel-adhesivo-transparente-35435",
+      "marca": "BAZIC",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Cada rollo cuenta con un revestimiento fácil de despegar y un adhesivo que permite reposicionarlo durante la instalación. ¡Simplemente coloque el libro sobre la hoja y envuélvalo!\nSEGURO DE USAR. Libre de BPA. Medidas de la hoja: 17,5 x 60 pulgadas. Revestimiento autoadhesivo protector para libros, libros de texto, papeles, pósteres y documentos. Protege contra derrames, manchas y desgaste. Crea una superficie con acabado brillante.\nPROTEJA SUS LIBROS. Proteja sus libros de esos desafortunados desgarros y daños con nuestra cubierta transparente.\nFÁCIL Y DURADERO. No necesita cinta ni regla. Guías de revestimiento de película para medir y cortar fácilmente y garantizar líneas rectas. Laminación alternativa para papel.\nDISEÑO BRILLANTE. Este elegante revestimiento adhesivo se coloca suavemente sobre las superficies existentes sin ningún problema. Simplemente mida el área a cubrir y corte siguiendo las pautas proporcionadas.",
+      "imagen": "/images/shop/30864539100601-1-.webp",
+      "galeria": [
+        "/images/shop/30864539100601-1-.webp",
+        "/images/shop/30864539100601-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Transparente"
+    },
+    {
+      "id": "cartulina-de-presentacion-colores-surtidos-35434",
+      "nombre": "Cartulina De Presentacion Colores Surtidos",
+      "slug": "cartulina-de-presentacion-colores-surtidos-35434",
+      "marca": "BAZIC",
+      "precio": 44900,
+      "precioAnterior": null,
+      "descripcion": "GRAN TAMAÑO: 36 X 48 PULGADAS. Libre de ácido. Grosor: 1/8″. Pared simple con flauta B. Durable, con un hermoso acabado y aspecto profesional. Selección disponible: blanco, negro, rojo, amarillo, azul o verde.\nAUTÓNOMOS. Carteles de cartón ondulado de tres pliegues. Los paneles precortados se despliegan para una instalación instantánea. Plegables para un fácil almacenamiento y transporte. Rígidos pero livianos y portátiles.\nVERSÁTIL. Perfecto para proyectos escolares, ferias de ciencias, presentaciones en el aula, stands, manualidades, exhibiciones, promociones, álbumes de recortes, manualidades en 3D, cumpleaños, eventos deportivos y carteles de ofertas para tiendas minoristas.\nPERSONALIZABLE. Acepta una amplia gama de medios de dibujo: pintura, tiza, marcador, pegamento, cinta, purpurina y más. Sirve como un llamativo tablero de exhibición con un acabado suave y uniforme.\nIDEAL PARA UN MONTÓN DE MANUALIDADES. El tablero de exhibición en blanco permite crear a su gusto. Disponible en paquetes a granel de útiles escolares y de oficina para ahorrar costos.\nDescripción del Producto",
+      "imagen": "/images/shop/30864539080600-1-.webp",
+      "galeria": [
+        "/images/shop/30864539080600-1-.webp",
+        "/images/shop/30864539080600-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "cartulina-blanca-medio-pliego-35433",
+      "nombre": "Cartulina Blanca Medio Pliego",
+      "slug": "cartulina-blanca-medio-pliego-35433",
+      "marca": "BAZIC",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "GRANDE DE 22 X 28 PULGADAS. Esta cartulina de colores se vende en 25 hojas. Sin ácido. Grosor: 3 capas, 250 g/m². Cartulina duradera fácil de cortar y trazar. Adecuada para cualquier proyecto o presentación escolar o de jardín de infantes.\nVERSÁTIL. Perfecto para proyectos escolares, arte y manualidades, exhibiciones, promociones, álbumes de recortes, manualidades en 3D, disfraces, decoración de fiestas, Navidad, celebraciones navideñas, eventos deportivos y carteles de ofertas para tiendas minoristas.\nPRESENTE DE FORMA CREATIVA. Sirven como llamativos tableros de exhibición con un acabado liso y uniforme y colores vivos en ambos lados. Los colores tienen un brillo superior y resistencia a la decoloración. Superficie con acabado mate liso.\nCARTELES VISIBLES. Ideales para hacer carteles y letreros que seguramente llamarán la atención del grupo. Los colores llamativos definitivamente llaman la atención de las personas. Aceptan una amplia gama de medios: pinturas, tizas, marcadores, pegamento, purpurina.\nIDEAL PARA UN MONTÓN DE MANUALIDADES. Disponible en paquetes a granel de útiles escolares y de oficina para ahorrar costos. Más de 10 colores para elegir: blanco, negro, azul, verde, rosa, violeta, amarillo, naranja, rojo y más.",
+      "imagen": "/images/shop/30864539082000-1-.webp",
+      "galeria": [
+        "/images/shop/30864539082000-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Blanco"
+    },
+    {
+      "id": "papel-manualidades-35432",
+      "nombre": "Papel Manualidades",
+      "slug": "papel-manualidades-35432",
+      "marca": "BAZIC",
+      "precio": 11900,
+      "precioAnterior": null,
+      "descripcion": "GRAN TAMAÑO: 22 × 14 PULGADAS. Libre de ácido. Grosor: 3 capas, 210 g/m². Cartulina duradera, fácil de cortar y trazar.\nVERSÁTIL. Perfecto para proyectos escolares, arte y manualidades, exhibiciones, promociones, álbumes de recortes, manualidades en 3D, disfraces, decoración de fiestas, Navidad, celebraciones navideñas, eventos deportivos y carteles de ofertas para tiendas minoristas.\nPRESENTE DE FORMA CREATIVA. Sirven como llamativos paneles de exhibición con un acabado liso y uniforme en ambos lados. Superficie con acabado mate liso.\nCARTELES VISIBLES. Ideales para hacer carteles y letreros que seguramente llamarán la atención del grupo. Aceptan una amplia variedad de materiales: pinturas, tizas, marcadores, pegamento, purpurina.\nIDEAL PARA UN MONTÓN DE MANUALIDADES. Disponible en paquetes a granel de útiles escolares y de oficina para ahorrar costos. Adecuado para cualquier proyecto o presentación escolar o de jardín de infantes.",
+      "imagen": "/images/shop/30864539010606-1-.webp",
+      "galeria": [
+        "/images/shop/30864539010606-1-.webp",
+        "/images/shop/30864539010606-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "fomi-carta-blanca-x4-35276",
+      "nombre": "Fomi Carta Blanca X4",
+      "slug": "fomi-carta-blanca-x4-35276",
+      "marca": "MULTICRAFT",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "Las divertidas hojas de espuma tienen una parte trasera adhesiva\nNo hay necesidad de pegamento, simplemente despega y pega\nCrea pegatinas hechas a mano para todos tus proyectos de manualidades y bricolaje",
+      "imagen": "/images/shop/27804539060411-1-.webp",
+      "galeria": [
+        "/images/shop/27804539060411-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Blanco"
+    },
+    {
+      "id": "fomi-carta-negra-x4-35275",
+      "nombre": "Fomi Carta Negra X4",
+      "slug": "fomi-carta-negra-x4-35275",
+      "marca": "MULTICRAFT",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "Las divertidas hojas de espuma tienen una parte trasera adhesiva\nNo hay necesidad de pegamento, simplemente despega y pega\nCrea pegatinas hechas a mano para todos tus proyectos de manualidades y bricolaje",
+      "imagen": "/images/shop/27804539060409-1-.webp",
+      "galeria": [
+        "/images/shop/27804539060409-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Negro"
+    },
+    {
+      "id": "fomi-carta-colores-surtd-color-individual-29031",
+      "nombre": "Fomi Carta Colores Surtd (Color Individual)",
+      "slug": "fomi-carta-colores-surtd-color-individual-29031",
+      "marca": "MULTICRAFT",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/27804539060412-1-.webp",
+      "galeria": [
+        "/images/shop/27804539060412-1-.webp",
+        "/images/shop/27804539060412-2-.webp",
+        "/images/shop/27804539060412-3-.webp",
+        "/images/shop/dc42420d-27804539060412-1-.webp",
+        "/images/shop/dfb8537c-27804539060412-2-.webp",
+        "/images/shop/6610756a-27804539060412-3-.webp"
+      ],
+      "contenido": [
+        "Instrucciones de Lavado: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "papel-fomi-con-escarcha-color-individual-29030",
+      "nombre": "Papel Fomi Con Escarcha (Color Individual)",
+      "slug": "papel-fomi-con-escarcha-color-individual-29030",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/27804539060500-1-.webp",
+      "galeria": [
+        "/images/shop/27804539060500-1-.webp",
+        "/images/shop/27804539060500-2-.webp",
+        "/images/shop/27804539060500-3-.webp",
+        "/images/shop/27804539060500-4-.webp",
+        "/images/shop/72d6e882-27804539060500-1-.webp",
+        "/images/shop/91b1272e-27804539060500-2-.webp",
+        "/images/shop/d43feccd-27804539060500-3-.webp",
+        "/images/shop/f0ea9d8a-27804539060500-4-.webp"
+      ],
+      "contenido": [
+        "Instrucciones de Lavado: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "paquete-fomi-x2-20205",
+      "nombre": "Paquete Fomi X2",
+      "slug": "paquete-fomi-x2-20205",
+      "marca": "SIMES LOGISTIC",
+      "precio": 700,
+      "precioAnterior": null,
+      "descripcion": "paquete de fomi. perfecto para hacer manualidades.",
+      "imagen": "/images/shop/Paquete-Fomi-34334539060400-1-.webp",
+      "galeria": [
+        "/images/shop/Paquete-Fomi-34334539060400-1-.webp",
+        "/images/shop/bbcd7ad4-Paquete-Fomi-34334539060400-1-.webp",
+        "/images/shop/18aea08e-Paquete-Fomi-34334539060400-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "fichas-bibliografica-blanca-19278",
+      "nombre": "Fichas Bibliografica Blanca",
+      "slug": "fichas-bibliografica-blanca-19278",
+      "marca": "BAZIC",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "100 ct. tarjeta blanca sin regla de 3 \"x 5\". tarjeta de índice blanca sin regla de 100 hojas.",
+      "imagen": "/images/shop/30864540070403-1-.webp",
+      "galeria": [
+        "/images/shop/30864540070403-1-.webp",
+        "/images/shop/30864540070403-2-.webp",
+        "/images/shop/8870a113-30864540070403-1-.webp",
+        "/images/shop/0cd901a1-30864540070403-2-.webp",
+        "/images/shop/a27fc19e-30864540070403-1-.webp",
+        "/images/shop/7cdb6723-30864540070403-2-.webp"
+      ],
+      "contenido": [
+        "Composición: Papel",
+        "Indicaciones de Uso: Herramienta ideal para proyectos escolares y oficinas. . ATENCIÓN” este producto debe ser usado estrictamente bajo la supervisión directa de un adulto responsable. \"ATENCIÓN\" No usar este producto a niños por debajo de la edad establecida. ADVERTENCIA: No dejar al alcance de niños ni se debe permitir jugar con este producto ya que no es un juguete y pueden ser ingeridas y causar riesgo de asfixia. Contiene partes pequeñas",
+        "Material: Papel"
+      ],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Blanco"
+    },
+    {
+      "id": "hojas-cuadriculadas-x-100-repuestos-19204",
+      "nombre": "Hojas Cuadriculadas X 100 Repuestos",
+      "slug": "hojas-cuadriculadas-x-100-repuestos-19204",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "asegúrese de satisfacer todas sus necesidades de papel con nuestra línea de cuadernos, papel de relleno, papel de copia, libros de composición, cuadernos de bocetos y muchos más. nuestros productos de papel proporcionan la calidad y el valor para su oficina, escuela y necesidades personales. papel cuadriculado x 100 hojas.",
+      "imagen": "/images/shop/30864519070101-1-.webp",
+      "galeria": [
+        "/images/shop/30864519070101-1-.webp",
+        "/images/shop/30864519070101-2-.webp",
+        "/images/shop/30864519070101-3-.webp",
+        "/images/shop/8aabe0c5-30864519070101-1-.webp",
+        "/images/shop/54c2bdfa-30864519070101-2-.webp",
+        "/images/shop/dbad9798-30864519070101-3-.webp",
+        "/images/shop/6e4e8433-30864519070101-1-.webp",
+        "/images/shop/e5f3bc5f-30864519070101-2-.webp",
+        "/images/shop/06a62c31-30864519070101-3-.webp"
+      ],
+      "contenido": [
+        "Composición: 100% Plastico",
+        "Indicaciones de Uso: Uso doméstico, escolar y oficinas. Ideal para separar documentos y papeles importantes",
+        "Material: 100% Plastico"
+      ],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "carta-30x30cm-escarchada-color-individual-18994",
+      "nombre": "Carta 30X30Cm Escarchada (Color Individual)",
+      "slug": "carta-30x30cm-escarchada-color-individual-18994",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/27804539190649-1-.webp",
+      "galeria": [
+        "/images/shop/27804539190649-1-.webp",
+        "/images/shop/27804539190649-2-.webp",
+        "/images/shop/27804539190649-3-.webp",
+        "/images/shop/27804539190649-4-.webp",
+        "/images/shop/be7fa02a-27804539190649-1-.webp",
+        "/images/shop/dd1d89f4-27804539190649-2-.webp",
+        "/images/shop/89867269-27804539190649-3-.webp",
+        "/images/shop/4ffbc318-27804539190649-4-.webp",
+        "/images/shop/e909e66e-27804539190649-1-.webp",
+        "/images/shop/ac6d975d-27804539190649-2-.webp",
+        "/images/shop/5e37ff3e-27804539190649-3-.webp",
+        "/images/shop/57fee8af-27804539190649-4-.webp"
+      ],
+      "contenido": [
+        "Indicaciones de Uso: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "hoja-fomi-naranja-18991",
+      "nombre": "Hoja Fomi Naranja",
+      "slug": "hoja-fomi-naranja-18991",
+      "marca": "MULTICRAFT",
+      "precio": 3900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/27804539060423-1-.webp",
+      "galeria": [
+        "/images/shop/27804539060423-1-.webp",
+        "/images/shop/27804539060423-2-.webp",
+        "/images/shop/27804539060423-3-.webp",
+        "/images/shop/3729a913-27804539060423-1-.webp",
+        "/images/shop/a9428f16-27804539060423-2-.webp",
+        "/images/shop/76206e42-27804539060423-3-.webp",
+        "/images/shop/ac60ab3b-27804539060423-1-.webp",
+        "/images/shop/9f19ef83-27804539060423-2-.webp",
+        "/images/shop/72012ead-27804539060423-3-.webp"
+      ],
+      "contenido": [
+        "Indicaciones de Uso: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Naranja"
+    },
+    {
+      "id": "hoja-fomi-verde-oscuro-18990",
+      "nombre": "Hoja Fomi Verde Oscuro",
+      "slug": "hoja-fomi-verde-oscuro-18990",
+      "marca": "MULTICRAFT",
+      "precio": 3900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/27804539060420-1-.webp",
+      "galeria": [
+        "/images/shop/27804539060420-1-.webp",
+        "/images/shop/27804539060420-2-.webp",
+        "/images/shop/27804539060420-3-.webp",
+        "/images/shop/0923ce65-27804539060420-1-.webp",
+        "/images/shop/938da347-27804539060420-2-.webp",
+        "/images/shop/154b94bf-27804539060420-3-.webp",
+        "/images/shop/0a070737-27804539060420-1-.webp",
+        "/images/shop/77c64d5f-27804539060420-2-.webp",
+        "/images/shop/e5900946-27804539060420-3-.webp"
+      ],
+      "contenido": [
+        "Indicaciones de Uso: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Verde"
+    },
+    {
+      "id": "fomi-carta-glamur-color-individual-18989",
+      "nombre": "Fomi Carta Glamur (Color Individual)",
+      "slug": "fomi-carta-glamur-color-individual-18989",
+      "marca": "MULTICRAFT",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/27804539060414-1-.webp",
+      "galeria": [
+        "/images/shop/27804539060414-1-.webp",
+        "/images/shop/27804539060414-2-.webp",
+        "/images/shop/27804539060414-3-.webp",
+        "/images/shop/4a36cac0-27804539060414-1-.webp",
+        "/images/shop/bebf6e2f-27804539060414-2-.webp",
+        "/images/shop/4591bf98-27804539060414-3-.webp",
+        "/images/shop/f8c29df6-27804539060414-1-.webp",
+        "/images/shop/ddc75690-27804539060414-2-.webp",
+        "/images/shop/085cdc94-27804539060414-3-.webp"
+      ],
+      "contenido": [
+        "Indicaciones de Uso: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "fomi-carta-color-pastel-color-individual-18988",
+      "nombre": "Fomi Carta Color Pastel (Color Individual)",
+      "slug": "fomi-carta-color-pastel-color-individual-18988",
+      "marca": "MULTICRAFT",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/27804539060413-1-.webp",
+      "galeria": [
+        "/images/shop/27804539060413-1-.webp",
+        "/images/shop/27804539060413-2-.webp",
+        "/images/shop/27804539060413-3-.webp",
+        "/images/shop/0a4a053d-27804539060413-1-.webp",
+        "/images/shop/a02469d0-27804539060413-2-.webp",
+        "/images/shop/6e1a0f1f-27804539060413-3-.webp",
+        "/images/shop/1af40c4f-27804539060413-1-.webp",
+        "/images/shop/d346149a-27804539060413-2-.webp",
+        "/images/shop/bc163c36-27804539060413-3-.webp"
+      ],
+      "contenido": [
+        "Indicaciones de Uso: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "papel-adhesivo-amarillo-3m-x-45-cm-17840",
+      "nombre": "Papel Adhesivo Amarillo 3M X 45 Cm",
+      "slug": "papel-adhesivo-amarillo-3m-x-45-cm-17840",
+      "marca": "MERLETTO",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "papel adhesivo color amarillo de 3 m x 45 cm. perfecto para decorar y crear manualidades.",
+      "imagen": "/images/shop/Papel-Adhesivo-Amarillo-3mx45cm-20284539111202-1-.webp",
+      "galeria": [
+        "/images/shop/Papel-Adhesivo-Amarillo-3mx45cm-20284539111202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MERLETTO",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Amarillo"
+    },
+    {
+      "id": "canva-40x50-cm-14981",
+      "nombre": "Canva 40X50 Cm",
+      "slug": "canva-40x50-cm-14981",
+      "marca": "MERLETTO",
+      "precio": 25900,
+      "precioAnterior": null,
+      "descripcion": "¡Dale vida a tus ideas con Canva! Nuestro lienzo de 40 X 50 CM es la herramienta perfecta para expresar tu creatividad. Con una interfaz intuitiva y una amplia gama de elementos gráficos, podrás diseñar impresionantes proyectos en minutos. Desde posters hasta presentaciones, Canva lo hace posible. ¡Compra ahora y transforma tus ideas en realidad!",
+      "imagen": "/images/shop/Canva-40X50-Cm-MERLETTO-20284540160500-1-.webp",
+      "galeria": [
+        "/images/shop/Canva-40X50-Cm-MERLETTO-20284540160500-1-.webp",
+        "/images/shop/4f17a76b-Canva-40X50-Cm-MERLETTO-20284540160500-1-.webp",
+        "/images/shop/f5bda267-Canva-40X50-Cm-MERLETTO-20284540160500-1-.webp",
+        "/images/shop/0acfbb0b-Canva-40X50-Cm-MERLETTO-20284540160500-1-.webp"
+      ],
+      "contenido": [
+        "Composición: PAULONIA+ALGODÓN",
+        "Material: Paulonia+Algodón"
+      ],
+      "tags": [
+        "MERLETTO",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "papel-fotografico-x20-135-gr-14977",
+      "nombre": "Papel Fotográfico X20 135 Gr",
+      "slug": "papel-fotografico-x20-135-gr-14977",
+      "marca": "MERLETTO",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "¡Captura tus recuerdos de forma brillante y adhesiva con nuestro Papel Fotográfico X20 de 135g! Este paquete incluye 20 hojas de papel fotográfico brillante con adhesivo en la parte posterior, lo que te permite imprimir tus fotos favoritas y pegarlas fácilmente en álbumes, tarjetas, álbumes de recortes y más. El papel de 135g garantiza impresiones de alta calidad y durabilidad, con colores vibrantes y detalles nítidos que hacen que tus fotos cobren vida. Ya sea que estés creando un álbum de recuerdos, decorando tu espacio o compartiendo momentos especiales con tus seres queridos, nuestro papel fotográfico adhesivo es la opción perfecta para plasmar tus momentos más preciados. ¡Imprime, pega y disfruta de tus recuerdos con nuestro Papel Fotográfico X20 de 135g brillante adhesivo!",
+      "imagen": "/images/shop/Papel-Fotografico-X20-135-Gr-MERLETTO-20284540140201-1-.webp",
+      "galeria": [
+        "/images/shop/Papel-Fotografico-X20-135-Gr-MERLETTO-20284540140201-1-.webp",
+        "/images/shop/d64e331f-Papel-Fotografico-X20-135-Gr-MERLETTO-20284540140201-1-.webp",
+        "/images/shop/0cc2e3b1-Papel-Fotografico-X20-135-Gr-MERLETTO-20284540140201-1-.webp",
+        "/images/shop/9b95525e-Papel-Fotografico-X20-135-Gr-MERLETTO-20284540140201-1-.webp"
+      ],
+      "contenido": [
+        "Composición: 100% PAPER",
+        "Material: 100% Paper"
+      ],
+      "tags": [
+        "MERLETTO",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "papel-fotografico-x20-180-gr-14976",
+      "nombre": "Papel Fotográfico X20 180 Gr",
+      "slug": "papel-fotografico-x20-180-gr-14976",
+      "marca": "MERLETTO",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "¡Captura tus momentos más especiales con nuestro Papel Fotográfico de alta calidad! Este paquete incluye 20 hojas de papel fotográfico de 180 gramos, perfectas para imprimir tus fotos favoritas con una nitidez excepcional y colores vibrantes. Cada hoja ofrece una superficie lisa y brillante que realza la calidad de tus imágenes, garantizando resultados impresionantes. Ideal para imprimir fotografías familiares, instantáneas de viajes o proyectos creativos, este papel fotográfico te permite preservar tus recuerdos de manera duradera. ¡Haz que tus fotos cobren vida con nuestro Papel Fotográfico X 20 - 180 GR",
+      "imagen": "/images/shop/Papel-Fotografico-X20-180-Gr-MERLETTO-20284540140200-1-.webp",
+      "galeria": [
+        "/images/shop/Papel-Fotografico-X20-180-Gr-MERLETTO-20284540140200-1-.webp",
+        "/images/shop/aba0d193-Papel-Fotografico-X20-180-Gr-MERLETTO-20284540140200-1-.webp",
+        "/images/shop/4993e186-Papel-Fotografico-X20-180-Gr-MERLETTO-20284540140200-1-.webp",
+        "/images/shop/3b918a46-Papel-Fotografico-X20-180-Gr-MERLETTO-20284540140200-1-.webp"
+      ],
+      "contenido": [
+        "Composición: 100%PAPEL",
+        "Material: 100%Papel"
+      ],
+      "tags": [
+        "MERLETTO",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "hoja-carta-foami-azul--9908",
+      "nombre": "Hoja Carta Foami Azul",
+      "slug": "hoja-carta-foami-azul--9908",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 700,
+      "precioAnterior": null,
+      "descripcion": "Hoja azul claro de foamy tamaño carta, la hace ser ideal para las mas bonitas manualidades y trabajos con foamy.",
+      "imagen": "/images/shop/Hoja-Carta-Foamy-Azul-33574539060100-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Carta-Foamy-Azul-33574539060100-1-.webp"
+      ],
+      "contenido": [
+        "Color: Azul"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Azul"
+    },
+    {
+      "id": "hoja-corcho-30x45-centimetros-9719",
+      "nombre": "Hoja Corcho 30X45 Centimetros",
+      "slug": "hoja-corcho-30x45-centimetros-9719",
+      "marca": "KRAFTERS KORNER",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Haga su propio tablero de mensajes y cree adornos para álbumes de recortes con esta hoja de corcho para manualidades. La hoja de tamaño gigante es lo suficientemente grande para casi todos los proyectos que tenga en mente. La hoja se puede doblar, cortar y pintar según las necesidades de su proyecto.",
+      "imagen": "/images/shop/Hoja-Corcho-30X45-Centimetros-32684539220400-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Corcho-30X45-Centimetros-32684539220400-1-.webp"
+      ],
+      "contenido": [
+        "Composición: 100% Corcho",
+        "Material: 100% Corcho"
+      ],
+      "tags": [
+        "KRAFTERS KORNER",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-metalizada-x5-27-x-35-cm-9654",
+      "nombre": "Cartulina Metalizada X5 27 X 35 Cm",
+      "slug": "cartulina-metalizada-x5-27-x-35-cm-9654",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "- Tamaño GRANDE 11×14 PULGADAS. Esta cartulina de\ncolores se vende en 5 hojas por paquete. Libre de\nácido. Grosor: 3 capas, 250 g/m². Cartulina duradera\nfácil de cortar y rastrear. Adecuado para cualquier\nproyecto o presentación de escuela o jardín de\ninfantes.\n- VERSÁTIL. Perfecto para proyectos escolares, arte y\nmanualidades, exhibiciones, promociones, álbumes\nde recortes, manualidades en 3D, disfraces,\ndecoración de fiestas, Navidad, celebraciones\nnavideñas, eventos deportivos, letreros de venta\npara tiendas minoristas.\n- PRESENTAR CREATIVAMENTE. Sirva como tableros de\nexhibición llamativos con un acabado suave y\nuniforme y colores vivos en ambos lados. Los colores\ntienen un brillo superior y resistencia a la\ndecoloración. Superficie lisa con acabado mate.\n- CARTELES VISIBLES. Genial para hacer letreros y\nafiches que seguramente resaltarán en el grupo. Los\ncolores llamativos definitivamente llaman la\natención de las personas. Acepta una amplia gama\nde medios: pinturas, tizas, rotuladores, pegamento,\npurpurina.\n- EXCELENTE PARA TONELADAS DE ARTESANÍAS.\nDisponible en paquetes a granel de suministros para\nmaestros, aulas, escuela y oficina para ahorrar\ncostos.",
+      "imagen": "/images/shop/Cartulina-Metalizada-X5-27-X-35-Cm-Marca-BAZIC-30864539200500-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-Metalizada-X5-27-X-35-Cm-Marca-BAZIC-30864539200500-1-.webp",
+        "/images/shop/Cartulina-Metalizada-X5-27-X-35-Cm-Marca-BAZIC-30864539200500-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "block-papel-manualidades-22x30-cm-9649",
+      "nombre": "Block Papel Manualidades 22X30 Cm",
+      "slug": "block-papel-manualidades-22x30-cm-9649",
+      "marca": "BAZIC",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "- COLORES VÍVIDOS. ¡Disponible en una variedad de\ncolores para todos sus proyectos creativos! Rosa,\nbeige, verde, morado, naranja, azul, marrón o negro.\nEl color puede variar\n- SEGURO PARA NIÑOS. Hecho de 75 g/m², 42 libras, 5-10\n% de papel reciclado. Respetuoso con el medio\nambiente, libre de ácidos y reciclable. Aprobar por el\nmaestro y los padres para proyectos escolares en el\naula y el hogar.\n- DE MÚLTIPLES FINES. Papel de construcción versátil\ncon una textura suave. Se pliega fácilmente para\ncrear pliegues nítidos y limpios. Perfecto para\nproyectos de arte y manualidades, doblar, marcar,\nrizar, cortar y pegar.\n- MEDIOS VARIANTES. Los papeles aceptan la mayoría\nde los medios de dibujo, como crayones, marcadores, lápices, pasteles al óleo y más.\nDisponible en paquetes a granel para útiles\nescolares y de oficina para ahorrar costos.\n- HABILIDAD DE RECONOCIMIENTO. Regalo perfecto de\nNavidad para niñas y niños. Inspira a los niños\npequeños a dibujar, pintar, desarrollar habilidades\nmotoras finas, ayuda a establecer la concentración, mejora la coordinación mano-ojo.",
+      "imagen": "/images/shop/Blok-Papel-Manualidades-22X30-Cm-Marca-BAZIC-30864539020200-1-.webp",
+      "galeria": [
+        "/images/shop/Blok-Papel-Manualidades-22X30-Cm-Marca-BAZIC-30864539020200-1-.webp",
+        "/images/shop/Blok-Papel-Manualidades-22X30-Cm-Marca-BAZIC-30864539020200-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "block-papel-manualidades-45x30-cm-9648",
+      "nombre": "Block Papel Manualidades 45X30 Cm",
+      "slug": "block-papel-manualidades-45x30-cm-9648",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "- COLORES VÍVIDOS. ¡Disponible en una variedad de\ncolores para todos sus proyectos creativos! Rosa,\nbeige, verde, morado, naranja, azul, marrón o negro.\nEl color puede variar\n- SEGURO PARA NIÑOS. Hecho de 75 g/m², 42 libras, 5-10\n% de papel reciclado. Respetuoso con el medio\nambiente, libre de ácidos y reciclable. Aprobar por el\nmaestro y los padres para proyectos escolares en el\naula y el hogar.\n- DE MÚLTIPLES FINES. Papel de construcción versátil\ncon una textura suave. Se pliega fácilmente para\ncrear pliegues nítidos y limpios. Perfecto para\nproyectos de arte y manualidades, doblar, marcar,\nrizar, cortar y pegar.\n- MEDIOS VARIANTES. Los papeles aceptan la mayoría\nde los medios de dibujo, como crayones, marcadores, lápices, pasteles al óleo y más.\nDisponible en paquetes a granel para útiles\nescolares y de oficina para ahorrar costos.\n- HABILIDAD DE RECONOCIMIENTO. Regalo perfecto de\nNavidad para niñas y niños. Inspira a los niños\npequeños a dibujar, pintar, desarrollar habilidades\nmotoras finas, ayuda a establecer la concentración, mejora la coordinación mano-ojo.",
+      "imagen": "/images/shop/Blok-Papel-Manualidades-45X30-Cm-Marca-BAZIC-30864539020100-1-.webp",
+      "galeria": [
+        "/images/shop/Blok-Papel-Manualidades-45X30-Cm-Marca-BAZIC-30864539020100-1-.webp",
+        "/images/shop/Blok-Papel-Manualidades-45X30-Cm-Marca-BAZIC-30864539020100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "100-hojas-carpeta-26x20cm-9547",
+      "nombre": "100 Hojas Carpeta 26X20Cm",
+      "slug": "100-hojas-carpeta-26x20cm-9547",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "- EL PAQUETE INCLUYE. Satisfaga sus necesidades de\ntoma de notas con estos papeles de relleno de rayas\nanchas perforadas con 3 orificios. Cada paquete\nviene con 100 hojas sueltas; Tamaño total de 10,5″ x\n8″- 26,7 x 20,3 cm\n- MANTENGA ORGANIZADO: combine estos papeles de\nrelleno de hojas sueltas con su carpeta o carpeta de\nanillas estándar favorita para mantener sus notas\nescolares y de proyectos bien organizadas.\n- SURTIR. Los paquetes grandes de papel de relleno\nfacilitan la compra anticipada; muestre su previsión\ny compre para todo el año escolar o reponga sus\nexistencias cada vez más escasas para el segundo\nsemestre.\n- DISEÑO. El papel está perforado con 3 orificios con un\nbrillo del 86 %. El formato de rayas anchas promueve\nlíneas limpias y uniformes de escritura legible y su\nfunción de doble cara proporciona mucho espacio\npara tomar notas.\n- USOS. Estas hojas de rayas anchas son un gran\nproducto para escribir o cualquier otro uso similar. El\nproducto es útil en escuelas, universidades, oficinas y\nhogares.",
+      "imagen": "/images/shop/100-Hojas-Carpeta-26X20Cm-Marca-BAZIC-30864519071000-1-.webp",
+      "galeria": [
+        "/images/shop/100-Hojas-Carpeta-26X20Cm-Marca-BAZIC-30864519071000-1-.webp",
+        "/images/shop/100-Hojas-Carpeta-26X20Cm-Marca-BAZIC-30864519071000-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-colores-surtido-9399",
+      "nombre": "Cartulina Colores Surtido",
+      "slug": "cartulina-colores-surtido-9399",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X60-Colores-Surtido-Marca-MULTICRAFT-27804539200309-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X60-Colores-Surtido-Marca-MULTICRAFT-27804539200309-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "cartulina-colores-tropicales-9398",
+      "nombre": "Cartulina Colores Tropicales",
+      "slug": "cartulina-colores-tropicales-9398",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X60-Colores-Tropicales-Marca-MULTICRAFT-27804539200308-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X60-Colores-Tropicales-Marca-MULTICRAFT-27804539200308-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-colores-arena-9397",
+      "nombre": "Cartulina Colores Arena",
+      "slug": "cartulina-colores-arena-9397",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X60-Colores-Arena-Marca-MULTICRAFT-27804539200307-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X60-Colores-Arena-Marca-MULTICRAFT-27804539200307-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-colores-neon-9396",
+      "nombre": "Cartulina Colores Neon",
+      "slug": "cartulina-colores-neon-9396",
+      "marca": "MULTICRAFT",
+      "precio": 3900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X60-Colores-Neon-Marca-MULTICRAFT-27804539200306-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X60-Colores-Neon-Marca-MULTICRAFT-27804539200306-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-colores-invierno-9395",
+      "nombre": "Cartulina Colores Invierno",
+      "slug": "cartulina-colores-invierno-9395",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X60-Colores-Invierno-Marca-MULTICRAFT-27804539200305-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X60-Colores-Invierno-Marca-MULTICRAFT-27804539200305-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-colores-tierra-9394",
+      "nombre": "Cartulina Colores Tierra",
+      "slug": "cartulina-colores-tierra-9394",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X60-Colores-Tierra-Marca-MULTICRAFT-27804539200304-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X60-Colores-Tierra-Marca-MULTICRAFT-27804539200304-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-colores-pastel-9393",
+      "nombre": "Cartulina Colores Pastel",
+      "slug": "cartulina-colores-pastel-9393",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X60-Colores-Pastel-Marca-MULTICRAFT-27804539200303-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X60-Colores-Pastel-Marca-MULTICRAFT-27804539200303-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-colores-primarios-9392",
+      "nombre": "Cartulina Colores Primarios",
+      "slug": "cartulina-colores-primarios-9392",
+      "marca": "MULTICRAFT",
+      "precio": 3900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X60-Colores-Primarios-Marca-MULTICRAFT-27804539200302-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X60-Colores-Primarios-Marca-MULTICRAFT-27804539200302-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-x24-15cm-tonos-rosados-9391",
+      "nombre": "Cartulina X24 15Cm Tonos Rosados",
+      "slug": "cartulina-x24-15cm-tonos-rosados-9391",
+      "marca": "MULTICRAFT",
+      "precio": 20900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X24-15Cm-Tonos-Rosados-Marca-MULTICRAFT-27804539190204-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X24-15Cm-Tonos-Rosados-Marca-MULTICRAFT-27804539190204-1-.webp"
+      ],
+      "contenido": [
+        "Color: Rosado"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Rosado"
+    },
+    {
+      "id": "cartulina-x24-15cm-tonos-azules-9390",
+      "nombre": "Cartulina X24 15Cm Tonos Azules",
+      "slug": "cartulina-x24-15cm-tonos-azules-9390",
+      "marca": "MULTICRAFT",
+      "precio": 20900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X24-15Cm-Tonos-Azules-Marca-MULTICRAFT-27804539190203-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X24-15Cm-Tonos-Azules-Marca-MULTICRAFT-27804539190203-1-.webp"
+      ],
+      "contenido": [
+        "Color: Azul"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Azul"
+    },
+    {
+      "id": "cartulina-x24-15cm-tonos-calidos-9389",
+      "nombre": "Cartulina X24 15Cm Tonos Calidos",
+      "slug": "cartulina-x24-15cm-tonos-calidos-9389",
+      "marca": "MULTICRAFT",
+      "precio": 20900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X24-15Cm-Tonos-Calidos-Marca-MULTICRAFT-27804539190202-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X24-15Cm-Tonos-Calidos-Marca-MULTICRAFT-27804539190202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "cartulina-x24-15cm-tonos-rojos-9388",
+      "nombre": "Cartulina X24 15Cm Tonos Rojos",
+      "slug": "cartulina-x24-15cm-tonos-rojos-9388",
+      "marca": "MULTICRAFT",
+      "precio": 20900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X24-15Cm-Tonos-Rojos-Marca-MULTICRAFT-27804539190201-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X24-15Cm-Tonos-Rojos-Marca-MULTICRAFT-27804539190201-1-.webp"
+      ],
+      "contenido": [
+        "Color: Rojo"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Rojo"
+    },
+    {
+      "id": "cartulina-x24-15cm-tonos-violeta-9387",
+      "nombre": "Cartulina X24 15Cm Tonos Violeta",
+      "slug": "cartulina-x24-15cm-tonos-violeta-9387",
+      "marca": "MULTICRAFT",
+      "precio": 20900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Cartulina-X24-15Cm-Tonos-Violeta-Marca-MULTICRAFT-27804539190200-1-.webp",
+      "galeria": [
+        "/images/shop/Cartulina-X24-15Cm-Tonos-Violeta-Marca-MULTICRAFT-27804539190200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Morado"
+    },
+    {
+      "id": "hojas-x100-10x10cm-tonos-grises-9386",
+      "nombre": "Hojas X100 10X10Cm Tonos Grises",
+      "slug": "hojas-x100-10x10cm-tonos-grises-9386",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Agregue un toque de color con estas almohadillas apilables temáticas de colores. Ofreciendo variedad y valor, cada paquete contiene 5 hojas de 20 estilos. ¡Excelente para proyectos de creación de tarjetas, álbumes de recortes y manualidades!",
+      "imagen": "/images/shop/Hojas-X100-10X10Cm-Tonos-Grises-Marca-MULTICRAFT-27804539120202-1-.webp",
+      "galeria": [
+        "/images/shop/Hojas-X100-10X10Cm-Tonos-Grises-Marca-MULTICRAFT-27804539120202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Gris"
+    },
+    {
+      "id": "hoja-foami-diseno-nino-9383",
+      "nombre": "Hoja Foami Diseño Niño",
+      "slug": "hoja-foami-diseno-nino-9383",
+      "marca": "MULTICRAFT",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "¡NUEVO ESTILO AÑADIDO a nuestras populares hojas de diseño Foam-Fun de 9\"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con código de barras, 5 hojas de cada uno de los 5 diseños de moda! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hoja-Foami-Dise-o-Ni-o-Marca-MULTICRAFT-27804539060432-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Foami-Dise-o-Ni-o-Marca-MULTICRAFT-27804539060432-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "hojas-foami-diseno-princesa-9382",
+      "nombre": "Hojas Foami Diseño Princesa",
+      "slug": "hojas-foami-diseno-princesa-9382",
+      "marca": "MULTICRAFT",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "¡NUEVO ESTILO AÑADIDO a nuestras populares hojas de diseño Foam-Fun de 9\"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con código de barras, 5 hojas de cada uno de los 5 diseños de moda! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hojas-Foami-Dise-o-Princesa-Marca-MULTICRAFT-27804539060433-1-.webp",
+      "galeria": [
+        "/images/shop/Hojas-Foami-Dise-o-Princesa-Marca-MULTICRAFT-27804539060433-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "hoja-foami-diseno-nautico-9381",
+      "nombre": "Hoja Foami Diseño Nautico",
+      "slug": "hoja-foami-diseno-nautico-9381",
+      "marca": "MULTICRAFT",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "¡NUEVO ESTILO AÑADIDO a nuestras populares hojas de diseño Foam-Fun de 9\"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con código de barras, 5 hojas de cada uno de los 5 diseños de moda! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hoja-Foami-Dise-o-Nautico-Marca-MULTICRAFT-27804539060434-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Foami-Dise-o-Nautico-Marca-MULTICRAFT-27804539060434-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "hoja-foami-lila-9379",
+      "nombre": "Hoja Foami Lila",
+      "slug": "hoja-foami-lila-9379",
+      "marca": "MULTICRAFT",
+      "precio": 3900,
+      "precioAnterior": null,
+      "descripcion": "¡Hemos agregado DOS COLORES NUEVOS a nuestras populares hojas de espuma divertidas de gran volumen de 9 \"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con códigos de barras! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hoja-Foami-Lila-Marca-MULTICRAFT-27804539060407-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Foami-Lila-Marca-MULTICRAFT-27804539060407-1-.webp"
+      ],
+      "contenido": [
+        "Color: Lila"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Morado"
+    },
+    {
+      "id": "hoja-foami-rosado-9378",
+      "nombre": "Hoja Foami Rosado",
+      "slug": "hoja-foami-rosado-9378",
+      "marca": "MULTICRAFT",
+      "precio": 3900,
+      "precioAnterior": null,
+      "descripcion": "¡Hemos agregado DOS COLORES NUEVOS a nuestras populares hojas de espuma divertidas de gran volumen de 9 \"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con códigos de barras! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hoja-Foami-Rosado-Marca-MULTICRAFT-27804539060406-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Foami-Rosado-Marca-MULTICRAFT-27804539060406-1-.webp"
+      ],
+      "contenido": [
+        "Color: Rosado"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Rosado"
+    },
+    {
+      "id": "hoja-foami-verde-claro-9377",
+      "nombre": "Hoja Foami Verde Claro",
+      "slug": "hoja-foami-verde-claro-9377",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "¡Hemos agregado DOS COLORES NUEVOS a nuestras populares hojas de espuma divertidas de gran volumen de 9 \"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con códigos de barras! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hoja-Foami-Verde-Claro-Marca-MULTICRAFT-27804539060405-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Foami-Verde-Claro-Marca-MULTICRAFT-27804539060405-1-.webp"
+      ],
+      "contenido": [
+        "Color: Verde"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Verde"
+    },
+    {
+      "id": "hoja-foami-beige-9376",
+      "nombre": "Hoja Foami Beige",
+      "slug": "hoja-foami-beige-9376",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "¡Hemos agregado DOS COLORES NUEVOS a nuestras populares hojas de espuma divertidas de gran volumen de 9 \"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con códigos de barras! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hoja-Foami-Beige-Marca-MULTICRAFT-27804539060404-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Foami-Beige-Marca-MULTICRAFT-27804539060404-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Beige"
+    },
+    {
+      "id": "hoja-foami-amarillo-neon-9374",
+      "nombre": "Hoja Foami Amarillo Neon",
+      "slug": "hoja-foami-amarillo-neon-9374",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "¡Hemos agregado DOS COLORES NUEVOS a nuestras populares hojas de espuma divertidas de gran volumen de 9 \"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con códigos de barras! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hoja-Foami-Amarillo-Neon-Marca-MULTICRAFT-27804539060403-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Foami-Amarillo-Neon-Marca-MULTICRAFT-27804539060403-1-.webp"
+      ],
+      "contenido": [
+        "Color: Amarillo"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Amarillo"
+    },
+    {
+      "id": "hoja-foami-azul-claro-9372",
+      "nombre": "Hoja Foami Azul Claro",
+      "slug": "hoja-foami-azul-claro-9372",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "¡Hemos agregado DOS COLORES NUEVOS a nuestras populares hojas de espuma divertidas de gran volumen de 9 \"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con códigos de barras! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hoja-Foami-Azul-Claro-Marca-MULTICRAFT-27804539060401-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Foami-Azul-Claro-Marca-MULTICRAFT-27804539060401-1-.webp"
+      ],
+      "contenido": [
+        "Color: Azul"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Azul"
+    },
+    {
+      "id": "hoja-foami-verde-9371",
+      "nombre": "Hoja Foami Verde",
+      "slug": "hoja-foami-verde-9371",
+      "marca": "MULTICRAFT",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "¡Hemos agregado DOS COLORES NUEVOS a nuestras populares hojas de espuma divertidas de gran volumen de 9 \"x12\"! ¡Estos paquetes de gran valor incluyen 25 hojas con códigos de barras! ¡Un elemento esencial de creación creativa para cualquier proyecto de bricolaje!",
+      "imagen": "/images/shop/Hoja-Foami-Verde-Marca-MULTICRAFT-27804539060400-1-.webp",
+      "galeria": [
+        "/images/shop/Hoja-Foami-Verde-Marca-MULTICRAFT-27804539060400-1-.webp"
+      ],
+      "contenido": [
+        "Color: Verde"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Verde"
+    },
+    {
+      "id": "fieltro-fucsia-22x30cm-9370",
+      "nombre": "Fieltro Fucsia 22X30Cm",
+      "slug": "fieltro-fucsia-22x30cm-9370",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Fucsia-22X30Cm-Marca-MULTICRAFT-27804539050429-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Fucsia-22X30Cm-Marca-MULTICRAFT-27804539050429-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Fucsia"
+    },
+    {
+      "id": "fieltro-azul-22x30cm-9369",
+      "nombre": "Fieltro Azul 22X30Cm",
+      "slug": "fieltro-azul-22x30cm-9369",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Azul-22X30Cm-Marca-MULTICRAFT-27804539050428-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Azul-22X30Cm-Marca-MULTICRAFT-27804539050428-1-.webp"
+      ],
+      "contenido": [
+        "Color: Azul"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Azul"
+    },
+    {
+      "id": "fieltro-morado-22x30cm-9368",
+      "nombre": "Fieltro Morado 22X30Cm",
+      "slug": "fieltro-morado-22x30cm-9368",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Morado-22X30Cm-Marca-MULTICRAFT-27804539050427-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Morado-22X30Cm-Marca-MULTICRAFT-27804539050427-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Morado"
+    },
+    {
+      "id": "fieltro-lavanda-22x30cm-9367",
+      "nombre": "Fieltro Lavanda 22X30Cm",
+      "slug": "fieltro-lavanda-22x30cm-9367",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Lavanda-22X30Cm-Marca-MULTICRAFT-27804539050426-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Lavanda-22X30Cm-Marca-MULTICRAFT-27804539050426-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "fieltro-turquesa-22x30cm-9366",
+      "nombre": "Fieltro Turquesa 22X30Cm",
+      "slug": "fieltro-turquesa-22x30cm-9366",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Turquesa-22X30Cm-Marca-MULTICRAFT-27804539050425-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Turquesa-22X30Cm-Marca-MULTICRAFT-27804539050425-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Turquesa"
+    },
+    {
+      "id": "fieltro-fucsia-22x30cm-9365",
+      "nombre": "Fieltro Fucsia 22X30Cm",
+      "slug": "fieltro-fucsia-22x30cm-9365",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Fucsia-22X30Cm-Marca-MULTICRAFT-27804539050424-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Fucsia-22X30Cm-Marca-MULTICRAFT-27804539050424-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Fucsia"
+    },
+    {
+      "id": "fieltro-amarillo-22x30cm-9364",
+      "nombre": "Fieltro Amarillo 22X30Cm",
+      "slug": "fieltro-amarillo-22x30cm-9364",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Amarillo-22X30Cm-Marca-MULTICRAFT-27804539050423-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Amarillo-22X30Cm-Marca-MULTICRAFT-27804539050423-1-.webp"
+      ],
+      "contenido": [
+        "Color: Amarillo"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Amarillo"
+    },
+    {
+      "id": "fieltro-blanco-22x30cm-9363",
+      "nombre": "Fieltro Blanco 22X30Cm",
+      "slug": "fieltro-blanco-22x30cm-9363",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Blanco-22X30Cm-Marca-MULTICRAFT-27804539050422-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Blanco-22X30Cm-Marca-MULTICRAFT-27804539050422-1-.webp"
+      ],
+      "contenido": [
+        "Color: Blanco"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Blanco"
+    },
+    {
+      "id": "fieltro-azul-rey-22x30cm-9362",
+      "nombre": "Fieltro Azul Rey 22X30Cm",
+      "slug": "fieltro-azul-rey-22x30cm-9362",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Azul-Rey-22X30Cm-Marca-MULTICRAFT-27804539050421-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Azul-Rey-22X30Cm-Marca-MULTICRAFT-27804539050421-1-.webp"
+      ],
+      "contenido": [
+        "Color: Azul"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Azul"
+    },
+    {
+      "id": "fieltro-rojo-22x30cm-9361",
+      "nombre": "Fieltro Rojo 22X30Cm",
+      "slug": "fieltro-rojo-22x30cm-9361",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Rojo-22X30Cm-Marca-MULTICRAFT-27804539050420-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Rojo-22X30Cm-Marca-MULTICRAFT-27804539050420-1-.webp"
+      ],
+      "contenido": [
+        "Color: Rojo"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Rojo"
+    },
+    {
+      "id": "fieltro-morado-22x30cm-9360",
+      "nombre": "Fieltro Morado 22X30Cm",
+      "slug": "fieltro-morado-22x30cm-9360",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Morado-22X30Cm-Marca-MULTICRAFT-27804539050419-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Morado-22X30Cm-Marca-MULTICRAFT-27804539050419-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Morado"
+    },
+    {
+      "id": "fieltro-naranja-22x30cm-9359",
+      "nombre": "Fieltro Naranja 22X30Cm",
+      "slug": "fieltro-naranja-22x30cm-9359",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Naranja-22X30Cm-Marca-MULTICRAFT-27804539050418-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Naranja-22X30Cm-Marca-MULTICRAFT-27804539050418-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Naranja"
+    },
+    {
+      "id": "fieltro-azul-oscuro-22x30cm-9358",
+      "nombre": "Fieltro Azul Oscuro 22X30Cm",
+      "slug": "fieltro-azul-oscuro-22x30cm-9358",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Azul-Oscuro-22X30Cm-Marca-MULTICRAFT-27804539050417-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Azul-Oscuro-22X30Cm-Marca-MULTICRAFT-27804539050417-1-.webp"
+      ],
+      "contenido": [
+        "Color: Azul"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Azul"
+    },
+    {
+      "id": "fieltro-rosado-claro-22x30cm-9356",
+      "nombre": "Fieltro Rosado Claro 22X30Cm",
+      "slug": "fieltro-rosado-claro-22x30cm-9356",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Rosado-Claro-22X30Cm-Marca-MULTICRAFT-27804539050415-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Rosado-Claro-22X30Cm-Marca-MULTICRAFT-27804539050415-1-.webp"
+      ],
+      "contenido": [
+        "Color: Rosado"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Rosado"
+    },
+    {
+      "id": "fieltro-azul-22x30cm-9355",
+      "nombre": "Fieltro Azul 22X30Cm",
+      "slug": "fieltro-azul-22x30cm-9355",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Azul-22X30Cm-Marca-MULTICRAFT-27804539050414-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Azul-22X30Cm-Marca-MULTICRAFT-27804539050414-1-.webp"
+      ],
+      "contenido": [
+        "Color: Azul"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Azul"
+    },
+    {
+      "id": "fieltro-verde-22x30cm-9354",
+      "nombre": "Fieltro Verde 22X30Cm",
+      "slug": "fieltro-verde-22x30cm-9354",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Verde-22X30Cm-Marca-MULTICRAFT-27804539050413-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Verde-22X30Cm-Marca-MULTICRAFT-27804539050413-1-.webp"
+      ],
+      "contenido": [
+        "Color: Verde"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Verde"
+    },
+    {
+      "id": "fieltro-verde-oscuro-22x30cm-9353",
+      "nombre": "Fieltro Verde Oscuro 22X30Cm",
+      "slug": "fieltro-verde-oscuro-22x30cm-9353",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Verde-Oscuro-22X30Cm-Marca-MULTICRAFT-27804539050412-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Verde-Oscuro-22X30Cm-Marca-MULTICRAFT-27804539050412-1-.webp"
+      ],
+      "contenido": [
+        "Color: Verde"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Verde"
+    },
+    {
+      "id": "fieltro-gris-22x30cm-9352",
+      "nombre": "Fieltro Gris 22X30Cm",
+      "slug": "fieltro-gris-22x30cm-9352",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Gris-22X30Cm-Marca-MULTICRAFT-27804539050411-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Gris-22X30Cm-Marca-MULTICRAFT-27804539050411-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Gris"
+    },
+    {
+      "id": "fieltro-rosado-22x30cm-9351",
+      "nombre": "Fieltro Rosado 22X30Cm",
+      "slug": "fieltro-rosado-22x30cm-9351",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Rosado-22X30Cm-Marca-MULTICRAFT-27804539050410-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Rosado-22X30Cm-Marca-MULTICRAFT-27804539050410-1-.webp"
+      ],
+      "contenido": [
+        "Color: Rosado"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Rosado"
+    },
+    {
+      "id": "fieltro-cafe-22x30cm-9350",
+      "nombre": "Fieltro Café 22X30Cm",
+      "slug": "fieltro-cafe-22x30cm-9350",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Cafe-22X30Cm-Marca-MULTICRAFT-27804539050409-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Cafe-22X30Cm-Marca-MULTICRAFT-27804539050409-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Café"
+    },
+    {
+      "id": "fieltro-piel-22x30cm-9349",
+      "nombre": "Fieltro Piel 22X30Cm",
+      "slug": "fieltro-piel-22x30cm-9349",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Piel-22X30Cm-Marca-MULTICRAFT-27804539050408-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Piel-22X30Cm-Marca-MULTICRAFT-27804539050408-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "fieltro-vinotinto-22x30cm-9348",
+      "nombre": "Fieltro Vinotinto 22X30Cm",
+      "slug": "fieltro-vinotinto-22x30cm-9348",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Vinotinto-22X30Cm-Marca-MULTICRAFT-27804539050407-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Vinotinto-22X30Cm-Marca-MULTICRAFT-27804539050407-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "fieltro-negro-22x30cm-9347",
+      "nombre": "Fieltro Negro 22X30Cm",
+      "slug": "fieltro-negro-22x30cm-9347",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Negro-22X30Cm-Marca-MULTICRAFT-27804539050406-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Negro-22X30Cm-Marca-MULTICRAFT-27804539050406-1-.webp"
+      ],
+      "contenido": [
+        "Color: Negro"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Negro"
+    },
+    {
+      "id": "fieltro-beige-22x30cm-9346",
+      "nombre": "Fieltro Beige 22X30Cm",
+      "slug": "fieltro-beige-22x30cm-9346",
+      "marca": "MULTICRAFT",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Beige-22X30Cm-Marca-MULTICRAFT-27804539050405-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Beige-22X30Cm-Marca-MULTICRAFT-27804539050405-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Beige"
+    },
+    {
+      "id": "fieltro-negro-con-escarcha-22x30cm-9345",
+      "nombre": "Fieltro Negro Con Escarcha 22X30Cm",
+      "slug": "fieltro-negro-con-escarcha-22x30cm-9345",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Negro-Con-Escarcha-22X30Cm-Marca-MULTICRAFT-27804539050404-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Negro-Con-Escarcha-22X30Cm-Marca-MULTICRAFT-27804539050404-1-.webp"
+      ],
+      "contenido": [
+        "Color: Negro"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Negro"
+    },
+    {
+      "id": "fieltro-rojo-con-escarcha-22x30cm-9344",
+      "nombre": "Fieltro Rojo Con Escarcha 22X30Cm",
+      "slug": "fieltro-rojo-con-escarcha-22x30cm-9344",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Rojo-Con-Escarcha-22X30Cm-Marca-MULTICRAFT-27804539050403-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Rojo-Con-Escarcha-22X30Cm-Marca-MULTICRAFT-27804539050403-1-.webp"
+      ],
+      "contenido": [
+        "Color: Rojo"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Rojo"
+    },
+    {
+      "id": "fieltro-verde-con-escarcha-22x30cm-9343",
+      "nombre": "Fieltro Verde Con Escarcha 22X30Cm",
+      "slug": "fieltro-verde-con-escarcha-22x30cm-9343",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Verde-Con-Escarcha-22X30Cm-Marca-MULTICRAFT-27804539050401-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Verde-Con-Escarcha-22X30Cm-Marca-MULTICRAFT-27804539050401-1-.webp"
+      ],
+      "contenido": [
+        "Color: Verde"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Verde"
+    },
+    {
+      "id": "fieltro-blanco-con-escarcha-22x30cm-9342",
+      "nombre": "Fieltro Blanco Con Escarcha 22X30Cm",
+      "slug": "fieltro-blanco-con-escarcha-22x30cm-9342",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Fieltro-Blanco-Con-Escarcha-22X30Cm-Marca-MULTICRAFT-27804539050400-1-.webp",
+      "galeria": [
+        "/images/shop/Fieltro-Blanco-Con-Escarcha-22X30Cm-Marca-MULTICRAFT-27804539050400-1-.webp"
+      ],
+      "contenido": [
+        "Color: Blanco"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Blanco"
+    },
+    {
+      "id": "block-carta-cuaderno-in-black-70-hojas-8736",
+      "nombre": "Block Carta Cuaderno In Black 70 Hojas",
+      "slug": "block-carta-cuaderno-in-black-70-hojas-8736",
+      "marca": "SCRIBE",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Block-Carta-Cuaderno-In-black-70-Hojas-Marca-SCRIBE-26754540030202-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Carta-Cuaderno-In-black-70-Hojas-Marca-SCRIBE-26754540030202-1-.webp",
+        "/images/shop/Block-Carta-Cuaderno-In-black-70-Hojas-Marca-SCRIBE-26754540030202-2-.webp",
+        "/images/shop/Block-Carta-Cuaderno-In-black-70-Hojas-Marca-SCRIBE-26754540030202-3-.webp",
+        "/images/shop/Block-Carta-Cuaderno-In-black-70-Hojas-Marca-SCRIBE-26754540030202-4-.webp",
+        "/images/shop/Block-Carta-Cuaderno-In-black-70-Hojas-Marca-SCRIBE-26754540030202-5-.webp",
+        "/images/shop/Block-Carta-Cuaderno-In-black-70-Hojas-Marca-SCRIBE-26754540030202-6-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    },
+    {
+      "id": "block-carta-cuaderno-incolors-70-hojas-surtido-8735",
+      "nombre": "Block Carta Cuaderno Incolors 70 Hojas Surtido",
+      "slug": "block-carta-cuaderno-incolors-70-hojas-surtido-8735",
+      "marca": "SCRIBE",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "Variedad de diseños. Este producto viene en diseños surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Block-Carta-Cuaderno-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540030201-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Carta-Cuaderno-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540030201-1-.webp",
+        "/images/shop/Block-Carta-Cuaderno-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540030201-2-.webp",
+        "/images/shop/Block-Carta-Cuaderno-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540030201-3-.webp",
+        "/images/shop/Block-Carta-Cuaderno-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540030201-4-.webp",
+        "/images/shop/Block-Carta-Cuaderno-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540030201-5-.webp",
+        "/images/shop/Block-Carta-Cuaderno-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540030201-6-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "block-oficio-cuaderno-qnota70-hojas-surtido-8734",
+      "nombre": "Block Oficio Cuaderno Qnota70 Hojas Surtido",
+      "slug": "block-oficio-cuaderno-qnota70-hojas-surtido-8734",
+      "marca": "SCRIBE",
+      "precio": 5700,
+      "precioAnterior": null,
+      "descripcion": "Variedad de diseños. Este producto viene en diseños surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Block-Oficio-Cuaderno-Qnota70-Hojas-Surtido-Marca-SCRIBE-26754540030300-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Oficio-Cuaderno-Qnota70-Hojas-Surtido-Marca-SCRIBE-26754540030300-1-.webp",
+        "/images/shop/Block-Oficio-Cuaderno-Qnota70-Hojas-Surtido-Marca-SCRIBE-26754540030300-2-.webp",
+        "/images/shop/Block-Oficio-Cuaderno-Qnota70-Hojas-Surtido-Marca-SCRIBE-26754540030300-3-.webp",
+        "/images/shop/Block-Oficio-Cuaderno-Qnota70-Hojas-Surtido-Marca-SCRIBE-26754540030300-4-.webp",
+        "/images/shop/Block-Oficio-Cuaderno-Qnota70-Hojas-Surtido-Marca-SCRIBE-26754540030300-5-.webp",
+        "/images/shop/Block-Oficio-Cuaderno-Qnota70-Hojas-Surtido-Marca-SCRIBE-26754540030300-6-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "block-carta-rayado-inblack-70-hojas-surtido-8729",
+      "nombre": "Block Carta Rayado Inblack 70 Hojas Surtido",
+      "slug": "block-carta-rayado-inblack-70-hojas-surtido-8729",
+      "marca": "SCRIBE",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "Variedad de diseños. Este producto viene en diseños surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Block-Carta-Rayado-Inblack-70-Hojas-Surtido-Marca-SCRIBE-26754540020202-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Carta-Rayado-Inblack-70-Hojas-Surtido-Marca-SCRIBE-26754540020202-1-.webp",
+        "/images/shop/Block-Carta-Rayado-Inblack-70-Hojas-Surtido-Marca-SCRIBE-26754540020202-2-.webp",
+        "/images/shop/Block-Carta-Rayado-Inblack-70-Hojas-Surtido-Marca-SCRIBE-26754540020202-3-.webp",
+        "/images/shop/Block-Carta-Rayado-Inblack-70-Hojas-Surtido-Marca-SCRIBE-26754540020202-4-.webp",
+        "/images/shop/Block-Carta-Rayado-Inblack-70-Hojas-Surtido-Marca-SCRIBE-26754540020202-5-.webp",
+        "/images/shop/Block-Carta-Rayado-Inblack-70-Hojas-Surtido-Marca-SCRIBE-26754540020202-6-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "block-carta-rayado-incolors-70-hojas-surtido-8728",
+      "nombre": "Block Carta Rayado Incolors 70 Hojas Surtido",
+      "slug": "block-carta-rayado-incolors-70-hojas-surtido-8728",
+      "marca": "SCRIBE",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "Variedad de diseños. Este producto viene en diseños surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Block-Carta-Rayado-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540020201-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Carta-Rayado-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540020201-1-.webp",
+        "/images/shop/Block-Carta-Rayado-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540020201-2-.webp",
+        "/images/shop/Block-Carta-Rayado-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540020201-3-.webp",
+        "/images/shop/Block-Carta-Rayado-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540020201-4-.webp",
+        "/images/shop/Block-Carta-Rayado-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540020201-5-.webp",
+        "/images/shop/Block-Carta-Rayado-Incolors-70-Hojas-Surtido-Marca-SCRIBE-26754540020201-6-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "block-oficio-rayado-qnota-70-hojas-surtido-8727",
+      "nombre": "Block Oficio Rayado Qnota 70 Hojas Surtido",
+      "slug": "block-oficio-rayado-qnota-70-hojas-surtido-8727",
+      "marca": "SCRIBE",
+      "precio": 5700,
+      "precioAnterior": null,
+      "descripcion": "Variedad de diseños. Este producto viene en diseños surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Block-Oficio-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020300-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Oficio-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020300-1-.webp",
+        "/images/shop/Block-Oficio-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020300-2-.webp",
+        "/images/shop/Block-Oficio-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020300-3-.webp",
+        "/images/shop/Block-Oficio-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020300-4-.webp",
+        "/images/shop/Block-Oficio-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020300-5-.webp",
+        "/images/shop/Block-Oficio-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020300-6-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "block-carta-rayado-qnota-70-hojas-surtido-8726",
+      "nombre": "Block Carta Rayado Qnota 70 Hojas Surtido",
+      "slug": "block-carta-rayado-qnota-70-hojas-surtido-8726",
+      "marca": "SCRIBE",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "Variedad de diseños. Este producto viene en diseños surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Block-Carta-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020200-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Carta-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020200-1-.webp",
+        "/images/shop/Block-Carta-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020200-2-.webp",
+        "/images/shop/Block-Carta-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020200-3-.webp",
+        "/images/shop/Block-Carta-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020200-4-.webp",
+        "/images/shop/Block-Carta-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020200-5-.webp",
+        "/images/shop/Block-Carta-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540020200-6-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "block-carta-amarillo-rayado-50-hojas-8725",
+      "nombre": "Block Carta Amarillo Rayado 50 Hojas",
+      "slug": "block-carta-amarillo-rayado-50-hojas-8725",
+      "marca": "SCRIBE",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Block-Carta-Amarillo-Rayado-50-Hojas-Marca-SCRIBE-26754540010201-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Carta-Amarillo-Rayado-50-Hojas-Marca-SCRIBE-26754540010201-1-.webp"
+      ],
+      "contenido": [
+        "Color: Amarillo"
+      ],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Amarillo"
+    },
+    {
+      "id": "block-oficio-sin-rayado-qnota-70-hojas-surtido-8724",
+      "nombre": "Block Oficio Sin Rayado Qnota 70 Hojas Surtido",
+      "slug": "block-oficio-sin-rayado-qnota-70-hojas-surtido-8724",
+      "marca": "SCRIBE",
+      "precio": 5700,
+      "precioAnterior": null,
+      "descripcion": "Variedad de diseños. Este producto viene en diseños surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Block-Oficio-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010300-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Oficio-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010300-1-.webp",
+        "/images/shop/Block-Oficio-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010300-2-.webp",
+        "/images/shop/Block-Oficio-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010300-3-.webp",
+        "/images/shop/Block-Oficio-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010300-4-.webp",
+        "/images/shop/Block-Oficio-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010300-5-.webp",
+        "/images/shop/Block-Oficio-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010300-6-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "block-carta-sin-rayado-qnota-70-hojas-surtido-8723",
+      "nombre": "Block Carta Sin Rayado Qnota 70 Hojas Surtido",
+      "slug": "block-carta-sin-rayado-qnota-70-hojas-surtido-8723",
+      "marca": "SCRIBE",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "Variedad de diseños. Este producto viene en diseños surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Block-Carta-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010200-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Carta-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010200-1-.webp",
+        "/images/shop/Block-Carta-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010200-2-.webp",
+        "/images/shop/Block-Carta-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010200-3-.webp",
+        "/images/shop/Block-Carta-Sin-Rayado-Qnota-70-Hojas-Surtido-Marca-SCRIBE-26754540010200-4-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks",
+      "color": "Surtido"
+    },
+    {
+      "id": "block-carta-iris-scribe-35-hojas-8722",
+      "nombre": "Block Carta Iris Scribe 35 Hojas",
+      "slug": "block-carta-iris-scribe-35-hojas-8722",
+      "marca": "SCRIBE",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Block-Carta-Iris-Scribe-35-Hojas-Marca-SCRIBE-26754539120200-1-.webp",
+      "galeria": [
+        "/images/shop/Block-Carta-Iris-Scribe-35-Hojas-Marca-SCRIBE-26754539120200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SCRIBE",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "papeles-y-blocks"
+    }
+  ]
+}

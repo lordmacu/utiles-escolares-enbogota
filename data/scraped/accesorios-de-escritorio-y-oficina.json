@@ -1,0 +1,2421 @@
+{
+  "categoria": "accesorios-de-escritorio-y-oficina",
+  "nombre": "Accesorios de Escritorio y Oficina",
+  "slug": "accesorios-de-escritorio-y-oficina",
+  "descripcion": "Accesorios de Escritorio y Oficina",
+  "imagen": "/images/shop/34334546101012-1-.webp",
+  "fuente": "https://www.lostreselefantes.com.co",
+  "productos": [
+    {
+      "id": "organizador-madera-4-divisiones-46940",
+      "nombre": "Organizador Madera 4 Divisiones",
+      "slug": "organizador-madera-4-divisiones-46940",
+      "marca": "SIMES LOGISTIC",
+      "precio": 45900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334546101012-1-.webp",
+      "galeria": [
+        "/images/shop/34334546101012-1-.webp",
+        "/images/shop/34334546101012-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-madera-con-gavinete-46939",
+      "nombre": "Organizador Madera Con Gavinete",
+      "slug": "organizador-madera-con-gavinete-46939",
+      "marca": "SIMES LOGISTIC",
+      "precio": 89900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334546050510-1-.webp",
+      "galeria": [
+        "/images/shop/34334546050510-1-.webp",
+        "/images/shop/34334546050510-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-madera-6-divisiones-46938",
+      "nombre": "Organizador Madera 6 Divisiones",
+      "slug": "organizador-madera-6-divisiones-46938",
+      "marca": "SIMES LOGISTIC",
+      "precio": 69900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334546050511-1-.webp",
+      "galeria": [
+        "/images/shop/34334546050511-1-.webp",
+        "/images/shop/34334546050511-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-madera-esferos-46937",
+      "nombre": "Organizador Madera Esferos",
+      "slug": "organizador-madera-esferos-46937",
+      "marca": "SIMES LOGISTIC",
+      "precio": 32900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334546030312-1-.webp",
+      "galeria": [
+        "/images/shop/34334546030312-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tabla-chequeo-46936",
+      "nombre": "Tabla Chequeo",
+      "slug": "tabla-chequeo-46936",
+      "marca": "SIMES LOGISTIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334543010104-1-.webp",
+      "galeria": [
+        "/images/shop/34334543010104-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tabla-chequeo-pequena-46935",
+      "nombre": "Tabla Chequeo Pequeña",
+      "slug": "tabla-chequeo-pequena-46935",
+      "marca": "SIMES LOGISTIC",
+      "precio": 3900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334543010103-1-.webp",
+      "galeria": [
+        "/images/shop/34334543010103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tabla-chequeo-46934",
+      "nombre": "Tabla Chequeo",
+      "slug": "tabla-chequeo-46934",
+      "marca": "SIMES LOGISTIC",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334543010102-1-.webp",
+      "galeria": [
+        "/images/shop/34334543010102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tabla-chequeo-a4-46933",
+      "nombre": "Tabla Chequeo A4",
+      "slug": "tabla-chequeo-a4-46933",
+      "marca": "SIMES LOGISTIC",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334543010101-1-.webp",
+      "galeria": [
+        "/images/shop/34334543010101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tabla-chequeo-a3-46932",
+      "nombre": "Tabla Chequeo A3",
+      "slug": "tabla-chequeo-a3-46932",
+      "marca": "SIMES LOGISTIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334543010100-1-.webp",
+      "galeria": [
+        "/images/shop/34334543010100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-carpetas-borde-cuadrado-42071",
+      "nombre": "Organizador Carpetas Borde Cuadrado",
+      "slug": "organizador-carpetas-borde-cuadrado-42071",
+      "marca": "KENNEDY TOOLS",
+      "precio": 39900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22324546080200-1-.webp",
+      "galeria": [
+        "/images/shop/22324546080200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "KENNEDY TOOLS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-x3-portalapiz-organizador-portautiles-surtido-42070",
+      "nombre": "Set X3 Portalapiz/Organizador/Portautiles Surtido",
+      "slug": "set-x3-portalapiz-organizador-portautiles-surtido-42070",
+      "marca": "KENNEDY TOOLS",
+      "precio": 59900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22324546050500-1-.webp",
+      "galeria": [
+        "/images/shop/22324546050500-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "KENNEDY TOOLS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "organizador-gavetas-3-niveles-surtido-42069",
+      "nombre": "Organizador Gavetas 3 Niveles Surtido",
+      "slug": "organizador-gavetas-3-niveles-surtido-42069",
+      "marca": "KENNEDY TOOLS",
+      "precio": 89900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22324546020302-1-.webp",
+      "galeria": [
+        "/images/shop/22324546020302-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "KENNEDY TOOLS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "portautiles-violin-20x12x9-cm-38708",
+      "nombre": "Portautiles Violin 20X12X9 Cm",
+      "slug": "portautiles-violin-20x12x9-cm-38708",
+      "marca": "SIMES LOGISTIC",
+      "precio": 54900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334546030202-1-.webp",
+      "galeria": [
+        "/images/shop/34334546030202-1-.webp",
+        "/images/shop/34334546030202-2-.webp",
+        "/images/shop/34334546030202-3-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "portautiles-libros-15x16x10-cm-38707",
+      "nombre": "Portautiles Libros 15X16X10 Cm",
+      "slug": "portautiles-libros-15x16x10-cm-38707",
+      "marca": "SIMES LOGISTIC",
+      "precio": 54900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334546030201-1-.webp",
+      "galeria": [
+        "/images/shop/34334546030201-1-.webp",
+        "/images/shop/34334546030201-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-carpetas-borde-redondo-38565",
+      "nombre": "Organizador Carpetas Borde Redondo",
+      "slug": "organizador-carpetas-borde-redondo-38565",
+      "marca": "FREE",
+      "precio": 39900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22324546080201-1-.webp",
+      "galeria": [
+        "/images/shop/22324546080201-1-.webp",
+        "/images/shop/22324546080201-2-.webp",
+        "/images/shop/22324546080201-3-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FREE"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-documentos-3-divisiones-38564",
+      "nombre": "Organizador Documentos 3 Divisiones",
+      "slug": "organizador-documentos-3-divisiones-38564",
+      "marca": "FREE",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22324546080300-1-.webp",
+      "galeria": [
+        "/images/shop/22324546080300-1-.webp",
+        "/images/shop/22324546080300-2-.webp",
+        "/images/shop/22324546080300-3-.webp",
+        "/images/shop/22324546080300-4-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FREE"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "portautiles-5-divisiones-portalapices-38563",
+      "nombre": "Portautiles 5 Divisiones Portalapices",
+      "slug": "portautiles-5-divisiones-portalapices-38563",
+      "marca": "FREE",
+      "precio": 44900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22324546030403-1-.webp",
+      "galeria": [
+        "/images/shop/22324546030403-1-.webp",
+        "/images/shop/22324546030403-2-.webp",
+        "/images/shop/22324546030403-3-.webp",
+        "/images/shop/22324546030403-4-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FREE"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "bandeja-documento-de-entrada-38562",
+      "nombre": "Bandeja Documento De Entrada",
+      "slug": "bandeja-documento-de-entrada-38562",
+      "marca": "FREE",
+      "precio": 34900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22324546010200-1-.webp",
+      "galeria": [
+        "/images/shop/22324546010200-1-.webp",
+        "/images/shop/22324546010200-2-.webp",
+        "/images/shop/22324546010200-3-.webp",
+        "/images/shop/22324546010200-4-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FREE"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "borrador-madera-para-pizarron-37963",
+      "nombre": "Borrador Madera Para Pizarron",
+      "slug": "borrador-madera-para-pizarron-37963",
+      "marca": "PELIKAN",
+      "precio": 7600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25054538060100-1-.webp",
+      "galeria": [
+        "/images/shop/25054538060100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "PELIKAN"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "juego-geometrico-5-piezas-37962",
+      "nombre": "Juego Geometrico 5 Piezas",
+      "slug": "juego-geometrico-5-piezas-37962",
+      "marca": "PELIKAN",
+      "precio": 14100,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25054534111000-1-.webp",
+      "galeria": [
+        "/images/shop/25054534111000-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "PELIKAN"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "almohadilla-dactilar-negra-37935",
+      "nombre": "Almohadilla Dactilar Negra",
+      "slug": "almohadilla-dactilar-negra-37935",
+      "marca": "PELIKAN",
+      "precio": 6600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25054508090100-1-.webp",
+      "galeria": [
+        "/images/shop/25054508090100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "PELIKAN"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Negro"
+    },
+    {
+      "id": "almohadilla-sellos-plastica-grande-37934",
+      "nombre": "Almohadilla Sellos Plastica Grande",
+      "slug": "almohadilla-sellos-plastica-grande-37934",
+      "marca": "PELIKAN",
+      "precio": 11400,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25054508080300-1-.webp",
+      "galeria": [
+        "/images/shop/25054508080300-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "PELIKAN"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "almohadilla-sellos-plastica-mediana-37933",
+      "nombre": "Almohadilla Sellos Plastica Mediana",
+      "slug": "almohadilla-sellos-plastica-mediana-37933",
+      "marca": "PELIKAN",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25054508080200-1-.webp",
+      "galeria": [
+        "/images/shop/25054508080200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "PELIKAN"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "caja-organizadora-12x7-cm-35458",
+      "nombre": "Caja Organizadora 12X7 Cm",
+      "slug": "caja-organizadora-12x7-cm-35458",
+      "marca": "BAZIC",
+      "precio": 11900,
+      "precioAnterior": null,
+      "descripcion": "FUNCIONAL. Medidas: 5,5″ x 3,5″ x 2,9″. Admite tarjetas de tamaño 3″ x 5″ y caben hasta 250 tarjetas. Ideal para guardar fichas, tarjetas de presentación, notas de archivo, tarjetas didácticas, direcciones, fotos, cupones y recibos.\nALTA CALIDAD. Fabricadas con cajas de plástico PP no tóxicas y sin BPA. El cierre con pestillo mantiene el contenido seguro. El diseño de la tapa permite apilar varias cajas para aprovechar mejor el espacio.\nMULTIUSOS. Perfecto para que los estudiantes guarden manualidades, útiles escolares y artículos pequeños o mini. Con tapa a presión, simplemente presione el pestillo hacia el estuche para que el mecanismo se bloquee como está diseñado.\nDISEÑO BRILLANTE. Colores variados. Semitransparente/translúcido que mantiene el contenido visible. Le permite ver a través de la caja para localizar los artículos fácilmente. Disponible en suministros escolares a granel para ahorrar costos.\nMANTENGA EL ESCRITORIO ORDENADO. Ideal para el hogar, la oficina o la escuela. Tamaño compacto para exhibir en su escritorio o deslizarlo en un cajón. Archive fácilmente notas, información de contacto y artículos personales.",
+      "imagen": "/images/shop/30864546090100-1-.webp",
+      "galeria": [
+        "/images/shop/30864546090100-1-.webp",
+        "/images/shop/30864546090100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "lupa-2x-7-5-cm-35457",
+      "nombre": "Lupa 2X 7.5 Cm",
+      "slug": "lupa-2x-7-5-cm-35457",
+      "marca": "BAZIC",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "LUPA REDONDA. Esta lupa ofrece un aumento de 2X, lo que permite a los usuarios con baja visión leer textos, sin importar el tamaño. La lupa viene con un marco resistente y redondo de 3″.\nCOLORES VARIOS. Estas lupas vienen en colores variados; ¡los colores reales pueden variar! También cuentan con un orificio para colgarlas para guardarlas cómodamente cuando no se usan y para mantener las cosas organizadas.\nLENTE DE ALTA CALIDAD. Nuestra lupa resistente está hecha con una lente acrílica resistente a rayones e irrompible, ¡así que le durará mucho, mucho tiempo!\nSIN DISTORSIÓN. Las lentes de grado óptico sin distorsión brindan años de confiabilidad. Son ideales para mejorar la lectura y ver detalles muy finos en libros, periódicos, mapas y más.\nUSOS VARIOS. Ideal para leer, observar de cerca elementos como insectos, sellos, monedas, cupones, recetas y también es una gran opción para personas con visión reducida o deteriorada de la mayoría de los tipos.",
+      "imagen": "/images/shop/30864546070100-1-.webp",
+      "galeria": [
+        "/images/shop/30864546070100-1-.webp",
+        "/images/shop/30864546070100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "bandeja-para-utiles-35456",
+      "nombre": "Bandeja Para Utiles",
+      "slug": "bandeja-para-utiles-35456",
+      "marca": "BAZIC",
+      "precio": 59900,
+      "precioAnterior": null,
+      "descripcion": "MULTIFUNCIONAL. Este escritorio con bandeja para el regazo está equipado con tres compartimentos laterales, perfectos para guardar lápices, crayones, cuadernos y artículos pequeños, lo que garantiza que todos los elementos esenciales estén organizados y al alcance de la mano.\nCOMODIDAD. El escritorio portátil ofrece un amplio espacio para diversas actividades, mientras que su cómoda altura promueve una buena postura y reduce la incomodidad durante el uso prolongado; el escritorio mide 22,25″ x 10,75″ x 8,5″\nFÁCIL DE LIMPIAR. La superficie lisa facilita la limpieza después de las comidas o los proyectos de arte; el borde acanalado atrapa los derrames y evita que los objetos se caigan para mantener el escritorio ordenado e higiénico.\nPORTÁTIL Y LIVIANA. Diseñadas para transportarse fácilmente, las bandejas son livianas pero resistentes, lo que las hace ideales para usar en el hogar, el aula o en movimiento; apilables para guardarlas y trasladarlas cómodamente.\nVERSÁTIL. Ideal para diversas actividades, como hacer los deberes, dibujar, leer o tomar un refrigerio, esta bandeja portátil se puede utilizar para muchas necesidades diferentes con sus tres bolsillos laterales de almacenamiento.\nDescripción del Producto",
+      "imagen": "/images/shop/30864546030500-2-.webp",
+      "galeria": [
+        "/images/shop/30864546030500-2-.webp",
+        "/images/shop/30864546030500-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-utiles-33x12-cm-35455",
+      "nombre": "Organizador Utiles 33X12 Cm",
+      "slug": "organizador-utiles-33x12-cm-35455",
+      "marca": "BAZIC",
+      "precio": 24900,
+      "precioAnterior": null,
+      "descripcion": "APILABLE. Fabricado en plástico PP no tóxico y sin BPA. El diseño de la tapa permite apilar varios estuches para aprovechar mejor el espacio. Medidas: 13,25″ x 4,75″ x 2,5″. Llévalo en la mochila o guárdalo en un cajón.\nFUNCIONAL. Perfecto para que los estudiantes guarden manualidades, útiles escolares y artículos pequeños. Con tapa a presión, simplemente presione el pestillo hacia el estuche para que el mecanismo se bloquee como está diseñado.\nDISEÑO BRILLANTE. El diseño de colores transparentes mantiene el contenido visible. Le permite ver a través de la caja para localizar fácilmente los artículos. Disponible en suministros escolares a granel para ahorrar costos.\nALMACENAMIENTO SENCILLO. Un gran regalo para niños pequeños para organizar el entrenamiento. Guarda todo en su propia caja para que no se les olvide nada. Cada niño recibe un estuche para mantener la salud y la higiene sin compartir\nMANTENGA EL ESCRITORIO ORDENADO. Ideal para la oficina para organizar elementos como reglas, bolígrafos, lápices, crayones, marcadores, corrector, resaltador, grapas, cheques, recibos, pinceles de maquillaje, pinceles para pintar y más.",
+      "imagen": "/images/shop/30864546030300-1-.webp",
+      "galeria": [
+        "/images/shop/30864546030300-1-.webp",
+        "/images/shop/30864546030300-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "caja-organizadora-utiles-33-cm-35454",
+      "nombre": "Caja Organizadora Utiles 33 Cm",
+      "slug": "caja-organizadora-utiles-33-cm-35454",
+      "marca": "BAZIC",
+      "precio": 24900,
+      "precioAnterior": null,
+      "descripcion": "APILABLE. Fabricado en plástico PP no tóxico y sin BPA. El diseño de la tapa permite apilar varios estuches para aprovechar mejor el espacio. Medidas: 13,25″ x 4,75″ x 2,5″. Llévalo en la mochila o guárdalo en un cajón.\nFUNCIONAL. Perfecto para que los estudiantes guarden manualidades, útiles escolares y artículos pequeños. Con tapa a presión, simplemente presione el pestillo hacia el estuche para que el mecanismo se bloquee como está diseñado.\nDISEÑO BRILLANTE. Colores variados. El diseño claro y transparente mantiene el contenido visible. Le permite ver a través de la caja para localizar fácilmente los artículos. Disponible en suministros escolares a granel para ahorrar costos.\nALMACENAMIENTO SENCILLO. Un gran regalo para niños pequeños para organizar el entrenamiento. Guarda todo en su propia caja para que no se les olvide nada. Cada niño recibe un estuche para mantener la salud y la higiene sin compartir\nMANTENGA EL ESCRITORIO ORDENADO. Ideal para la oficina para organizar elementos como reglas, bolígrafos, lápices, crayones, marcadores, corrector, resaltador, grapas, cheques, recibos, pinceles de maquillaje, pinceles para pintar y más.",
+      "imagen": "/images/shop/30864546030400-1-.webp",
+      "galeria": [
+        "/images/shop/30864546030400-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-utiles-19x12-cm-35453",
+      "nombre": "Organizador Utiles 19X12 Cm",
+      "slug": "organizador-utiles-19x12-cm-35453",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "APILABLE. Fabricado en plástico PP no tóxico y sin BPA. El diseño de la tapa permite apilar varios contenedores para aprovechar mejor el espacio. Medidas: 7,75″ x 4,75″ x 2″. Llévalo en la mochila o guárdalo en un cajón.\nFUNCIONAL. Perfecto para que los estudiantes guarden manualidades, útiles escolares y artículos pequeños. Con tapa a presión, simplemente presione el pestillo hacia el estuche para que el mecanismo se bloquee como está diseñado.\nDISEÑO BRILLANTE. El diseño claro y transparente mantiene el contenido visible. Le permite ver a través de la caja para localizar fácilmente los artículos. Disponible en suministros escolares a granel para ahorrar costos.\nALMACENAMIENTO SENCILLO. Un gran regalo para niños pequeños para organizar el entrenamiento. Guarda todo en su propia caja para que no se les olvide nada. Cada niño recibe un estuche para mantener la salud y la higiene sin compartir\nMANTENGA EL ESCRITORIO ORDENADO. Ideal para la oficina para organizar elementos como bolígrafos, lápices, crayones, marcadores, corrector, resaltador, grapas, tarjetas de presentación, cheques, recibos, maquillaje, accesorios de pintura y más.",
+      "imagen": "/images/shop/30864546030202-1-.webp",
+      "galeria": [
+        "/images/shop/30864546030202-1-.webp",
+        "/images/shop/30864546030202-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-utiles-19x12-cm-35452",
+      "nombre": "Organizador Utiles 19X12 Cm",
+      "slug": "organizador-utiles-19x12-cm-35452",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "CAJA UTILITARIA. Fabricada en plástico PP no tóxico y libre de BPA. El diseño de la tapa permite apilar varias cajas para aprovechar mejor el espacio. Medidas: 7,75″ x 4,75″ x 2″. Llévala en la mochila o guárdala en un cajón.\nFUNCIONAL. Perfecto para que los estudiantes guarden manualidades, útiles escolares y artículos pequeños. Con tapa a presión, simplemente presione el pestillo hacia el estuche para que el mecanismo se bloquee como está diseñado.\nDISEÑO BRILLANTE. Colores variados. El diseño claro y transparente mantiene el contenido visible. Le permite ver a través de la caja para localizar fácilmente los artículos. Disponible en suministros escolares a granel para ahorrar costos.\nALMACENAMIENTO SENCILLO. Un gran regalo para niños pequeños para organizar el entrenamiento. Guarda todo en su propia caja para que no se les olvide nada. Cada niño recibe un estuche para mantener la salud y la higiene sin compartir\nMANTENGA EL ESCRITORIO ORDENADO. Ideal para la oficina para organizar elementos como bolígrafos, lápices, crayones, marcadores, corrector, resaltador, grapas, tarjetas de presentación, cheques, recibos, maquillaje, accesorios de pintura y más.\nDescripción del Producto",
+      "imagen": "/images/shop/30864546030211-1-.webp",
+      "galeria": [
+        "/images/shop/30864546030211-1-.webp",
+        "/images/shop/30864546030211-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-utiles-20x12-cm-35451",
+      "nombre": "Organizador Utiles 20X12 Cm",
+      "slug": "organizador-utiles-20x12-cm-35451",
+      "marca": "BAZIC",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "APILABLE. Fabricado en plástico PP no tóxico y sin BPA. El diseño de la tapa permite apilar varios contenedores para aprovechar mejor el espacio. Medidas: 21,8 x 12,7 x 6,1 cm. Llévalo en la mochila o guárdalo en un cajón.\nFUNCIONAL. Perfecto para que los estudiantes guarden manualidades, útiles escolares y artículos pequeños. Con tapa a presión, simplemente presione el pestillo hacia el estuche para que el mecanismo se bloquee como está diseñado.\nDISEÑO BRILLANTE. Colores variados. El diseño claro y transparente mantiene el contenido visible. Le permite ver a través de la caja para localizar fácilmente los artículos. Disponible en suministros escolares a granel para ahorrar costos.\nALMACENAMIENTO SENCILLO. Un gran regalo para niños pequeños para organizar el entrenamiento. Guarda todo en su propia caja para que no se les olvide nada. Cada niño recibe un estuche para mantener la salud y la higiene sin compartir\nMANTENGA EL ESCRITORIO ORDENADO. Ideal para la oficina para organizar elementos como bolígrafos, lápices, crayones, marcadores, corrector, resaltador, grapas, tarjetas de presentación, cheques, recibos, maquillaje, accesorios de pintura y más.",
+      "imagen": "/images/shop/30864546030203-1-.webp",
+      "galeria": [
+        "/images/shop/30864546030203-1-.webp",
+        "/images/shop/30864546030203-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "caja-organizadora-utiles-transparente-35450",
+      "nombre": "Caja Organizadora Utiles Transparente",
+      "slug": "caja-organizadora-utiles-transparente-35450",
+      "marca": "BAZIC",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "APILABLE. Fabricado en plástico PP no tóxico y sin BPA. El diseño de la tapa permite apilar varios estuches para aprovechar mejor el espacio. Medidas: 20 cm x 12 cm x 6 cm. Llévalo en la mochila o guárdalo en un cajón.\nFUNCIONAL. Perfecto para que los estudiantes guarden manualidades, útiles escolares y artículos pequeños. Con tapa a presión, simplemente presione el pestillo hacia el estuche para que el mecanismo se bloquee como está diseñado.\nDISEÑO BRILLANTE. Colores variados. El diseño claro y transparente mantiene el contenido visible. Le permite ver a través de la caja para localizar fácilmente los artículos. Disponible en suministros escolares a granel para ahorrar costos.\nALMACENAMIENTO SENCILLO. Un gran regalo para niños pequeños para organizar el entrenamiento. Guarda todo en su propia caja para que no se les olvide nada. Cada niño recibe un estuche para mantener la salud y la higiene sin compartir\nMANTENGA EL ESCRITORIO ORDENADO. Ideal para la oficina para organizar elementos como bolígrafos, lápices, crayones, marcadores, corrector, resaltador, grapas, tarjetas de presentación, cheques, recibos, maquillaje, accesorios de pintura y más.",
+      "imagen": "/images/shop/30864546030209-1-.webp",
+      "galeria": [
+        "/images/shop/30864546030209-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Transparente"
+    },
+    {
+      "id": "organizador-utiles-2-niveles-20-cm-35449",
+      "nombre": "Organizador Utiles 2 Niveles 20 Cm",
+      "slug": "organizador-utiles-2-niveles-20-cm-35449",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "APILABLE. Doble piso con 5 compartimentos. Fabricado en plástico PP no tóxico y libre de BPA. El diseño de la tapa permite apilar varios contenedores para aprovechar mejor el espacio. Medidas: 20 cm x 8 cm x 3,8 cm.\nFUNCIONAL. Perfecto para que los estudiantes guarden manualidades, útiles escolares y artículos pequeños. Con tapa a presión, simplemente presione el pestillo hacia el estuche para que el mecanismo se bloquee como está diseñado.\nDISEÑO BRILLANTE. Colores variados. El diseño claro y transparente mantiene el contenido visible. Le permite ver a través de la caja para localizar fácilmente los artículos. Disponible en suministros escolares a granel para ahorrar costos.\nALMACENAMIENTO SENCILLO. Un gran regalo para niños pequeños para organizar el entrenamiento. Guarda todo en su propia caja para que no se les olvide nada. Cada niño recibe un estuche para mantener la salud y la higiene sin compartir\nMANTENGA EL ESCRITORIO ORDENADO. Ideal para la oficina para organizar elementos como bolígrafos, lápices, borradores, crayones, marcadores, corrector líquido, resaltadores y más.",
+      "imagen": "/images/shop/30864546030205-2-.webp",
+      "galeria": [
+        "/images/shop/30864546030205-2-.webp",
+        "/images/shop/30864546030205-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-utiles-20-cm-35448",
+      "nombre": "Organizador Utiles 20 Cm",
+      "slug": "organizador-utiles-20-cm-35448",
+      "marca": "BAZIC",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "ELEGANTE Y TRANSPARENTE. Este estuche para lápices presenta un diseño moderno y transparente que te permite identificar y organizar fácilmente tus artículos de papelería esenciales sin necesidad de abrir la caja.\nESPACIOSO. Con dimensiones de 20 x 7,6 x 4,5 cm, este estuche ofrece un amplio espacio de almacenamiento para guardar una amplia variedad de bolígrafos, lápices, borradores, sacapuntas y otros accesorios pequeños.\nDURADERO Y LIGERO. Fabricado con plástico resistente, este estuche para lápices está diseñado para durar, lo que garantiza que tus artículos de papelería se mantengan protegidos. A pesar de su durabilidad, sigue siendo liviano para transportarlo sin esfuerzo.\nAPILABLE. La caja de lápices de diseño inteligente permite apilarlas fácilmente, maximizando así la capacidad de ahorrar espacio al organizar. Apila varias cajas sin esfuerzo una sobre otra para mantener tu espacio de trabajo ordenado y sin desorden.\nVERSÁTIL. Además de ser el organizador de lápices perfecto, también se puede utilizar para guardar maquillaje, material de arte, materiales para manualidades o cualquier otro artículo pequeño que quieras mantener organizado y de fácil acceso.",
+      "imagen": "/images/shop/30864546030207-1-.webp",
+      "galeria": [
+        "/images/shop/30864546030207-1-.webp",
+        "/images/shop/30864546030207-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-utiles-20-cm-35447",
+      "nombre": "Organizador Utiles 20 Cm",
+      "slug": "organizador-utiles-20-cm-35447",
+      "marca": "BAZIC",
+      "precio": 11900,
+      "precioAnterior": null,
+      "descripcion": "ELEGANTE Y CLARO. Este estuche para lápices tiene un diseño moderno y transparente que te permite identificar y organizar fácilmente tus artículos de papelería esenciales sin necesidad de abrir el estuche.\nESPACIOSO. Con dimensiones de 20 x 7,6 x 4,5 cm, este estuche ofrece un amplio espacio de almacenamiento para guardar una amplia variedad de bolígrafos, lápices, borradores, sacapuntas y otros accesorios pequeños.\nDURADERO Y LIGERO. Fabricado con plástico resistente, este estuche para lápices está diseñado para durar, lo que garantiza que tus artículos de papelería se mantengan protegidos. A pesar de su durabilidad, sigue siendo liviano para transportarlo sin esfuerzo.\nAPILABLE. La caja de lápices de diseño inteligente permite apilarlas fácilmente, maximizando así la capacidad de ahorrar espacio al organizar. Apila varias cajas sin esfuerzo una sobre otra para mantener tu espacio de trabajo ordenado y sin desorden.\nVERSÁTIL. Además de ser el organizador de lápices perfecto, también se puede utilizar para guardar maquillaje, material de arte, materiales para manualidades o cualquier otro artículo pequeño que quieras mantener organizado y de fácil acceso.",
+      "imagen": "/images/shop/30864546030210-1-.webp",
+      "galeria": [
+        "/images/shop/30864546030210-1-.webp",
+        "/images/shop/30864546030210-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "limpiador-tablero-acrilico-4-oz-35431",
+      "nombre": "Limpiador Tablero Acrilico 4 Oz",
+      "slug": "limpiador-tablero-acrilico-4-oz-35431",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "VERSÁTIL. Aplíquelo sobre superficies de borrado en seco, como pizarrones blancos, vidrio, porcelana, melamina y la mayoría de las superficies no porosas. Elimina las imágenes superpuestas, las marcas difíciles y las sombras de los pizarrones blancos sin esfuerzo.\nFÁCIL DE LIMPIAR. Rocíe con una botella para cubrir la pizarra al máximo. Deje actuar durante 2 o 3 minutos. Use un paño suave o un borrador para pizarras para limpiar la superficie de las pizarras. Repita si es necesario.\nDISEÑADO PARA ELIMINAR MANCHAS DIFÍCILES. Fórmula resistente a las manchas pero suave que no daña la pizarra. Este artículo no es tóxico en condiciones normales de uso y cumple con la norma ASTM D-4236.\nMULTIUSOS. Para la escuela, el aula, el profesorado y la oficina. Deja la superficie de escritura limpia y fresca.\nPruebe otros fantásticos productos BAZIC. Ofrecemos una amplia gama de productos de papelería para todas sus necesidades escolares y de oficina.",
+      "imagen": "/images/shop/30864538110100-1-.webp",
+      "galeria": [
+        "/images/shop/30864538110100-1-.webp",
+        "/images/shop/30864538110100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "limpiador-tablero-acrilico-8-oz-35430",
+      "nombre": "Limpiador Tablero Acrilico 8 Oz",
+      "slug": "limpiador-tablero-acrilico-8-oz-35430",
+      "marca": "BAZIC",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "VERSÁTIL. Aplíquelo sobre superficies de borrado en seco, como pizarrones blancos, vidrio, porcelana, melamina y la mayoría de las superficies no porosas. Elimina las imágenes superpuestas, las marcas difíciles y las sombras de los pizarrones blancos sin esfuerzo.\nFÁCIL DE LIMPIAR. Rocíe con una botella para cubrir la pizarra al máximo. Deje actuar durante 2 o 3 minutos. Use un paño suave o un borrador para pizarras para limpiar la superficie de las pizarras. Repita si es necesario.\nDISEÑADO PARA ELIMINAR MANCHAS DIFÍCILES. Fórmula resistente a las manchas pero suave que no daña la pizarra. Este artículo no es tóxico en condiciones normales de uso y cumple con la norma ASTM D-4236.\nMULTIUSOS. Para la escuela, el aula, el profesorado y la oficina. Deja la superficie de escritura limpia y fresca.\nPruebe otros fantásticos productos BAZIC. Ofrecemos una amplia gama de productos de papelería para todas sus necesidades escolares y de oficina.",
+      "imagen": "/images/shop/30864538110200-1-.webp",
+      "galeria": [
+        "/images/shop/30864538110200-1-.webp",
+        "/images/shop/30864538110200-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tabla-blanca-40x50-cm-35429",
+      "nombre": "Tabla Blanca 40X50 Cm",
+      "slug": "tabla-blanca-40x50-cm-35429",
+      "marca": "BAZIC",
+      "precio": 79900,
+      "precioAnterior": null,
+      "descripcion": "PIZARRA BLANCA MAGNÉTICA Y TABLERO DE CORCHO. Incluye marcador de borrado en seco*1, imán*2 y 2 tornillos de montaje. Superficies lisas resistentes a rayones. Marco de aluminio blanco con tablón de anuncios inferior para colgar papeles con chinchetas.\nDURADERO. Marco resistente y de calidad con esquinas de aluminio redondeadas para mayor seguridad y uso duradero. Ideal para planificación, tareas domésticas, listas de tareas pendientes, estudios en casa y organización.\nFÁCIL INSTALACIÓN. Se monta fácilmente en la pared de la oficina, el espacio comercial, el dormitorio o la habitación. El tablero de anuncios es ideal para publicar notas, mensajes, imágenes, recordatorios, calendarios, menús, recordatorios y mucho más.\nSUPERFICIE LISA. Fácil de escribir, dibujar, programar y exhibir. Perfecta para la oficina, reuniones de Zoom, cocina, refrigerador, escritorio. Esta pizarra blanca magnética te ayuda a mantener un registro de tu apretada agenda.\nFÁCIL DE LIMPIAR. Utilice un borrador para pizarrones o un paño de limpieza de microfibra. Añadir un poco de agua o un limpiador de borrado en seco puede ayudar a limpiar la pizarra fácilmente. Proporciona la mejor experiencia de escritura.",
+      "imagen": "/images/shop/30864538050500-1-.webp",
+      "galeria": [
+        "/images/shop/30864538050500-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Blanco"
+    },
+    {
+      "id": "tabla-magnetica-pizarra-35-cm-35428",
+      "nombre": "Tabla Magnetica Pizarra 35 Cm",
+      "slug": "tabla-magnetica-pizarra-35-cm-35428",
+      "marca": "BAZIC",
+      "precio": 79900,
+      "precioAnterior": null,
+      "descripcion": "SIN MARCO. Con un elegante diseño sin marco, esta pizarra ofrece una estética moderna y minimalista que combina a la perfección con cualquier decoración. La superficie mate funciona con tizas estándar y marcadores de tiza líquida.\nMARCADOR + IMÁN. Incluye 1 imán y 1 marcador de tiza líquida de color blanco, por lo que esta pizarra está lista para usar desde el primer momento. El marcador no es tóxico, no tiene olor y se seca rápidamente. Cuando termines, borra fácilmente con un paño o pañuelo húmedo.\nSUPERFICIE MAGNÉTICA. Equipada con un respaldo magnético, esta pizarra le permite colocar fácilmente notas, fotos, recordatorios y más para mantenerse organizado y agregar un aspecto multifuncional a su espacio de trabajo.\nTAMAÑO VERSÁTIL. Las generosas dimensiones de 14 x 14 pulgadas brindan un amplio espacio para notas, dibujos y expresión creativa, lo que lo hace perfecto para usar en el hogar o la oficina. Una herramienta de organización práctica y una salida creativa para sus ideas.\nFÁCIL MONTAJE. El producto incluye todo el hardware de montaje necesario, lo que hace que la instalación sea muy sencilla. Se instala en unos pocos y rápidos pasos.",
+      "imagen": "/images/shop/30864538010400-1-.webp",
+      "galeria": [
+        "/images/shop/30864538010400-1-.webp",
+        "/images/shop/30864538010400-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "pizarra-rayada-borrable-35427",
+      "nombre": "Pizarra Rayada Borrable",
+      "slug": "pizarra-rayada-borrable-35427",
+      "marca": "BAZIC",
+      "precio": 13900,
+      "precioAnterior": null,
+      "descripcion": "BLOC PORTÁTIL 2 EN 1. Un lado con líneas es ideal para practicar la escritura de palabras y letras. El otro lado en blanco es ideal para practicar matemáticas, dibujar, garabatear, jugar, colorear y más.\nFÁCIL DE USAR. Esta pizarra blanca liviana está hecha de cartón estándar. Su superficie es lisa, lo que facilita la escritura. Es perfecta para usar en la cocina, la oficina y la sala para programar y tomar notas.\nFÁCIL DE LIMPIAR. Utilice un borrador para pizarras o un paño de limpieza de microfibra. Añadir un poco de agua o un limpiador de borrado en seco puede ayudar a limpiar la pizarra fácilmente.\nUNA FORMA DIVERTIDA DE APRENDER. Ideal para que los niños y los estudiantes lo utilicen en casa y en la escuela con marcadores de borrado en seco. Sirve tanto como juguete educativo como como tablero de dibujo divertido.\nSOSTENIBLE. Se puede utilizar una y otra vez. Evita que los profesores desperdicien hojas de papel. Esta pizarra blanca de borrado en seco cuenta con el respaldo de profesores y padres: ¡un regalo navideño perfecto para los niños!",
+      "imagen": "/images/shop/30864538010106-1-.webp",
+      "galeria": [
+        "/images/shop/30864538010106-1-.webp",
+        "/images/shop/30864538010106-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "pizarra-para-marcador-borrable-35426",
+      "nombre": "Pizarra Para Marcador Borrable",
+      "slug": "pizarra-para-marcador-borrable-35426",
+      "marca": "BAZIC",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "Pizarra portátil. La pizarra blanca es ideal para practicar la escritura de palabras, letras, matemáticas, dibujar, hacer garabatos, jugar, colorear y mucho más. Marco resistente y de calidad.\nFÁCIL DE USAR. Esta pizarra blanca liviana está hecha de cartón estándar. Su superficie es lisa, lo que facilita la escritura. Es perfecta para usar en la cocina, la oficina y la sala para programar y tomar notas.\nFÁCIL DE LIMPIAR. Utilice un borrador para pizarras o un paño de limpieza de microfibra. Añadir un poco de agua o un limpiador de borrado en seco puede ayudar a limpiar la pizarra fácilmente.\nUNA FORMA DIVERTIDA DE APRENDER. Marco resistente y de calidad. Ideal para que los niños y los estudiantes lo usen en casa y en la escuela con marcadores de borrado en seco. Sirve tanto como juguete educativo como como tablero de dibujo divertido.\nSOSTENIBLE. Se puede utilizar una y otra vez. Evita que los profesores desperdicien hojas de papel. Esta pizarra blanca de borrado en seco cuenta con el respaldo de profesores y padres: ¡un regalo navideño perfecto para los niños!",
+      "imagen": "/images/shop/30864538010104-1-.webp",
+      "galeria": [
+        "/images/shop/30864538010104-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-trazado-x4-35420",
+      "nombre": "Set Trazado x4",
+      "slug": "set-trazado-x4-35420",
+      "marca": "BAZIC",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "KIT DE GEOMETRÍA MATEMÁTICA 4 PIEZAS. Regla de 12″ (30 cm) + regla triangular de 6,5″ (16,5 cm) de 30/60 grados + regla triangular de 5,25″ (13,3 cm) de 45/90 grados + transportador de 6″ (15,3 cm) 180.\nRESISTENCIA Y PRECISIÓN. Mide de 0 a 180 grados de izquierda a derecha y de derecha a izquierda. Los transportadores y las reglas con marcas en pulgadas y centímetros facilitan la lectura de las mediciones.\nÁNGULOS PERFECTOS. Rueda de ajuste con mecanismo de bloqueo automático. Perfecta para dibujos precisos. Traza y dibuja el ángulo, círculo, circunferencias, gráficos y diseño de interiores perfectos.\nDIBUJO IDEAL. Material plástico ligero y duradero. El color transparente y brillante facilita la medición y permite ver los números y las letras en la página a través del transportador.\nDISEÑADO PARA TODOS LOS NIVELES. Excelente para usar en la escuela, la oficina, el estudio o en casa. La mejor herramienta de dibujo para profesores, estudiantes, artistas, matemáticos, carpinteros, ingenieros, arquitectos y diseñadores.",
+      "imagen": "/images/shop/30864534111000-1-.webp",
+      "galeria": [
+        "/images/shop/30864534111000-1-.webp",
+        "/images/shop/30864534111000-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-trazado-x4-35419",
+      "nombre": "Set Trazado x4",
+      "slug": "set-trazado-x4-35419",
+      "marca": "BAZIC",
+      "precio": 16900,
+      "precioAnterior": null,
+      "descripcion": "KIT DE GEOMETRÍA MATEMÁTICA 5 PIEZAS. Regla de 12″ (30 cm) + Regla triangular de 5,25″ (13,3 cm) de 30/60 grados + Regla triangular de 4,25″ (10,8 cm) de 45/90 grados + Transportador de 4″ 180 + Compás con rueda central\nRESISTENCIA Y PRECISIÓN. Mide de 0 a 180 grados de izquierda a derecha y de derecha a izquierda. Los transportadores y las reglas con marcas en pulgadas y centímetros facilitan la lectura de las mediciones.\nÁNGULOS PERFECTOS. Rueda de ajuste con mecanismo de bloqueo automático. Perfecta para dibujos precisos. Traza y dibuja el ángulo, círculo, circunferencias, gráficos y diseño de interiores perfectos.\nDIBUJO IDEAL. Material plástico ligero y duradero. El color transparente y brillante facilita la medición y permite ver los números y las letras en la página a través del transportador.\nDISEÑADO PARA TODOS LOS NIVELES. Excelente para usar en la escuela, la oficina, el estudio o en casa. La mejor herramienta de dibujo para profesores, estudiantes, artistas, matemáticos, carpinteros, ingenieros, arquitectos y diseñadores.",
+      "imagen": "/images/shop/30864534110401-1-.webp",
+      "galeria": [
+        "/images/shop/30864534110401-1-.webp",
+        "/images/shop/30864534110401-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-trazado-x4-35418",
+      "nombre": "Set Trazado x4",
+      "slug": "set-trazado-x4-35418",
+      "marca": "BAZIC",
+      "precio": 16900,
+      "precioAnterior": null,
+      "descripcion": "KIT DE GEOMETRÍA MATEMÁTICA 4 PIEZAS. Regla de 12″ (30 cm) + Regla triangular de 5,25″ (13,3 cm) de 30/60 grados + Regla triangular de 4,25″ (10,8 cm) de 45/90 grados + Transportador de 4″ 180 + Compás de lápiz\nRESISTENCIA Y PRECISIÓN. Mide de 0 a 180 grados de izquierda a derecha y de derecha a izquierda. Los transportadores y las reglas con marcas en pulgadas y centímetros facilitan la lectura de las mediciones.\nÁNGULOS PERFECTOS. Rueda de ajuste con mecanismo de bloqueo automático. Perfecta para dibujos precisos. Traza y dibuja el ángulo, círculo, circunferencias, gráficos y diseño de interiores perfectos.\nDIBUJO IDEAL. Material plástico ligero y duradero. El color transparente y brillante facilita la medición y permite ver los números y las letras en la página a través del transportador.\nDISEÑADO PARA TODOS LOS NIVELES. Excelente para usar en la escuela, la oficina, el estudio o en casa. La mejor herramienta de dibujo para profesores, estudiantes, artistas, matemáticos, carpinteros, ingenieros, arquitectos y diseñadores.",
+      "imagen": "/images/shop/30864534110400-1-.webp",
+      "galeria": [
+        "/images/shop/30864534110400-1-.webp",
+        "/images/shop/30864534110400-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "sello-pago-con-tinta-roja-35330",
+      "nombre": "Sello Pago Con Tinta Roja",
+      "slug": "sello-pago-con-tinta-roja-35330",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "SELLO DE GOMA DURADERO. Los sellos de goma confiables cuentan con una almohadilla de tinta reentintable. Imprimen con tinta roja.\nLIGERO. Atractiva unidad liviana. Excelente transferencia de tinta que brinda una impresión nítida y clara con cada uso. La construcción de plástico resistente es resistente e ideal para uso frecuente.\nDISEÑO DE ENTINTADO AUTOMÁTICO. La estructura de plástico de calidad superior es resistente e ideal para un uso frecuente. La construcción sólida y duradera puede soportar un estampado rápido y repetido.\nMATERIALES DE OFICINA. Área de impresión del sello: 1,41″ x 0,47″. Botón rojo de bloqueo con posición de alivio de presión para facilitar el reemplazo de la almohadilla.\nMULTIUSOS. Úselo para negocios, facturas, órdenes de venta, recibos, documentos legales, envíos, extractos bancarios, declaraciones de impuestos, postales, correo postal y más.",
+      "imagen": "/images/shop/30864508040100-1-.webp",
+      "galeria": [
+        "/images/shop/30864508040100-1-.webp",
+        "/images/shop/30864508040100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Rojo"
+    },
+    {
+      "id": "caja-organizadora-17x5-cm-35299",
+      "nombre": "Caja Organizadora 17X5 Cm",
+      "slug": "caja-organizadora-17x5-cm-35299",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Caja organizadora con tapa y seis divisores\nEste versátil sistema divisor te permite personalizar entre uno y siete compartimentos\nEste paquete contiene un organizador de 1-1/4 x 6-3/4 x 2-1/2 pulgadas con una tapa y seis separadores extraíbles",
+      "imagen": "/images/shop/27804546090100-1-.webp",
+      "galeria": [
+        "/images/shop/27804546090100-1-.webp",
+        "/images/shop/27804546090100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "recipiente-organizador-x3-35298",
+      "nombre": "Recipiente Organizador X3",
+      "slug": "recipiente-organizador-x3-35298",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "Guarda todo tipo de cuentas y bolas en estos tarros de plástico transparente.\nTienen un práctico diseño de rosca en el que la base de uno actúa como la tapa de otra unidad compacta.\nSe incluye una sola tapa para el recipiente superior.",
+      "imagen": "/images/shop/27804546090301-1-.webp",
+      "galeria": [
+        "/images/shop/27804546090301-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "brocha-aplicadora-35297",
+      "nombre": "Brocha Aplicadora",
+      "slug": "brocha-aplicadora-35297",
+      "marca": "MULTICRAFT",
+      "precio": 20900,
+      "precioAnterior": null,
+      "descripcion": "Botellas de plástico: botella de 2 fl oz (2.0 fl oz) con aplicador de cepillo de nylon\nPerfecto para aplicar tintas, pinturas, manchas, pegamentos a base de agua y más con facilidad. Para obtener los mejores resultados, limpia el cepillo después de cada uso para mantener libre de obstrucciones para usos futuros.",
+      "imagen": "/images/shop/27804546090201-1-.webp",
+      "galeria": [
+        "/images/shop/27804546090201-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "frascos-con-gotero-x2-35295",
+      "nombre": "Frascos Con Gotero X2",
+      "slug": "frascos-con-gotero-x2-35295",
+      "marca": "MULTICRAFT",
+      "precio": 16900,
+      "precioAnterior": null,
+      "descripcion": "Dispensa líquidos fácilmente en pequeñas cantidades controladas\nPerfecto para tintas, manchas, soluciones de pintura fina y para cualquier líquido que requiera almacenamiento que deba dejarse caer en una solución\nUn elemento esencial de los medios mixtos",
+      "imagen": "/images/shop/27804546090300-1-.webp",
+      "galeria": [
+        "/images/shop/27804546090300-1-.webp",
+        "/images/shop/27804546090300-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "bolsas-plateadas-x8-16-cm-35294",
+      "nombre": "Bolsas Plateadas X8 16 Cm",
+      "slug": "bolsas-plateadas-x8-16-cm-35294",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "/images/shop/27804546090802-1-.webp",
+      "galeria": [
+        "/images/shop/27804546090802-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Plateado"
+    },
+    {
+      "id": "bolsas-doradas-x8-16-cm-35293",
+      "nombre": "Bolsas Doradas X8 16 Cm",
+      "slug": "bolsas-doradas-x8-16-cm-35293",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "/images/shop/27804546090801-1-.webp",
+      "galeria": [
+        "/images/shop/27804546090801-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Dorado"
+    },
+    {
+      "id": "bolsas-plateadas-x10-12-cm-35292",
+      "nombre": "Bolsas Plateadas X10 12 Cm",
+      "slug": "bolsas-plateadas-x10-12-cm-35292",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "/images/shop/27804546091002-1-.webp",
+      "galeria": [
+        "/images/shop/27804546091002-1-.webp",
+        "/images/shop/27804546091002-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Plateado"
+    },
+    {
+      "id": "bolsas-doradas-x10-12-cm-35291",
+      "nombre": "Bolsas Doradas X10 12 Cm",
+      "slug": "bolsas-doradas-x10-12-cm-35291",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "/images/shop/27804546091001-1-.webp",
+      "galeria": [
+        "/images/shop/27804546091001-1-.webp",
+        "/images/shop/27804546091001-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Dorado"
+    },
+    {
+      "id": "frascos-para-piedras-x4-35290",
+      "nombre": "Frascos Para Piedras X4",
+      "slug": "frascos-para-piedras-x4-35290",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Recipiente perfecto para guardar pequeñas baratijas, recuerdos, cuentas y mucho más\nVarios tamaños vienen con una tapa de corcho ajustable\nGuarda tus tesoros especiales de forma segura\nIncluye 4 piezas de tamaño surtido\nInformar de un problema con este prod",
+      "imagen": "/images/shop/27804546090406-1-.webp",
+      "galeria": [
+        "/images/shop/27804546090406-1-.webp",
+        "/images/shop/27804546090406-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "bandeja-para-artesania-12-cm-35289",
+      "nombre": "Bandeja para Artesania 12 Cm",
+      "slug": "bandeja-para-artesania-12-cm-35289",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "/images/shop/27804546090101-1-.webp",
+      "galeria": [
+        "/images/shop/27804546090101-1-.webp",
+        "/images/shop/27804546090101-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "pizarra-decorativa-menssajes-x4-35274",
+      "nombre": "Pizarra Decorativa Menssajes X4",
+      "slug": "pizarra-decorativa-menssajes-x4-35274",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "Perfecto para añadir un toque personal a cualquier ocasión\nUtiliza marcadores de tiza y tiza con nuestras estacas de madera de pizarra para etiquetar regalos y golosinas, retratar mensajes y sentimientos, numerar mesas de invitados y añadir vida a proyectos de decoración del hogar y manualidades\nBorde de soporte de moda",
+      "imagen": "/images/shop/27804538030120-1-.webp",
+      "galeria": [
+        "/images/shop/27804538030120-1-.webp",
+        "/images/shop/27804538030120-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-x6-pizarra-placa-decorativa-35273",
+      "nombre": "Set X6 Pizarra Placa Decorativa",
+      "slug": "set-x6-pizarra-placa-decorativa-35273",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "Perfecto para agregar un toque personal a cualquier ocasión.\nUse tiza y marcadores de tiza con nuestras estacas de madera de pizarra para etiquetar obsequios y golosinas, representar mensajes y sentimientos, numerar las mesas de los invitados y agregar vida a la decoración del hogar y los proyectos de manualidades.\nBorde rectangular de moda",
+      "imagen": "/images/shop/27804538030106-1-.webp",
+      "galeria": [
+        "/images/shop/27804538030106-1-.webp",
+        "/images/shop/27804538030106-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "pizarra-decorativa-rectangular-35272",
+      "nombre": "Pizarra Decorativa Rectangular",
+      "slug": "pizarra-decorativa-rectangular-35272",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "Perfecto para agregar un detalle divertido y decorativo a cualquier ocasión especial.\nÚselo como portatarjetas para numerar mesas y mucho más.\nMuestre imágenes, menús, listas de asientos y más con el práctico clip para ropa.",
+      "imagen": "/images/shop/27804538030211-1-.webp",
+      "galeria": [
+        "/images/shop/27804538030211-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-pompom-x75-35145",
+      "nombre": "Set Pompom x75",
+      "slug": "set-pompom-x75-35145",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "/images/shop/27804503050122-1-.webp",
+      "galeria": [
+        "/images/shop/27804503050122-1-.webp",
+        "/images/shop/27804503050122-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-para-bordar-arco-iris-35134",
+      "nombre": "Set Para Bordar Arco Iris",
+      "slug": "set-para-bordar-arco-iris-35134",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Este divertido kit de bricolaje incluye todo lo que necesitas para crear un fantástico proyecto de punto de cruz. ¡Una manualidad genial para hacer después de la escuela y mientras sales con amigos!",
+      "imagen": "/images/shop/27804503050227-1-.webp",
+      "galeria": [
+        "/images/shop/27804503050227-1-.webp",
+        "/images/shop/27804503050227-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-libro-y-esfero-unicornio-33878",
+      "nombre": "Set Libro y Esfero Unicornio",
+      "slug": "set-libro-y-esfero-unicornio-33878",
+      "marca": "SIMES LOGISTIC",
+      "precio": 29900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "/images/shop/34334548160201-1-.webp",
+      "galeria": [
+        "/images/shop/34334548160201-1-.webp",
+        "/images/shop/34334548160201-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-libro-y-esfero-unicornio-33877",
+      "nombre": "Set Libro y Esfero Unicornio",
+      "slug": "set-libro-y-esfero-unicornio-33877",
+      "marca": "SIMES LOGISTIC",
+      "precio": 29900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "/images/shop/34334548160200-1-.webp",
+      "galeria": [
+        "/images/shop/34334548160200-1-.webp",
+        "/images/shop/34334548160200-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tinta-para-sellos-negro-30cc-28872",
+      "nombre": "Tinta Para Sellos Negro 30Cc",
+      "slug": "tinta-para-sellos-negro-30cc-28872",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 6700,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25054508070102-1-.webp",
+      "galeria": [
+        "/images/shop/25054508070102-1-.webp",
+        "/images/shop/83442b2d-25054508070102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Negro"
+    },
+    {
+      "id": "soporte-decorativo-25263",
+      "nombre": "Soporte Decorativo",
+      "slug": "soporte-decorativo-25263",
+      "marca": "RODEO",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "Embellece cualquier espacio con nuestro soporte decorativo de acrílico. Ideal para exhibir fotos, arte o documentos con elegancia y estilo. Añade un toque moderno a tu hogar u oficina.",
+      "imagen": "/images/shop/22174546110100-1-.webp",
+      "galeria": [
+        "/images/shop/22174546110100-1-.webp",
+        "/images/shop/e3d38a3c-22174546110100-1-.webp"
+      ],
+      "contenido": [
+        "Incluye: 1 Soporte"
+      ],
+      "tags": [
+        "RODEO",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "porta-notas-malla-surtido-21955",
+      "nombre": "Porta Notas Malla Surtido",
+      "slug": "porta-notas-malla-surtido-21955",
+      "marca": "KENNEDY HOME COLLECTION",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "Organiza tus ideas con estilo con nuestro Porta Notas de Malla. Perfecto para mantener tus notas importantes a la vista mientras añade un toque moderno a tu espacio de trabajo. Con su diseño de malla resistente, este porta notas es tanto funcional como elegante. Haz que tus tareas diarias sean más eficientes y ordenadas. Consigue el tuyo ahora y lleva tu productividad al siguiente nivel",
+      "imagen": "/images/shop/22324546100200-1-.webp",
+      "galeria": [
+        "/images/shop/22324546100200-1-.webp",
+        "/images/shop/ebc374d5-22324546100200-1-.webp"
+      ],
+      "contenido": [
+        "Incluye: 1 Porta notas",
+        "Composición: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo",
+        "Material: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo"
+      ],
+      "tags": [
+        "KENNEDY HOME COLLECTION",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "porta-utiles-7-divisiones-surtido-21950",
+      "nombre": "Porta Utiles 7 Divisiones Surtido",
+      "slug": "porta-utiles-7-divisiones-surtido-21950",
+      "marca": "SIMPLIFY",
+      "precio": 59900,
+      "precioAnterior": null,
+      "descripcion": "Eleva tu organización al siguiente nivel con nuestro porta útiles de 7 divisiones. Diseñado para mantener tus herramientas y suministros en orden, este porta útiles es ideal para escritorios, oficinas y espacios de estudios.",
+      "imagen": "/images/shop/22324546030404-1-.webp",
+      "galeria": [
+        "/images/shop/22324546030404-1-.webp",
+        "/images/shop/bc989c68-22324546030404-1-.webp"
+      ],
+      "contenido": [
+        "Incluye: 1 Porta utiles",
+        "Composición: 100% Acero Laminado",
+        "Material: 100% Acero Laminado"
+      ],
+      "tags": [
+        "SIMPLIFY",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "cajon-organizador-6-divisiones-surtido-21949",
+      "nombre": "Cajón Organizador 6 Divisiones Surtido",
+      "slug": "cajon-organizador-6-divisiones-surtido-21949",
+      "marca": "KENNEDY HOME COLLECTION",
+      "precio": 59900,
+      "precioAnterior": null,
+      "descripcion": "Mantén tus cajones ordenados y tus artículos fácilmente accesibles con nuestro Organizador de Cajón de 6 Divisiones. Diseñado para maximizar el espacio y la eficiencia, este práctico accesorio te permite organizar una variedad de artículos, desde utensilios de cocina hasta suministros de oficina.",
+      "imagen": "/images/shop/22324546030402-1-.webp",
+      "galeria": [
+        "/images/shop/22324546030402-1-.webp",
+        "/images/shop/66f0341c-22324546030402-1-.webp"
+      ],
+      "contenido": [
+        "Incluye: 1 Cajon",
+        "Composición: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo",
+        "Material: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo"
+      ],
+      "tags": [
+        "KENNEDY HOME COLLECTION",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "porta-utiles-9-divisiones-malla-surtida-21948",
+      "nombre": "Porta Utiles 9 Divisiones Malla Surtida",
+      "slug": "porta-utiles-9-divisiones-malla-surtida-21948",
+      "marca": "KENNEDY HOME COLLECTION",
+      "precio": 69900,
+      "precioAnterior": null,
+      "descripcion": "Organiza tu espacio de trabajo de manera eficiente y elegante con nuestro Porta Útiles de 9 Divisiones de Malla. Con este práctico accesorio, podrás mantener tus herramientas de trabajo ordenadas y accesibles en todo momento.",
+      "imagen": "/images/shop/22324546030401-1-.webp",
+      "galeria": [
+        "/images/shop/22324546030401-1-.webp",
+        "/images/shop/eaa753f8-22324546030401-1-.webp"
+      ],
+      "contenido": [
+        "Incluye: 1 Porta utiles",
+        "Composición: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo",
+        "Material: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo"
+      ],
+      "tags": [
+        "KENNEDY HOME COLLECTION",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "caja-cuadrada-malla-surtida-21946",
+      "nombre": "Caja Cuadrada Malla Surtida",
+      "slug": "caja-cuadrada-malla-surtida-21946",
+      "marca": "KENNEDY HOME COLLECTION",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Eleva la organización de tu escritorio con nuestra Caja de Malla Cuadrada. Diseñada para adaptarse perfectamente a cualquier espacio de trabajo, esta caja combina funcionalidad y estilo. Con su estructura de malla resistente, proporciona una solución elegante para el almacenamiento y organización de tus implementos.",
+      "imagen": "/images/shop/22324546030200-1-.webp",
+      "galeria": [
+        "/images/shop/22324546030200-1-.webp",
+        "/images/shop/a0303eb6-22324546030200-1-.webp"
+      ],
+      "contenido": [
+        "Incluye: 1 Caja",
+        "Composición: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo",
+        "Material: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo"
+      ],
+      "tags": [
+        "KENNEDY HOME COLLECTION",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "bandeja-organizadora-3-niveles-surtida-21945",
+      "nombre": "Bandeja Organizadora 3 Niveles Surtida",
+      "slug": "bandeja-organizadora-3-niveles-surtida-21945",
+      "marca": "SIMPLIFY",
+      "precio": 69900,
+      "precioAnterior": null,
+      "descripcion": "Optimiza tu espacio de trabajo con nuestra bandeja organizadora de papel de 3 niveles. Diseñada para mantener tus documentos ordenados y al alcance de tu mano, esta bandeja combina funcionalidad y estilo.",
+      "imagen": "/images/shop/22324546020301-1-.webp",
+      "galeria": [
+        "/images/shop/22324546020301-1-.webp",
+        "/images/shop/7a22c731-22324546020301-1-.webp"
+      ],
+      "contenido": [
+        "Incluye: 1 Bandeja",
+        "Composición: 100% Acero Laminado",
+        "Material: 100% Acero Laminado"
+      ],
+      "tags": [
+        "SIMPLIFY",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "bandeja-porta-papel-4-niveles-surtida-21944",
+      "nombre": "Bandeja Porta Papel 4 Niveles Surtida",
+      "slug": "bandeja-porta-papel-4-niveles-surtida-21944",
+      "marca": "KENNEDY HOME COLLECTION",
+      "precio": 69900,
+      "precioAnterior": null,
+      "descripcion": "Optimiza la organización en tu escritorio con nuestra bandeja porta papeles de 4 niveles. Con un diseño elegante y funcional, esta bandeja es perfecta para mantener tus documentos ordenados y al alcance.",
+      "imagen": "/images/shop/22324546020300-1-.webp",
+      "galeria": [
+        "/images/shop/22324546020300-1-.webp",
+        "/images/shop/d69d5255-22324546020300-1-.webp"
+      ],
+      "contenido": [
+        "Incluye: 1 Bandeja",
+        "Composición: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo",
+        "Material: Chapa De Acero Laminada En Frío, En Acabado De Pintura En Polvo"
+      ],
+      "tags": [
+        "KENNEDY HOME COLLECTION",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "tabla-chequeo-puntos-surtida-19280",
+      "nombre": "Tabla Chequeo Puntos Surtida",
+      "slug": "tabla-chequeo-puntos-surtida-19280",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "- faciliten su flujo de trabajo. medida del producto: 12.75 x 9 pulgadas. hecho de material de cartón de calidad. sostiene convenientemente formularios y documentos, proporciona una superficie de escritura resistente y portátil. cuenta con lazo para colgar. - sujeción segura. el clip de metal de perfil bajo de acero inoxidable y las esquinas recubiertas de goma garantizan un agarre seguro. ayude a sus clientes y pacientes a completar formularios y hacer el trabajo de manera eficiente. - acabado suave y duradero. este portapapeles funcional con un clip resistente y una tabla duradera es perfecto para usarlo durante años. superficie de escritura portátil y fácil que puede tomar notas en cualquier lugar. - portapapeles multiusos. mantenga sus papeles juntos sin temor a perder documentos importantes. fácil apilamiento de varios portapapeles juntos. - diseño brillante. las superficies lisas, los bordes redondeados y las esquinas brindan un agarre cómodo. ideal para uso diario en la oficina, el trabajo, el almacén y la escuela. ¡seguro para los niños también! este producto viene en colores surtidos. un asesor de comunicara con usted para escoger el diseño de su preferencia. esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Tabla-Chequeo-Puntos-Surtida-Marca-BAZIC-30864543010101-1-.webp",
+      "galeria": [
+        "/images/shop/Tabla-Chequeo-Puntos-Surtida-Marca-BAZIC-30864543010101-1-.webp",
+        "/images/shop/678d7cb7-Tabla-Chequeo-Puntos-Surtida-Marca-BAZIC-30864543010101-1-.webp",
+        "/images/shop/ad5dea7d-Tabla-Chequeo-Puntos-Surtida-Marca-BAZIC-30864543010101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "tabla-chequeo-color-madera-19279",
+      "nombre": "Tabla Chequeo Color Madera",
+      "slug": "tabla-chequeo-color-madera-19279",
+      "marca": "BAZIC",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "mantenga sus documentos juntos sin temor a perder documentos importantes. portapapeles hardboard de tamaño estándar con clip de resorte resistente. para uso en la oficina, almacén o en el hogar. hecho de material de madera de calidad. cuenta con un resistente clip de resorte.",
+      "imagen": "/images/shop/30864543010204-1-.webp",
+      "galeria": [
+        "/images/shop/30864543010204-1-.webp",
+        "/images/shop/30864543010204-2-.webp",
+        "/images/shop/a5a80b95-30864543010204-1-.webp",
+        "/images/shop/294e52d3-30864543010204-2-.webp",
+        "/images/shop/755d3355-30864543010204-1-.webp",
+        "/images/shop/1f07b955-30864543010204-2-.webp"
+      ],
+      "contenido": [
+        "Composición: Madera",
+        "Indicaciones de Uso: Herramienta usada como soporte para tomar notas importantes, guardar y sostener documentos. De uso doméstico, escolar y en oficinas.",
+        "Material: Madera"
+      ],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "set-de-tizas-x-12-con-borrador-19274",
+      "nombre": "Set De Tizas X 12 Con Borrador",
+      "slug": "set-de-tizas-x-12-con-borrador-19274",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "obtenga piezas duraderas y de alta calidad que no sean tóxicas y fáciles de escribir. juego de 12 tizas y 12 tizas blancas con borrador. estas tizas coloridas se pueden usar para iluminar las calzadas y las aceras con arte original. una forma asequible de agregar a la colección de juegos al aire libre o suministros de arte en interiores. el juego incluye un paquete de 12 tizas blancas y un paquete de 12 tizas de colores. el juego incluye un borrador de pizarra.",
+      "imagen": "/images/shop/30864538100501-1-.webp",
+      "galeria": [
+        "/images/shop/30864538100501-1-.webp",
+        "/images/shop/30864538100501-2-.webp",
+        "/images/shop/30864538100501-3-.webp",
+        "/images/shop/6d69d796-30864538100501-1-.webp",
+        "/images/shop/384c326f-30864538100501-2-.webp",
+        "/images/shop/80a74ef1-30864538100501-3-.webp",
+        "/images/shop/24d40037-30864538100501-1-.webp",
+        "/images/shop/2d652a4c-30864538100501-2-.webp",
+        "/images/shop/641d7610-30864538100501-3-.webp"
+      ],
+      "contenido": [
+        "Indicaciones de Uso: Instrumento usado para escribir en el tablero. De uso doméstico, escolar y en oficinas."
+      ],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "hoja-de-corcho-18987",
+      "nombre": "Hoja De Corcho",
+      "slug": "hoja-de-corcho-18987",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/27804538020100-1-.webp",
+      "galeria": [
+        "/images/shop/27804538020100-1-.webp",
+        "/images/shop/27804538020100-2-.webp",
+        "/images/shop/27804538020100-3-.webp",
+        "/images/shop/27804538020100-4-.webp",
+        "/images/shop/6712c9ac-27804538020100-1-.webp",
+        "/images/shop/1eae514d-27804538020100-2-.webp",
+        "/images/shop/97892a7d-27804538020100-3-.webp",
+        "/images/shop/2d96fa97-27804538020100-4-.webp",
+        "/images/shop/dda6dc69-27804538020100-1-.webp",
+        "/images/shop/65692c6e-27804538020100-2-.webp",
+        "/images/shop/9d929592-27804538020100-3-.webp",
+        "/images/shop/bdfb1cad-27804538020100-4-.webp"
+      ],
+      "contenido": [
+        "Indicaciones de Uso: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "caja-matematica-8-piezas-18654",
+      "nombre": "Caja Matematica 8 Piezas",
+      "slug": "caja-matematica-8-piezas-18654",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 27800,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Caja-Matematica-8-Piezas-Marca-PELIKAN-25054534111102-1-.webp",
+      "galeria": [
+        "/images/shop/Caja-Matematica-8-Piezas-Marca-PELIKAN-25054534111102-1-.webp",
+        "/images/shop/8e1dd181-Caja-Matematica-8-Piezas-Marca-PELIKAN-25054534111102-1-.webp",
+        "/images/shop/47d26b95-Caja-Matematica-8-Piezas-Marca-PELIKAN-25054534111102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tinta-para-sellos-azul-30cc-18632",
+      "nombre": "Tinta Para Sellos Azul 30Cc",
+      "slug": "tinta-para-sellos-azul-30cc-18632",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 6700,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25054508070103-1-.webp",
+      "galeria": [
+        "/images/shop/25054508070103-1-.webp",
+        "/images/shop/09222fc5-25054508070103-1-.webp",
+        "/images/shop/daae0332-25054508070103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Azul"
+    },
+    {
+      "id": "portacarnet-con-cinta-negra-7-5x10cm-17846",
+      "nombre": "Portacarnet Con Cinta Negra 7.5X10Cm",
+      "slug": "portacarnet-con-cinta-negra-7-5x10cm-17846",
+      "marca": "MERLETTO",
+      "precio": 500,
+      "precioAnterior": null,
+      "descripcion": "se vende por unidad la caja pertenece a la ambientación.",
+      "imagen": "/images/shop/20284547040001.webp",
+      "galeria": [
+        "/images/shop/20284547040001.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MERLETTO",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Negro"
+    },
+    {
+      "id": "organizador-x6-apilable-12943",
+      "nombre": "Organizador X6 Apilable",
+      "slug": "organizador-x6-apilable-12943",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Organizador-X6-Apilable-Marca-MULTICRAFT-27804546090600-1-.webp",
+      "galeria": [
+        "/images/shop/Organizador-X6-Apilable-Marca-MULTICRAFT-27804546090600-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "caja-organizadora-11-compartimientos-12942",
+      "nombre": "Caja Organizadora 11 Compartimientos",
+      "slug": "caja-organizadora-11-compartimientos-12942",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Caja-Organizadora-11-Compartimientos-Marca-MULTICRAFT-27804546091000-1-.webp",
+      "galeria": [
+        "/images/shop/Caja-Organizadora-11-Compartimientos-Marca-MULTICRAFT-27804546091000-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-circular-8-compartimientos-12941",
+      "nombre": "Organizador Circular 8 Compartimientos",
+      "slug": "organizador-circular-8-compartimientos-12941",
+      "marca": "MULTICRAFT",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Organizador-Circular-8-Compartimientos-Marca-MULTICRAFT-27804546090800-1-.webp",
+      "galeria": [
+        "/images/shop/Organizador-Circular-8-Compartimientos-Marca-MULTICRAFT-27804546090800-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-5-compartimientos-apilable-12940",
+      "nombre": "Organizador 5 Compartimientos Apilable",
+      "slug": "organizador-5-compartimientos-apilable-12940",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Organizador-5-Compartimientos-Apilable-Marca-MULTICRAFT-27804546090503-1-.webp",
+      "galeria": [
+        "/images/shop/Organizador-5-Compartimientos-Apilable-Marca-MULTICRAFT-27804546090503-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "organizador-14-compartimientos-12939",
+      "nombre": "Organizador 14 Compartimientos",
+      "slug": "organizador-14-compartimientos-12939",
+      "marca": "MULTICRAFT",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Organizador-14-Compartimientos-Marca-MULTICRAFT-27804546091400-1-.webp",
+      "galeria": [
+        "/images/shop/Organizador-14-Compartimientos-Marca-MULTICRAFT-27804546091400-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "caja-organizadora-12-compartimientos-12938",
+      "nombre": "Caja Organizadora 12 Compartimientos",
+      "slug": "caja-organizadora-12-compartimientos-12938",
+      "marca": "MULTICRAFT",
+      "precio": 34900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Caja-Organizadora-12-Compartimientos-Marca-MULTICRAFT-27804546091200-1-.webp",
+      "galeria": [
+        "/images/shop/Caja-Organizadora-12-Compartimientos-Marca-MULTICRAFT-27804546091200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "caja-elefante-20x12-centimetros-12544",
+      "nombre": "Caja Elefante 20X12 Centimetros",
+      "slug": "caja-elefante-20x12-centimetros-12544",
+      "marca": "ANGELS CRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Caja Organizadora plástica con divisiones internas para clasificar y guardar objetos y accesorios pequeños. Ideal para botones, medicamentos, y elementos de manualidades. También se usa para tornillos y otros.",
+      "imagen": "/images/shop/Caja-Elefante-20X12-Centimetros-Marca-ANGELS-CRAFT-02024546090204-1-.webp",
+      "galeria": [
+        "/images/shop/Caja-Elefante-20X12-Centimetros-Marca-ANGELS-CRAFT-02024546090204-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ANGELS CRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tablero-de-corcho-9715",
+      "nombre": "Tablero De Corcho",
+      "slug": "tablero-de-corcho-9715",
+      "marca": "KOLE",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "Perfecta para fijar notas y decorar, esta pizarra de corcho con marco de madera presenta una superficie de corcho real con un marco de madera resistente. Se monta fácilmente en las paredes con los tornillos proporcionados. Mide aproximadamente 8\" x 12\".",
+      "imagen": "/images/shop/Tablero-De-Corcho-32684538020300-1-.webp",
+      "galeria": [
+        "/images/shop/Tablero-De-Corcho-32684538020300-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Plastico",
+        "Material: Plastico"
+      ],
+      "tags": [
+        "KOLE",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tiza-jumbo-soporte-x4-surtida-9647",
+      "nombre": "Tiza Jumbo Soporte X4 Surtida",
+      "slug": "tiza-jumbo-soporte-x4-surtida-9647",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "- FÁCIL DE SOSTENER. Cada uno mide 4.2″ de largo por\n0.9″ de diámetro. Viene con un soporte en cada\npaquete, por lo que es fácil de usar para los niños\npequeños. Ideal para la escuela, la cafetería, la\noficina, el hogar, la guardería y los campamentos de\nverano.\n- HORAS DE DIVERSIÓN. Ideal para niños, niños\npequeños, maestros, adolescentes y adultos. Todas\nlas edades pueden disfrutar de jugar rayuela, tictac-toe, cuatro cuadrados, crear actividades\nartísticas y divertidas de dibujos.\n- REGALO PERFECTO. Divertido regalo de cumpleaños,\nregalo de Navidad, cesta de Pascua o un regalo de\nfiesta único para niños y niñas. Seguro y no tóxico. Se\nlava de las aceras, superficies asfaltadas y entradas\nde vehículos.\n- DE MÚLTIPLES FINES. Se puede utilizar en múltiples\nsuperficies como asfalto, madera, hormigón, ladrillo\no piedra. La fórmula especial de bajo polvo crea una\nexperiencia de dibujo sin polvo. Seguro para uso en\ninteriores también.\n- TONOS BRILLANTES. Visible en superficies oscuras o\ncoloreadas. Color vibrante para crear obras de arte\nal aire libre. Cree murales grandes y coloridos o\nescriba grandes mensajes escritos a mano en tonos\nvivos.\nEste producto viene en colores surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Tiza-Jumbo-Soporte-X4-Surtida-Marca-BAZIC-30864538090100-1-.webp",
+      "galeria": [
+        "/images/shop/Tiza-Jumbo-Soporte-X4-Surtida-Marca-BAZIC-30864538090100-1-.webp",
+        "/images/shop/Tiza-Jumbo-Soporte-X4-Surtida-Marca-BAZIC-30864538090100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "tiza-no-polvo-x24-9646",
+      "nombre": "Tiza No Polvo X24",
+      "slug": "tiza-no-polvo-x24-9646",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "- MANTÉNGALO CON TIZA. Cada tamaño de tiza\nestándar mide 3 1/4″ de largo por 3/8″ de pulgada de\ndiámetro. Marcas suaves y se borran fácilmente de\npizarras negras o pizarras.\n- SEGURO Y NO TÓXICO. Escritura no tóxica, suave y\nlimpia. Apto para todas las edades pueden disfrutar\nde crear actividades artísticas y dibujos.\n- DE MÚLTIPLES FINES. Se puede usar en múltiples\nsuperficies como pizarras, pizarras, papeles para\nmanualidades y bolsas de papel. La fórmula especial\nde bajo polvo crea una experiencia de dibujo sin\npolvo. Seguro para uso en interiores.\n- TONOS BRILLANTES.. Visible en superficies oscuras o\ncoloreadas. Cree murales grandes y coloridos o\nescriba grandes mensajes escritos a mano en tonos\nvivos.\n- HORAS DE DIVERSIÓN. Ideal para la escuela, el aula, la\ncafetería, la oficina, el hogar, la guardería, los\ncampamentos de verano. Ideal para niños, niños\npequeños, maestros, adolescentes y adultos.",
+      "imagen": "/images/shop/Tiza-No-Polvo-X24-Marca-BAZIC-30864538090600-1-.webp",
+      "galeria": [
+        "/images/shop/Tiza-No-Polvo-X24-Marca-BAZIC-30864538090600-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "tiza-no-polvo-x24-9645",
+      "nombre": "Tiza No Polvo X24",
+      "slug": "tiza-no-polvo-x24-9645",
+      "marca": "BAZIC",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "- MANTÉNGALO CON TIZA. Cada tamaño de tiza\nestándar mide 3 1/4″ de largo por 3/8″ de pulgada de\ndiámetro. Marcas suaves y se borran fácilmente de\npizarras negras o pizarras.\n- SEGURO Y NO TÓXICO. Escritura no tóxica, suave y\nlimpia. Apto para todas las edades pueden disfrutar\nde crear actividades artísticas y dibujos.\n- DE MÚLTIPLES FINES. Se puede usar en múltiples\nsuperficies como pizarras, pizarras, papeles para\nmanualidades y bolsas de papel. La fórmula especial\nde bajo polvo crea una experiencia de dibujo sin\npolvo. Seguro para uso en interiores.\n- TONOS BRILLANTES.. Visible en superficies oscuras o\ncoloreadas. Cree murales grandes y coloridos o\nescriba grandes mensajes escritos a mano en tonos\nvivos.\n- HORAS DE DIVERSIÓN. Ideal para la escuela, el aula, la\ncafetería, la oficina, el hogar, la guardería, los\ncampamentos de verano. Ideal para niños, niños\npequeños, maestros, adolescentes y adultos.",
+      "imagen": "/images/shop/Tiza-No-Polvo-X24-Marca-BAZIC-30864538080601-1-.webp",
+      "galeria": [
+        "/images/shop/Tiza-No-Polvo-X24-Marca-BAZIC-30864538080601-1-.webp",
+        "/images/shop/Tiza-No-Polvo-X24-Marca-BAZIC-30864538080601-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "funda-reusable-escritura-surtida-9644",
+      "nombre": "Funda Reusable Escritura Surtida",
+      "slug": "funda-reusable-escritura-surtida-9644",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "- ALMOHADILLA PORTÁTIL. Las fundas de bolsillo de\nborrado en seco miden 10 × 14 pulgadas. Ajuste la\nmayoría de sus hojas de actividades. Mantenga sus\npapeles ordenados y limpios. Acepta la mayoría de\nlos medios de dibujo, como crayones, marcador de\nborrado en seco, brillo.\n- MATERIALES DE PRIMERA CALIDAD. Fabricado en PET de\ncalidad. Ideal para el uso diario en el aula, la oficina y\nel trabajo. Ideal para convertir cualquier tipo de\nmaterial impreso en una hoja reutilizable.\n- DISEÑO BRILLANTE. Ojal de metal centrado para colgar\nfácilmente. Se puede utilizar para practicar la\nescritura de palabras, letras, matemáticas, juegos de\ngarabatos, colorear. Limpiar con borrador de pizarra\no paño de limpieza de microfibra.\n- RESPETUOSO DEL MEDIO AMBIENTE. ¡Este es un\nproducto perfecto para ahorrar papel, ahorrar costos\ny contribuir a la sostenibilidad de nuestra\ncomunidad! Gran juguete educativo y divertidas\nalmohadillas para pintar.\n- APROBADO POR EL MAESTRO Y LOS PADRES. Ideal para\nniños y estudiantes para usar en el hogar y la\nescuela con marcadores de borrado en seco. Gran\njuguete educativo y un divertido tablero de dibujo.\n¡Regalo de vacaciones perfecto para niños!\nEste producto viene en colores surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Funda-Reusable-Escritura-Surtida-Marca-BAZIC-30864538010105-1-.webp",
+      "galeria": [
+        "/images/shop/Funda-Reusable-Escritura-Surtida-Marca-BAZIC-30864538010105-1-.webp",
+        "/images/shop/Funda-Reusable-Escritura-Surtida-Marca-BAZIC-30864538010105-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "set-x5-reglas-surtido-9639",
+      "nombre": "Set X5 Reglas Surtido",
+      "slug": "set-x5-reglas-surtido-9639",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "- KIT DE GEOMETRÍA MATEMÁTICA 5 PIEZAS. Regla de 30\ncm (12″) + regla triangular de 10,2 cm (4″) de\n30/60/90 grados + regla triangular de 8,25 cm (3,25″)\nde 45/90 grados + transportador 180 de 10,2 cm (4″)\n+ regla de compás de 360 grados\n- ROBUSTO Y PRECISO. Mide de 0 a 360 grados de\nizquierda a derecha y de derecha a izquierda. Los\ntransportadores y las reglas con marcas en\npulgadas y centímetros facilitan la lectura de las\nmedidas.\n- ÁNGULOS PERFECTOS. Perfecto para dibujos precisos.\nTrace y dibuje el ángulo, el círculo, las\ncircunferencias, los gráficos y el diseño perfectos con\nnuestras brújulas fáciles de usar. Cabe en mochila,\nescritorio y cajón.\n- REDACCIÓN IDEAL. Material plástico ligero y duradero.\nEl color claro y brillante te hace medir más\nfácilmente y puedes ver los números y letras en la\npágina a través del transportador.\n- TODOS LOS NIVELES DISEÑADOS. Excelente para usar\nen la escuela, oficina, estudio o en casa. La mejor\nherramienta de dibujo para profesores, estudiantes,\nartistas, matemáticos, carpinteros, ingenieros,\narquitectos y diseñadores.\nEste producto viene en colores surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Set-X5-Reglas-Surtido-Marca-BAZIC-30864534110500-1-.webp",
+      "galeria": [
+        "/images/shop/Set-X5-Reglas-Surtido-Marca-BAZIC-30864534110500-1-.webp",
+        "/images/shop/Set-X5-Reglas-Surtido-Marca-BAZIC-30864534110500-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "tizas-x4-jumbo-marmol-colores-surtidos-9341",
+      "nombre": "Tizas X4 Jumbo Marmol Colores Surtidos",
+      "slug": "tizas-x4-jumbo-marmol-colores-surtidos-9341",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Cree una hermosa obra de arte con esta tiza para acera de mármol gigante. Combinando a la perfección los diferentes tonos, esta fórmula única escribe suavemente y crea un hermoso efecto jaspeado. ¡Ideal para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "/images/shop/Tizas-X4-Jumbo-Marmol-Colores-Surtidos-Marca-MULTICRAFT-27804538100500-1-.webp",
+      "galeria": [
+        "/images/shop/Tizas-X4-Jumbo-Marmol-Colores-Surtidos-Marca-MULTICRAFT-27804538100500-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "tizas-x20-colores-surtidos-9339",
+      "nombre": "Tizas X20 Colores Surtidos",
+      "slug": "tizas-x20-colores-surtidos-9339",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Tizas-X20-Colores-Surtidos-Marca-MULTICRAFT-27804538102000-1-.webp",
+      "galeria": [
+        "/images/shop/Tizas-X20-Colores-Surtidos-Marca-MULTICRAFT-27804538102000-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "tizas-x6-jumbo-colores-surtidos-9338",
+      "nombre": "Tizas X6 Jumbo Colores Surtidos",
+      "slug": "tizas-x6-jumbo-colores-surtidos-9338",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "A los niños les encantará crear obras maestras en la acera con esta vibrante tiza. ¡Escribe sin problemas y es genial para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "/images/shop/Tizas-X6-Jumbo-Colores-Surtidos-Marca-MULTICRAFT-27804538090600-1-.webp",
+      "galeria": [
+        "/images/shop/Tizas-X6-Jumbo-Colores-Surtidos-Marca-MULTICRAFT-27804538090600-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "tizas-x20-blancas-9335",
+      "nombre": "Tizas X20 Blancas",
+      "slug": "tizas-x20-blancas-9335",
+      "marca": "MULTICRAFT",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Tizas-X20-Blancas-Marca-MULTICRAFT-27804538082000-1-.webp",
+      "galeria": [
+        "/images/shop/Tizas-X20-Blancas-Marca-MULTICRAFT-27804538082000-1-.webp"
+      ],
+      "contenido": [
+        "Color: Blanco"
+      ],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Blanco"
+    },
+    {
+      "id": "pizarra-pared-29x22cm-9333",
+      "nombre": "Pizarra Pared 29X22Cm",
+      "slug": "pizarra-pared-29x22cm-9333",
+      "marca": "MULTICRAFT",
+      "precio": 29900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Pizarra-Pared-29X22Cm-Marca-MULTICRAFT-27804538030301-1-.webp",
+      "galeria": [
+        "/images/shop/Pizarra-Pared-29X22Cm-Marca-MULTICRAFT-27804538030301-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "pizarra-mesa-22x15cm-9332",
+      "nombre": "Pizarra Mesa 22X15Cm",
+      "slug": "pizarra-mesa-22x15cm-9332",
+      "marca": "MULTICRAFT",
+      "precio": 25900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/Pizarra-Mesa-22X15Cm-Marca-MULTICRAFT-27804538030300-1-.webp",
+      "galeria": [
+        "/images/shop/Pizarra-Mesa-22X15Cm-Marca-MULTICRAFT-27804538030300-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "pizarra-pared-17x13cm-9331",
+      "nombre": "Pizarra Pared 17X13Cm",
+      "slug": "pizarra-pared-17x13cm-9331",
+      "marca": "MULTICRAFT",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "Las pizarras enmarcadas sin terminar son ideales para proyectos de manualidades y decoración del hogar. ¡Decóralos con pinturas, tintes, adornos y más, y transmite tu mensaje de verdad!",
+      "imagen": "/images/shop/Pizarra-Pared-17X13Cm-Marca-MULTICRAFT-27804538030205-1-.webp",
+      "galeria": [
+        "/images/shop/Pizarra-Pared-17X13Cm-Marca-MULTICRAFT-27804538030205-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "pizarra-pared-decorativa-9329",
+      "nombre": "Pizarra Pared Decorativa",
+      "slug": "pizarra-pared-decorativa-9329",
+      "marca": "MULTICRAFT",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "Añade un detalle decorativo o un mensaje especial a cualquier ocasión. ¡Perfecto para la decoración de paredes, bodas, fiestas en el jardín y más! ¡Simplemente personalice con tiza y cuelgue de puertas, paredes, ventanas y más!",
+      "imagen": "/images/shop/Pizarra-Pared-Decorativa-Marca-MULTICRAFT-27804538030204-1-.webp",
+      "galeria": [
+        "/images/shop/Pizarra-Pared-Decorativa-Marca-MULTICRAFT-27804538030204-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "pizarra-decorativa-mensaje-9328",
+      "nombre": "Pizarra Decorativa Mensaje",
+      "slug": "pizarra-decorativa-mensaje-9328",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "Perfecta para añadir un detalle divertido y decorativo a cualquier ocasión especial. ¡Úselo como portatarjetas para numerar mesas y mucho más! Muestre imágenes, menús, listas de asientos y más con el conveniente clip de pinza para la ropa.",
+      "imagen": "/images/shop/Pizarra-Decorativa-Mensaje-Marca-MULTICRAFT-27804538030212-1-.webp",
+      "galeria": [
+        "/images/shop/Pizarra-Decorativa-Mensaje-Marca-MULTICRAFT-27804538030212-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    },
+    {
+      "id": "porta-carnet-retractil-surtido-8189",
+      "nombre": "Porta Carnet Retractil Surtido",
+      "slug": "porta-carnet-retractil-surtido-8189",
+      "marca": "DM MERCHANDISING",
+      "precio": 29900,
+      "precioAnterior": null,
+      "descripcion": "Ser cardado nunca ha sido más lindo. Lleva todos tus básicos en una minicartera con cordón con diseños para teñir. ¡Una correa retráctil, dos ranuras para tarjetas y una ventana de identificación exterior hacen que este accesorio giratorio sea el favorito para eventos, oficinas, campus, viajes y más!",
+      "imagen": "/images/shop/Porta-Carnet-Retractil-Surtido-24814547040100-1-.webp",
+      "galeria": [
+        "/images/shop/Porta-Carnet-Retractil-Surtido-24814547040100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "DM MERCHANDISING",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "set-pizarras-neon-surtidas-8170",
+      "nombre": "Set Pizarras Neon Surtidas",
+      "slug": "set-pizarras-neon-surtidas-8170",
+      "marca": "RHODE ISLAND",
+      "precio": 2500,
+      "precioAnterior": null,
+      "descripcion": "Set juego de pizarras neon surtidas. Genial para el salón de clases. Herramienta de aprendizaje divertida. Este producto viene en diseños surtidos. Un asesor de comunicara con usted para escoger el diseño de su preferencia. Esta sujeto a disponibilidad del almacen.",
+      "imagen": "/images/shop/Set-Pizarras-Neon-Surtidas-Marca-Rhode-Island-02234538030200-1-.webp",
+      "galeria": [
+        "/images/shop/Set-Pizarras-Neon-Surtidas-Marca-Rhode-Island-02234538030200-1-.webp",
+        "/images/shop/Set-Pizarras-Neon-Surtidas-Marca-Rhode-Island-02234538030200-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "RHODE ISLAND",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina",
+      "color": "Surtido"
+    },
+    {
+      "id": "cars-set-notas-con-accesorios-7976",
+      "nombre": "Cars Set Notas Con Accesorios",
+      "slug": "cars-set-notas-con-accesorios-7976",
+      "marca": "TOYNG",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Con este Set Creativo de Cars 3 la película tendrás todo lo que necesitas para dibujar y darle color a tus ideas. Incluye 8 plumones, 8 colores, 1 borrador, 1 tajalápiz, 1 libreta y 1 lápiz.",
+      "imagen": "/images/shop/Cars-Set-Notas-Con-Accesorios-Marca-TOYNG-00274548161200-1-.webp",
+      "galeria": [
+        "/images/shop/Cars-Set-Notas-Con-Accesorios-Marca-TOYNG-00274548161200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "TOYNG",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "accesorios-de-escritorio-y-oficina"
+    }
+  ]
+}

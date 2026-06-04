@@ -1,0 +1,233 @@
+{
+  "categorias": [
+    {
+      "id": "fiestas-tematicas",
+      "nombre": "Fiestas Temáticas",
+      "slug": "fiestas-tematicas",
+      "descripcion": "Fiestas Temáticas",
+      "imagen": "/images/shop/33574201050212-1-.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "accesorios-de-fiesta",
+      "nombre": "Accesorios de Fiesta",
+      "slug": "accesorios-de-fiesta",
+      "descripcion": "Accesorios de Fiesta",
+      "imagen": "/images/shop/01534224030200-1-.webp",
+      "popular": false,
+      "subcategorias": [
+        {
+          "nombre": "Gorros y Otros",
+          "slug": "gorros-y-otros"
+        },
+        {
+          "nombre": "Imitación y Recreación",
+          "slug": "imitacion-y-recreacion"
+        },
+        {
+          "nombre": "Maquillaje Artístico",
+          "slug": "maquillaje-artistico"
+        }
+      ]
+    },
+    {
+      "id": "decoracion-de-fiesta",
+      "nombre": "Decoración de Fiesta",
+      "slug": "decoracion-de-fiesta",
+      "descripcion": "Decoración de Fiesta",
+      "imagen": "/images/shop/02404209140400-1-.webp",
+      "popular": false,
+      "subcategorias": [
+        {
+          "nombre": "Globos y Accesorios",
+          "slug": "globos-y-accesorios"
+        },
+        {
+          "nombre": "Decoración de Fiesta",
+          "slug": "decoracion-de-fiesta"
+        },
+        {
+          "nombre": "Velas",
+          "slug": "velas"
+        },
+        {
+          "nombre": "Piñatas",
+          "slug": "pinatas"
+        },
+        {
+          "nombre": "Recordatorios",
+          "slug": "recordatorios"
+        }
+      ]
+    },
+    {
+      "id": "desechables",
+      "nombre": "Desechables",
+      "slug": "desechables",
+      "descripcion": "Desechables",
+      "imagen": "/images/shop/02404214021000-1-.webp",
+      "popular": false,
+      "subcategorias": [
+        {
+          "nombre": "Manteles",
+          "slug": "manteles"
+        },
+        {
+          "nombre": "Servilletas",
+          "slug": "servilletas"
+        },
+        {
+          "nombre": "Platos y Bandejas",
+          "slug": "platos-y-bandejas"
+        },
+        {
+          "nombre": "Vasos y Copas",
+          "slug": "vasos-y-copas"
+        },
+        {
+          "nombre": "Cubiertos",
+          "slug": "cubiertos"
+        },
+        {
+          "nombre": "Accesorios de Bar y Picadas",
+          "slug": "accesorios-de-bar-y-picadas"
+        }
+      ]
+    },
+    {
+      "id": "confiteria",
+      "nombre": "Confitería",
+      "slug": "confiteria",
+      "descripcion": "Confitería",
+      "imagen": "/images/shop/25514311010309-1-.webp",
+      "popular": false,
+      "subcategorias": [
+        {
+          "nombre": "Chocolates",
+          "slug": "chocolates"
+        },
+        {
+          "nombre": "Dulces y Gomas",
+          "slug": "dulces-y-gomas"
+        },
+        {
+          "nombre": "Galletas Masmelos",
+          "slug": "galletas-masmelos"
+        },
+        {
+          "nombre": "Pasabocas",
+          "slug": "pasabocas"
+        }
+      ]
+    },
+    {
+      "id": "morrales-y-loncheras",
+      "nombre": "Morrales y Loncheras",
+      "slug": "morrales-y-loncheras",
+      "descripcion": "Morrales y Loncheras",
+      "imagen": "/images/shop/02096601060316-1-.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "utiles-escolares",
+      "nombre": "Útiles Escolares",
+      "slug": "utiles-escolares",
+      "descripcion": "Útiles Escolares",
+      "imagen": "/images/shop/Cuaderno-Cosido-Minecraft-100-Hojas-Ferrocarril-Surtido-Marca-SCRIBE-26754551130760-1-.webp",
+      "popular": false,
+      "subcategorias": [
+        {
+          "nombre": "Cuadernos Agendas y Libretas",
+          "slug": "cuadernos-agendas-y-libretas"
+        }
+      ]
+    },
+    {
+      "id": "escritura",
+      "nombre": "Escritura",
+      "slug": "escritura",
+      "descripcion": "Escritura",
+      "imagen": "/images/shop/34334530170401-1-.webp",
+      "popular": false,
+      "subcategorias": [
+        {
+          "nombre": "Esferos y Lápices",
+          "slug": "esferos-y-lapices"
+        },
+        {
+          "nombre": "Colores y Crayolas",
+          "slug": "colores-y-crayolas"
+        },
+        {
+          "nombre": "Marcadores y Resaltadores",
+          "slug": "marcadores-y-resaltadores"
+        }
+      ]
+    },
+    {
+      "id": "archivos-y-clasificacion",
+      "nombre": "Archivos y Clasificación",
+      "slug": "archivos-y-clasificacion",
+      "descripcion": "Archivos y Clasificación",
+      "imagen": "/images/shop/34334550060309-1-.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "accesorios-de-escritorio-y-oficina",
+      "nombre": "Accesorios de Escritorio y Oficina",
+      "slug": "accesorios-de-escritorio-y-oficina",
+      "descripcion": "Accesorios de Escritorio y Oficina",
+      "imagen": "/images/shop/34334546101012-1-.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "papeles-y-blocks",
+      "nombre": "Papeles y Blocks",
+      "slug": "papeles-y-blocks",
+      "descripcion": "Papeles y Blocks",
+      "imagen": "/images/shop/01534539131001-1-.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "pintar",
+      "nombre": "Pintar",
+      "slug": "pintar",
+      "descripcion": "Pintar",
+      "imagen": "/images/shop/34334503040200-1-.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "empaques-de-regalos",
+      "nombre": "Empaques de Regalos",
+      "slug": "empaques-de-regalos",
+      "descripcion": "Empaques de Regalos",
+      "imagen": "/images/shop/01534567010600-1-.webp",
+      "popular": false,
+      "subcategorias": []
+    },
+    {
+      "id": "entretenimiento",
+      "nombre": "Entretenimiento",
+      "slug": "entretenimiento",
+      "descripcion": "Entretenimiento",
+      "imagen": "/images/shop/34334560030303-1-.webp",
+      "popular": false,
+      "subcategorias": [
+        {
+          "nombre": "Películas y Libros",
+          "slug": "peliculas-y-libros"
+        },
+        {
+          "nombre": "Álbumes",
+          "slug": "albumes"
+        }
+      ]
+    }
+  ]
+}

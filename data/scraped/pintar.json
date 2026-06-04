@@ -1,0 +1,2334 @@
+{
+  "categoria": "pintar",
+  "nombre": "Pintar",
+  "slug": "pintar",
+  "descripcion": "Pintar",
+  "imagen": "/images/shop/34334503040200-1-.webp",
+  "fuente": "https://www.lostreselefantes.com.co",
+  "productos": [
+    {
+      "id": "set-para-pintar-ceramica-48216",
+      "nombre": "Set Para Pintar Ceramica",
+      "slug": "set-para-pintar-ceramica-48216",
+      "marca": "SIMES LOGISTIC",
+      "precio": 72900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/34334503040200-1-.webp",
+      "galeria": [
+        "/images/shop/34334503040200-1-.webp",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/467076/34334503040200-2-.jpg?v=638998062485870000"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "paleta-flor-con-pincel-48215",
+      "nombre": "Paleta Flor Con Pincel",
+      "slug": "paleta-flor-con-pincel-48215",
+      "marca": "SIMES LOGISTIC",
+      "precio": 900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/467074/34334502080203-1-.jpg?v=638998062480700000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/467074/34334502080203-1-.jpg?v=638998062480700000"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-pintura-x6-con-paleta-y-pincel-48214",
+      "nombre": "Set Pintura X6 Con Paleta Y Pincel",
+      "slug": "set-pintura-x6-con-paleta-y-pincel-48214",
+      "marca": "SIMES LOGISTIC",
+      "precio": 4900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/467073/34334501010502-1-.jpg?v=638998062477600000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/467073/34334501010502-1-.jpg?v=638998062477600000"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-pintura-x12-con-paleta-y-pincel-48213",
+      "nombre": "Set Pintura X12 Con Paleta Y Pincel",
+      "slug": "set-pintura-x12-con-paleta-y-pincel-48213",
+      "marca": "SIMES LOGISTIC",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/467072/34334501010500-1-.jpg?v=638998062474170000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/467072/34334501010500-1-.jpg?v=638998062474170000"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-pintura-con-acuarelas-y-crayolas-46902",
+      "nombre": "Set Pintura Con Acuarelas Y Crayolas",
+      "slug": "set-pintura-con-acuarelas-y-crayolas-46902",
+      "marca": "SIMES LOGISTIC",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/461659/34334503080401-1-.jpg?v=638984912986400000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/461659/34334503080401-1-.jpg?v=638984912986400000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/461660/34334503080401-2-.jpg?v=638984912989830000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/461661/34334503080401-3-.jpg?v=638984912992930000"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "pincel-ergonomico-x3-46901",
+      "nombre": "Pincel Ergonomico X3",
+      "slug": "pincel-ergonomico-x3-46901",
+      "marca": "SIMES LOGISTIC",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/461658/34334502040400-1-.jpg?v=638984912978430000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/461658/34334502040400-1-.jpg?v=638984912978430000"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "tempera-pastel-x6-20-ml-37929",
+      "nombre": "Tempera Pastel X6 20 Ml",
+      "slug": "tempera-pastel-x6-20-ml-37929",
+      "marca": "PELIKAN",
+      "precio": 8500,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/400261/25054501010402-1-.jpg?v=638824308484500000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/400261/25054501010402-1-.jpg?v=638824308484500000"
+      ],
+      "contenido": [],
+      "tags": [
+        "PELIKAN"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "tempera-neon-x6-20-ml-37928",
+      "nombre": "Tempera Neon X6 20 Ml",
+      "slug": "tempera-neon-x6-20-ml-37928",
+      "marca": "PELIKAN",
+      "precio": 7500,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/400260/25054501010401-1-.jpg?v=638824308479700000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/400260/25054501010401-1-.jpg?v=638824308479700000"
+      ],
+      "contenido": [],
+      "tags": [
+        "PELIKAN"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-x5-pinceles-surtido-35319",
+      "nombre": "Set X5 Pinceles Surtido",
+      "slug": "set-x5-pinceles-surtido-35319",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "PINCELES DE TAMAÑOS VARIOS. El juego de pinceles para pintar viene en cinco tamaños. Cada pincel está hecho de cerdas de nailon de larga duración con un mango de plástico y una virola de metal sin costuras que eliminará la acumulación de pintura.\nABRAZA TU CREATIVIDAD. Todo artista necesita el conjunto de herramientas adecuado para crear y prosperar. Los pinceles vienen en juegos de diferentes colores: negro, azul, verde, rojo, rosa y morado. ¡Los colores reales pueden variar!\nFÁCIL DE LIMPIAR. Simplemente límpielo con agua tibia y jabón, déle nueva forma a las puntas del pincel, cuélguelo con la punta hacia abajo y déjelo secar al aire durante algunas horas.\nARTES Y MANUALIDADES PARA ESTUDIANTES Y ENTUSIASTAS. Bonita combinación de puntas para fines de diseño, estos pinceles son ideales para acuarela, pintura acrílica, óleo, gouache, pintura corporal, pintura facial, cerámica, etc.\nUSO IDEAL. Ideales para la escuela, el hogar y la oficina. Estos pinceles se pueden usar para proyectos escolares infantiles, fiestas de cumpleaños, fiestas de pintura, fiestas de arte, pinturas y más.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/381201/30864502070500-1-.jpg?v=638726335840570000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/381201/30864502070500-1-.jpg?v=638726335840570000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/381202/30864502070500-2-.jpg?v=638726335844500000"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Surtido"
+    },
+    {
+      "id": "acuarela-x36-con-pincel-35318",
+      "nombre": "Acuarela X36 Con Pincel",
+      "slug": "acuarela-x36-con-pincel-35318",
+      "marca": "BAZIC",
+      "precio": 39900,
+      "precioAnterior": null,
+      "descripcion": "ABRAZA TU CREATIVIDAD. Colores a base de agua que se disuelven y se mezclan fácilmente. Todo artista necesita el conjunto de herramientas adecuado para crear y prosperar. ¡Ideal para proyectos escolares en el aula y en casa!\nCALIDAD. Este juego de acuarelas portátil viene con increíbles pinturas de acuarela sólidas, empaquetadas en una caja de plástico, que es conveniente para guardar y transportar.\nSET ECONÓMICO. Incluye pincel con mango de madera de regalo. Las acuarelas ofrecen la experiencia de pintura más suave y brillante. Los colores brillantes se mezclan suavemente para brindar más oportunidades de mezclar colores.\nEXCELENTE REGALO. El kit bellamente empaquetado es una excelente idea de regalo de cumpleaños. No es tóxico y es seguro para niñas y niños. Adecuado para artes, manualidades, niños, adultos, principiantes, estudiantes y artistas.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/381199/30864501023600-1-.jpg?v=638726335832000000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/381199/30864501023600-1-.jpg?v=638726335832000000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/381200/30864501023600-2-.jpg?v=638726335837300000"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "flores-x4-para-pintar-35183",
+      "nombre": "Flores x4 Para Pintar",
+      "slug": "flores-x4-para-pintar-35183",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Utilice estas formas de madera para agregar textura y estilo para decorar cajas, páginas de álbumes de recortes, decoración del hogar y otros proyectos de manualidades de bricolaje.\n¡Simplemente personalízalo con pintura y adornos!\nUso versátil: perfecto para hacer álbumes de recortes, tarjetas, decoración del hogar y proyectos con temática floral, ofreciendo infinitas posibilidades creativas.\nIdeal para entusiastas del bricolaje: ideal para artesanos, aficionados y aficionados que buscan agregar un elegante elemento floral a sus creaciones.\nTamaño: 3,15 pulgadas de largo",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380974/27804503090403-1-.jpg?v=638726334931230000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380974/27804503090403-1-.jpg?v=638726334931230000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "mariposa-x4-para-pintar-35182",
+      "nombre": "Mariposa X4 Para Pintar",
+      "slug": "mariposa-x4-para-pintar-35182",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Utilice estas formas de madera para agregar textura y estilo a cajas de obsequios, páginas de álbumes de recortes, decoración del hogar y otros proyectos de manualidades de bricolaje. ¡Solo personalícelas con pintura y adornos!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380972/27804503090402-1-.jpg?v=638726334925100000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380972/27804503090402-1-.jpg?v=638726334925100000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380973/27804503090402-2-.jpg?v=638726334928100000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "pajaro-x4-para-pintar-35181",
+      "nombre": "Pajaro X4 Para Pintar",
+      "slug": "pajaro-x4-para-pintar-35181",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380969/27804503090401-1-.jpg?v=638726334903670000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380969/27804503090401-1-.jpg?v=638726334903670000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380970/27804503090401-2-.jpg?v=638726334918230000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380971/27804503090401-3-.jpg?v=638726334921070000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-unicornio-17-cm-35180",
+      "nombre": "Set Para Pintar Unicornio 17 Cm",
+      "slug": "set-para-pintar-unicornio-17-cm-35180",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Decora y exhibe este divertido stand de madera DIY con pintura, tintes, decoupage, adornos y más. ¡Ideal para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380967/27804503090214-1-.jpg?v=638726334884200000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380967/27804503090214-1-.jpg?v=638726334884200000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380968/27804503090214-2-.jpg?v=638726334889300000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-caballo-17-cm-35178",
+      "nombre": "Set Para Pintar Caballo 17 Cm",
+      "slug": "set-para-pintar-caballo-17-cm-35178",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Decora y exhibe este divertido stand de madera DIY con pintura, tintes, decoupage, adornos y más. ¡Ideal para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380963/27804503090212-1-.jpg?v=638726334873000000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380963/27804503090212-1-.jpg?v=638726334873000000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380964/27804503090212-2-.jpg?v=638726334875430000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-bolsa-insectos-con-marcadores-35177",
+      "nombre": "Set Bolsa Insectos Con Marcadores",
+      "slug": "set-bolsa-insectos-con-marcadores-35177",
+      "marca": "MULTICRAFT",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "Dale vida a estas divertidas bolsas de regalo de lona con un toque de color. ¡Solo tienes que pintarlas, decorarlas y adornarlas como desees! Ideales para fiestas de cumpleaños, días lluviosos o como obsequios para fiestas infantiles.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380961/27804503080227-1-.jpg?v=638726334867000000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380961/27804503080227-1-.jpg?v=638726334867000000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380962/27804503080227-2-.jpg?v=638726334870330000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-bolsa-animales-con-marcadores-35176",
+      "nombre": "Set Bolsa Animales Con Marcadores",
+      "slug": "set-bolsa-animales-con-marcadores-35176",
+      "marca": "MULTICRAFT",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "Dale vida a estas divertidas bolsas de regalo de lona con un toque de color. ¡Solo tienes que pintarlas, decorarlas y adornarlas como desees! Ideales para fiestas de cumpleaños, días lluviosos o como obsequios para fiestas infantiles.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380959/27804503080226-1-.jpg?v=638726334852200000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380959/27804503080226-1-.jpg?v=638726334852200000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380960/27804503080226-2-.jpg?v=638726334857000000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "mini-canvas-carro-14-cm-35175",
+      "nombre": "Mini Canvas Carro 14 Cm",
+      "slug": "mini-canvas-carro-14-cm-35175",
+      "marca": "MULTICRAFT",
+      "precio": 18900,
+      "precioAnterior": null,
+      "descripcion": "Este adorable panel de lienzo DIY es una excelente manera de estimular la imaginación de los pequeños artistas. ¡Perfecto para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380957/27804503080108-1-.jpg?v=638726334845030000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380957/27804503080108-1-.jpg?v=638726334845030000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380958/27804503080108-2-.jpg?v=638726334847970000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "mini-canvas-mariposa-14-cm-35174",
+      "nombre": "Mini Canvas Mariposa 14 Cm",
+      "slug": "mini-canvas-mariposa-14-cm-35174",
+      "marca": "MULTICRAFT",
+      "precio": 18900,
+      "precioAnterior": null,
+      "descripcion": "Este adorable panel de lienzo DIY es una excelente manera de estimular la imaginación de los pequeños artistas. ¡Perfecto para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380955/27804503080107-1-.jpg?v=638726334838500000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380955/27804503080107-1-.jpg?v=638726334838500000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380956/27804503080107-2-.jpg?v=638726334841770000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "mini-canvas-dinosaurio-14-cm-35173",
+      "nombre": "Mini Canvas Dinosaurio 14 Cm",
+      "slug": "mini-canvas-dinosaurio-14-cm-35173",
+      "marca": "MULTICRAFT",
+      "precio": 18900,
+      "precioAnterior": null,
+      "descripcion": "Este adorable panel de lienzo DIY es una excelente manera de estimular la imaginación de los pequeños artistas. ¡Perfecto para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380953/27804503080106-1-.jpg?v=638726334831470000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380953/27804503080106-1-.jpg?v=638726334831470000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380954/27804503080106-2-.jpg?v=638726334834900000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "mini-canvas-flamingo-14-cm-35172",
+      "nombre": "Mini Canvas Flamingo 14 Cm",
+      "slug": "mini-canvas-flamingo-14-cm-35172",
+      "marca": "MULTICRAFT",
+      "precio": 18900,
+      "precioAnterior": null,
+      "descripcion": "Este adorable panel de lienzo DIY es una excelente manera de estimular la imaginación de los pequeños artistas. ¡Perfecto para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380951/27804503080105-1-.jpg?v=638726334825230000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380951/27804503080105-1-.jpg?v=638726334825230000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380952/27804503080105-2-.jpg?v=638726334828370000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "mini-canvas-cohete-14-cm-35171",
+      "nombre": "Mini Canvas Cohete 14 Cm",
+      "slug": "mini-canvas-cohete-14-cm-35171",
+      "marca": "MULTICRAFT",
+      "precio": 18900,
+      "precioAnterior": null,
+      "descripcion": "Este adorable panel de lienzo DIY es una excelente manera de estimular la imaginación de los pequeños artistas. ¡Perfecto para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380949/27804503080104-1-.jpg?v=638726334817930000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380949/27804503080104-1-.jpg?v=638726334817930000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380950/27804503080104-2-.jpg?v=638726334821330000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "mini-canvas-unicornio-14-cm-35170",
+      "nombre": "Mini Canvas Unicornio 14 Cm",
+      "slug": "mini-canvas-unicornio-14-cm-35170",
+      "marca": "MULTICRAFT",
+      "precio": 18900,
+      "precioAnterior": null,
+      "descripcion": "Este adorable panel de lienzo DIY es una excelente manera de estimular la imaginación de los pequeños artistas. ¡Perfecto para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380947/27804503080103-1-.jpg?v=638726334811700000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380947/27804503080103-1-.jpg?v=638726334811700000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380948/27804503080103-2-.jpg?v=638726334814530000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-mariposa-10-cm-35169",
+      "nombre": "Set Para Pintar Mariposa 10 Cm",
+      "slug": "set-para-pintar-mariposa-10-cm-35169",
+      "marca": "MULTICRAFT",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "Deja que la creatividad de tu hijo brille con estos atrapasoles tridimensionales divertidos y fáciles de usar. ¡Perfectos para crear un mundo colorido!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380945/27804503080102-1-.jpg?v=638726334805300000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380945/27804503080102-1-.jpg?v=638726334805300000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380946/27804503080102-2-.jpg?v=638726334807970000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-unicornio-10-cm-35168",
+      "nombre": "Set Para Pintar Unicornio 10 Cm",
+      "slug": "set-para-pintar-unicornio-10-cm-35168",
+      "marca": "MULTICRAFT",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "Deja que la creatividad de tu hijo brille con estos atrapasoles tridimensionales divertidos y fáciles de usar. ¡Perfectos para crear un mundo colorido!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380943/27804503080101-1-.jpg?v=638726334799070000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380943/27804503080101-1-.jpg?v=638726334799070000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380944/27804503080101-2-.jpg?v=638726334801830000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-pez-10-cm-35167",
+      "nombre": "Set Para Pintar Pez 10 Cm",
+      "slug": "set-para-pintar-pez-10-cm-35167",
+      "marca": "MULTICRAFT",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "Deja que la creatividad de tu hijo brille con estos atrapasoles tridimensionales divertidos y fáciles de usar. ¡Perfectos para crear un mundo colorido!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380941/27804503080100-1-.jpg?v=638726334792970000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380941/27804503080100-1-.jpg?v=638726334792970000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380942/27804503080100-2-.jpg?v=638726334795930000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-sticker-transportes-35166",
+      "nombre": "Set para Pintar Sticker Transportes",
+      "slug": "set-para-pintar-sticker-transportes-35166",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380939/27804503080225-1-.jpg?v=638726334785470000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380939/27804503080225-1-.jpg?v=638726334785470000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380940/27804503080225-2-.jpg?v=638726334788730000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-puntos-sirena-14-cm-35164",
+      "nombre": "Set para Pintar Puntos Sirena 14 Cm",
+      "slug": "set-para-pintar-puntos-sirena-14-cm-35164",
+      "marca": "MULTICRAFT",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad y el aprendizaje de su hijo con este divertido y fácil de usar kit de manualidades con diamantes. ¡Perfecto para pasar horas de manualidades divertidas en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380935/27804503080223-1-.jpg?v=638726334770530000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380935/27804503080223-1-.jpg?v=638726334770530000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380936/27804503080223-2-.jpg?v=638726334773500000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-dinosaurio-22-cm-35160",
+      "nombre": "Set para Pintar Dinosaurio 22 Cm",
+      "slug": "set-para-pintar-dinosaurio-22-cm-35160",
+      "marca": "MULTICRAFT",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad y el aprendizaje de su hijo con este divertido y fácil de usar kit de manualidades con diamantes. ¡Perfecto para pasar horas de manualidades divertidas en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380927/27804503080305-1-.jpg?v=638726334741100000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380927/27804503080305-1-.jpg?v=638726334741100000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380928/27804503080305-2-.jpg?v=638726334745270000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-dinosaurio-llavero-35157",
+      "nombre": "Set para Pintar Dinosaurio Llavero",
+      "slug": "set-para-pintar-dinosaurio-llavero-35157",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad de su hijo con estos divertidos kits de llaveros de madera con temáticas. ¡Perfectos para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380922/27804503070108-2-.jpg?v=638726334722800000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380922/27804503070108-2-.jpg?v=638726334722800000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/381465/27804503070108-1-.jpg?v=638726357231570000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-llavero-mariquita-35156",
+      "nombre": "Set para Pintar Llavero Mariquita",
+      "slug": "set-para-pintar-llavero-mariquita-35156",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad de su hijo con estos divertidos kits de llaveros de madera con temáticas. ¡Perfectos para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380920/27804503070107-1-.jpg?v=638726334716270000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380920/27804503070107-1-.jpg?v=638726334716270000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380921/27804503070107-2-.jpg?v=638726334719700000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-llavero-abeja-35155",
+      "nombre": "Set para Pintar Llavero Abeja",
+      "slug": "set-para-pintar-llavero-abeja-35155",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad de su hijo con estos divertidos kits de llaveros de madera con temáticas. ¡Perfectos para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380918/27804503070106-1-.jpg?v=638726334710170000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380918/27804503070106-1-.jpg?v=638726334710170000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380919/27804503070106-2-.jpg?v=638726334712670000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-llavero-t-rex-35154",
+      "nombre": "Set para Pintar Llavero T-Rex",
+      "slug": "set-para-pintar-llavero-t-rex-35154",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad de su hijo con estos divertidos kits de llaveros de madera con temáticas. ¡Perfectos para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380916/27804503070105-1-.jpg?v=638726334703900000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380916/27804503070105-1-.jpg?v=638726334703900000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380917/27804503070105-2-.jpg?v=638726334706770000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-llavero-avion-35153",
+      "nombre": "Set para Pintar Llavero Avion",
+      "slug": "set-para-pintar-llavero-avion-35153",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad de su hijo con estos divertidos kits de llaveros de madera con temáticas. ¡Perfectos para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380914/27804503070104-1-.jpg?v=638726334696900000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380914/27804503070104-1-.jpg?v=638726334696900000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380915/27804503070104-2-.jpg?v=638726334700630000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-llavero-mariposa-35152",
+      "nombre": "Set para Pintar Llavero Mariposa",
+      "slug": "set-para-pintar-llavero-mariposa-35152",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad de su hijo con estos divertidos kits de llaveros de madera con temáticas. ¡Perfectos para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380912/27804503070103-1-.jpg?v=638726334689870000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380912/27804503070103-1-.jpg?v=638726334689870000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380913/27804503070103-2-.jpg?v=638726334693770000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-puntos-animales-35151",
+      "nombre": "Set Para Pintar Puntos Animales",
+      "slug": "set-para-pintar-puntos-animales-35151",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad y el aprendizaje de su hijo con este divertido y fácil de usar kit de pegatinas de diamantes para manualidades. ¡Perfecto para pasar horas de manualidades divertidas en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380910/27804503060206-1-.jpg?v=638726334683330000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380910/27804503060206-1-.jpg?v=638726334683330000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380911/27804503060206-2-.jpg?v=638726334686600000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-puntos-transportes-35150",
+      "nombre": "Set Para Pintar Puntos Transportes",
+      "slug": "set-para-pintar-puntos-transportes-35150",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad y el aprendizaje de su hijo con este divertido y fácil de usar kit de pegatinas de diamantes para manualidades. ¡Perfecto para pasar horas de manualidades divertidas en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380908/27804503060209-1-.jpg?v=638726334674600000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380908/27804503060209-1-.jpg?v=638726334674600000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380909/27804503060209-2-.jpg?v=638726334679100000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-puntos-sirena-35149",
+      "nombre": "Set Para Pintar Puntos Sirena",
+      "slug": "set-para-pintar-puntos-sirena-35149",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad y el aprendizaje de su hijo con este divertido y fácil de usar kit de pegatinas de diamantes para manualidades. ¡Perfecto para pasar horas de manualidades divertidas en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380906/27804503060205-1-.jpg?v=638726334667730000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380906/27804503060205-1-.jpg?v=638726334667730000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380907/27804503060205-2-.jpg?v=638726334670870000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-para-pintar-puntos-dinosaurios-35148",
+      "nombre": "Set Para Pintar Puntos Dinosaurios",
+      "slug": "set-para-pintar-puntos-dinosaurios-35148",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad y el aprendizaje de su hijo con este divertido y fácil de usar kit de pegatinas de diamantes para manualidades. ¡Perfecto para pasar horas de manualidades divertidas en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380904/27804503060204-1-.jpg?v=638726334659970000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380904/27804503060204-1-.jpg?v=638726334659970000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380905/27804503060204-2-.jpg?v=638726334663830000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-animales-maritimos-sticker-diamantes-35147",
+      "nombre": "Set Animales Maritimos Sticker Diamantes",
+      "slug": "set-animales-maritimos-sticker-diamantes-35147",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad y el aprendizaje de su hijo con este divertido y fácil de usar kit de pegatinas de diamantes para manualidades. ¡Perfecto para pasar horas de manualidades divertidas en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380902/27804503060208-1-.jpg?v=638726334652130000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380902/27804503060208-1-.jpg?v=638726334652130000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380903/27804503060208-2-.jpg?v=638726334655900000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-animales-sticker-diamantes-35146",
+      "nombre": "Set Animales Sticker Diamantes",
+      "slug": "set-animales-sticker-diamantes-35146",
+      "marca": "MULTICRAFT",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "Estimule la creatividad y el aprendizaje de su hijo con este divertido y fácil de usar kit de pegatinas de diamantes para manualidades. ¡Perfecto para pasar horas de manualidades divertidas en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380900/27804503060207-1-.jpg?v=638726334646070000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380900/27804503060207-1-.jpg?v=638726334646070000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380901/27804503060207-2-.jpg?v=638726334648730000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "patela-divisiones-x10--35133",
+      "nombre": "Patela Divisiones x10",
+      "slug": "patela-divisiones-x10--35133",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "Esta paleta de pintura, hecha de plástico resistente y duradero, es perfecta para todos los pequeños artistas. Su diseño liviano incluye 10 compartimentos para pintura y un orificio para el pulgar para manipularla fácilmente. La superficie lisa es ideal para mezclar y combinar colores, y es fácil de limpiar. ¡Perfecta para usar en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380873/27804502080302-1-.jpg?v=638726334534630000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380873/27804502080302-1-.jpg?v=638726334534630000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380874/27804502080302-2-.jpg?v=638726334538370000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-de-pinceles-y-brochas-x7-35132",
+      "nombre": "Set De Pinceles Y Brochas X7",
+      "slug": "set-de-pinceles-y-brochas-x7-35132",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Pinceles de calidad para artistas\nIdeal tanto para artistas como para estudiantes.\nLos pinceles vienen con cerdas para ser utilizados con pinturas al óleo, acrílicas y acuarelas.\nPaquete económico de 7 piezas",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380871/27804502070602-1-.jpg?v=638726334527000000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380871/27804502070602-1-.jpg?v=638726334527000000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380872/27804502070602-2-.jpg?v=638726334531370000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "esponjas-para-pintar-x2-35131",
+      "nombre": "Esponjas Para Pintar X2",
+      "slug": "esponjas-para-pintar-x2-35131",
+      "marca": "MULTICRAFT",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "sponjas de Pintura\nEste paquete contiene dos esponjas de espuma de 1 pulgada de grosor y 2-3/4 pulgadas de diámetro\nCada uno tiene un mango de madera y una parte superior de esponja de espuma suave",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380869/27804502060400-1-.jpg?v=638726334518100000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380869/27804502060400-1-.jpg?v=638726334518100000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380870/27804502060400-2-.jpg?v=638726334524030000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-x4-esponjas-para-pintar-35130",
+      "nombre": "Set x4 Esponjas Para Pintar",
+      "slug": "set-x4-esponjas-para-pintar-35130",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "Esponja sintética multiusos. Se mantiene suave y conserva la forma. Ideal para aplicar con esponja, estarcir y realizar acabados falsos.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380867/27804502060401-1-.jpg?v=638726334511700000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380867/27804502060401-1-.jpg?v=638726334511700000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380868/27804502060401-2-.jpg?v=638726334515000000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-esponjas-para-pintar-7-cm-35129",
+      "nombre": "Set Esponjas para Pintar 7 Cm",
+      "slug": "set-esponjas-para-pintar-7-cm-35129",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Las esponjas de imitación de mar son imprescindibles en el kit de herramientas de todo artista. Los poros de la esponja tienen una gran capacidad de absorción, lo que las hace ideales para pintar donde se desean detalles finos o crear efectos con textura, como punteado, jaspeado y más.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380865/27804502060305-1-.jpg?v=638726334504870000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380865/27804502060305-1-.jpg?v=638726334504870000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380866/27804502060305-2-.jpg?v=638726334508900000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-esponjas-para-pintar-5-cm-35128",
+      "nombre": "Set Esponjas para Pintar 5 Cm",
+      "slug": "set-esponjas-para-pintar-5-cm-35128",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Las esponjas de imitación de mar son imprescindibles en el kit de herramientas de todo artista. Los poros de la esponja tienen una gran capacidad de absorción, lo que las hace ideales para pintar donde se desean detalles finos o crear efectos con textura, como punteado, jaspeado y más.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380863/27804502060200-1-.jpg?v=638726334484800000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380863/27804502060200-1-.jpg?v=638726334484800000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380864/27804502060200-2-.jpg?v=638726334498200000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-x6-esponjas-para-pintar-35127",
+      "nombre": "Set X6 Esponjas para Pintar",
+      "slug": "set-x6-esponjas-para-pintar-35127",
+      "marca": "MULTICRAFT",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "Perfecto para pintar trabajos de interior/exterior, hacer retoques y artes y manualidades\nExtremo de espuma en ángulo que hace que sea fácil entrar en espacios reducidos y esquinas\nMango de madera duradero que los hace ligeros y cómodos de sostener\nIdeal para todos tus proyectos creativos en casa y en la escuela\nIncluye 6 piezas surtidas",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380861/27804502060601-1-.jpg?v=638726334467930000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380861/27804502060601-1-.jpg?v=638726334467930000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380862/27804502060601-2-.jpg?v=638726334480730000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "esponjas-para-pintar-35126",
+      "nombre": "Esponjas para Pintar",
+      "slug": "esponjas-para-pintar-35126",
+      "marca": "MULTICRAFT",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380859/27804502050401-1-.jpg?v=638726334461870000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380859/27804502050401-1-.jpg?v=638726334461870000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380860/27804502050401-2-.jpg?v=638726334464800000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "paleta-acuarelas-x21-35122",
+      "nombre": "Paleta Acuarelas x21",
+      "slug": "paleta-acuarelas-x21-35122",
+      "marca": "MULTICRAFT",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380852/27804501020300-1-.jpg?v=638726334438000000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380852/27804501020300-1-.jpg?v=638726334438000000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "paleta-acuarelas-x12--35121",
+      "nombre": "Paleta Acuarelas x12",
+      "slug": "paleta-acuarelas-x12--35121",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380851/27804501020200-1-.jpg?v=638726334433600000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380851/27804501020200-1-.jpg?v=638726334433600000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "tempera-neon-x4-35120",
+      "nombre": "Tempera Neon X4",
+      "slug": "tempera-neon-x4-35120",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380849/27804501010202-1-.jpg?v=638726334426900000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380849/27804501010202-1-.jpg?v=638726334426900000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380850/27804501010202-2-.jpg?v=638726334430030000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "tempera-plateada-escarcha-neon-75-ml-35119",
+      "nombre": "Tempera Plateada Escarcha Neon 75 Ml",
+      "slug": "tempera-plateada-escarcha-neon-75-ml-35119",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380848/27804501010111-1-.jpg?v=638726334423170000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380848/27804501010111-1-.jpg?v=638726334423170000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Plateado"
+    },
+    {
+      "id": "tempera-dorada-escarchada-neon-75-ml-35118",
+      "nombre": "Tempera Dorada Escarchada Neon 75 Ml",
+      "slug": "tempera-dorada-escarchada-neon-75-ml-35118",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380847/27804501010110-1-.jpg?v=638726334419730000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380847/27804501010110-1-.jpg?v=638726334419730000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Dorado"
+    },
+    {
+      "id": "tempera-azul-neon-75-ml-35117",
+      "nombre": "Tempera Azul Neon 75 Ml",
+      "slug": "tempera-azul-neon-75-ml-35117",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "¡Un medio de arte esencial tanto para niños como para adultos! No solo para carteles, sino también ideal para usar sobre lienzo, madera, tela y mucho más. La fórmula de pintura vibrante está lista para usar tal como está o para mezclarla con otros colores de pintura al temple Krafty Kids™. ¡Ideal para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380846/27804501010109-1-.jpg?v=638726334416300000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380846/27804501010109-1-.jpg?v=638726334416300000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Azul"
+    },
+    {
+      "id": "tempera-amrailla-75-ml-35116",
+      "nombre": "Tempera Amrailla 75 Ml",
+      "slug": "tempera-amrailla-75-ml-35116",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "¡Un medio de arte esencial tanto para niños como para adultos! No solo para carteles, sino también ideal para usar sobre lienzo, madera, tela y mucho más. La fórmula de pintura vibrante está lista para usar tal como está o para mezclarla con otros colores de pintura al temple Krafty Kids™. ¡Ideal para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/381464/27804501010108-1-.jpg?v=638726357226730000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/381464/27804501010108-1-.jpg?v=638726357226730000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "tempera-blanca-75-ml-35115",
+      "nombre": "Tempera Blanca 75 Ml",
+      "slug": "tempera-blanca-75-ml-35115",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "0",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380845/27804501010107-1-.jpg?v=638726334412470000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380845/27804501010107-1-.jpg?v=638726334412470000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Blanco"
+    },
+    {
+      "id": "tempera-roja-75-ml-35114",
+      "nombre": "Tempera Roja 75 Ml",
+      "slug": "tempera-roja-75-ml-35114",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "¡Un medio de arte esencial tanto para niños como para adultos! No solo para carteles, sino también ideal para usar sobre lienzo, madera, tela y mucho más. La fórmula de pintura vibrante está lista para usar tal como está o para mezclarla con otros colores de pintura al temple Krafty Kids™. ¡Ideal para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380844/27804501010106-1-.jpg?v=638726334408870000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380844/27804501010106-1-.jpg?v=638726334408870000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Rojo"
+    },
+    {
+      "id": "tempera-morada-75-ml-35113",
+      "nombre": "Tempera Morada 75 Ml",
+      "slug": "tempera-morada-75-ml-35113",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "¡Un medio de arte esencial tanto para niños como para adultos! No solo para carteles, sino también ideal para usar sobre lienzo, madera, tela y mucho más. La fórmula de pintura vibrante está lista para usar tal como está o para mezclarla con otros colores de pintura al temple Krafty Kids™. ¡Ideal para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380843/27804501010105-1-.jpg?v=638726334404800000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380843/27804501010105-1-.jpg?v=638726334404800000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Morado"
+    },
+    {
+      "id": "tempera-naranja-75-ml-35112",
+      "nombre": "Tempera Naranja 75 Ml",
+      "slug": "tempera-naranja-75-ml-35112",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "¡Un medio de arte esencial tanto para niños como para adultos! No solo para carteles, sino también ideal para usar sobre lienzo, madera, tela y mucho más. La fórmula de pintura vibrante está lista para usar tal como está o para mezclarla con otros colores de pintura al temple Krafty Kids™. ¡Ideal para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380842/27804501010104-1-.jpg?v=638726334400530000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380842/27804501010104-1-.jpg?v=638726334400530000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Naranja"
+    },
+    {
+      "id": "tempera-cafe-75-ml-35111",
+      "nombre": "Tempera Café 75 Ml",
+      "slug": "tempera-cafe-75-ml-35111",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "¡Un medio de arte esencial tanto para niños como para adultos! No solo para carteles, sino también ideal para usar sobre lienzo, madera, tela y mucho más. La fórmula de pintura vibrante está lista para usar tal como está o para mezclarla con otros colores de pintura al temple Krafty Kids™. ¡Ideal para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380841/27804501010103-1-.jpg?v=638726334395700000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380841/27804501010103-1-.jpg?v=638726334395700000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Café"
+    },
+    {
+      "id": "tempera-azul-75-ml-35110",
+      "nombre": "Tempera Azul 75 Ml",
+      "slug": "tempera-azul-75-ml-35110",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "¡Un medio de arte esencial tanto para niños como para adultos! No solo para carteles, sino también ideal para usar sobre lienzo, madera, tela y mucho más. La fórmula de pintura vibrante está lista para usar tal como está o para mezclarla con otros colores de pintura al temple Krafty Kids™. ¡Ideal para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/380840/27804501010102-1-.jpg?v=638726334391670000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/380840/27804501010102-1-.jpg?v=638726334391670000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Azul"
+    },
+    {
+      "id": "set-para-pintar-al-gato-33427",
+      "nombre": "Set Para Pintar Al Gato",
+      "slug": "set-para-pintar-al-gato-33427",
+      "marca": "SIMES LOGISTIC",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "¡Despierta el artista que llevas dentro con el Set para Pintar al Gato! Incluye todo lo necesario para crear obras maestras en tu amigo felino, fomentando la creatividad y la diversión.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/371493/34334503080300-1-.jpg?v=638675672768300000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/371493/34334503080300-1-.jpg?v=638675672768300000"
+      ],
+      "contenido": [
+        "Incluye: 1 Set",
+        "Composición: Plastico"
+      ],
+      "tags": [
+        "SIMES LOGISTIC",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "vinilo-negro-x80-cc-28869",
+      "nombre": "Vinilo Negro X80 Cc",
+      "slug": "vinilo-negro-x80-cc-28869",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 4600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/334422/25054501030104-1-.jpg?v=638618410631230000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/334422/25054501030104-1-.jpg?v=638618410631230000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/339214/25054501030104-1-.jpg?v=638618427048630000"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Negro"
+    },
+    {
+      "id": "vinilo-rojo-x80-cc-28868",
+      "nombre": "Vinilo Rojo X80 Cc",
+      "slug": "vinilo-rojo-x80-cc-28868",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 4600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/334419/25054501030102-1-.jpg?v=638618410628400000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/334419/25054501030102-1-.jpg?v=638618410628400000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/339213/25054501030102-1-.jpg?v=638618427045200000"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Rojo"
+    },
+    {
+      "id": "tempera-metalizada-x6-28867",
+      "nombre": "Tempera Metalizada X6",
+      "slug": "tempera-metalizada-x6-28867",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 7600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/341695/25054501010601-1-.jpg?v=638618442936730000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/341695/25054501010601-1-.jpg?v=638618442936730000"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-pinceles-esponja-manualidades-6pcs-27883",
+      "nombre": "Set Pinceles Esponja Manualidades 6Pcs",
+      "slug": "set-pinceles-esponja-manualidades-6pcs-27883",
+      "marca": "KRAFTERS KORNER",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "Versátiles para trabajar en diversas superficies como lienzo, madera, papel y tela, ofreciendo resultados impecables en pintura, esmalte y barniz. Su diseño ergonómico y liviano los hace confortables para uso prolongado, con mangos de madera redondos que facilitan el agarre. Equipados con puntas de cincel de esponja de espuma, aseguran una aplicación suave y uniforme. Cada pincel tiene aproximadamente 16,5 cm de largo y una punta de 2,54 cm de ancho, ideal para diversas aplicaciones creativas.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/324462/32684502060600-1-.jpg?v=638615107898270000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/324462/32684502060600-1-.jpg?v=638615107898270000"
+      ],
+      "contenido": [
+        "Incluye: * 6 Pinceles de esponja para manualidades.",
+        "Composición: 50% Esponja 50% Madera",
+        "Indicaciones de Uso: * Pinceles fabricados en Madera y esponja."
+      ],
+      "tags": [
+        "KRAFTERS KORNER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "pinceles-x6-20180",
+      "nombre": "Pinceles X6",
+      "slug": "pinceles-x6-20180",
+      "marca": "SIMES LOGISTIC",
+      "precio": 700,
+      "precioAnterior": null,
+      "descripcion": "set x6 pinceles. ideales para manualidades.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/258438/Pinceles-34334502020600-1-.jpg?v=638533922933730000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/258438/Pinceles-34334502020600-1-.jpg?v=638533922933730000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/262344/Pinceles-34334502020600-1-.jpg?v=638533927542970000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/268840/Pinceles-34334502020600-1-.jpg?v=638533941133770000"
+      ],
+      "contenido": [],
+      "tags": [
+        "SIMES LOGISTIC",
+        "Ofertas",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "acuarela-pincel-colores-x12-19179",
+      "nombre": "Acuarela Pincel Colores X12",
+      "slug": "acuarela-pincel-colores-x12-19179",
+      "marca": "BAZIC",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "set x12 de acuarelas de colores. incluye brocha extra con mangos de madera. este juego de pintura de acuarela portátil viene con impresionantes pinturas sólidas de color de agua, empacadas en una caja de plástico, que es conveniente para el almacenamiento y el transporte.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/253736/Acuarela-Pincel-Colores-30864501021200-1-.jpg?v=638533917459870000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/253736/Acuarela-Pincel-Colores-30864501021200-1-.jpg?v=638533917459870000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/259070/Acuarela-Pincel-Colores-30864501021200-1-.jpg?v=638533923789770000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267562/Acuarela-Pincel-Colores-30864501021200-1-.jpg?v=638533937324370000"
+      ],
+      "contenido": [
+        "Composición: Plastico",
+        "Material: Plastico"
+      ],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "acuarela-pincel-colores-x8-19178",
+      "nombre": "Acuarela Pincel Colores X8",
+      "slug": "acuarela-pincel-colores-x8-19178",
+      "marca": "BAZIC",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "set x8 acuarelas. incluye brocha extra con mangos de madera. este juego de pintura de acuarela portátil viene con impresionantes pinturas sólidas de color de agua, empacadas en una caja de plástico, que es conveniente para el almacenamiento y el transporte.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/253734/Acuarela-Pincel-Colores-30864501020800-1-.jpg?v=638533917457700000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/253734/Acuarela-Pincel-Colores-30864501020800-1-.jpg?v=638533917457700000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/259067/Acuarela-Pincel-Colores-30864501020800-1-.jpg?v=638533923787270000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267561/Acuarela-Pincel-Colores-30864501020800-1-.jpg?v=638533937321230000"
+      ],
+      "contenido": [
+        "Composición: Plastico",
+        "Material: Plastico"
+      ],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "pintura-pincel-colores-19176",
+      "nombre": "Pintura Pincel Colores",
+      "slug": "pintura-pincel-colores-19176",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "set de pinturas con pincel, son lavables y sirven para pintar carteles, letreros, pancartas y más. excelente para divertirse, colorear, dibujar, hacer tarjetas de bricolaje, desarrollar la creatividad y más.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/253727/Pintura-Pincel-Colores-30864501011200-1-.jpg?v=638533917450970000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/253727/Pintura-Pincel-Colores-30864501011200-1-.jpg?v=638533917450970000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/259061/Pintura-Pincel-Colores-30864501011200-1-.jpg?v=638533923783200000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267559/Pintura-Pincel-Colores-30864501011200-1-.jpg?v=638533937315570000"
+      ],
+      "contenido": [
+        "Composición: Plastico",
+        "Indicaciones de Uso: NO TÓXICO Y SEGURO. Juego de pintura no tóxico y seguro para niños pequeños, la materia prima de la pintura de este niño es un ingrediente natural, no estimulante ni dañino para la piel.",
+        "Material: Plastico"
+      ],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "paleta-x8-acuarelas-18976",
+      "nombre": "Paleta X8 Acuarelas",
+      "slug": "paleta-x8-acuarelas-18976",
+      "marca": "MULTICRAFT",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/252864/27804501020101-1-.jpg?v=638533916090330000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/252864/27804501020101-1-.jpg?v=638533916090330000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/252866/27804501020101-2-.jpg?v=638533916092830000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/252868/27804501020101-3-.jpg?v=638533916095630000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/252870/27804501020101-4-.jpg?v=638533916098000000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/258499/27804501020101-1-.jpg?v=638533923012670000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/258501/27804501020101-2-.jpg?v=638533923015170000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/258503/27804501020101-3-.jpg?v=638533923018600000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/258505/27804501020101-4-.jpg?v=638533923023630000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267286/27804501020101-1-.jpg?v=638533936452630000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267287/27804501020101-2-.jpg?v=638533936454600000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267288/27804501020101-3-.jpg?v=638533936457400000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267289/27804501020101-4-.jpg?v=638533936459930000"
+      ],
+      "contenido": [
+        "Indicaciones de Uso: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "acuarelas-x12-con-pincel-18975",
+      "nombre": "Acuarelas X12 Con Pincel",
+      "slug": "acuarelas-x12-con-pincel-18975",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/252856/27804501020500-1-.jpg?v=638533916081070000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/252856/27804501020500-1-.jpg?v=638533916081070000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/252858/27804501020500-2-.jpg?v=638533916083500000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/252860/27804501020500-3-.jpg?v=638533916085830000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/252862/27804501020500-4-.jpg?v=638533916088030000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/258492/27804501020500-1-.jpg?v=638533923002770000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/258493/27804501020500-2-.jpg?v=638533923006270000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/258495/27804501020500-3-.jpg?v=638533923008430000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/258497/27804501020500-4-.jpg?v=638533923010470000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267282/27804501020500-1-.jpg?v=638533936439200000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267283/27804501020500-2-.jpg?v=638533936443000000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267284/27804501020500-3-.jpg?v=638533936447600000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/267285/27804501020500-4-.jpg?v=638533936449900000"
+      ],
+      "contenido": [
+        "Indicaciones de Uso: Importado Por: LOS TRES ELEFANTES S.AHecho en: CHINA"
+      ],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "vinilo-azul-x80-cc-18625",
+      "nombre": "Vinilo Azul X80 Cc",
+      "slug": "vinilo-azul-x80-cc-18625",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 4600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/251536/25054501030101-1-.jpg?v=638533914235430000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/251536/25054501030101-1-.jpg?v=638533914235430000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/257695/25054501030101-1-.jpg?v=638533921524930000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/266724/25054501030101-1-.jpg?v=638533934907430000"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Azul"
+    },
+    {
+      "id": "vinilo-amarillo-x80-cc-18624",
+      "nombre": "Vinilo Amarillo X80 Cc",
+      "slug": "vinilo-amarillo-x80-cc-18624",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 4600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/251534/25054501030100-1-.jpg?v=638533914232930000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/251534/25054501030100-1-.jpg?v=638533914232930000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/257694/25054501030100-1-.jpg?v=638533921522530000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/266723/25054501030100-1-.jpg?v=638533934905930000"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Amarillo"
+    },
+    {
+      "id": "acuarela-bus-x12-18623",
+      "nombre": "Acuarela Bus X12",
+      "slug": "acuarela-bus-x12-18623",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 12800,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/251532/25054501020501-1-.jpg?v=638533914230900000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/251532/25054501020501-1-.jpg?v=638533914230900000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/257692/25054501020501-1-.jpg?v=638533921519400000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/266722/25054501020501-1-.jpg?v=638533934903900000"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "acuarela-x12-pastel-junior-18622",
+      "nombre": "Acuarela X12 Pastel Junior",
+      "slug": "acuarela-x12-pastel-junior-18622",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 19900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/251530/Acuarela-x12-Pastel-Junior-Marca-PELIKAN-25054501020500-1-.jpg?v=638533914228570000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/251530/Acuarela-x12-Pastel-Junior-Marca-PELIKAN-25054501020500-1-.jpg?v=638533914228570000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/257690/Acuarela-x12-Pastel-Junior-Marca-PELIKAN-25054501020500-1-.jpg?v=638533921516900000",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/266721/Acuarela-x12-Pastel-Junior-Marca-PELIKAN-25054501020500-1-.jpg?v=638533934902200000"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES",
+        "Ofertas",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "paleta-blanca-10-repuestos-9484",
+      "nombre": "Paleta Blanca 10 Repuestos",
+      "slug": "paleta-blanca-10-repuestos-9484",
+      "marca": "BAZIC",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "- ABRAZA TU CREATIVIDAD. Cada artista necesita el\nconjunto adecuado de suministros para crear y\nprosperar. ¡Puede estar seguro de encontrar los\ncolores, las pinturas y los instrumentos que necesita\npara lograr sus objetivos artísticos!\n- CARACTERÍSTICAS Y DISEÑO. Estas bandejas de paleta\nde pintura livianas ofrecen la experiencia de pintura\nmás suave y brillante. Además, es cómodo de\nsostener debido a su forma ovalada con orificio para\nel pulgar.\n- SEGURO Y PRÁCTICO. Hecho de plástico moldeado\necológico, superficie lisa, fácil limpieza y buen\nrendimiento anticorrosivo. 10 espacios de mezcla\npara proporcionar más oportunidades de mezcla de\ncolores.\n- DE MÚLTIPLES FINES. Nuestras bandejas para paletas\nde pintura son perfectas para contener pinturas\nacrílicas, acuarelas o al óleo. Son buenos para\nmúltiples usos, como pintura, bricolaje, fiestas,\ntalleres, enseñanzas de arte y dibujo.\n- EL MEJOR REGALO. Gran regalo para artistas, pintores\nprofesionales, aficionados, estudiantes de arte, niños,\naficionados y artesanos. ¡Perfecto para proyectos\nescolares en el aula y en casa!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/198354/Paleta-Blanca-10-Repuestos-Marca-BAZIC-30864502081001-1-.png?v=638445651676970000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/198354/Paleta-Blanca-10-Repuestos-Marca-BAZIC-30864502081001-1-.png?v=638445651676970000"
+      ],
+      "contenido": [
+        "Color: Blanco"
+      ],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Blanco"
+    },
+    {
+      "id": "paleta-blanca-10-repuestos-9483",
+      "nombre": "Paleta Blanca 10 Repuestos",
+      "slug": "paleta-blanca-10-repuestos-9483",
+      "marca": "BAZIC",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "- ABRAZA TU CREATIVIDAD. Cada artista necesita el\nconjunto adecuado de suministros para crear y\nprosperar. ¡Puede estar seguro de encontrar los\ncolores, las pinturas y los instrumentos que necesita\npara lograr sus objetivos artísticos!\n- EXPERIENCIA PERFECTA. Estas bandejas de paleta de\npintura livianas ofrecen la experiencia de pintura\nmás suave y brillante. Además, es cómodo de\nsostener, incluso para niños y niños más pequeños.\n- SEGURO Y PRÁCTICO. Hecho de plástico moldeado\necológico, superficie lisa, fácil limpieza y buen\nrendimiento anticorrosivo. 10 espacios de mezcla\npara proporcionar más oportunidades de mezcla de\ncolores.\n- DE MÚLTIPLES FINES. Nuestras bandejas redondas\npara paletas de pintura son perfectas para contener\npinturas acrílicas, acuarelas o al óleo. Son buenos\npara múltiples usos como pintura, decoración de\ncupcakes, uñas y tratamientos faciales, etc.\n- EL MEJOR REGALO. Gran regalo para artistas, pintores\nprofesionales, aficionados, estudiantes de arte, niños,\naficionados y artesanos. ¡Perfecto para proyectos\nescolares en el aula y en casa!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/198353/Paleta-Blanca-10-Repuestos-Marca-BAZIC-30864502081000-1-.png?v=638445651666500000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/198353/Paleta-Blanca-10-Repuestos-Marca-BAZIC-30864502081000-1-.png?v=638445651666500000"
+      ],
+      "contenido": [
+        "Color: Blanco"
+      ],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Blanco"
+    },
+    {
+      "id": "broches-x4-jumbo-9481",
+      "nombre": "Broches X4 Jumbo",
+      "slug": "broches-x4-jumbo-9481",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "- PINCEL JUMBO PARA ACUARELA. El juego de pinceles\nJumbo incluye 4 pinceles. Cada cepillo tiene cerdas\nde nailon suaves y duraderas con un mango de\nplástico resistente que resiste la oxidación enjuague\ntras enjuague.\n- ABRAZA TU CREATIVIDAD. Mantenga la pintura\nfluyendo y la creatividad de su hijo creciendo. Estos\npinceles son una gran adición al juego de pintura de\ncualquier niño.\n- MANGO CEPILLO. Estos pinceles regordetes tienen un\nmango largo y rechoncho, que es más fácil de\nsostener para los niños con sus manos pequeñas\nque los pinceles comunes, y también facilita la\npintura.\n- FÁCIL DE LIMPIAR. Estos 4 pinceles para niños se\npueden limpiar fácilmente con agua y jabón.\nDespués de cada limpieza, debe secar el agua de las\ncerdas y guardarlas con el cepillo hacia arriba.\n- USO IDEAL. Ideal para la escuela, el hogar y la oficina.\nEstos pinceles se pueden usar para proyectos\nescolares de niños, fiestas de cumpleaños, fiestas de\npintura, fiestas de arte, pinturas y más.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/198351/Broches-X4-Jumbo-Marca-BAZIC-30864502060400-1-.png?v=638445651652700000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/198351/Broches-X4-Jumbo-Marca-BAZIC-30864502060400-1-.png?v=638445651652700000"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "pinceles-x9-9479",
+      "nombre": "Pinceles X9",
+      "slug": "pinceles-x9-9479",
+      "marca": "BAZIC",
+      "precio": 24900,
+      "precioAnterior": null,
+      "descripcion": "- PINCEL DE PINTURA DE TAMAÑOS SURTIDOS. El juego\npara principiantes viene con 9 pinceles en varios\ntamaños, hechos de cerdas de nailon de larga\nduración con un mango de plástico que resiste la\noxidación enjuague tras enjuague.\n- ABRAZA TU CREATIVIDAD. Mantenga la pintura\nfluyendo y la creatividad de su hijo creciendo. Estos\npinceles son una gran adición al juego de pintura de\ncualquier niño.\n- FÁCIL DE LIMPIAR. Estos pinceles para niños se pueden\nlimpiar fácilmente con agua y jabón. Después de\ncada limpieza, debe secar el agua de las cerdas y\nguardarlas con el cepillo hacia arriba.\nARTES Y MANUALIDADES PARA ESTUDIANTES Y\n- ENTUSIASTAS. Buena combinación de puntas para\nfines de diseño, estos pinceles son excelentes para\nacuarela, pintura acrílica, óleo, gouache, cuerpo,\npintura facial, cerámica, etc.\n- USO IDEAL. Ideal para la escuela, el hogar y la oficina.\nEstos pinceles se pueden usar para proyectos\nescolares de niños, fiestas de cumpleaños, fiestas de\npintura, fiestas de arte, pinturas y más.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/198349/Pinceles-X9-Marca-BAZIC-30864502040900-1-.png?v=638445651605530000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/198349/Pinceles-X9-Marca-BAZIC-30864502040900-1-.png?v=638445651605530000"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "acuarelas-x12-con-pincel-9478",
+      "nombre": "Acuarelas X12 Con Pincel",
+      "slug": "acuarelas-x12-con-pincel-9478",
+      "marca": "BAZIC",
+      "precio": 16900,
+      "precioAnterior": null,
+      "descripcion": "- CONJUNTO DE VALORES. Incluye un pincel extra con\nmango de madera. Las acuarelas ofrecen la\nexperiencia de pintura más suave y brillante. Los\ncolores brillantes se mezclan suavemente para\nbrindar más oportunidades de mezclar colores.\n- CALIDAD. Este juego de pintura de acuarela portátil\nviene con impresionantes pinturas sólidas de color\nde agua, empacadas en una caja de plástico, que es\nconveniente para almacenar y transportar.\n- ABRAZA TU CREATIVIDAD. Colores a base de agua que\nse disuelven y mezclan fácilmente. Cada artista\nnecesita el conjunto adecuado de herramientas\npara crear y prosperar. Ideal para proyectos\nescolares en el aula y en casa.\n- GRAN REGALO. El kit bellamente empaquetado es una\ngran idea de regalo para un regalo de cumpleaños.\nNo tóxico y seguro para niñas y niños pequeños.\nAdecuado para artes, manualidades, niños, adultos,\nprincipiantes, estudiantes, artistas.\nLos productos lavables BAZIC pueden quitarse de la\npiel y de la mayoría de los tipos de ropa lavable. Sin\nembargo, es mejor mantenerlo alejado de\nsuperficies de mesas no brillantes, productos de\nmadera terminados y sin terminar, asientos\ntapizados, vinilo, alfombras, papel tapiz, paredes\npintadas y otros materiales que no se pueden lavar.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/198348/Acuarelas-X12-Con-Pincel-Marca-BAZIC-30864501020201-1-.png?v=638445651591030000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/198348/Acuarelas-X12-Con-Pincel-Marca-BAZIC-30864501020201-1-.png?v=638445651591030000"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "acuarelas-x16-9477",
+      "nombre": "Acuarelas X16",
+      "slug": "acuarelas-x16-9477",
+      "marca": "BAZIC",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "- CONJUNTO DE VALORES. Incluye un pincel extra con mango de madera. Las acuarelas ofrecen la experiencia de pintura más suave y brillante. Los colores brillantes se mezclan suavemente para brindar más oportunidades de mezclar colores.\n- CALIDAD. Este juego de pintura de acuarela portátil viene con impresionantes pinturas sólidas de color de agua, empacadas en una caja de plástico, que es conveniente para almacenar y transportar.\n- ABRAZA TU CREATIVIDAD. Colores a base de agua que se disuelven y mezclan fácilmente. Cada artista necesita el conjunto adecuado de herramientas para crear y prosperar. Ideal para proyectos escolares en el aula y en casa.\n- GRAN REGALO. El kit bellamente empaquetado es una gran idea de regalo para un regalo de cumpleaños. No tóxico y seguro para niñas y niños pequeños. Adecuado para artes, manualidades, niños, adultos, principiantes, estudiantes, artistas. Los productos lavables BAZIC pueden quitarse de la piel y de la mayoría de los tipos de ropa lavable. Sin embargo, es mejor mantenerlo alejado de superficies de mesas no brillantes, productos de madera terminados y sin terminar, asientos tapizados, vinilo, alfombras, papel tapiz, paredes pintadas y otros materiales que no se pueden lavar.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/198347/Acuarelas-X16-Marca-BAZIC-30864501020200-1-.png?v=638445651587600000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/198347/Acuarelas-X16-Marca-BAZIC-30864501020200-1-.png?v=638445651587600000"
+      ],
+      "contenido": [],
+      "tags": [
+        "BAZIC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-pintura-con-acuarela-deportes-9108",
+      "nombre": "Set Pintura Con Acuarela Deportes",
+      "slug": "set-pintura-con-acuarela-deportes-9108",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Crea la obra maestra perfecta con este divertido y emocionante juego de pintura de acuarela. ¡Pizarras de arte de papel de diseño moderno que esperan ese colorido toque final!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197978/Set-Pintura-Con-Acuarela-Deportes-Marca-MULTICRAFT-27804503080404-1-.png?v=638445649142230000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197978/Set-Pintura-Con-Acuarela-Deportes-Marca-MULTICRAFT-27804503080404-1-.png?v=638445649142230000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "titeres-de-palo-foami-armables-x3-granja-9106",
+      "nombre": "Titeres De Palo Foami Armables X3 Granja",
+      "slug": "titeres-de-palo-foami-armables-x3-granja-9106",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "¡Estos kits de bricolaje seguramente entretendrán a Krafty Kids™! Fácil de montar y genial para estimular la creatividad. ¡Úselos en días lluviosos, en fiestas de cumpleaños o como favores de bolsas de botín! ¡Perfecto para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197976/Titeres-de-Palo-Foami-Armables-X3-Granja-Marca-MULTICRAFT-27804503070209-1-.png?v=638445649115130000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197976/Titeres-de-Palo-Foami-Armables-X3-Granja-Marca-MULTICRAFT-27804503070209-1-.png?v=638445649115130000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "palos-de-paleta-animales-salvajes-9104",
+      "nombre": "Palos De Paleta Animales Salvajes",
+      "slug": "palos-de-paleta-animales-salvajes-9104",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "¡Estos kits de bricolaje seguramente entretendrán a Krafty Kids™! Fácil de montar y genial para estimular la creatividad. ¡Úselos en días lluviosos, en fiestas de cumpleaños o como favores de bolsas de botín! ¡Perfecto para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197974/Palos-de-Paleta-Animales-Salvajes-Marca-MULTICRAFT-27804503070207-1-.png?v=638445649107630000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197974/Palos-de-Paleta-Animales-Salvajes-Marca-MULTICRAFT-27804503070207-1-.png?v=638445649107630000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Ofertas",
+        "Descuentos papelería",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "dinosaurio-madera-3-mini-marcadores-9103",
+      "nombre": "Dinosaurio Madera 3 Mini Marcadores",
+      "slug": "dinosaurio-madera-3-mini-marcadores-9103",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estos divertidos adornos de madera hechos a mano son geniales para estimular la creatividad en días lluviosos, en fiestas de cumpleaños o como regalos de botín. Cada kit viene con una forma de madera, 3 marcadores y una cuerda. ¡Perfecto para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197973/Dinosaurio-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070206-1-.png?v=638445649104200000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197973/Dinosaurio-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070206-1-.png?v=638445649104200000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "perro-madera-3-mini-marcadores-9101",
+      "nombre": "Perro Madera 3 Mini Marcadores",
+      "slug": "perro-madera-3-mini-marcadores-9101",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estos divertidos adornos de madera hechos a mano son geniales para estimular la creatividad en días lluviosos, en fiestas de cumpleaños o como regalos de botín. Cada kit viene con una forma de madera, 3 marcadores y una cuerda. ¡Perfecto para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197971/Perro-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070204-1-.png?v=638445649087100000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197971/Perro-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070204-1-.png?v=638445649087100000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "cocodrilo-madera-3-mini-marcadores-9100",
+      "nombre": "Cocodrilo Madera 3 Mini Marcadores",
+      "slug": "cocodrilo-madera-3-mini-marcadores-9100",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estos divertidos adornos de madera hechos a mano son geniales para estimular la creatividad en días lluviosos, en fiestas de cumpleaños o como regalos de botín. Cada kit viene con una forma de madera, 3 marcadores y una cuerda. ¡Perfecto para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197970/Cocodrilo-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070203-1-.png?v=638445649080730000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197970/Cocodrilo-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070203-1-.png?v=638445649080730000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "leon-madera-3-mini-marcadores-9099",
+      "nombre": "Leon Madera 3 Mini Marcadores",
+      "slug": "leon-madera-3-mini-marcadores-9099",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estos divertidos adornos de madera hechos a mano son geniales para estimular la creatividad en días lluviosos, en fiestas de cumpleaños o como regalos de botín. Cada kit viene con una forma de madera, 3 marcadores y una cuerda. ¡Perfecto para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197969/Leon-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070202-1-.png?v=638445649073800000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197969/Leon-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070202-1-.png?v=638445649073800000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "dinosaurio-madera-3-mini-marcadores-9097",
+      "nombre": "Dinosaurio Madera 3 Mini Marcadores",
+      "slug": "dinosaurio-madera-3-mini-marcadores-9097",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Estos divertidos adornos de madera hechos a mano son geniales para estimular la creatividad en días lluviosos, en fiestas de cumpleaños o como regalos de botín. Cada kit viene con una forma de madera, 3 marcadores y una cuerda. ¡Perfecto para horas de diversión creativa en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197967/Dinosaurio-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070200-1-.png?v=638445649049230000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197967/Dinosaurio-Madera-3-Mini-Marcadores-Marca-MULTICRAFT-27804503070200-1-.png?v=638445649049230000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-pintura-unicornio-3d--9096",
+      "nombre": "Set Pintura Unicornio 3D",
+      "slug": "set-pintura-unicornio-3d--9096",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "Deje que la creatividad de su hijo brille con estos Suncatchers 3D divertidos y fáciles de usar. ¡Perfecto para crear un mundo colorido!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197966/Set-Pintura-Unicornio-3D--Marca-MULTICRAFT-27804503060203-1-.png?v=638445649045630000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197966/Set-Pintura-Unicornio-3D--Marca-MULTICRAFT-27804503060203-1-.png?v=638445649045630000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-pintura-jirafa-3d--9095",
+      "nombre": "Set Pintura Jirafa 3D",
+      "slug": "set-pintura-jirafa-3d--9095",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "Deje que la creatividad de su hijo brille con estos Suncatchers 3D divertidos y fáciles de usar. ¡Perfecto para crear un mundo colorido!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197965/Set-Pintura-Jirafa-3D--Marca-MULTICRAFT-27804503060202-1-.png?v=638445649042070000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197965/Set-Pintura-Jirafa-3D--Marca-MULTICRAFT-27804503060202-1-.png?v=638445649042070000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "set-pintura-oveja-3d--9093",
+      "nombre": "Set Pintura Oveja 3D",
+      "slug": "set-pintura-oveja-3d--9093",
+      "marca": "MULTICRAFT",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "Deje que la creatividad de su hijo brille con estos Suncatchers 3D divertidos y fáciles de usar. ¡Perfecto para crear un mundo colorido!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197963/Set-Pintura-Oveja-3D--Marca-MULTICRAFT-27804503060200-1-.png?v=638445649024400000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197963/Set-Pintura-Oveja-3D--Marca-MULTICRAFT-27804503060200-1-.png?v=638445649024400000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Descuentos papelería"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "pincel-y-brochas-x11-9062",
+      "nombre": "Pincel Y Brochas X11",
+      "slug": "pincel-y-brochas-x11-9062",
+      "marca": "MULTICRAFT",
+      "precio": 29900,
+      "precioAnterior": null,
+      "descripcion": "A los niños les encantará crear obras maestras con este divertido y colorido juego de brochas. Con una variedad de pinceles para elegir, este elemento esencial de manualidades para niños es perfecto para pintar, estarcir, esponjar y mucho más. ¡Ideal para horas de diversión, en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197932/Pincel-y-Brochas-X11-Marca-MULTICRAFT-27804502071100-1-.png?v=638445648797230000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197932/Pincel-y-Brochas-X11-Marca-MULTICRAFT-27804502071100-1-.png?v=638445648797230000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "pincel-y-brochas-x9-9061",
+      "nombre": "Pincel Y Brochas X9",
+      "slug": "pincel-y-brochas-x9-9061",
+      "marca": "MULTICRAFT",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "A los niños les encantará crear obras maestras con este divertido y colorido juego de brochas. Con una variedad de pinceles para elegir, este elemento esencial de manualidades para niños es perfecto para pintar, estarcir, esponjar y mucho más. ¡Excelente para horas de diversión, en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197931/Pincel-y-Brochas-X9-Marca-MULTICRAFT-27804502070900-1-.png?v=638445648793500000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197931/Pincel-y-Brochas-X9-Marca-MULTICRAFT-27804502070900-1-.png?v=638445648793500000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "espumas-x3-9060",
+      "nombre": "Espumas X3",
+      "slug": "espumas-x3-9060",
+      "marca": "MULTICRAFT",
+      "precio": 10900,
+      "precioAnterior": null,
+      "descripcion": "Esponjas versátiles para todo tipo de manualidades en el hogar, la escuela y el campamento. Ideal para esparcir o verter pinturas y pegamentos sobre superficies grandes y pequeñas. Desechable o reutilizable si se lava bien.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197930/Espumas-X3-Marca-MULTICRAFT-27804502060300-1-.png?v=638445648789570000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197930/Espumas-X3-Marca-MULTICRAFT-27804502060300-1-.png?v=638445648789570000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "pinceles-x24-colores-surtidos-9058",
+      "nombre": "Pinceles X24 Colores Surtidos",
+      "slug": "pinceles-x24-colores-surtidos-9058",
+      "marca": "MULTICRAFT",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "A los niños les encantará crear una obra maestra con este divertido y colorido juego de brochas. Ideal para manualidades, proyectos escolares y mucho más.",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197928/Pinceles-X24-Colores-Surtidos-Marca-MULTICRAFT-27804502022400-1-.png?v=638445648782800000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197928/Pinceles-X24-Colores-Surtidos-Marca-MULTICRAFT-27804502022400-1-.png?v=638445648782800000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar",
+      "color": "Surtido"
+    },
+    {
+      "id": "pintura-x3-barra-9057",
+      "nombre": "Pintura X3 Barra",
+      "slug": "pintura-x3-barra-9057",
+      "marca": "MULTICRAFT",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "Un medio de arte esencial para niños y adultos por igual. Ideal para usar en carteles, lienzos, madera, cartulina y mucho más. ¡Estas barras de pintura vibrantes no ensucian y son excelentes para horas de diversión creativa en el hogar, la escuela y el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197927/Pintura-X3-Barra-Marca-MULTICRAFT-27804501050301-1-.png?v=638445648779370000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197927/Pintura-X3-Barra-Marca-MULTICRAFT-27804501050301-1-.png?v=638445648779370000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "pintura-x3-barra-9056",
+      "nombre": "Pintura X3 Barra",
+      "slug": "pintura-x3-barra-9056",
+      "marca": "MULTICRAFT",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "Un medio de arte esencial para niños y adultos por igual. Ideal para usar en carteles, lienzos, madera, cartulina y mucho más. ¡Estas barras de pintura vibrantes no ensucian y son excelentes para horas de diversión creativa en el hogar, la escuela y el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197926/Pintura-X3-Barra-Marca-MULTICRAFT-27804501050300-1-.png?v=638445648776270000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197926/Pintura-X3-Barra-Marca-MULTICRAFT-27804501050300-1-.png?v=638445648776270000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Ofertas",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "paleta-x12-acuarelas-con-pincel-9055",
+      "nombre": "Paleta X12 Acuarelas Con Pincel",
+      "slug": "paleta-x12-acuarelas-con-pincel-9055",
+      "marca": "MULTICRAFT",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197925/Paleta-X12-Acuarelas-Con-Pincel-Marca-MULTICRAFT-27804501021200-1-.png?v=638445648772970000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197925/Paleta-X12-Acuarelas-Con-Pincel-Marca-MULTICRAFT-27804501021200-1-.png?v=638445648772970000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    },
+    {
+      "id": "temperas-x18-con-pincel-9053",
+      "nombre": "Temperas X18 Con Pincel",
+      "slug": "temperas-x18-con-pincel-9053",
+      "marca": "MULTICRAFT",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "Con 18 colores vibrantes para elegir, a los niños les encantará completar sus manualidades y proyectos escolares con este espectro de botes de pintura a base de agua. Ideal para papel, cartón, madera y otras superficies. ¡Perfecto para horas de diversión en casa, en la escuela y en el campamento!",
+      "imagen": "https://lostreselefantes.vteximg.com.br/arquivos/ids/197923/Temperas-X18-Con-Pincel-Marca-MULTICRAFT-27804501011800-1-.png?v=638445648766730000",
+      "galeria": [
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/197923/Temperas-X18-Con-Pincel-Marca-MULTICRAFT-27804501011800-1-.png?v=638445648766730000"
+      ],
+      "contenido": [],
+      "tags": [
+        "MULTICRAFT",
+        "Ofertas",
+        "Ventarron"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "pintar"
+    }
+  ]
+}

@@ -1,0 +1,4199 @@
+{
+  "categoria": "confiteria",
+  "nombre": "Confitería",
+  "slug": "confiteria",
+  "descripcion": "Confitería",
+  "imagen": "/images/shop/25514311010309-1-.webp",
+  "fuente": "https://www.lostreselefantes.com.co",
+  "productos": [
+    {
+      "id": "almendra-francesa-estuche-italo-250-gr-43704",
+      "nombre": "Almendra Francesa Estuche Italo 250 Gr",
+      "slug": "almendra-francesa-estuche-italo-250-gr-43704",
+      "marca": "ITALO",
+      "precio": 17500,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514311010309-1-.webp",
+      "galeria": [
+        "/images/shop/25514311010309-1-.webp",
+        "/images/shop/8b23c8b0-25514311010309-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "chocogomitas-fresa-125-gr-43702",
+      "nombre": "Chocogomitas Fresa 125 Gr",
+      "slug": "chocogomitas-fresa-125-gr-43702",
+      "marca": "ITALO",
+      "precio": 11900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514304010202-1-.webp",
+      "galeria": [
+        "/images/shop/25514304010202-1-.webp",
+        "/images/shop/312ed9e8-25514304010202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO",
+        "SAN VALENTIN HOME"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "masmelos-italo-120-gr-43701",
+      "nombre": "Masmelos Italo 120 Gr",
+      "slug": "masmelos-italo-120-gr-43701",
+      "marca": "ITALO",
+      "precio": 5600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514303010200-1-.webp",
+      "galeria": [
+        "/images/shop/25514303010200-1-.webp",
+        "/images/shop/64e7a0cd-25514303010200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-italo-wafer-sin-azucar-80-gr-43700",
+      "nombre": "Galletas Italo Wafer Sin Azúcar 80 Gr",
+      "slug": "galletas-italo-wafer-sin-azucar-80-gr-43700",
+      "marca": "ITALO",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514302120101-1-.webp",
+      "galeria": [
+        "/images/shop/25514302120101-1-.webp",
+        "/images/shop/77af2cea-25514302120101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-italo-wafer-sabor-coco-80-gr-43699",
+      "nombre": "Galletas Italo Wafer Sabor Coco 80 Gr",
+      "slug": "galletas-italo-wafer-sabor-coco-80-gr-43699",
+      "marca": "ITALO",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514302070102-1-.webp",
+      "galeria": [
+        "/images/shop/25514302070102-1-.webp",
+        "/images/shop/db90920e-25514302070102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-italo-wafer-sabor-chocolate-80-gr-43697",
+      "nombre": "Galletas Italo Wafer Sabor Chocolate 80 Gr",
+      "slug": "galletas-italo-wafer-sabor-chocolate-80-gr-43697",
+      "marca": "ITALO",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514302070101-1-.webp",
+      "galeria": [
+        "/images/shop/25514302070101-1-.webp",
+        "/images/shop/6391afc5-25514302070101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-italo-wafer-sabor-arequipe-80-gr-43696",
+      "nombre": "Galletas Italo Wafer Sabor Arequipe 80 Gr",
+      "slug": "galletas-italo-wafer-sabor-arequipe-80-gr-43696",
+      "marca": "ITALO",
+      "precio": 4200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514302070202-1-.webp",
+      "galeria": [
+        "/images/shop/25514302070202-1-.webp",
+        "/images/shop/efef43df-25514302070202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-italo-wafer-sabor-fresa-117-gr-43695",
+      "nombre": "Galletas Italo Wafer Sabor Fresa 117 Gr",
+      "slug": "galletas-italo-wafer-sabor-fresa-117-gr-43695",
+      "marca": "ITALO",
+      "precio": 4200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514302070201-1-.webp",
+      "galeria": [
+        "/images/shop/25514302070201-1-.webp",
+        "/images/shop/6480e141-25514302070201-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-italo-wafer-sabor-mora-117-gr-43694",
+      "nombre": "Galletas Italo Wafer Sabor Mora 117 Gr",
+      "slug": "galletas-italo-wafer-sabor-mora-117-gr-43694",
+      "marca": "ITALO",
+      "precio": 4600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514302070203-1-.webp",
+      "galeria": [
+        "/images/shop/25514302070203-1-.webp",
+        "/images/shop/42ac86f4-25514302070203-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galleta-italo-choco-baby-90-gr-43693",
+      "nombre": "Galleta Italo Choco Baby 90 Gr",
+      "slug": "galleta-italo-choco-baby-90-gr-43693",
+      "marca": "ITALO",
+      "precio": 7600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25514301020102-1-.webp",
+      "galeria": [
+        "/images/shop/25514301020102-1-.webp",
+        "/images/shop/f126374b-25514301020102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ITALO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "pasabocas-la-especial-mix-yogurt-35-gr-43691",
+      "nombre": "Pasabocas La Especial Mix Yogurt 35 Gr",
+      "slug": "pasabocas-la-especial-mix-yogurt-35-gr-43691",
+      "marca": "NUTRESA",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394311060104-1-.webp",
+      "galeria": [
+        "/images/shop/25394311060104-1-.webp",
+        "/images/shop/89f0259e-25394311060104-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mezcla-la-especial-mani-mix-yogurt-150-gr-43690",
+      "nombre": "Mezcla La Especial Maní Mix Yogurt 150 Gr",
+      "slug": "mezcla-la-especial-mani-mix-yogurt-150-gr-43690",
+      "marca": "NUTRESA",
+      "precio": 9700,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394311060305-1-.webp",
+      "galeria": [
+        "/images/shop/25394311060305-1-.webp",
+        "/images/shop/4838c581-25394311060305-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mezcla-frutos-secos-la-especial-mix-nueces-40-gr-43689",
+      "nombre": "Mezcla Frutos Secos La Especial Mix Nueces 40 Gr",
+      "slug": "mezcla-frutos-secos-la-especial-mix-nueces-40-gr-43689",
+      "marca": "NUTRESA",
+      "precio": 3000,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394311060101-1-.webp",
+      "galeria": [
+        "/images/shop/25394311060101-1-.webp",
+        "/images/shop/153661d1-25394311060101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mani-la-especial-kraks-recubierto-38-gr-43688",
+      "nombre": "Maní La Especial Kraks Recubierto 38 Gr",
+      "slug": "mani-la-especial-kraks-recubierto-38-gr-43688",
+      "marca": "NUTRESA",
+      "precio": 2000,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394311030100-1-.webp",
+      "galeria": [
+        "/images/shop/25394311030100-1-.webp",
+        "/images/shop/a367305d-25394311030100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-la-especial-kraks-limon-32-gr-43684",
+      "nombre": "Maní La Especial Kraks Limón 32 Gr",
+      "slug": "mani-la-especial-kraks-limon-32-gr-43684",
+      "marca": "NUTRESA",
+      "precio": 2000,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394311010104-1-.webp",
+      "galeria": [
+        "/images/shop/25394311010104-1-.webp",
+        "/images/shop/0dded7bc-25394311010104-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "chocolatina-jet-crema-18-gr-43682",
+      "nombre": "Chocolatina Jet Crema 18 Gr",
+      "slug": "chocolatina-jet-crema-18-gr-43682",
+      "marca": "NUTRESA",
+      "precio": 3000,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301070100-1-.webp",
+      "galeria": [
+        "/images/shop/25394301070100-1-.webp",
+        "/images/shop/c555093a-25394301070100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates",
+      "color": "Beige"
+    },
+    {
+      "id": "chocolatina-jumbo-rellena-de-brownie--mani-y-galletas-180-gr-43681",
+      "nombre": "Chocolatina Jumbo Rellena De Brownie  Maní Y Galletas 180 Gr",
+      "slug": "chocolatina-jumbo-rellena-de-brownie--mani-y-galletas-180-gr-43681",
+      "marca": "NUTRESA",
+      "precio": 16900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301050308-1-.webp",
+      "galeria": [
+        "/images/shop/25394301050308-1-.webp",
+        "/images/shop/1932d2fe-25394301050308-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-jumbo-con-mani-x10-17-gr-43680",
+      "nombre": "Chocolatina Jumbo Con Maní X10 17 Gr",
+      "slug": "chocolatina-jumbo-con-mani-x10-17-gr-43680",
+      "marca": "NUTRESA",
+      "precio": 15200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301030700-1-.webp",
+      "galeria": [
+        "/images/shop/25394301030700-1-.webp",
+        "/images/shop/15f4ab78-25394301030700-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-lyne-leche-almendras-60-gr-43679",
+      "nombre": "Chocolatina Lyne Leche Almendras 60 Gr",
+      "slug": "chocolatina-lyne-leche-almendras-60-gr-43679",
+      "marca": "NUTRESA",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301030207-1-.webp",
+      "galeria": [
+        "/images/shop/25394301030207-1-.webp",
+        "/images/shop/03a8392d-25394301030207-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-lyne-blanca-on-avellana-60-gr-43678",
+      "nombre": "Chocolatina Lyne Blanca On Avellana 60 Gr",
+      "slug": "chocolatina-lyne-blanca-on-avellana-60-gr-43678",
+      "marca": "NUTRESA",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301030202-1-.webp",
+      "galeria": [
+        "/images/shop/25394301030202-1-.webp",
+        "/images/shop/32245d79-25394301030202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA",
+        "SAN VALENTIN HOME"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates",
+      "color": "Blanco"
+    },
+    {
+      "id": "bombones-lyne-chocolate-leche-almendras-x8-12-gr-43677",
+      "nombre": "Bombones Lyne Chocolate Leche Almendras X8 12 Gr",
+      "slug": "bombones-lyne-chocolate-leche-almendras-x8-12-gr-43677",
+      "marca": "NUTRESA",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301030208-1-.webp",
+      "galeria": [
+        "/images/shop/25394301030208-1-.webp",
+        "/images/shop/26120a21-25394301030208-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-jet-con-leche-y-calcio-12-gr-43676",
+      "nombre": "Chocolatina Jet Con Leche Y Calcio 12 Gr",
+      "slug": "chocolatina-jet-con-leche-y-calcio-12-gr-43676",
+      "marca": "NUTRESA",
+      "precio": 12200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301030311-1-.webp",
+      "galeria": [
+        "/images/shop/25394301030311-1-.webp",
+        "/images/shop/ed5dd062-25394301030311-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-gol-mega-arequipe-46-gr-43675",
+      "nombre": "Chocolatina Gol Mega Arequipe 46 Gr",
+      "slug": "chocolatina-gol-mega-arequipe-46-gr-43675",
+      "marca": "NUTRESA",
+      "precio": 2700,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301020116-1-.webp",
+      "galeria": [
+        "/images/shop/25394301020116-1-.webp",
+        "/images/shop/e5dee514-25394301020116-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-jet-fresas-con-crema-29-gr-43673",
+      "nombre": "Chocolatina Jet Fresas Con Crema 29 Gr",
+      "slug": "chocolatina-jet-fresas-con-crema-29-gr-43673",
+      "marca": "NUTRESA",
+      "precio": 3100,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301020112-1-.webp",
+      "galeria": [
+        "/images/shop/25394301020112-1-.webp",
+        "/images/shop/575d3c9f-25394301020112-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates",
+      "color": "Beige"
+    },
+    {
+      "id": "chocolatina-jet-burbujet-cookies-cream-50-gr-43670",
+      "nombre": "Chocolatina Jet Burbujet Cookies & Cream 50 Gr",
+      "slug": "chocolatina-jet-burbujet-cookies-cream-50-gr-43670",
+      "marca": "NUTRESA",
+      "precio": 5700,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301020103-1-.webp",
+      "galeria": [
+        "/images/shop/25394301020103-1-.webp",
+        "/images/shop/a2c71e47-25394301020103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-jet-con-leche-x12-132-gr-43669",
+      "nombre": "Chocolatina Jet Con Leche X12 132 Gr",
+      "slug": "chocolatina-jet-con-leche-x12-132-gr-43669",
+      "marca": "NUTRESA",
+      "precio": 12200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301011106-1-.webp",
+      "galeria": [
+        "/images/shop/25394301011106-1-.webp",
+        "/images/shop/cffeb489-25394301011106-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-lyne-25-gr-43668",
+      "nombre": "Chocolatina Lyne 25 Gr",
+      "slug": "chocolatina-lyne-25-gr-43668",
+      "marca": "NUTRESA",
+      "precio": 4600,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301010100-1-.webp",
+      "galeria": [
+        "/images/shop/25394301010100-1-.webp",
+        "/images/shop/4842b00f-25394301010100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolates-jet-balones-81-gr-43667",
+      "nombre": "Chocolates Jet Balones 81 Gr",
+      "slug": "chocolates-jet-balones-81-gr-43667",
+      "marca": "NUTRESA",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301010208-1-.webp",
+      "galeria": [
+        "/images/shop/25394301010208-1-.webp",
+        "/images/shop/e672008b-25394301010208-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-jet-chocolate-de-leche-mini-x24-144-gr-43666",
+      "nombre": "Chocolatina Jet Chocolate De Leche Mini X24 144 Gr",
+      "slug": "chocolatina-jet-chocolate-de-leche-mini-x24-144-gr-43666",
+      "marca": "NUTRESA",
+      "precio": 18700,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301011205-1-.webp",
+      "galeria": [
+        "/images/shop/25394301011205-1-.webp",
+        "/images/shop/89fb9593-25394301011205-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "gomas-fini-chicle-frutas-80-gr-43665",
+      "nombre": "Gomas Fini Chicle Frutas 80 Gr",
+      "slug": "gomas-fini-chicle-frutas-80-gr-43665",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284306010300-1-.webp",
+      "galeria": [
+        "/images/shop/25284306010300-1-.webp",
+        "/images/shop/175a9e95-25284306010300-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "chicle-fini-sandia-80-gr-43664",
+      "nombre": "Chicle Fini Sandía 80 Gr",
+      "slug": "chicle-fini-sandia-80-gr-43664",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284306010301-1-.webp",
+      "galeria": [
+        "/images/shop/25284306010301-1-.webp",
+        "/images/shop/aeb9a9ad-25284306010301-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "dulces-fini-tubos-tutti-frutti-80-gr-43663",
+      "nombre": "Dulces Fini Tubos Tutti Frutti 80 Gr",
+      "slug": "dulces-fini-tubos-tutti-frutti-80-gr-43663",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304061003-1-.webp",
+      "galeria": [
+        "/images/shop/25284304061003-1-.webp",
+        "/images/shop/91aef911-25284304061003-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "dulces-fini-tubos-uva-acidos-80-gr-43662",
+      "nombre": "Dulces Fini Tubos Uva Ácidos 80 Gr",
+      "slug": "dulces-fini-tubos-uva-acidos-80-gr-43662",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304061002-1-.webp",
+      "galeria": [
+        "/images/shop/25284304061002-1-.webp",
+        "/images/shop/fd4ab1c9-25284304061002-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "dulces-fini-tubos-fresa-acido-80-gr-43661",
+      "nombre": "Dulces Fini Tubos Fresa Ácido 80 Gr",
+      "slug": "dulces-fini-tubos-fresa-acido-80-gr-43661",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304061001-1-.webp",
+      "galeria": [
+        "/images/shop/25284304061001-1-.webp",
+        "/images/shop/896f7405-25284304061001-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomitas-fini-gusanos-acidos-80-gr-43659",
+      "nombre": "Gomitas Fini Gusanos Acidos 80 Gr",
+      "slug": "gomitas-fini-gusanos-acidos-80-gr-43659",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304050600-1-.webp",
+      "galeria": [
+        "/images/shop/25284304050600-1-.webp",
+        "/images/shop/2232c62e-25284304050600-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "dulce-cinta-fini-manzana-melon-paquete-70-gr-43658",
+      "nombre": "Dulce Cinta Fini Manzana Melón Paquete 70 Gr",
+      "slug": "dulce-cinta-fini-manzana-melon-paquete-70-gr-43658",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304040203-1-.webp",
+      "galeria": [
+        "/images/shop/25284304040203-1-.webp",
+        "/images/shop/83c2e39f-25284304040203-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "dulce-cinta-fini-colombia-paquete-70-gr-43657",
+      "nombre": "Dulce Cinta Fini Colombia Paquete 70 Gr",
+      "slug": "dulce-cinta-fini-colombia-paquete-70-gr-43657",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304040205-1-.webp",
+      "galeria": [
+        "/images/shop/25284304040205-1-.webp",
+        "/images/shop/ae61a292-25284304040205-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "dulce-cinta-fini-fresa-acida-paquete-70-gr-43656",
+      "nombre": "Dulce Cinta Fini Fresa Acida Paquete 70 Gr",
+      "slug": "dulce-cinta-fini-fresa-acida-paquete-70-gr-43656",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304040206-1-.webp",
+      "galeria": [
+        "/images/shop/25284304040206-1-.webp",
+        "/images/shop/4cf87eb5-25284304040206-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "goma-forma-de-cinta-enrollada-sandia-43655",
+      "nombre": "Goma Forma De Cinta Enrollada Sandia",
+      "slug": "goma-forma-de-cinta-enrollada-sandia-43655",
+      "marca": "FINI",
+      "precio": 2500,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304040100-1-.webp",
+      "galeria": [
+        "/images/shop/25284304040100-1-.webp",
+        "/images/shop/f026492d-25284304040100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "dulces-fini-tubos-fresa-acido-paquete-80-gr-43653",
+      "nombre": "Dulces Fini Tubos Fresa Ácido Paquete 80 Gr",
+      "slug": "dulces-fini-tubos-fresa-acido-paquete-80-gr-43653",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "TUBOS LARGOS DULCES FINI X 80GR COLOR ROJO, SABOR ÁCIDO",
+      "imagen": "/images/shop/25284304031000-1-.webp",
+      "galeria": [
+        "/images/shop/25284304031000-1-.webp",
+        "/images/shop/de3f759c-25284304031000-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-fini-dentaduras-paquete-80-gr-43652",
+      "nombre": "Gomas Fini Dentaduras Paquete 80 Gr",
+      "slug": "gomas-fini-dentaduras-paquete-80-gr-43652",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304020602-1-.webp",
+      "galeria": [
+        "/images/shop/25284304020602-1-.webp",
+        "/images/shop/29cf107c-25284304020602-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-fini-besos-de-fresa-paquete-80-gr-43651",
+      "nombre": "Gomas Fini Besos De Fresa Paquete 80 Gr",
+      "slug": "gomas-fini-besos-de-fresa-paquete-80-gr-43651",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25284304021001-1-.webp",
+      "galeria": [
+        "/images/shop/25284304021001-1-.webp",
+        "/images/shop/92724895-25284304021001-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-fini-bananitos-paquete-80-gr-43650",
+      "nombre": "Gomas Fini Bananitos Paquete 80 Gr",
+      "slug": "gomas-fini-bananitos-paquete-80-gr-43650",
+      "marca": "FINI",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "GOMA EN FORMA DE BANANITOS, SABOR A BANANA, LIBRE DE GLUTEN Y GRASA TRANS X 80 GRS",
+      "imagen": "/images/shop/25284304021000-1-.webp",
+      "galeria": [
+        "/images/shop/25284304021000-1-.webp",
+        "/images/shop/c5e72673-25284304021000-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FINI"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "galletas-loacker-quadratini-arandanos-y-yogurt-110-gr-43648",
+      "nombre": "Galletas Loacker Quadratini Arándanos Y Yogurt 110 Gr",
+      "slug": "galletas-loacker-quadratini-arandanos-y-yogurt-110-gr-43648",
+      "marca": "LOACKER",
+      "precio": 17900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/24874302090300-1-.webp",
+      "galeria": [
+        "/images/shop/24874302090300-1-.webp",
+        "/images/shop/7ef537f7-24874302090300-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOACKER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "tic-tac-citrus-16-gr-43644",
+      "nombre": "Tic Tac Citrus 16 Gr",
+      "slug": "tic-tac-citrus-16-gr-43644",
+      "marca": "TIC TAC",
+      "precio": 2700,
+      "precioAnterior": null,
+      "descripcion": "PASTILLAS TIC TAC CITRUS MIX X 16 G.",
+      "imagen": "/images/shop/22454307150104-1-.webp",
+      "galeria": [
+        "/images/shop/22454307150104-1-.webp",
+        "/images/shop/53f906db-22454307150104-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "TIC TAC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "tict-tac-fruit-adventur-16-gr-43643",
+      "nombre": "Tict Tac Fruit Adventur 16 Gr",
+      "slug": "tict-tac-fruit-adventur-16-gr-43643",
+      "marca": "TIC TAC",
+      "precio": 2700,
+      "precioAnterior": null,
+      "descripcion": "PASTILLAS TIC TAC MIX DE FRUTRAS X 16 G.",
+      "imagen": "/images/shop/22454307150102-1-.webp",
+      "galeria": [
+        "/images/shop/22454307150102-1-.webp",
+        "/images/shop/30cf1016-22454307150102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "TIC TAC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "tic-tac-naranja-16-gr-43642",
+      "nombre": "Tic Tac Naranja 16 Gr",
+      "slug": "tic-tac-naranja-16-gr-43642",
+      "marca": "TIC TAC",
+      "precio": 2700,
+      "precioAnterior": null,
+      "descripcion": "PASTILLAS TIC TAC NARANJA X 16 G.",
+      "imagen": "/images/shop/22454307150101-1-.webp",
+      "galeria": [
+        "/images/shop/22454307150101-1-.webp",
+        "/images/shop/ad05f59d-22454307150101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "TIC TAC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas",
+      "color": "Naranja"
+    },
+    {
+      "id": "tic-tac-menta-16-gr-43641",
+      "nombre": "Tic Tac Menta 16 Gr",
+      "slug": "tic-tac-menta-16-gr-43641",
+      "marca": "TIC TAC",
+      "precio": 2700,
+      "precioAnterior": null,
+      "descripcion": "PASTILLAS TIC TAC MENTA X 16 G.",
+      "imagen": "/images/shop/22454307150100-1-.webp",
+      "galeria": [
+        "/images/shop/22454307150100-1-.webp",
+        "/images/shop/0367d02d-22454307150100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "TIC TAC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "kinder-joy-nina-x2-40-gr-43640",
+      "nombre": "Kinder Joy Niña X2 40 Gr",
+      "slug": "kinder-joy-nina-x2-40-gr-43640",
+      "marca": "KINDER",
+      "precio": 17100,
+      "precioAnterior": null,
+      "descripcion": "HUEVO SORPRESA CHOCOLATE KINDER JOY NIÑO 40GRS X 2 UNIDADES",
+      "imagen": "/images/shop/22454301080101-1-.webp",
+      "galeria": [
+        "/images/shop/22454301080101-1-.webp",
+        "/images/shop/22454301080101-2-.webp",
+        "/images/shop/c1048a30-22454301080101-1-.webp",
+        "/images/shop/1b452927-22454301080101-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "KINDER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "kinder-joy-nino-x2-40-gr-43639",
+      "nombre": "Kinder Joy Niño X2 40 Gr",
+      "slug": "kinder-joy-nino-x2-40-gr-43639",
+      "marca": "KINDER",
+      "precio": 17100,
+      "precioAnterior": null,
+      "descripcion": "HUEVO SORPRESA CHOCOLATE KINDER JOY NIÑO 40GRS X 2 UNIDADES",
+      "imagen": "/images/shop/22454301080100-1-.webp",
+      "galeria": [
+        "/images/shop/22454301080100-1-.webp",
+        "/images/shop/22454301080100-2-.webp",
+        "/images/shop/e8dc165a-22454301080100-1-.webp",
+        "/images/shop/35c538e7-22454301080100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "KINDER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "tubito-leche-condensada-45-gr-43638",
+      "nombre": "Tubito Leche Condensada 45 Gr",
+      "slug": "tubito-leche-condensada-45-gr-43638",
+      "marca": "CONDELAC",
+      "precio": 3200,
+      "precioAnterior": null,
+      "descripcion": "TUBITO LECHE CONDENSADA",
+      "imagen": "/images/shop/22454301070100-1-.webp",
+      "galeria": [
+        "/images/shop/22454301070100-1-.webp",
+        "/images/shop/d5e153da-22454301070100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "CONDELAC"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "ferrero-rocher-x3-43637",
+      "nombre": "Ferrero Rocher X3",
+      "slug": "ferrero-rocher-x3-43637",
+      "marca": "FERRERO ROCHER",
+      "precio": 9200,
+      "precioAnterior": null,
+      "descripcion": "AVELLANA ENTERA Y TROZOS, SUAVE CREMA DE CHOCOLATE, BARQUILLO.",
+      "imagen": "/images/shop/22454301060100-1-.webp",
+      "galeria": [
+        "/images/shop/22454301060100-1-.webp",
+        "/images/shop/7e240779-22454301060100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FERRERO ROCHER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "ferrero-rocher-x8-43636",
+      "nombre": "Ferrero Rocher X8",
+      "slug": "ferrero-rocher-x8-43636",
+      "marca": "FERRERO ROCHER",
+      "precio": 31100,
+      "precioAnterior": null,
+      "descripcion": "AVELLANA ENTERA Y TROZOS, SUAVE CREMA DE CHOCOLATE, BARQUILLO.",
+      "imagen": "/images/shop/22454301060201-1-.webp",
+      "galeria": [
+        "/images/shop/22454301060201-1-.webp",
+        "/images/shop/8e5d6e03-22454301060201-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FERRERO ROCHER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolates-raffaello-x3-43635",
+      "nombre": "Chocolates Raffaello X3",
+      "slug": "chocolates-raffaello-x3-43635",
+      "marca": "RAFFAELLO",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "CHOCOLATES RAFFAELLO COCO RELLENO DE ALMENDRA",
+      "imagen": "/images/shop/22454301060304-1-.webp",
+      "galeria": [
+        "/images/shop/22454301060304-1-.webp",
+        "/images/shop/09c76c1b-22454301060304-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "RAFFAELLO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "ferrero-rocher-x12-43634",
+      "nombre": "Ferrero Rocher X12",
+      "slug": "ferrero-rocher-x12-43634",
+      "marca": "ROCHER",
+      "precio": 47300,
+      "precioAnterior": null,
+      "descripcion": "AVELLANA ENTERA Y TROZOS, SUAVE CREMA DE CHOCOLATE, BARQUILLO.",
+      "imagen": "/images/shop/22454301060303-1-.webp",
+      "galeria": [
+        "/images/shop/22454301060303-1-.webp",
+        "/images/shop/228d3f89-22454301060303-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "ROCHER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "ferrero-rocher-corazon-x8-43633",
+      "nombre": "Ferrero Rocher Corazon X8",
+      "slug": "ferrero-rocher-corazon-x8-43633",
+      "marca": "FERRERO ROCHER",
+      "precio": 39500,
+      "precioAnterior": null,
+      "descripcion": "AVELLANA ENTERA Y TROZOS, SUAVE CREMA DE CHOCOLATE, BARQUILLO.",
+      "imagen": "/images/shop/22454301060202-1-.webp",
+      "galeria": [
+        "/images/shop/22454301060202-1-.webp",
+        "/images/shop/ebcf0cc6-22454301060202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "FERRERO ROCHER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "kinder-bueno-x2-43-gr-43632",
+      "nombre": "Kinder Bueno X2 43 Gr",
+      "slug": "kinder-bueno-x2-43-gr-43632",
+      "marca": "KINDER",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "WAFER RECUBIERTO DE CHOCOLATE CON LECHE CON RELLENO CREMOSO A BASE DE LECHE Y AVELLANAS.",
+      "imagen": "/images/shop/22454301020100-1-.webp",
+      "galeria": [
+        "/images/shop/22454301020100-1-.webp",
+        "/images/shop/2ecac019-22454301020100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "KINDER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "nutella-140-gr-43631",
+      "nombre": "Nutella 140 Gr",
+      "slug": "nutella-140-gr-43631",
+      "marca": "NUTELLA",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "CHOCOLATE NUTELLA CREMA DE AVELLANAS",
+      "imagen": "/images/shop/22454301010300-1-.webp",
+      "galeria": [
+        "/images/shop/22454301010300-1-.webp",
+        "/images/shop/b9e061ed-22454301010300-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTELLA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "gomas-worms-haribo-80-gr-43612",
+      "nombre": "Gomas Worms Haribo 80 Gr",
+      "slug": "gomas-worms-haribo-80-gr-43612",
+      "marca": "GRECO",
+      "precio": 7800,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22224304020203-1-.webp",
+      "galeria": [
+        "/images/shop/22224304020203-1-.webp",
+        "/images/shop/22160479-22224304020203-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-starmix-haribo-80-gr-43611",
+      "nombre": "Gomas Starmix Haribo 80 Gr",
+      "slug": "gomas-starmix-haribo-80-gr-43611",
+      "marca": "GRECO",
+      "precio": 7800,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22224304020201-1-.webp",
+      "galeria": [
+        "/images/shop/22224304020201-1-.webp",
+        "/images/shop/a632c08a-22224304020201-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-happy-cola-haribo-80-gr-43610",
+      "nombre": "Gomas Happy Cola Haribo 80 Gr",
+      "slug": "gomas-happy-cola-haribo-80-gr-43610",
+      "marca": "GRECO",
+      "precio": 7800,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22224304020202-1-.webp",
+      "galeria": [
+        "/images/shop/22224304020202-1-.webp",
+        "/images/shop/dadd75c8-22224304020202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-goldbears-haribo-80-gr-43609",
+      "nombre": "Gomas Goldbears Haribo 80 Gr",
+      "slug": "gomas-goldbears-haribo-80-gr-43609",
+      "marca": "GRECO",
+      "precio": 7800,
+      "precioAnterior": null,
+      "descripcion": "TODO EL MUNDO LAS CONOCE Y POR UNA BUENA RAZÓN, SON LAS MEJORES GOMAS DEL MUNDO. GOMAS CON SABOR A FRUTAS.",
+      "imagen": "/images/shop/22224304020200-1-.webp",
+      "galeria": [
+        "/images/shop/22224304020200-1-.webp",
+        "/images/shop/d7c9e875-22224304020200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "galletas-kala-con-avena-y-arandanos-36-gr-43607",
+      "nombre": "Galletas Kalá Con Avena Y Arándanos 36 Gr",
+      "slug": "galletas-kala-con-avena-y-arandanos-36-gr-43607",
+      "marca": "GRECO",
+      "precio": 2400,
+      "precioAnterior": null,
+      "descripcion": "PRODUCTO VEGANO, ENDULZADO CON STEVIA Y ELABORADO CON ACEITE DE GIRASOL ALTO OLEICO. LIBRE DE COLORANTES, SABORIZANTES Y PRESERVANTES ARTIFICIALES.",
+      "imagen": "/images/shop/22224302190102-1-.webp",
+      "galeria": [
+        "/images/shop/22224302190102-1-.webp",
+        "/images/shop/22224302190102-2-.webp",
+        "/images/shop/5962f479-22224302190102-1-.webp",
+        "/images/shop/3f018632-22224302190102-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-kala-con-avena-almendras-y-chia-216-gr-43606",
+      "nombre": "Galletas Kalá Con Avena Almendras Y Chía 216 Gr",
+      "slug": "galletas-kala-con-avena-almendras-y-chia-216-gr-43606",
+      "marca": "GRECO",
+      "precio": 13500,
+      "precioAnterior": null,
+      "descripcion": "PRODUCTO VEGANO, ENDULZADO CON STEVIA Y ELABORADO CON ACEITE DE GIRASOL ALTO OLEICO. LIBRE DE COLORANTES, SABORIZANTES Y PRESERVANTES ARTIFICIALES.",
+      "imagen": "/images/shop/22224302190401-1-.webp",
+      "galeria": [
+        "/images/shop/22224302190401-1-.webp",
+        "/images/shop/22224302190401-2-.webp",
+        "/images/shop/c632da1a-22224302190401-1-.webp",
+        "/images/shop/87ace69f-22224302190401-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "canasticas-tartaleta-75-gr-43604",
+      "nombre": "Canasticas Tartaleta 75 Gr",
+      "slug": "canasticas-tartaleta-75-gr-43604",
+      "marca": "GRECO",
+      "precio": 3500,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22224302070207-1-.webp",
+      "galeria": [
+        "/images/shop/22224302070207-1-.webp",
+        "/images/shop/590ce839-22224302070207-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-kurabie-con-almendras-80-gr-43603",
+      "nombre": "Galletas Kurabié Con Almendras 80 Gr",
+      "slug": "galletas-kurabie-con-almendras-80-gr-43603",
+      "marca": "GRECO",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "GALLETAS KURABIÉ, DELICIOSA COMBINACIÓN DE MANTEQUILLA CON ALMENDRAS.",
+      "imagen": "/images/shop/22224302070201-1-.webp",
+      "galeria": [
+        "/images/shop/22224302070201-1-.webp",
+        "/images/shop/0da9cf04-22224302070201-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-canasticas-tartaleta-112-gr-43601",
+      "nombre": "Galletas Canasticas Tartaleta 112 Gr",
+      "slug": "galletas-canasticas-tartaleta-112-gr-43601",
+      "marca": "GRECO",
+      "precio": 6200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/22224302070305-1-.webp",
+      "galeria": [
+        "/images/shop/22224302070305-1-.webp",
+        "/images/shop/22224302070305-2-.webp",
+        "/images/shop/30288f6f-22224302070305-1-.webp",
+        "/images/shop/c5e471e1-22224302070305-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-kurabie-con-almendras-120-gr-43600",
+      "nombre": "Galletas Kurabié Con Almendras 120 Gr",
+      "slug": "galletas-kurabie-con-almendras-120-gr-43600",
+      "marca": "GRECO",
+      "precio": 12500,
+      "precioAnterior": null,
+      "descripcion": "GALLETAS KURABIÉ, DELICIOSA COMBINACIÓN DE MANTEQUILLA CON ALMENDRAS.",
+      "imagen": "/images/shop/22224302070304-1-.webp",
+      "galeria": [
+        "/images/shop/22224302070304-1-.webp",
+        "https://lostreselefantes.vteximg.com.br/arquivos/ids/439170/22224302070304-1-.jpg?v=638925909807500000"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-kurabie-con-almendras-50-gr-43599",
+      "nombre": "Galletas Kurabié Con Almendras 50 Gr",
+      "slug": "galletas-kurabie-con-almendras-50-gr-43599",
+      "marca": "GRECO",
+      "precio": 6700,
+      "precioAnterior": null,
+      "descripcion": "GALLETAS KURABIÉ, DELICIOSA COMBINACIÓN DE MANTEQUILLA CON ALMENDRAS.",
+      "imagen": "/images/shop/22224302070100-1-.webp",
+      "galeria": [
+        "/images/shop/22224302070100-1-.webp",
+        "/images/shop/5b5c8849-22224302070100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "chocolates-garoto-bombones-surtidos-95-gr-43597",
+      "nombre": "Chocolates Garoto Bombones Surtidos 95 Gr",
+      "slug": "chocolates-garoto-bombones-surtidos-95-gr-43597",
+      "marca": "GRECO",
+      "precio": 11500,
+      "precioAnterior": null,
+      "descripcion": "BOLSA PARA COMPARTIR Y LLEVAR, RELLENA DE DELICIOSOS BOMBONES DE CHOCOLATE SURTIDOS.",
+      "imagen": "/images/shop/22224301010202-1-.webp",
+      "galeria": [
+        "/images/shop/22224301010202-1-.webp",
+        "/images/shop/22224301010202-2-.webp",
+        "/images/shop/fa919e94-22224301010202-1-.webp",
+        "/images/shop/688c67dd-22224301010202-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "GRECO"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates",
+      "color": "Surtido"
+    },
+    {
+      "id": "crema-de-mani-creamy-4-6-gr-43149",
+      "nombre": "Crema De Mani Creamy 4.6 Gr",
+      "slug": "crema-de-mani-creamy-4-6-gr-43149",
+      "marca": "MANITOBA",
+      "precio": 1900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311120100-1-.webp",
+      "galeria": [
+        "/images/shop/03134311120100-1-.webp",
+        "/images/shop/287747d8-03134311120100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Beige"
+    },
+    {
+      "id": "crema-de-mani-manitoba-150-gr-43148",
+      "nombre": "Crema De Mani Manitoba 150 Gr",
+      "slug": "crema-de-mani-manitoba-150-gr-43148",
+      "marca": "MANITOBA",
+      "precio": 10300,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311120200-1-.webp",
+      "galeria": [
+        "/images/shop/03134311120200-1-.webp",
+        "/images/shop/23cfeb5f-03134311120200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Beige"
+    },
+    {
+      "id": "mani-sin-sal-manitoba-200-gr-43147",
+      "nombre": "Mani Sin Sal Manitoba 200 Gr",
+      "slug": "mani-sin-sal-manitoba-200-gr-43147",
+      "marca": "MANITOBA",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311090300-1-.webp",
+      "galeria": [
+        "/images/shop/03134311090300-1-.webp",
+        "/images/shop/3d466e20-03134311090300-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "arandanos-manitoba-35-gr-43146",
+      "nombre": "Arandanos Manitoba 35 Gr",
+      "slug": "arandanos-manitoba-35-gr-43146",
+      "marca": "MANITOBA",
+      "precio": 3400,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311070100-1-.webp",
+      "galeria": [
+        "/images/shop/03134311070100-1-.webp",
+        "/images/shop/03134311070100-2-.webp",
+        "/images/shop/e93fb3d0-03134311070100-1-.webp",
+        "/images/shop/a033ac60-03134311070100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "arandanos-y-yogurt-griego-manitoba-30-gr-43145",
+      "nombre": "Arandanos Y Yogurt Griego Manitoba 30 Gr",
+      "slug": "arandanos-y-yogurt-griego-manitoba-30-gr-43145",
+      "marca": "MANITOBA",
+      "precio": 3500,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311070101-1-.webp",
+      "galeria": [
+        "/images/shop/03134311070101-1-.webp",
+        "/images/shop/17fcf443-03134311070101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mix-arandanos-con-yogurt-griego-40-gr-43144",
+      "nombre": "Mix Arandanos Con Yogurt Griego 40 Gr",
+      "slug": "mix-arandanos-con-yogurt-griego-40-gr-43144",
+      "marca": "MANITOBA",
+      "precio": 3900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060103-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060103-1-.webp",
+        "/images/shop/d12b6017-03134311060103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mix-platanitos-manitoba-120-gr-43143",
+      "nombre": "Mix Platanitos Manitoba 120 Gr",
+      "slug": "mix-platanitos-manitoba-120-gr-43143",
+      "marca": "MANITOBA",
+      "precio": 11200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060309-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060309-1-.webp",
+        "/images/shop/4960bf04-03134311060309-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mix-arandano-con-yogur-griego-160-gr-43142",
+      "nombre": "Mix Arandano Con Yogur Griego 160 Gr",
+      "slug": "mix-arandano-con-yogur-griego-160-gr-43142",
+      "marca": "MANITOBA",
+      "precio": 13900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060307-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060307-1-.webp",
+        "/images/shop/59677ea1-03134311060307-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mani-con-pasas-manitoba-50-gr-43141",
+      "nombre": "Mani Con Pasas Manitoba 50 Gr",
+      "slug": "mani-con-pasas-manitoba-50-gr-43141",
+      "marca": "MANITOBA",
+      "precio": 2400,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060100-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060100-1-.webp",
+        "/images/shop/03134311060100-2-.webp",
+        "/images/shop/b210d1d9-03134311060100-1-.webp",
+        "/images/shop/4e52d291-03134311060100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mix-original-manitoba-50-gr-43140",
+      "nombre": "Mix Original Manitoba 50 Gr",
+      "slug": "mix-original-manitoba-50-gr-43140",
+      "marca": "MANITOBA",
+      "precio": 3100,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060102-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060102-1-.webp",
+        "/images/shop/58fcad7d-03134311060102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mix-original-manitoba-200-gr-43139",
+      "nombre": "Mix Original Manitoba 200 Gr",
+      "slug": "mix-original-manitoba-200-gr-43139",
+      "marca": "MANITOBA",
+      "precio": 13400,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060306-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060306-1-.webp",
+        "/images/shop/b261fe94-03134311060306-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mix-mani-y-arandanos-manitoba-50-gr-43138",
+      "nombre": "Mix Mani Y Arandanos Manitoba 50 Gr",
+      "slug": "mix-mani-y-arandanos-manitoba-50-gr-43138",
+      "marca": "MANITOBA",
+      "precio": 2900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060104-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060104-1-.webp",
+        "/images/shop/b73d1e11-03134311060104-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mix-mani-y-arandanos-manitoba-200-gr-43137",
+      "nombre": "Mix Mani Y Arandanos Manitoba 200 Gr",
+      "slug": "mix-mani-y-arandanos-manitoba-200-gr-43137",
+      "marca": "MANITOBA",
+      "precio": 10400,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060308-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060308-1-.webp",
+        "/images/shop/42e69d57-03134311060308-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mani-crocante-chile-limon-40-gr-43136",
+      "nombre": "Mani Crocante Chile Limon 40 Gr",
+      "slug": "mani-crocante-chile-limon-40-gr-43136",
+      "marca": "MANITOBA",
+      "precio": 3100,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060101-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060101-1-.webp",
+        "/images/shop/72e4a15c-03134311060101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-con-pasas-manitoba-200-gr-43135",
+      "nombre": "Mani Con Pasas Manitoba 200 Gr",
+      "slug": "mani-con-pasas-manitoba-200-gr-43135",
+      "marca": "MANITOBA",
+      "precio": 7100,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311060305-1-.webp",
+      "galeria": [
+        "/images/shop/03134311060305-1-.webp",
+        "/images/shop/8be6059e-03134311060305-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mix-cacao-y-pretzels-consciente-130-gr-43134",
+      "nombre": "Mix Cacao Y Pretzels Consciente 130 Gr",
+      "slug": "mix-cacao-y-pretzels-consciente-130-gr-43134",
+      "marca": "MANITOBA",
+      "precio": 10400,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311050200-1-.webp",
+      "galeria": [
+        "/images/shop/03134311050200-1-.webp",
+        "/images/shop/b260bf5a-03134311050200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "mix-mani-almendras-y-maranon-40-gr-43133",
+      "nombre": "Mix Mani Almendras Y Maranon 40 Gr",
+      "slug": "mix-mani-almendras-y-maranon-40-gr-43133",
+      "marca": "MANITOBA",
+      "precio": 2400,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311030103-1-.webp",
+      "galeria": [
+        "/images/shop/03134311030103-1-.webp",
+        "/images/shop/7a3b5fb0-03134311030103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "habas-saladitas-manitoba-35-gr-43132",
+      "nombre": "Habas Saladitas Manitoba 35 Gr",
+      "slug": "habas-saladitas-manitoba-35-gr-43132",
+      "marca": "MANITOBA",
+      "precio": 3400,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311030101-1-.webp",
+      "galeria": [
+        "/images/shop/03134311030101-1-.webp",
+        "/images/shop/788a8acd-03134311030101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-salado-manitoba-50-gr-43131",
+      "nombre": "Mani Salado Manitoba 50 Gr",
+      "slug": "mani-salado-manitoba-50-gr-43131",
+      "marca": "MANITOBA",
+      "precio": 2300,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311030100-1-.webp",
+      "galeria": [
+        "/images/shop/03134311030100-1-.webp",
+        "/images/shop/03134311030100-2-.webp",
+        "/images/shop/559430e9-03134311030100-1-.webp",
+        "/images/shop/f6155ad1-03134311030100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-salado-manitoba-200-gr-43130",
+      "nombre": "Mani Salado Manitoba 200 Gr",
+      "slug": "mani-salado-manitoba-200-gr-43130",
+      "marca": "MANITOBA",
+      "precio": 6300,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311030300-1-.webp",
+      "galeria": [
+        "/images/shop/03134311030300-1-.webp",
+        "/images/shop/03134311030300-2-.webp",
+        "/images/shop/fe861335-03134311030300-1-.webp",
+        "/images/shop/3c34b98f-03134311030300-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "almendras-con-sal-manitoba-35-gr-43129",
+      "nombre": "Almendras Con Sal Manitoba 35 Gr",
+      "slug": "almendras-con-sal-manitoba-35-gr-43129",
+      "marca": "MANITOBA",
+      "precio": 5900,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311030102-1-.webp",
+      "galeria": [
+        "/images/shop/03134311030102-1-.webp",
+        "/images/shop/7834057e-03134311030102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-con-chocolate-manitoba-50-gr-43128",
+      "nombre": "Mani Con Chocolate Manitoba 50 Gr",
+      "slug": "mani-con-chocolate-manitoba-50-gr-43128",
+      "marca": "MANITOBA",
+      "precio": 4200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311020100-1-.webp",
+      "galeria": [
+        "/images/shop/03134311020100-1-.webp",
+        "/images/shop/03134311020100-2-.webp",
+        "/images/shop/5b305088-03134311020100-1-.webp",
+        "/images/shop/6d41b705-03134311020100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-confitado-manitoba-40-gr-43127",
+      "nombre": "Mani Confitado Manitoba 40 Gr",
+      "slug": "mani-confitado-manitoba-40-gr-43127",
+      "marca": "MANITOBA",
+      "precio": 2800,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/03134311010100-1-.webp",
+      "galeria": [
+        "/images/shop/03134311010100-1-.webp",
+        "/images/shop/03134311010100-2-.webp",
+        "/images/shop/87174405-03134311010100-1-.webp",
+        "/images/shop/c9833fae-03134311010100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MANITOBA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "almendra-amman-100-gr-43125",
+      "nombre": "Almendra Amman 100 Gr",
+      "slug": "almendra-amman-100-gr-43125",
+      "marca": "CASA LUKER",
+      "precio": 14500,
+      "precioAnterior": null,
+      "descripcion": "GRAGEADO DE ALMENDRA RECUBIERTA CON CHOCOLATE LECHE Y OSCURO CON CAPA DE AZÚCAR DE COLORES SURTIDOS.",
+      "imagen": "/images/shop/03124311010202-1-.webp",
+      "galeria": [
+        "/images/shop/03124311010202-1-.webp",
+        "/images/shop/2926e996-03124311010202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "CASA LUKER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "uvas-cheveres-90-gr-43124",
+      "nombre": "Uvas Cheveres 90 Gr",
+      "slug": "uvas-cheveres-90-gr-43124",
+      "marca": "CASA LUKER",
+      "precio": 11800,
+      "precioAnterior": null,
+      "descripcion": "UVAS PASA RECUBIERTAS DE CHOCOLATE",
+      "imagen": "/images/shop/03124311010200-1-.webp",
+      "galeria": [
+        "/images/shop/03124311010200-1-.webp",
+        "/images/shop/03124311010200-2-.webp",
+        "/images/shop/2618edd4-03124311010200-1-.webp",
+        "/images/shop/ffca5bc8-03124311010200-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "CASA LUKER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "uvas-cheveres-20-gr-43123",
+      "nombre": "Uvas Cheveres 20 Gr",
+      "slug": "uvas-cheveres-20-gr-43123",
+      "marca": "CASA LUKER",
+      "precio": 2500,
+      "precioAnterior": null,
+      "descripcion": "UVAS PASA RECUBIERTAS DE CHOCOLATE",
+      "imagen": "/images/shop/03124311010103-1-.webp",
+      "galeria": [
+        "/images/shop/03124311010103-1-.webp",
+        "/images/shop/3ae0a30d-03124311010103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "CASA LUKER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "chocogomas-fresa-100-gr-43122",
+      "nombre": "Chocogomas Fresa 100 Gr",
+      "slug": "chocogomas-fresa-100-gr-43122",
+      "marca": "CASA LUKER",
+      "precio": 10200,
+      "precioAnterior": null,
+      "descripcion": "GOMAS SABOR ARTIFICIAL A FRESA RECUBIERTAS CON CHOCOLATE LECHE.",
+      "imagen": "/images/shop/03124304020201-1-.webp",
+      "galeria": [
+        "/images/shop/03124304020201-1-.webp",
+        "/images/shop/b87b43d1-03124304020201-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "CASA LUKER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "choco-stop-x30-43120",
+      "nombre": "Choco Stop X30",
+      "slug": "choco-stop-x30-43120",
+      "marca": "CASA LUKER",
+      "precio": 13200,
+      "precioAnterior": null,
+      "descripcion": "CHOCO STOP, CHOCOLATES RELLENOS CON GOMA FRESA, CEREZA, NARANJA Y UVA",
+      "imagen": "/images/shop/03124301051500-1-.webp",
+      "galeria": [
+        "/images/shop/03124301051500-1-.webp",
+        "/images/shop/0093afc9-03124301051500-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "CASA LUKER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "barra-chocostop-43119",
+      "nombre": "Barra Chocostop",
+      "slug": "barra-chocostop-43119",
+      "marca": "CASA LUKER",
+      "precio": 3100,
+      "precioAnterior": null,
+      "descripcion": "CADA BARRA ESTÁ RELLENA CON UNA EXPLOSIÓN DE SABORES ARTIFICIALES A FRESA, CEREZA, NARANJA Y UVA, OFRECIENDO UNA EXPERIENCIA ÚNICA EN CADA BOCADO.",
+      "imagen": "/images/shop/03124301050105-1-.webp",
+      "galeria": [
+        "/images/shop/03124301050105-1-.webp",
+        "/images/shop/ef2746e5-03124301050105-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "CASA LUKER"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-con-lecha-lindor-100-gr-33748",
+      "nombre": "Chocolate Con Lecha Lindor 100 Gr",
+      "slug": "chocolate-con-lecha-lindor-100-gr-33748",
+      "marca": "MORENOS",
+      "precio": 38900,
+      "precioAnterior": null,
+      "descripcion": "El Chocolate con Leche Lindt Lindor es una exquisita creación suiza que deleita los sentidos con su suave y cremoso relleno de trufa.",
+      "imagen": "/images/shop/26134301050302-1-.webp",
+      "galeria": [
+        "/images/shop/26134301050302-1-.webp",
+        "/images/shop/26134301050302-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-con-leche-lindt-lindor-50-gr-33746",
+      "nombre": "Chocolate Con Leche Lindt Lindor 50 Gr",
+      "slug": "chocolate-con-leche-lindt-lindor-50-gr-33746",
+      "marca": "MORENOS",
+      "precio": 18500,
+      "precioAnterior": null,
+      "descripcion": "El Chocolate con Leche Lindt Lindor es una exquisita creación suiza que deleita los sentidos con su suave y cremoso relleno de trufa.",
+      "imagen": "/images/shop/26134301010100-1-.webp",
+      "galeria": [
+        "/images/shop/26134301010100-1-.webp",
+        "/images/shop/26134301010100-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-jumbo-flow-surtida-27867",
+      "nombre": "Chocolatina Jumbo Flow Surtida",
+      "slug": "chocolatina-jumbo-flow-surtida-27867",
+      "marca": "NUTRESA",
+      "precio": 7100,
+      "precioAnterior": null,
+      "descripcion": "chocolate de leche con caramelo nougat y maní.",
+      "imagen": "/images/shop/25394301010102-1-.webp",
+      "galeria": [
+        "/images/shop/25394301010102-1-.webp",
+        "/images/shop/25394301010102-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates",
+      "color": "Surtido"
+    },
+    {
+      "id": "golosina-tikys-golochips-x-20gr-27270",
+      "nombre": "Golosina Tikys Golochips x 20gr",
+      "slug": "golosina-tikys-golochips-x-20gr-27270",
+      "marca": "NUTRESA",
+      "precio": 1800,
+      "precioAnterior": null,
+      "descripcion": "Deliciosas goticas de chocolate sabor a Tuti Fruti y Salpicón.",
+      "imagen": "/images/shop/25394301010101-1-.webp",
+      "galeria": [
+        "/images/shop/25394301010101-1-.webp",
+        "/images/shop/25394301010101-2-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "papas-pringles-sabor-crema-cebolla-40-gr-19486",
+      "nombre": "Papas Pringles Sabor Crema Cebolla 40 Gr",
+      "slug": "papas-pringles-sabor-crema-cebolla-40-gr-19486",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 7100,
+      "precioAnterior": null,
+      "descripcion": "deliciosas papas hechas con aceite natural, perfecto para que compartas con tus amigos.",
+      "imagen": "/images/shop/Papas-Pringles-Crema-Cebolla-32974311180101-1-.webp",
+      "galeria": [
+        "/images/shop/Papas-Pringles-Crema-Cebolla-32974311180101-1-.webp",
+        "/images/shop/852cd8d2-Papas-Pringles-Crema-Cebolla-32974311180101-1-.webp",
+        "/images/shop/6aa02504-Papas-Pringles-Crema-Cebolla-32974311180101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Beige"
+    },
+    {
+      "id": "papas-19485",
+      "nombre": "Papas",
+      "slug": "papas-19485",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 7100,
+      "precioAnterior": null,
+      "descripcion": "sabor original",
+      "imagen": "/images/shop/32974311180100-1-.webp",
+      "galeria": [
+        "/images/shop/32974311180100-1-.webp",
+        "/images/shop/628ec3c2-32974311180100-1-.webp",
+        "/images/shop/2968fcfc-32974311180100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "chocolate-de-leche-19480",
+      "nombre": "Chocolate De Leche",
+      "slug": "chocolate-de-leche-19480",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 5500,
+      "precioAnterior": null,
+      "descripcion": "relleno de arequipe y frutos secos",
+      "imagen": "/images/shop/32974301020201-1-.webp",
+      "galeria": [
+        "/images/shop/32974301020201-1-.webp",
+        "/images/shop/f5c7eb66-32974301020201-1-.webp",
+        "/images/shop/a1b9711e-32974301020201-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-de-leche-19479",
+      "nombre": "Chocolate De Leche",
+      "slug": "chocolate-de-leche-19479",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 5500,
+      "precioAnterior": null,
+      "descripcion": "relleno de arequipe y frutos secos",
+      "imagen": "/images/shop/32974301020200-1-.webp",
+      "galeria": [
+        "/images/shop/32974301020200-1-.webp",
+        "/images/shop/a4d4a034-32974301020200-1-.webp",
+        "/images/shop/0c0d092c-32974301020200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-de-leche-19478",
+      "nombre": "Chocolate De Leche",
+      "slug": "chocolate-de-leche-19478",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 5500,
+      "precioAnterior": null,
+      "descripcion": "relleno frutos secos",
+      "imagen": "/images/shop/32974301010103-1-.webp",
+      "galeria": [
+        "/images/shop/32974301010103-1-.webp",
+        "/images/shop/8d274420-32974301010103-1-.webp",
+        "/images/shop/8c8f76fd-32974301010103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-de-leche-19477",
+      "nombre": "Chocolate De Leche",
+      "slug": "chocolate-de-leche-19477",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 5500,
+      "precioAnterior": null,
+      "descripcion": "relleno frutos secos",
+      "imagen": "/images/shop/32974301010102-1-.webp",
+      "galeria": [
+        "/images/shop/32974301010102-1-.webp",
+        "/images/shop/83209558-32974301010102-1-.webp",
+        "/images/shop/d6d73479-32974301010102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "flips-120-gr-cookies-cream-18965",
+      "nombre": "Flips 120 Gr Cookies & Cream",
+      "slug": "flips-120-gr-cookies-cream-18965",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "deliciosas almohadas de cereal a base de arroz, trigo y avena con relleno sabor crema.",
+      "imagen": "/images/shop/27574310030302-1-.webp",
+      "galeria": [
+        "/images/shop/27574310030302-1-.webp",
+        "/images/shop/34728297-27574310030302-1-.webp",
+        "/images/shop/9147daa7-27574310030302-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Azúcar, Arroz, Trigo, Avena, Manteca Vegetal, Leche En Polvo Completa Y Descremada, Cacao, Sal, Lecitina De Soya, Etilvainilla, Vitaminas Y Minerales (Vitamina A, Vitamina C, Hierro Electrolítico, Tiamina, Riboflavina, Niacina, Vitamina B6, Óxido De Zinc, Carbonato De Calcio, Vitamina B12 Y Ácido Fólico) Y Antioxidante",
+        "Material: Azúcar, Arroz, Trigo, Avena, Manteca Vegetal, Leche En Polvo Completa Y Descremada, Cacao, Sal, Lecitina De Soya, Etilvainilla, Vitaminas Y Minerales (Vitamina A, Vitamina C, Hierro Electrolítico, Tiamina, Riboflavina, Niacina, Vitamina B6, Óxido De Zinc, Carbonato De Calcio, Vitamina B12 Y Ácido Fólico) Y Antioxidante"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "flips-120-gr-dulce-de-leche-18964",
+      "nombre": "Flips 120 Gr Dulce De Leche",
+      "slug": "flips-120-gr-dulce-de-leche-18964",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "deliciosas almohadas de cereal a base de arroz, trigo y avena con relleno sabor a dulce de leche.",
+      "imagen": "/images/shop/27574310030304-1-.webp",
+      "galeria": [
+        "/images/shop/27574310030304-1-.webp",
+        "/images/shop/85090cb3-27574310030304-1-.webp",
+        "/images/shop/df9a76b6-27574310030304-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Azúcar, Arroz, Trigo, Avena, Manteca Vegetal, Leche En Polvo Completa Y Descremada, Cacao, Sal, Lecitina De Soya, Etilvainilla, Vitaminas Y Minerales (Vitamina A, Vitamina C, Hierro Electrolítico, Tiamina, Riboflavina, Niacina, Vitamina B6, Óxido De Zinc, Carbonato De Calcio, Vitamina B12 Y Ácido Fólico) Y Antioxidante",
+        "Material: Azúcar, Arroz, Trigo, Avena, Manteca Vegetal, Leche En Polvo Completa Y Descremada, Cacao, Sal, Lecitina De Soya, Etilvainilla, Vitaminas Y Minerales (Vitamina A, Vitamina C, Hierro Electrolítico, Tiamina, Riboflavina, Niacina, Vitamina B6, Óxido De Zinc, Carbonato De Calcio, Vitamina B12 Y Ácido Fólico) Y Antioxidante"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "flips-120-gr-chocolate-18963",
+      "nombre": "Flips 120 Gr Chocolate",
+      "slug": "flips-120-gr-chocolate-18963",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "deliciosas almohadas de cereal a base de arroz, trigo y avena con relleno sabor a chocolate.",
+      "imagen": "/images/shop/27574310030303-1-.webp",
+      "galeria": [
+        "/images/shop/27574310030303-1-.webp",
+        "/images/shop/34d6ab3d-27574310030303-1-.webp",
+        "/images/shop/a5e9cb4c-27574310030303-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Azúcar, Arroz, Trigo, Avena, Manteca Vegetal, Leche En Polvo Completa Y Descremada, Cacao, Sal, Lecitina De Soya, Etilvainilla, Vitaminas Y Minerales (Vitamina A, Vitamina C, Hierro Electrolítico, Tiamina, Riboflavina, Niacina, Vitamina B6, Óxido De Zinc, Carbonato De Calcio, Vitamina B12 Y Ácido Fólico) Y Antioxidante",
+        "Material: Azúcar, Arroz, Trigo, Avena, Manteca Vegetal, Leche En Polvo Completa Y Descremada, Cacao, Sal, Lecitina De Soya, Etilvainilla, Vitaminas Y Minerales (Vitamina A, Vitamina C, Hierro Electrolítico, Tiamina, Riboflavina, Niacina, Vitamina B6, Óxido De Zinc, Carbonato De Calcio, Vitamina B12 Y Ácido Fólico) Y Antioxidante"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "flips-leche-28-gr-18962",
+      "nombre": "Flips Leche 28 Gr",
+      "slug": "flips-leche-28-gr-18962",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 3200,
+      "precioAnterior": null,
+      "descripcion": "deliciosas almohadas de cereal a base de arroz, trigo y avena con relleno sabor a chocolate.",
+      "imagen": "/images/shop/27574310030100-1-.webp",
+      "galeria": [
+        "/images/shop/27574310030100-1-.webp",
+        "/images/shop/a3416fc1-27574310030100-1-.webp",
+        "/images/shop/d0e2a81c-27574310030100-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Azúcar, Arroz, Trigo, Avena, Manteca Vegetal, Leche En Polvo Completa Y Descremada, Cacao, Sal, Lecitina De Soya, Etilvainilla, Vitaminas Y Minerales (Vitamina A, Vitamina C, Hierro Electrolítico, Tiamina, Riboflavina, Niacina, Vitamina B6, Óxido De Zinc, Carbonato De Calcio, Vitamina B12 Y Ácido Fólico) Y Antioxidante",
+        "Material: Azúcar, Arroz, Trigo, Avena, Manteca Vegetal, Leche En Polvo Completa Y Descremada, Cacao, Sal, Lecitina De Soya, Etilvainilla, Vitaminas Y Minerales (Vitamina A, Vitamina C, Hierro Electrolítico, Tiamina, Riboflavina, Niacina, Vitamina B6, Óxido De Zinc, Carbonato De Calcio, Vitamina B12 Y Ácido Fólico) Y Antioxidante"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "cereal-18961",
+      "nombre": "Cereal",
+      "slug": "cereal-18961",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 3200,
+      "precioAnterior": null,
+      "descripcion": "relleno de dulce de chocolate",
+      "imagen": "/images/shop/27574310030101-1-.webp",
+      "galeria": [
+        "/images/shop/27574310030101-1-.webp",
+        "/images/shop/1f2e9e96-27574310030101-1-.webp",
+        "/images/shop/56e40b2f-27574310030101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "icebreakers-berry-42-gr-18960",
+      "nombre": "Icebreakers Berry 42 Gr",
+      "slug": "icebreakers-berry-42-gr-18960",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 16500,
+      "precioAnterior": null,
+      "descripcion": "experimenta con los berry sours intensamente ácidos, intensamente dulces e intensamente fortalecedores de ice breakers. ¡tus papilas gustativas despiertas temblarán y suspirarán de placer! no contienen azúcar.",
+      "imagen": "/images/shop/27574307160901-1-.webp",
+      "galeria": [
+        "/images/shop/27574307160901-1-.webp",
+        "/images/shop/e3efe9ef-27574307160901-1-.webp",
+        "/images/shop/16271552-27574307160901-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Sorbitol, Maltitol, Maltodextrina, Contiene 2% O Menos De: Sabor Natural Y Sabor Artificial, Goma De Acacia, Aspartamo (Fenilcetonúricos: Contiene Fenilalanina), Estearato De Magnesio, Ácido Cítrico, Lecitina (Soja), Color Artificial (Azul 1).",
+        "Material: Sorbitol, Maltitol, Maltodextrina, Contiene 2% O Menos De: Sabor Natural Y Sabor Artificial, Goma De Acacia, Aspartamo (Fenilcetonúricos: Contiene Fenilalanina), Estearato De Magnesio, Ácido Cítrico, Lecitina (Soja), Color Artificial (Azul 1)."
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "ice-breakers-duo-fresa-36-gr-18959",
+      "nombre": "Ice Breakers Duo Fresa 36 Gr",
+      "slug": "ice-breakers-duo-fresa-36-gr-18959",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 11300,
+      "precioAnterior": null,
+      "descripcion": "combina un sabor afrutado increíblemente dulce, con cristales para un aliento fresco, además te brindan un poderoso impulso de fresa.",
+      "imagen": "/images/shop/27574307160903-1-.webp",
+      "galeria": [
+        "/images/shop/27574307160903-1-.webp",
+        "/images/shop/7dd56370-27574307160903-1-.webp",
+        "/images/shop/0984dafc-27574307160903-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Sorbitol, Maltitol, Maltodextrina, Contiene 2% O Menos De: Sabor Natural Y Sabor Artificial, Goma De Acacia, Aspartamo (Fenilcetonúricos: Contiene Fenilalanina), Estearato De Magnesio, Ácido Cítrico, Lecitina (Soja), Color Artificial (Azul 1).",
+        "Material: Sorbitol, Maltitol, Maltodextrina, Contiene 2% O Menos De: Sabor Natural Y Sabor Artificial, Goma De Acacia, Aspartamo (Fenilcetonúricos: Contiene Fenilalanina), Estearato De Magnesio, Ácido Cítrico, Lecitina (Soja), Color Artificial (Azul 1)."
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "ice-breakers-duo-sandia-36-gr-18958",
+      "nombre": "Ice Breakers Duo Sandia 36 Gr",
+      "slug": "ice-breakers-duo-sandia-36-gr-18958",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 11300,
+      "precioAnterior": null,
+      "descripcion": "obtén un estimulante impulso de sandía con esta combinación singular de fruta y menta en ice breakers duo mints. algo así como una refrescante tormenta de nieve en tu picnic de verano. contenido neto: 36 gramos",
+      "imagen": "/images/shop/27574307160904-1-.webp",
+      "galeria": [
+        "/images/shop/27574307160904-1-.webp",
+        "/images/shop/75746519-27574307160904-1-.webp",
+        "/images/shop/d279c1d5-27574307160904-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Sorbitol, Maltitol, Maltodextrina, Contiene 2% O Menos De: Sabor Natural Y Sabor Artificial, Goma De Acacia, Aspartamo (Fenilcetonúricos: Contiene Fenilalanina), Estearato De Magnesio, Ácido Cítrico, Lecitina (Soja), Color Artificial (Azul 1).",
+        "Material: Sorbitol, Maltitol, Maltodextrina, Contiene 2% O Menos De: Sabor Natural Y Sabor Artificial, Goma De Acacia, Aspartamo (Fenilcetonúricos: Contiene Fenilalanina), Estearato De Magnesio, Ácido Cítrico, Lecitina (Soja), Color Artificial (Azul 1)."
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "mentas-menta-29-5-gr-18957",
+      "nombre": "Mentas Menta 29.5 Gr",
+      "slug": "mentas-menta-29-5-gr-18957",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 4100,
+      "precioAnterior": null,
+      "descripcion": "mentos menta proporciona todo el beneficio de una pastilla de menta con una distinta y agradable experiencia al masticar.",
+      "imagen": "/images/shop/27574307060904-1-.webp",
+      "galeria": [
+        "/images/shop/27574307060904-1-.webp",
+        "/images/shop/a512f3e6-27574307060904-1-.webp",
+        "/images/shop/086aa655-27574307060904-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Azúcar, Jarabe De Glucosa, Grasa De Coco Totalmente Hidrogenada, Almidón, Aromas Naturales De Menta, Maltodextrina, Espesantes (Goma Gellan, Goma De Celulosa, Goma Arábiga), Emulgente (Sucroésteres De Ácidos Grasos), Agentes De Recubrimiento (Cera Carnauba, Cera De Abeja).",
+        "Material: Azúcar, Jarabe De Glucosa, Grasa De Coco Totalmente Hidrogenada, Almidón, Aromas Naturales De Menta, Maltodextrina, Espesantes (Goma Gellan, Goma De Celulosa, Goma Arábiga), Emulgente (Sucroésteres De Ácidos Grasos), Agentes De Recubrimiento (Cera Carnauba, Cera De Abeja)."
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "chocolate-de-leche-18955",
+      "nombre": "Chocolate De Leche",
+      "slug": "chocolate-de-leche-18955",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "relleno de mantequilla de mani",
+      "imagen": "/images/shop/27574301020902-1-.webp",
+      "galeria": [
+        "/images/shop/27574301020902-1-.webp",
+        "/images/shop/9cd53103-27574301020902-1-.webp",
+        "/images/shop/6c9545f9-27574301020902-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "hersheys-tab-cookies-43-gr-18953",
+      "nombre": "Hersheys Tab Cookies 43 Gr",
+      "slug": "hersheys-tab-cookies-43-gr-18953",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 7300,
+      "precioAnterior": null,
+      "descripcion": "si te encanta el chocolate las galletas o el helado de crema), entonces apreciarás la deliciosa combinación de trocitos de galleta de chocolate crujientes y crema blanca suave. las barras de caramelo cookies ‘n’ creme de hershey's contienen esta combinación de sabor clásico en cada delicioso bocado.",
+      "imagen": "/images/shop/27574301010108-1-.webp",
+      "galeria": [
+        "/images/shop/27574301010108-1-.webp",
+        "/images/shop/de8eaaf1-27574301010108-1-.webp",
+        "/images/shop/53bacfa7-27574301010108-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Azúcar, Pasta De Cacao, Manteca De Cacao, Leche Descremada, Sólidos De La Leche, Grasa Butírica, Poliglicerol De Polirricinoleato Y Vainilla.",
+        "Material: Azúcar, Pasta De Cacao, Manteca De Cacao, Leche Descremada, Sólidos De La Leche, Grasa Butírica, Poliglicerol De Polirricinoleato Y Vainilla."
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "nuts-mix-natural-320-gramos-18948",
+      "nombre": "Nuts Mix Natural 320 Gramos",
+      "slug": "nuts-mix-natural-320-gramos-18948",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 35900,
+      "precioAnterior": null,
+      "descripcion": "delicioso y nutritivo coctel de frutos secos natural, una deliciosa mezcla de nueces frutos rojos mani tostado salado, uvas pasas, arandanos, nuez brazil, marañones,macadamias y almendras tostadas.",
+      "imagen": "/images/shop/Nuts-Mix-Natural-320gramos-27384311150400-1-.webp",
+      "galeria": [
+        "/images/shop/Nuts-Mix-Natural-320gramos-27384311150400-1-.webp",
+        "/images/shop/4ae401a1-Nuts-Mix-Natural-320gramos-27384311150400-1-.webp",
+        "/images/shop/77c307d7-Nuts-Mix-Natural-320gramos-27384311150400-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Mezcla Nueces, Maní Tostado Y Frutos Rojos",
+        "Material: Mezcla Nueces, Maní Tostado Y Frutos Rojos"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "nuts-mix-coco-tropical-320-gramos-18947",
+      "nombre": "Nuts Mix Coco Tropical 320 Gramos",
+      "slug": "nuts-mix-coco-tropical-320-gramos-18947",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 35900,
+      "precioAnterior": null,
+      "descripcion": "delicioso y nutritivo coctel de frutos secos tropical, una deliciosa mezcla de nuez de brasil, almendras, frutos rojos mani tostado salado, uvas pasas, arandanos,coco deshidratado, albaricoques, almendras.",
+      "imagen": "/images/shop/Nuts-Mix-Coco-Tropical-320gramos-27384311150402-1-.webp",
+      "galeria": [
+        "/images/shop/Nuts-Mix-Coco-Tropical-320gramos-27384311150402-1-.webp",
+        "/images/shop/39d9f5c2-Nuts-Mix-Coco-Tropical-320gramos-27384311150402-1-.webp",
+        "/images/shop/e5ab5f90-Nuts-Mix-Coco-Tropical-320gramos-27384311150402-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Mezcla Nueces Maní Tostado Y Frutos Rojos,Coco,Albaricoques O Uchuvas Deshidratados",
+        "Material: Mezcla Nueces Maní Tostado Y Frutos Rojos,Coco,Albaricoques O Uchuvas Deshidratados"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "nuts-mix-chocolate-320-gramos-18946",
+      "nombre": "Nuts Mix Chocolate 320 Gramos",
+      "slug": "nuts-mix-chocolate-320-gramos-18946",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 35900,
+      "precioAnterior": null,
+      "descripcion": "delicioso y nutritivo coctel de frutos secos natural, una deliciosa mezcla de nueces frutos rojos mani tostado salado, uvas pasas, arandanos, nuez brazil, marañones, macadamias y almendras tostadas con chips de chocolate.",
+      "imagen": "/images/shop/Nuts-Mix-Chocolate-320gramos-27384311150401-1-.webp",
+      "galeria": [
+        "/images/shop/Nuts-Mix-Chocolate-320gramos-27384311150401-1-.webp",
+        "/images/shop/26112b56-Nuts-Mix-Chocolate-320gramos-27384311150401-1-.webp",
+        "/images/shop/0e55bca2-Nuts-Mix-Chocolate-320gramos-27384311150401-1-.webp"
+      ],
+      "contenido": [
+        "Composición: Mezcla Nueces,Maní Tostado Y Frutos Rojos,Chips De Chocolate",
+        "Material: Mezcla Nueces,Maní Tostado Y Frutos Rojos,Chips De Chocolate"
+      ],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas",
+      "color": "Surtido"
+    },
+    {
+      "id": "turron-duro-al-punto-de-sal-el-almendro-caja-x75-gramos-18895",
+      "nombre": "Turrón Duro Al Punto De Sal El Almendro Caja X75 Gramos",
+      "slug": "turron-duro-al-punto-de-sal-el-almendro-caja-x75-gramos-18895",
+      "marca": "MORENOS",
+      "precio": 21400,
+      "precioAnterior": null,
+      "descripcion": "delicioso turrón con trozos de avellanas al punto de sal. ideal para compartir y acompañar tu desayuno o merienda. importado de españa.",
+      "imagen": "/images/shop/26134308040600-1-.webp",
+      "galeria": [
+        "/images/shop/26134308040600-1-.webp",
+        "/images/shop/1c08289b-26134308040600-1-.webp",
+        "/images/shop/22338621-26134308040600-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "dulces-sin-azucar-con-sabor-a-arandanos-18894",
+      "nombre": "Dulces Sin Azucar Con Sabor A Arandanos",
+      "slug": "dulces-sin-azucar-con-sabor-a-arandanos-18894",
+      "marca": "MORENOS",
+      "precio": 9200,
+      "precioAnterior": null,
+      "descripcion": "los arándanos rojos son originarios de norteamérica y están emparentados con los arándanos agrios. cuando están maduros, presentan un color rojo intenso y contienen mucha vitamina c, betacaroteno y minerales. antiguamente, los nativos americanos ya usaban el poder de las bayas. el caramelo de arándano de ricola combina el jugo de arándano con la eficaz mezcla de las 13 hierbas. una delicia deliciosa y refrescante para la boca y la garganta.",
+      "imagen": "/images/shop/26134307160101-1-.webp",
+      "galeria": [
+        "/images/shop/26134307160101-1-.webp",
+        "/images/shop/5137db1b-26134307160101-1-.webp",
+        "/images/shop/09c76d0f-26134307160101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "dulces-sin-azucar-con-sabor-a-limon-menta-18893",
+      "nombre": "Dulces Sin Azucar Con Sabor A Limon Menta",
+      "slug": "dulces-sin-azucar-con-sabor-a-limon-menta-18893",
+      "marca": "MORENOS",
+      "precio": 9200,
+      "precioAnterior": null,
+      "descripcion": "para empezar, saborea el refrescante sabor cítrico de la menta. a continuación, deja que los aromas de la mezcla de 13 hierbas se expandan lentamente. al chupar caramelos de melisa de limón de ricola, refresca a su garganta y su voz. el agradable y fresco sabor del melisa de limón surge en la zona mediterránea oriental y ha tenido gran valor durante siglos por su efecto sedante.",
+      "imagen": "/images/shop/26134307160100-1-.webp",
+      "galeria": [
+        "/images/shop/26134307160100-1-.webp",
+        "/images/shop/f684a4e3-26134307160100-1-.webp",
+        "/images/shop/156f6aee-26134307160100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "fruna-mamba-en-barra-18889",
+      "nombre": "Fruna Mamba En Barra",
+      "slug": "fruna-mamba-en-barra-18889",
+      "marca": "MORENOS",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "delicisos caramelos masticables con sabor a frutas.",
+      "imagen": "/images/shop/26134305061200-1-.webp",
+      "galeria": [
+        "/images/shop/26134305061200-1-.webp",
+        "/images/shop/02991eee-26134305061200-1-.webp",
+        "/images/shop/538a1562-26134305061200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "caramelo-sin-azucar-werthers-78-gramos-18887",
+      "nombre": "Caramelo Sin Azucar Werthers 78 Gramos",
+      "slug": "caramelo-sin-azucar-werthers-78-gramos-18887",
+      "marca": "MORENOS",
+      "precio": 14900,
+      "precioAnterior": null,
+      "descripcion": "caramelos masticables originales sin azúcar de werther, delicioso sabor exactamente como el original pero sin azúcar.",
+      "imagen": "/images/shop/26134305010300-1-.webp",
+      "galeria": [
+        "/images/shop/26134305010300-1-.webp",
+        "/images/shop/d259c6d2-26134305010300-1-.webp",
+        "/images/shop/37bdc9a6-26134305010300-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "caramelo-masticable-werthers-18886",
+      "nombre": "Caramelo Masticable Werthers",
+      "slug": "caramelo-masticable-werthers-18886",
+      "marca": "MORENOS",
+      "precio": 8800,
+      "precioAnterior": null,
+      "descripcion": "dulces suaves: disfruta de la textura suave y el sabor clásico de los caramelos masticables originales de werther. estos caramelos masticables son increíblemente tiernos y te dan un intenso disfrute de larga duración.",
+      "imagen": "/images/shop/26134305010302-1-.webp",
+      "galeria": [
+        "/images/shop/26134305010302-1-.webp",
+        "/images/shop/216c62b6-26134305010302-1-.webp",
+        "/images/shop/2382db7d-26134305010302-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "toffiffe-x125-gramos-18885",
+      "nombre": "Toffiffe X125 Gramos",
+      "slug": "toffiffe-x125-gramos-18885",
+      "marca": "MORENOS",
+      "precio": 17900,
+      "precioAnterior": null,
+      "descripcion": "deliciosas tazas de caramelo que contienen turrón, caramelo y una avellana, cubiertas con un botón de chocolate.",
+      "imagen": "/images/shop/26134305011603-1-.webp",
+      "galeria": [
+        "/images/shop/26134305011603-1-.webp",
+        "/images/shop/8f2c7a1f-26134305011603-1-.webp",
+        "/images/shop/7abf581b-26134305011603-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-18884",
+      "nombre": "Gomas",
+      "slug": "gomas-18884",
+      "marca": "MORENOS",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "gusanitos",
+      "imagen": "/images/shop/26134304061000-1-.webp",
+      "galeria": [
+        "/images/shop/26134304061000-1-.webp",
+        "/images/shop/0eeb7367-26134304061000-1-.webp",
+        "/images/shop/5c8e80ff-26134304061000-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "goma-octopus-bolsa-x100-gramos-18883",
+      "nombre": "Goma Octopus Bolsa X100 Gramos",
+      "slug": "goma-octopus-bolsa-x100-gramos-18883",
+      "marca": "MORENOS",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "deliciosas gomas suaves europeas con increibles formas de pulpos, con sabores surtidos y naturales que hacen la experiencia más real y divertida. sin gluten. importado de españa.",
+      "imagen": "/images/shop/26134304051002-1-.webp",
+      "galeria": [
+        "/images/shop/26134304051002-1-.webp",
+        "/images/shop/70be15bd-26134304051002-1-.webp",
+        "/images/shop/70cef399-26134304051002-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-18880",
+      "nombre": "Gomas",
+      "slug": "gomas-18880",
+      "marca": "MORENOS",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "tiburones",
+      "imagen": "/images/shop/26134304021004-1-.webp",
+      "galeria": [
+        "/images/shop/26134304021004-1-.webp",
+        "/images/shop/e6ad140a-26134304021004-1-.webp",
+        "/images/shop/0051a76f-26134304021004-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "masmelo-mini-fruit-rocky-mountain-bolsa-x150-gramos-18879",
+      "nombre": "Masmelo Mini Fruit Rocky Mountain Bolsa X150 Gramos",
+      "slug": "masmelo-mini-fruit-rocky-mountain-bolsa-x150-gramos-18879",
+      "marca": "MORENOS",
+      "precio": 10200,
+      "precioAnterior": null,
+      "descripcion": "deliciosos masmelos rocky mountain de textura ligera y esponjosa, con increíble sabor frutas. se asan a la perfección sobre un fuego abierto.",
+      "imagen": "/images/shop/26134303011102-1-.webp",
+      "galeria": [
+        "/images/shop/26134303011102-1-.webp",
+        "/images/shop/db989842-26134303011102-1-.webp",
+        "/images/shop/f873b0a1-26134303011102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "masmelo-rocky-montain-blanco-300-gramos-18878",
+      "nombre": "Masmelo Rocky Montain Blanco 300 Gramos",
+      "slug": "masmelo-rocky-montain-blanco-300-gramos-18878",
+      "marca": "MORENOS",
+      "precio": 16900,
+      "precioAnterior": null,
+      "descripcion": "malvaviscos clásicos una verdadera tradición estadounidense, estos malvaviscos de tamaño regular son los mejores malvaviscos tostados del mundo. ya sea en una fogata o en una barbacoa, los malvaviscos de rocky mountain brindan un marrón dorado por fuera y se funden en una delicia pegajosa por dentro, ¡para disfrutar al máximo!.",
+      "imagen": "/images/shop/26134303011200-1-.webp",
+      "galeria": [
+        "/images/shop/26134303011200-1-.webp",
+        "/images/shop/c811bd84-26134303011200-1-.webp",
+        "/images/shop/4b79ac7c-26134303011200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos",
+      "color": "Blanco"
+    },
+    {
+      "id": "galletas-shortbread-walkers-x40-gramos-18877",
+      "nombre": "Galletas Shortbread Walkers X40 Gramos",
+      "slug": "galletas-shortbread-walkers-x40-gramos-18877",
+      "marca": "MORENOS",
+      "precio": 8900,
+      "precioAnterior": null,
+      "descripcion": "exquisitas galletas de mantequilla para despertar el gusto a tus comensales, ideal para acompañar con cualquier tipo de comida en el desayuno o merienda.",
+      "imagen": "/images/shop/26134302210902-1-.webp",
+      "galeria": [
+        "/images/shop/26134302210902-1-.webp",
+        "/images/shop/bd08d498-26134302210902-1-.webp",
+        "/images/shop/41335e29-26134302210902-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-shortbread-fingers-walkers-caja-x150-gramos-18876",
+      "nombre": "Galletas Shortbread Fingers Walkers Caja X150 Gramos",
+      "slug": "galletas-shortbread-fingers-walkers-caja-x150-gramos-18876",
+      "marca": "MORENOS",
+      "precio": 30900,
+      "precioAnterior": null,
+      "descripcion": "deliciosos deditos de galletas de mantequilla x150g. ideales para acompañar con una taza de té. importado de escocia.",
+      "imagen": "/images/shop/26134302211100-1-.webp",
+      "galeria": [
+        "/images/shop/26134302211100-1-.webp",
+        "/images/shop/ca7ce5ba-26134302211100-1-.webp",
+        "/images/shop/038448a3-26134302211100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galletas-walkers-minifingers-18875",
+      "nombre": "Galletas Walkers Minifingers",
+      "slug": "galletas-walkers-minifingers-18875",
+      "marca": "MORENOS",
+      "precio": 26900,
+      "precioAnterior": null,
+      "descripcion": "contiene 24 mini dedos de mantequilla. bolsa resellable para una cómoda merienda. hecho en escocia, sin conservantes ni colores artificiales.",
+      "imagen": "/images/shop/26134302211103-1-.webp",
+      "galeria": [
+        "/images/shop/26134302211103-1-.webp",
+        "/images/shop/500b8008-26134302211103-1-.webp",
+        "/images/shop/195180c0-26134302211103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "MORENOS"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "almendra-francesa-x50-gramos-18706",
+      "nombre": "Almendra Francesa X50 Gramos",
+      "slug": "almendra-francesa-x50-gramos-18706",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 3900,
+      "precioAnterior": null,
+      "descripcion": "almendra seleccionada recubierta con dulce de colores: azul, blanca, amarilla y rosada.",
+      "imagen": "/images/shop/Almendra-Francesa-X50gramos-25514311010900-1-.webp",
+      "galeria": [
+        "/images/shop/Almendra-Francesa-X50gramos-25514311010900-1-.webp",
+        "/images/shop/6bda018e-Almendra-Francesa-X50gramos-25514311010900-1-.webp",
+        "/images/shop/0aed565b-Almendra-Francesa-X50gramos-25514311010900-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-cubierto-de-chocolate-18705",
+      "nombre": "Mani Cubierto De Chocolate",
+      "slug": "mani-cubierto-de-chocolate-18705",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 6500,
+      "precioAnterior": null,
+      "descripcion": "maní tostado cubierto por una capa de chocolate de leche. delicioso para que lo comas en cualquier hora del dia.",
+      "imagen": "/images/shop/Mani-Cubierto-Chocolate-25514311010106-1-.webp",
+      "galeria": [
+        "/images/shop/Mani-Cubierto-Chocolate-25514311010106-1-.webp",
+        "/images/shop/889784e0-Mani-Cubierto-Chocolate-25514311010106-1-.webp",
+        "/images/shop/cc15a581-Mani-Cubierto-Chocolate-25514311010106-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "almendra-francesa-27-gramos-18703",
+      "nombre": "Almendra Francesa 27 Gramos",
+      "slug": "almendra-francesa-27-gramos-18703",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 2200,
+      "precioAnterior": null,
+      "descripcion": "almendra seleccionada recubierta con dulce de colores: azul, blanca, amarilla y rosada.",
+      "imagen": "/images/shop/Almendra-Francesa-27gramos-25514311010902-1-.webp",
+      "galeria": [
+        "/images/shop/Almendra-Francesa-27gramos-25514311010902-1-.webp",
+        "/images/shop/a0eddcb3-Almendra-Francesa-27gramos-25514311010902-1-.webp",
+        "/images/shop/b7949da4-Almendra-Francesa-27gramos-25514311010902-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "estuche-flor-con-almendra-francesa-18702",
+      "nombre": "Estuche Flor Con Almendra Francesa",
+      "slug": "estuche-flor-con-almendra-francesa-18702",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 10500,
+      "precioAnterior": null,
+      "descripcion": "almendra francesa en presentación especial.",
+      "imagen": "/images/shop/Estuche-Flor-Almendra-Francesa-25514311011003-1-.webp",
+      "galeria": [
+        "/images/shop/Estuche-Flor-Almendra-Francesa-25514311011003-1-.webp",
+        "/images/shop/9445f7bc-Estuche-Flor-Almendra-Francesa-25514311011003-1-.webp",
+        "/images/shop/97a87257-Estuche-Flor-Almendra-Francesa-25514311011003-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "uvas-cubiertas-de-chocolate-18701",
+      "nombre": "Uvas Cubiertas De Chocolate",
+      "slug": "uvas-cubiertas-de-chocolate-18701",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 6500,
+      "precioAnterior": null,
+      "descripcion": "las uvas cubiertas con chocolate de leche hacen la combinación perfecta",
+      "imagen": "/images/shop/Uvas-Cubiertas-Chocolates-25514311010106-1-.webp",
+      "galeria": [
+        "/images/shop/Uvas-Cubiertas-Chocolates-25514311010106-1-.webp",
+        "/images/shop/1218c2e5-Uvas-Cubiertas-Chocolates-25514311010106-1-.webp",
+        "/images/shop/06fa5ca7-Uvas-Cubiertas-Chocolates-25514311010106-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "almendra-con-chocolate-en-estuche-18700",
+      "nombre": "Almendra Con Chocolate En Estuche",
+      "slug": "almendra-con-chocolate-en-estuche-18700",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 15900,
+      "precioAnterior": null,
+      "descripcion": "almendras francesa seleccionadas cubiertas por una capa de chocolate y una capa de dulce.",
+      "imagen": "/images/shop/Almendra-Con-Chocolates-Estuche-25514311010207-1-.webp",
+      "galeria": [
+        "/images/shop/Almendra-Con-Chocolates-Estuche-25514311010207-1-.webp",
+        "/images/shop/72af79d4-Almendra-Con-Chocolates-Estuche-25514311010207-1-.webp",
+        "/images/shop/9391b7a2-Almendra-Con-Chocolates-Estuche-25514311010207-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "chupeta-de-chocolate-x10-18698",
+      "nombre": "Chupeta De Chocolate X10",
+      "slug": "chupeta-de-chocolate-x10-18698",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 11900,
+      "precioAnterior": null,
+      "descripcion": "disfruta el sabor del chocolate y has de ese momento una ocasión especial, esta deliciosa chupeta ha sido hecha con las mejores materias primas.",
+      "imagen": "/images/shop/Chupeta-De-Chocolate-X10-25514307031001-1-.webp",
+      "galeria": [
+        "/images/shop/Chupeta-De-Chocolate-X10-25514307031001-1-.webp",
+        "/images/shop/7bf7da45-Chupeta-De-Chocolate-X10-25514307031001-1-.webp",
+        "/images/shop/66739c2e-Chupeta-De-Chocolate-X10-25514307031001-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "fruna-caramelo-blanco-x12-mask-18697",
+      "nombre": "Fruna Caramelo Blanco X12 Mask",
+      "slug": "fruna-caramelo-blanco-x12-mask-18697",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 6500,
+      "precioAnterior": null,
+      "descripcion": "ricos caramelos blandos sabor tropical: fresa -mandarina, mango-lulo, tamarindo-lulo y mora-sandia",
+      "imagen": "/images/shop/Fruna-Caramelo-Blanco-X12-25514305051200-1-.webp",
+      "galeria": [
+        "/images/shop/Fruna-Caramelo-Blanco-X12-25514305051200-1-.webp",
+        "/images/shop/e22c4e2f-Fruna-Caramelo-Blanco-X12-25514305051200-1-.webp",
+        "/images/shop/3938cde6-Fruna-Caramelo-Blanco-X12-25514305051200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas",
+      "color": "Blanco"
+    },
+    {
+      "id": "gomas-moritas-200-gramos-18696",
+      "nombre": "Gomas Moritas 200 Gramos",
+      "slug": "gomas-moritas-200-gramos-18696",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 9900,
+      "precioAnterior": null,
+      "descripcion": "gomitas con sabor a mora y grageadas con azúcar. nueva presentación con el sabor tradicional e inigualable.",
+      "imagen": "/images/shop/Gomas-Moritas-200gramos-25514304021101-1-.webp",
+      "galeria": [
+        "/images/shop/Gomas-Moritas-200gramos-25514304021101-1-.webp",
+        "/images/shop/4ed1dec4-Gomas-Moritas-200gramos-25514304021101-1-.webp",
+        "/images/shop/2a282333-Gomas-Moritas-200gramos-25514304021101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-blandy-170-gramos-18695",
+      "nombre": "Gomas Blandy 170 Gramos",
+      "slug": "gomas-blandy-170-gramos-18695",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 7900,
+      "precioAnterior": null,
+      "descripcion": "ricas gomitas tradicionales conito, sus ricos sabores a piña, mora, limón y naranja han encantado por generaciones.",
+      "imagen": "/images/shop/Gomas-Blandy-170gramos-25514304021202-1-.webp",
+      "galeria": [
+        "/images/shop/Gomas-Blandy-170gramos-25514304021202-1-.webp",
+        "/images/shop/40f4255a-Gomas-Blandy-170gramos-25514304021202-1-.webp",
+        "/images/shop/8b9f1072-Gomas-Blandy-170gramos-25514304021202-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomi-masmelo-65-gramos-18694",
+      "nombre": "Gomi Masmelo 65 Gramos",
+      "slug": "gomi-masmelo-65-gramos-18694",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 3500,
+      "precioAnterior": null,
+      "descripcion": "deliciosa combinación de goma y masmelo con sabores y colores naturales..",
+      "imagen": "/images/shop/Gomi-Masmelo-65gramos-25514304021103-1-.webp",
+      "galeria": [
+        "/images/shop/Gomi-Masmelo-65gramos-25514304021103-1-.webp",
+        "/images/shop/8d94054b-Gomi-Masmelo-65gramos-25514304021103-1-.webp",
+        "/images/shop/a5b2b724-Gomi-Masmelo-65gramos-25514304021103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "gomas-moritas-40-gramos-18693",
+      "nombre": "Gomas Moritas 40 Gramos",
+      "slug": "gomas-moritas-40-gramos-18693",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 2100,
+      "precioAnterior": null,
+      "descripcion": "gomitas con sabor a mora y grageadas con azúcar. nueva presentación con el sabor tradicional e inigualable.",
+      "imagen": "/images/shop/Gomas-Moritas-40gramos-25514304020900-1-.webp",
+      "galeria": [
+        "/images/shop/Gomas-Moritas-40gramos-25514304020900-1-.webp",
+        "/images/shop/b859d31c-Gomas-Moritas-40gramos-25514304020900-1-.webp",
+        "/images/shop/9ecd5248-Gomas-Moritas-40gramos-25514304020900-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "dulces-y-gomas"
+    },
+    {
+      "id": "chocolatina-sin-azucar-x12-18692",
+      "nombre": "Chocolatina Sin Azucar X12",
+      "slug": "chocolatina-sin-azucar-x12-18692",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 21900,
+      "precioAnterior": null,
+      "descripcion": "deliciosa chocolatina de leche sin azúcar añadida que mantiene su rico sabor, porque esta endulzada con isomalt y sucralosa. son tabletas pequeñas envueltas individualmente. los productos sin azúcar añadida de nuestra empresa pueden ser consumidos por diabeticos pero dentro de las restricciones de la dieta y bajo la supervisión del médico tratante.",
+      "imagen": "/images/shop/Chocolatina-Sin-Azucar-X12-25514301090700-1-.webp",
+      "galeria": [
+        "/images/shop/Chocolatina-Sin-Azucar-X12-25514301090700-1-.webp",
+        "/images/shop/1a98cf56-Chocolatina-Sin-Azucar-X12-25514301090700-1-.webp",
+        "/images/shop/3532bcab-Chocolatina-Sin-Azucar-X12-25514301090700-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolatina-rellena-x4-sabores-18691",
+      "nombre": "Chocolatina Rellena X4 Sabores",
+      "slug": "chocolatina-rellena-x4-sabores-18691",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 12900,
+      "precioAnterior": null,
+      "descripcion": "chocolate relleno con sabores a fresa, cereza, durazno y mora, producida con el más rico chocolate del país.",
+      "imagen": "/images/shop/Chocolatina-Rellena-X4-Sabores-25514301051000-1-.webp",
+      "galeria": [
+        "/images/shop/Chocolatina-Rellena-X4-Sabores-25514301051000-1-.webp",
+        "/images/shop/3189079b-Chocolatina-Rellena-X4-Sabores-25514301051000-1-.webp",
+        "/images/shop/aabae708-Chocolatina-Rellena-X4-Sabores-25514301051000-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chupeta-de-chocolate-x50-18687",
+      "nombre": "Chupeta De Chocolate X50",
+      "slug": "chupeta-de-chocolate-x50-18687",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 55900,
+      "precioAnterior": null,
+      "descripcion": "chupetas de chocolate con el más rico sabor, tradicional de comestibles italo.",
+      "imagen": "/images/shop/Chupeta-De-Chocolates-X50-25514301011200-1-.webp",
+      "galeria": [
+        "/images/shop/Chupeta-De-Chocolates-X50-25514301011200-1-.webp",
+        "/images/shop/a31ce6e6-Chupeta-De-Chocolates-X50-25514301011200-1-.webp",
+        "/images/shop/fa1eb198-Chupeta-De-Chocolates-X50-25514301011200-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "mani-con-arandanos-18686",
+      "nombre": "Mani Con Arandanos",
+      "slug": "mani-con-arandanos-18686",
+      "marca": "NUTRESA",
+      "precio": 3200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394311060103-1-.webp",
+      "galeria": [
+        "/images/shop/25394311060103-1-.webp",
+        "/images/shop/cb1e876e-25394311060103-1-.webp",
+        "/images/shop/a87cf9cf-25394311060103-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-salado-18685",
+      "nombre": "Mani Salado",
+      "slug": "mani-salado-18685",
+      "marca": "NUTRESA",
+      "precio": 2200,
+      "precioAnterior": null,
+      "descripcion": "contiene uvas pasas",
+      "imagen": "/images/shop/25394311060100-1-.webp",
+      "galeria": [
+        "/images/shop/25394311060100-1-.webp",
+        "/images/shop/834d2183-25394311060100-1-.webp",
+        "/images/shop/08c08e8f-25394311060100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-salado-18684",
+      "nombre": "Mani Salado",
+      "slug": "mani-salado-18684",
+      "marca": "NUTRESA",
+      "precio": 2200,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394311060102-1-.webp",
+      "galeria": [
+        "/images/shop/25394311060102-1-.webp",
+        "/images/shop/8e988281-25394311060102-1-.webp",
+        "/images/shop/a9c595f6-25394311060102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "mani-18683",
+      "nombre": "Mani",
+      "slug": "mani-18683",
+      "marca": "NUTRESA",
+      "precio": 3000,
+      "precioAnterior": null,
+      "descripcion": "sabor a limon y pimienta",
+      "imagen": "/images/shop/25394311030102-1-.webp",
+      "galeria": [
+        "/images/shop/25394311030102-1-.webp",
+        "/images/shop/8b5c71db-25394311030102-1-.webp",
+        "/images/shop/5e4a060a-25394311030102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "maiz-tostado-18682",
+      "nombre": "Maiz Tostado",
+      "slug": "maiz-tostado-18682",
+      "marca": "NUTRESA",
+      "precio": 3000,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394311010100-1-.webp",
+      "galeria": [
+        "/images/shop/25394311010100-1-.webp",
+        "/images/shop/89eb173f-25394311010100-1-.webp",
+        "/images/shop/bbc2b6a3-25394311010100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "pasabocas"
+    },
+    {
+      "id": "galleta-18681",
+      "nombre": "Galleta",
+      "slug": "galleta-18681",
+      "marca": "NUTRESA",
+      "precio": 2000,
+      "precioAnterior": null,
+      "descripcion": "sabor a vainilla",
+      "imagen": "/images/shop/25394302090104-1-.webp",
+      "galeria": [
+        "/images/shop/25394302090104-1-.webp",
+        "/images/shop/64391fe9-25394302090104-1-.webp",
+        "/images/shop/1b312392-25394302090104-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galleta-18680",
+      "nombre": "Galleta",
+      "slug": "galleta-18680",
+      "marca": "NUTRESA",
+      "precio": 1600,
+      "precioAnterior": null,
+      "descripcion": "sabor a chocolate",
+      "imagen": "/images/shop/25394302060900-1-.webp",
+      "galeria": [
+        "/images/shop/25394302060900-1-.webp",
+        "/images/shop/bbf08b95-25394302060900-1-.webp",
+        "/images/shop/d8568b21-25394302060900-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galleta-18679",
+      "nombre": "Galleta",
+      "slug": "galleta-18679",
+      "marca": "NUTRESA",
+      "precio": 1900,
+      "precioAnterior": null,
+      "descripcion": "sabor a kiwi",
+      "imagen": "/images/shop/25394302050901-1-.webp",
+      "galeria": [
+        "/images/shop/25394302050901-1-.webp",
+        "/images/shop/e984c598-25394302050901-1-.webp",
+        "/images/shop/3bc7e8a1-25394302050901-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "chocolate-de-leche-18678",
+      "nombre": "Chocolate De Leche",
+      "slug": "chocolate-de-leche-18678",
+      "marca": "NUTRESA",
+      "precio": 5700,
+      "precioAnterior": null,
+      "descripcion": "relleno de arequipe",
+      "imagen": "/images/shop/25394301050901-1-.webp",
+      "galeria": [
+        "/images/shop/25394301050901-1-.webp",
+        "/images/shop/e6049e18-25394301050901-1-.webp",
+        "/images/shop/938f2a35-25394301050901-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-de-leche-18677",
+      "nombre": "Chocolate De Leche",
+      "slug": "chocolate-de-leche-18677",
+      "marca": "NUTRESA",
+      "precio": 11900,
+      "precioAnterior": null,
+      "descripcion": "relleno de arequipe",
+      "imagen": "/images/shop/25394301051302-1-.webp",
+      "galeria": [
+        "/images/shop/25394301051302-1-.webp",
+        "/images/shop/ca0f521f-25394301051302-1-.webp",
+        "/images/shop/ae20e297-25394301051302-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-de-leche-18676",
+      "nombre": "Chocolate De Leche",
+      "slug": "chocolate-de-leche-18676",
+      "marca": "NUTRESA",
+      "precio": 8600,
+      "precioAnterior": null,
+      "descripcion": "con almendras",
+      "imagen": "/images/shop/25394301030203-1-.webp",
+      "galeria": [
+        "/images/shop/25394301030203-1-.webp",
+        "/images/shop/d5b00dc1-25394301030203-1-.webp",
+        "/images/shop/ee8a808e-25394301030203-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-de-leche-con-mani-18675",
+      "nombre": "Chocolate De Leche Con Mani",
+      "slug": "chocolate-de-leche-con-mani-18675",
+      "marca": "NUTRESA",
+      "precio": 3700,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301030105-1-.webp",
+      "galeria": [
+        "/images/shop/25394301030105-1-.webp",
+        "/images/shop/cc684184-25394301030105-1-.webp",
+        "/images/shop/297c9e94-25394301030105-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-de-leche-con-mani-18674",
+      "nombre": "Chocolate De Leche Con Mani",
+      "slug": "chocolate-de-leche-con-mani-18674",
+      "marca": "NUTRESA",
+      "precio": 8400,
+      "precioAnterior": null,
+      "descripcion": "",
+      "imagen": "/images/shop/25394301030206-1-.webp",
+      "galeria": [
+        "/images/shop/25394301030206-1-.webp",
+        "/images/shop/a050f01b-25394301030206-1-.webp",
+        "/images/shop/7fa2ac4b-25394301030206-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "chocolate-blanco-18673",
+      "nombre": "Chocolate Blanco",
+      "slug": "chocolate-blanco-18673",
+      "marca": "NUTRESA",
+      "precio": 1100,
+      "precioAnterior": null,
+      "descripcion": "cookies and cream",
+      "imagen": "/images/shop/25394301020102-1-.webp",
+      "galeria": [
+        "/images/shop/25394301020102-1-.webp",
+        "/images/shop/8c311ca8-25394301020102-1-.webp",
+        "/images/shop/228fe2a0-25394301020102-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates",
+      "color": "Blanco"
+    },
+    {
+      "id": "chocolate-blanco-18672",
+      "nombre": "Chocolate Blanco",
+      "slug": "chocolate-blanco-18672",
+      "marca": "NUTRESA",
+      "precio": 5700,
+      "precioAnterior": null,
+      "descripcion": "cookies and cream",
+      "imagen": "/images/shop/25394301020100-1-.webp",
+      "galeria": [
+        "/images/shop/25394301020100-1-.webp",
+        "/images/shop/648c8219-25394301020100-1-.webp",
+        "/images/shop/4e087c5c-25394301020100-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates",
+      "color": "Blanco"
+    },
+    {
+      "id": "galleta-18671",
+      "nombre": "Galleta",
+      "slug": "galleta-18671",
+      "marca": "NUTRESA",
+      "precio": 1700,
+      "precioAnterior": null,
+      "descripcion": "sabor a coco",
+      "imagen": "/images/shop/25394301020101-1-.webp",
+      "galeria": [
+        "/images/shop/25394301020101-1-.webp",
+        "/images/shop/6f900465-25394301020101-1-.webp",
+        "/images/shop/6a4a5ddc-25394301020101-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "chocolate-de-leche-18670",
+      "nombre": "Chocolate De Leche",
+      "slug": "chocolate-de-leche-18670",
+      "marca": "NUTRESA",
+      "precio": 3700,
+      "precioAnterior": null,
+      "descripcion": "relleno de frutos secos",
+      "imagen": "/images/shop/25394301020104-1-.webp",
+      "galeria": [
+        "/images/shop/25394301020104-1-.webp",
+        "/images/shop/a067a574-25394301020104-1-.webp",
+        "/images/shop/b88f59c9-25394301020104-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "NUTRESA"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "chocolates"
+    },
+    {
+      "id": "galleta-loacker-quadratini-vainilla-125-gramos-18621",
+      "nombre": "Galleta Loacker Quadratini Vainilla 125 Gramos",
+      "slug": "galleta-loacker-quadratini-vainilla-125-gramos-18621",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 17900,
+      "precioAnterior": null,
+      "descripcion": "creación exquisita de obleas con vainilla bourbon, variedad procedente de madagascar, conocida por su pureza y por no contener aditivos. su sabor, tan exquisito, real y exótico como la orquídea, de cuyas cápsulas fermentadas se extrae el grano de vainilla, compone la fina crema de ésta presentación.",
+      "imagen": "/images/shop/Galleta-Loacker-Quadratini-Vainilla-125gramos-24874302090302-1-.webp",
+      "galeria": [
+        "/images/shop/Galleta-Loacker-Quadratini-Vainilla-125gramos-24874302090302-1-.webp",
+        "/images/shop/71ff6db7-Galleta-Loacker-Quadratini-Vainilla-125gramos-24874302090302-1-.webp",
+        "/images/shop/310ed6c2-Galleta-Loacker-Quadratini-Vainilla-125gramos-24874302090302-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galleta-loacker-quadratini-tiramisu-110-gramos-18620",
+      "nombre": "Galleta Loacker Quadratini Tiramisu 110 Gramos",
+      "slug": "galleta-loacker-quadratini-tiramisu-110-gramos-18620",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 17900,
+      "precioAnterior": null,
+      "descripcion": "las galletas quadratini con crema de tiramisú loacker traen en forma de cubo el clásico rey de los postres italianos, ahora elaborado con un sabor más intenso a cacao y café.",
+      "imagen": "/images/shop/Galleta-Loacker-Quadratini-Tiramisu-110gramos-24874302090301-1-.webp",
+      "galeria": [
+        "/images/shop/Galleta-Loacker-Quadratini-Tiramisu-110gramos-24874302090301-1-.webp",
+        "/images/shop/ab8a1e06-Galleta-Loacker-Quadratini-Tiramisu-110gramos-24874302090301-1-.webp",
+        "/images/shop/938675bd-Galleta-Loacker-Quadratini-Tiramisu-110gramos-24874302090301-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galleta-loacker-milk-45-gramos-18619",
+      "nombre": "Galleta Loacker Milk 45 Gramos",
+      "slug": "galleta-loacker-milk-45-gramos-18619",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "las galletas wafer clásica con crema de leche loacker mantiene el delicado sabor de la leche. tres obleas claras y crujientes, mas dos capas del relleno de la crema más suave elaborada con leche de alta calidad, garantizando la mejor de las experiencias para quienes prefieren los sabores clásicos.",
+      "imagen": "/images/shop/Galleta-Loacker-Milk-45gramos-24874302090900-1-.webp",
+      "galeria": [
+        "/images/shop/Galleta-Loacker-Milk-45gramos-24874302090900-1-.webp",
+        "/images/shop/809e5504-Galleta-Loacker-Milk-45gramos-24874302090900-1-.webp",
+        "/images/shop/ddbc5341-Galleta-Loacker-Milk-45gramos-24874302090900-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galleta-loacker-napolitaner-45-gramos-18618",
+      "nombre": "Galleta Loacker Napolitaner 45 Gramos",
+      "slug": "galleta-loacker-napolitaner-45-gramos-18618",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 6900,
+      "precioAnterior": null,
+      "descripcion": "las galletas wafer con crema napolitaner loacker están hechas con avellanas italianas seleccionadas que garantizan un delicioso placer de avellana. el nombre “napolitaner” proviene del hecho de que sólo se usaron originalmente variedades de nueces cultivadas alrededor de nápoles.",
+      "imagen": "/images/shop/Galleta-Loacker-Napolitaner-45gramos-24874302090906-1-.webp",
+      "galeria": [
+        "/images/shop/Galleta-Loacker-Napolitaner-45gramos-24874302090906-1-.webp",
+        "/images/shop/7804df5d-Galleta-Loacker-Napolitaner-45gramos-24874302090906-1-.webp",
+        "/images/shop/24986416-Galleta-Loacker-Napolitaner-45gramos-24874302090906-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    },
+    {
+      "id": "galleta-loacker-napolitaner-125-gramos-18617",
+      "nombre": "Galleta Loacker Napolitaner 125 Gramos",
+      "slug": "galleta-loacker-napolitaner-125-gramos-18617",
+      "marca": "LOS TRES ELEFANTES",
+      "precio": 17900,
+      "precioAnterior": null,
+      "descripcion": "las galletas wafer con crema napolitaner loacker están hechas con avellanas italianas seleccionadas que garantizan un delicioso placer de avellana. el nombre “napolitaner” proviene del hecho de que sólo se usaron originalmente variedades de nueces cultivadas alrededor de nápoles.",
+      "imagen": "/images/shop/Galleta-Loacker-Napolitaner-125gramos-24874302091107-1-.webp",
+      "galeria": [
+        "/images/shop/Galleta-Loacker-Napolitaner-125gramos-24874302091107-1-.webp",
+        "/images/shop/5ca97716-Galleta-Loacker-Napolitaner-125gramos-24874302091107-1-.webp",
+        "/images/shop/cdc091f7-Galleta-Loacker-Napolitaner-125gramos-24874302091107-1-.webp"
+      ],
+      "contenido": [],
+      "tags": [
+        "LOS TRES ELEFANTES"
+      ],
+      "popular": false,
+      "visible": true,
+      "stock": 10,
+      "categoria": "confiteria",
+      "subcategoria": "galletas-masmelos"
+    }
+  ]
+}
