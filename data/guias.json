@@ -1,6 +1,76 @@
 {
   "guias": [
     {
+      "slug": "que-utiles-de-escritura-necesita-un-estudiante-en-bogota",
+      "title": "Qué útiles de escritura necesita un estudiante en Bogotá",
+      "h1": "Qué útiles de escritura necesita un estudiante en Bogotá",
+      "metaDescription": "Conoce los útiles de escritura que todo estudiante necesita: esferos, lápices y resaltadores de calidad. Pide a domicilio en Bogotá por WhatsApp.",
+      "excerpt": "Una lista clara de los esferos, lápices y resaltadores que no pueden faltar en el morral de tu hijo durante el año escolar.",
+      "fecha": "2026-06-04",
+      "imagenCategoria": "escritura",
+      "categoriasRelacionadas": [
+        "escritura",
+        "utiles-escolares",
+        "morrales-y-loncheras"
+      ],
+      "lead": "Elegir bien los útiles de escritura marca la diferencia en la letra, la velocidad y la motivación del estudiante.",
+      "secciones": [
+        {
+          "titulo": "Esferos: los básicos del día a día",
+          "parrafos": [
+            "Los esferos negros y azules son los más pedidos para el colegio. Un rojo también sirve para corregir y firmar planillas.",
+            "Elige punta media de 1.0 mm para escribir tareas y exámenes. La punta fina de 0.7 mm funciona mejor en cuadros pequeños o agendas apretadas."
+          ]
+        },
+        {
+          "titulo": "Lápices: grafito y colores según el grado",
+          "parrafos": [
+            "El lápiz negro HB sigue siendo el rey de la primaria por su trazo firme. Los de tipo 2B sirven para dibujo y sombreado en clase de arte.",
+            "Para los primeros años, conviene uno con borrador incluido. Los más grandecitos ya prefieren portaminas con minas de repuesto, que se ven en nuestra categoría de escritura."
+          ]
+        },
+        {
+          "titulo": "Resaltadores para estudiar mejor",
+          "parrafos": [
+            "Un buen resaltador debe tener punta biselada y trazo firme. Con esa punta el estudiante puede subrayar una línea sola o un párrafo entero sin manchar la hoja.",
+            "Los colores neón se notan más sobre el papel. Un amarillo pastel queda bien en textos oscuros. Tener dos o tres colores ayuda a separar ideas por tema."
+          ]
+        },
+        {
+          "titulo": "Complementos que no pueden faltar",
+          "parrafos": [
+            "Borrador de nata que no manche, sacapuntas con depósito y corrector en cinta forman el combo ganador. Todo cabe sin problema en un estuche normal.",
+            "Si el estudiante usa portaminas, lleva una caja de minas 0.5 o 0.7 según el modelo. Un buen estuche con cierre guarda todo y evita pérdidas en el salón."
+          ]
+        },
+        {
+          "titulo": "Pide tu kit de escritura a domicilio en Bogotá",
+          "parrafos": [
+            "En nuestra papelería a domicilio armamos kits por grado y por presupuesto. Solo dinos el colegio, la lista o lo que ya tienes en casa.",
+            "Tienes dos formas de pago: contra entrega o por transferencia, como prefieras. El pedido llega a la puerta de tu casa en Bogotá en menos de 24 horas según la zona."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuántos esferos debe llevar un estudiante al colegio?",
+          "respuesta": "Lo ideal son tres: negro, azul y rojo. Si pierde uno, siempre tiene repuesto en el estuche y la jornada sigue sin tropiezos."
+        },
+        {
+          "pregunta": "¿Qué resaltador no traspasa el papel?",
+          "respuesta": "Los resaltadores punta biselada de buena marca secan rápido y no manchan la hoja. Te recomendamos probarlos primero en una hoja suelta antes de usarlos en el cuaderno."
+        },
+        {
+          "pregunta": "¿Hacen entregas el mismo día en Bogotá?",
+          "respuesta": "Sí, hacemos entregas el mismo día en gran parte de Bogotá si pides antes de las 2 p.m. Te confirmamos la hora exacta por WhatsApp al cierre del pedido."
+        },
+        {
+          "pregunta": "¿Puedo armar mi propio combo de útiles de escritura?",
+          "respuesta": "Por supuesto. Mándanos tu lista por WhatsApp y te armamos un combo con los precios que más te convengan. No hay mínimo de compra."
+        }
+      ]
+    },
+    {
       "slug": "como-armar-la-lista-de-utiles-escolares",
       "title": "Cómo Armar la Lista de Útiles Escolares Paso a Paso",
       "h1": "Cómo armar la lista de útiles escolares paso a paso",
@@ -8,7 +78,11 @@
       "excerpt": "Una guía paso a paso para organizar la lista del colegio sin olvidos, ahorrando tiempo y dinero.",
       "fecha": "2026-04-02",
       "imagenCategoria": "utiles-escolares",
-      "categoriasRelacionadas": ["utiles-escolares", "escritura", "papeles-y-blocks"],
+      "categoriasRelacionadas": [
+        "utiles-escolares",
+        "escritura",
+        "papeles-y-blocks"
+      ],
       "lead": "Armar la lista de útiles parece simple, pero entre tantas referencias es fácil olvidar algo o comprar de más. Con este método paso a paso, lo haces ordenado y sin estrés.",
       "secciones": [
         {
@@ -48,9 +122,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Por dónde empiezo a armar la lista?", "respuesta": "Por la lista oficial del colegio. Léela completa, revisa qué tienes en casa y organiza lo que falta por categorías antes de comprar." },
-        { "pregunta": "¿Cómo evito comprar de más?", "respuesta": "Haz inventario antes de comprar y define cantidades realistas: un lote inicial de lo que se acaba y repones durante el año." },
-        { "pregunta": "¿Pueden cotizarme la lista completa?", "respuesta": "Sí. Envíanos la lista del colegio por WhatsApp y te la cotizamos completa con entrega a domicilio en Bogotá." }
+        {
+          "pregunta": "¿Por dónde empiezo a armar la lista?",
+          "respuesta": "Por la lista oficial del colegio. Léela completa, revisa qué tienes en casa y organiza lo que falta por categorías antes de comprar."
+        },
+        {
+          "pregunta": "¿Cómo evito comprar de más?",
+          "respuesta": "Haz inventario antes de comprar y define cantidades realistas: un lote inicial de lo que se acaba y repones durante el año."
+        },
+        {
+          "pregunta": "¿Pueden cotizarme la lista completa?",
+          "respuesta": "Sí. Envíanos la lista del colegio por WhatsApp y te la cotizamos completa con entrega a domicilio en Bogotá."
+        }
       ]
     },
     {
@@ -61,7 +144,11 @@
       "excerpt": "Tamaño, comodidad, resistencia y diseño: todo lo que debes mirar para elegir un morral que dure todo el año.",
       "fecha": "2026-04-09",
       "imagenCategoria": "morrales-y-loncheras",
-      "categoriasRelacionadas": ["morrales-y-loncheras", "utiles-escolares", "escritura"],
+      "categoriasRelacionadas": [
+        "morrales-y-loncheras",
+        "utiles-escolares",
+        "escritura"
+      ],
       "lead": "El morral acompaña al estudiante todos los días y carga buena parte de su mundo. Elegir bien evita dolores de espalda y compras repetidas a mitad de año.",
       "secciones": [
         {
@@ -94,9 +181,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Qué morral es mejor para primaria?", "respuesta": "Uno mediano, cómodo, con espaldar acolchado y tirantes anchos, que cargue cuadernos sin lastimar la espalda del niño." },
-        { "pregunta": "¿Cómo sé si un morral es resistente?", "respuesta": "Revisa las costuras, las cremalleras y el material. Costuras bien rematadas y cremalleras que corren suave son señal de buena calidad." },
-        { "pregunta": "¿Tienen morrales para todas las edades?", "respuesta": "Sí, manejamos morrales y loncheras en distintos tamaños y diseños para preescolar, primaria y bachillerato." }
+        {
+          "pregunta": "¿Qué morral es mejor para primaria?",
+          "respuesta": "Uno mediano, cómodo, con espaldar acolchado y tirantes anchos, que cargue cuadernos sin lastimar la espalda del niño."
+        },
+        {
+          "pregunta": "¿Cómo sé si un morral es resistente?",
+          "respuesta": "Revisa las costuras, las cremalleras y el material. Costuras bien rematadas y cremalleras que corren suave son señal de buena calidad."
+        },
+        {
+          "pregunta": "¿Tienen morrales para todas las edades?",
+          "respuesta": "Sí, manejamos morrales y loncheras en distintos tamaños y diseños para preescolar, primaria y bachillerato."
+        }
       ]
     },
     {
@@ -107,7 +203,11 @@
       "excerpt": "Cosido o argollado, ferrocarril o cuadriculado: aprende a elegir el cuaderno correcto para cada materia y grado.",
       "fecha": "2026-04-16",
       "imagenCategoria": "utiles-escolares",
-      "categoriasRelacionadas": ["utiles-escolares", "papeles-y-blocks", "escritura"],
+      "categoriasRelacionadas": [
+        "utiles-escolares",
+        "papeles-y-blocks",
+        "escritura"
+      ],
       "lead": "No todos los cuadernos sirven para lo mismo. Conocer los tipos te ayuda a elegir el correcto para cada materia y a cumplir con lo que pide el colegio.",
       "secciones": [
         {
@@ -140,9 +240,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Cuál es mejor: cosido o argollado?", "respuesta": "Depende del uso. El cosido es más resistente y plano, ideal para primaria; el argollado es flexible y práctico para bachillerato." },
-        { "pregunta": "¿Qué cuaderno uso para matemáticas?", "respuesta": "El cuadriculado es el indicado para matemáticas y geometría, porque facilita ordenar números y figuras." },
-        { "pregunta": "¿Tienen cuadernos de 50 y 100 hojas?", "respuesta": "Sí, manejamos cuadernos cosidos y argollados de distintos números de hojas y diseños. Consúltanos disponibilidad por WhatsApp." }
+        {
+          "pregunta": "¿Cuál es mejor: cosido o argollado?",
+          "respuesta": "Depende del uso. El cosido es más resistente y plano, ideal para primaria; el argollado es flexible y práctico para bachillerato."
+        },
+        {
+          "pregunta": "¿Qué cuaderno uso para matemáticas?",
+          "respuesta": "El cuadriculado es el indicado para matemáticas y geometría, porque facilita ordenar números y figuras."
+        },
+        {
+          "pregunta": "¿Tienen cuadernos de 50 y 100 hojas?",
+          "respuesta": "Sí, manejamos cuadernos cosidos y argollados de distintos números de hojas y diseños. Consúltanos disponibilidad por WhatsApp."
+        }
       ]
     },
     {
@@ -153,7 +262,11 @@
       "excerpt": "Materiales seguros, coloridos y didácticos: lo que de verdad necesita un niño que empieza el jardín o preescolar.",
       "fecha": "2026-04-23",
       "imagenCategoria": "pintar",
-      "categoriasRelacionadas": ["pintar", "utiles-escolares", "escritura"],
+      "categoriasRelacionadas": [
+        "pintar",
+        "utiles-escolares",
+        "escritura"
+      ],
       "lead": "En preescolar los útiles deben ser seguros, fáciles de manipular y pensados para que el niño explore. Esta guía te ayuda a armar la lista del jardín sin excesos.",
       "secciones": [
         {
@@ -186,9 +299,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Qué útiles necesita un niño de preescolar?", "respuesta": "Lo esencial: crayolas, témperas lavables, plastilina, tijeras de punta roma, pegante y lápices gruesos. La lista del jardín define el resto." },
-        { "pregunta": "¿Las tijeras son seguras para el jardín?", "respuesta": "Sí, las de punta roma están diseñadas para que los más pequeños recorten con seguridad." },
-        { "pregunta": "¿Puedo pedir la lista del jardín completa?", "respuesta": "Claro, envíanos la lista por WhatsApp y te la cotizamos y entregamos completa a domicilio en Bogotá." }
+        {
+          "pregunta": "¿Qué útiles necesita un niño de preescolar?",
+          "respuesta": "Lo esencial: crayolas, témperas lavables, plastilina, tijeras de punta roma, pegante y lápices gruesos. La lista del jardín define el resto."
+        },
+        {
+          "pregunta": "¿Las tijeras son seguras para el jardín?",
+          "respuesta": "Sí, las de punta roma están diseñadas para que los más pequeños recorten con seguridad."
+        },
+        {
+          "pregunta": "¿Puedo pedir la lista del jardín completa?",
+          "respuesta": "Claro, envíanos la lista por WhatsApp y te la cotizamos y entregamos completa a domicilio en Bogotá."
+        }
       ]
     },
     {
@@ -199,7 +321,11 @@
       "excerpt": "Qué cambia de primero a quinto y cómo armar la lista de básica primaria sin que falte ni sobre nada.",
       "fecha": "2026-04-30",
       "imagenCategoria": "escritura",
-      "categoriasRelacionadas": ["escritura", "utiles-escolares", "papeles-y-blocks"],
+      "categoriasRelacionadas": [
+        "escritura",
+        "utiles-escolares",
+        "papeles-y-blocks"
+      ],
       "lead": "La primaria es la etapa donde la lista crece y se vuelve más específica. Esta guía te orienta sobre qué cambia entre grados para que armes la lista con sentido.",
       "secciones": [
         {
@@ -232,9 +358,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Qué útiles cambian entre grados en primaria?", "respuesta": "En los primeros grados pesa lo manual (colores, plastilina, ferrocarril); en grados altos aparecen cuadernos por materia, regla, esferos y carpetas." },
-        { "pregunta": "¿Tienen todo lo de la lista de primaria?", "respuesta": "Sí, cubrimos cuadernos, escritura, arte y organización. Si falta una referencia exacta, te ofrecemos una equivalente." },
-        { "pregunta": "¿Pueden cotizar la lista exacta del colegio?", "respuesta": "Claro, envíanos la lista por WhatsApp y te cotizamos cada producto con precio y disponibilidad." }
+        {
+          "pregunta": "¿Qué útiles cambian entre grados en primaria?",
+          "respuesta": "En los primeros grados pesa lo manual (colores, plastilina, ferrocarril); en grados altos aparecen cuadernos por materia, regla, esferos y carpetas."
+        },
+        {
+          "pregunta": "¿Tienen todo lo de la lista de primaria?",
+          "respuesta": "Sí, cubrimos cuadernos, escritura, arte y organización. Si falta una referencia exacta, te ofrecemos una equivalente."
+        },
+        {
+          "pregunta": "¿Pueden cotizar la lista exacta del colegio?",
+          "respuesta": "Claro, envíanos la lista por WhatsApp y te cotizamos cada producto con precio y disponibilidad."
+        }
       ]
     },
     {
@@ -245,7 +380,11 @@
       "excerpt": "Menos manualidades y más herramientas de estudio: cómo cambia la lista al pasar a bachillerato y qué priorizar.",
       "fecha": "2026-05-07",
       "imagenCategoria": "papeles-y-blocks",
-      "categoriasRelacionadas": ["papeles-y-blocks", "archivos-y-clasificacion", "escritura"],
+      "categoriasRelacionadas": [
+        "papeles-y-blocks",
+        "archivos-y-clasificacion",
+        "escritura"
+      ],
       "lead": "Al llegar a bachillerato la lista cambia de carácter: el foco pasa de pintar y recortar a estudiar, organizar y presentar trabajos. Esto es lo que conviene priorizar.",
       "secciones": [
         {
@@ -278,9 +417,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Qué útiles necesita un estudiante de bachillerato?", "respuesta": "Blocks, carpetas, folders, juego geométrico, esferos de varios colores y resaltadores. Las manualidades pierden protagonismo frente a las herramientas de estudio." },
-        { "pregunta": "¿Tienen juego geométrico?", "respuesta": "Sí, manejamos reglas y útiles de geometría. Por calculadora, consúltanos disponibilidad y referencia por WhatsApp." },
-        { "pregunta": "¿Venden carpetas para organizar trabajos?", "respuesta": "Sí, tenemos carpetas, folders y sobres en varios formatos para mantener los trabajos en orden todo el año." }
+        {
+          "pregunta": "¿Qué útiles necesita un estudiante de bachillerato?",
+          "respuesta": "Blocks, carpetas, folders, juego geométrico, esferos de varios colores y resaltadores. Las manualidades pierden protagonismo frente a las herramientas de estudio."
+        },
+        {
+          "pregunta": "¿Tienen juego geométrico?",
+          "respuesta": "Sí, manejamos reglas y útiles de geometría. Por calculadora, consúltanos disponibilidad y referencia por WhatsApp."
+        },
+        {
+          "pregunta": "¿Venden carpetas para organizar trabajos?",
+          "respuesta": "Sí, tenemos carpetas, folders y sobres en varios formatos para mantener los trabajos en orden todo el año."
+        }
       ]
     },
     {
@@ -291,7 +439,11 @@
       "excerpt": "Trucos sencillos para forrar y marcar cuadernos de modo que lleguen enteros a fin de año, sin desorden ni pérdidas.",
       "fecha": "2026-05-14",
       "imagenCategoria": "papeles-y-blocks",
-      "categoriasRelacionadas": ["papeles-y-blocks", "utiles-escolares", "archivos-y-clasificacion"],
+      "categoriasRelacionadas": [
+        "papeles-y-blocks",
+        "utiles-escolares",
+        "archivos-y-clasificacion"
+      ],
       "lead": "Forrar y marcar los cuadernos al inicio del año es una tradición que tiene sentido: protege la portada, identifica cada materia y evita pérdidas. Aquí va el cómo.",
       "secciones": [
         {
@@ -324,9 +476,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Con qué se forran los cuadernos?", "respuesta": "Con forros adhesivos o de plástico con solapa. También necesitas cinta, tijeras, marcador y etiquetas para marcarlos." },
-        { "pregunta": "¿Cómo evito que se pierdan los cuadernos?", "respuesta": "Marcando cada uno con el nombre, el grado y la materia en un lugar visible. Así es más fácil que regresen si se extravían." },
-        { "pregunta": "¿Venden forros y etiquetas?", "respuesta": "Manejamos útiles de papelería para forrar y marcar. Escríbenos por WhatsApp y te indicamos lo disponible." }
+        {
+          "pregunta": "¿Con qué se forran los cuadernos?",
+          "respuesta": "Con forros adhesivos o de plástico con solapa. También necesitas cinta, tijeras, marcador y etiquetas para marcarlos."
+        },
+        {
+          "pregunta": "¿Cómo evito que se pierdan los cuadernos?",
+          "respuesta": "Marcando cada uno con el nombre, el grado y la materia en un lugar visible. Así es más fácil que regresen si se extravían."
+        },
+        {
+          "pregunta": "¿Venden forros y etiquetas?",
+          "respuesta": "Manejamos útiles de papelería para forrar y marcar. Escríbenos por WhatsApp y te indicamos lo disponible."
+        }
       ]
     },
     {
@@ -337,7 +498,11 @@
       "excerpt": "Pigmentación, rendimiento y seguridad: claves para elegir colores, témperas y materiales de arte que rindan todo el año.",
       "fecha": "2026-05-21",
       "imagenCategoria": "pintar",
-      "categoriasRelacionadas": ["pintar", "escritura", "utiles-escolares"],
+      "categoriasRelacionadas": [
+        "pintar",
+        "escritura",
+        "utiles-escolares"
+      ],
       "lead": "Un buen material de arte hace que los trabajos luzcan y que el niño disfrute la clase de artística. Esta guía te ayuda a elegir colores y témperas con criterio.",
       "secciones": [
         {
@@ -370,9 +535,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Cómo sé si un color es de buena calidad?", "respuesta": "Por su pigmentación y rendimiento: un buen color cubre bien con una sola pasada y dura más. Elegimos referencias con esas características." },
-        { "pregunta": "¿Las témperas son lavables?", "respuesta": "Tenemos varias opciones; pregúntanos por las referencias lavables, ideales para niños pequeños." },
-        { "pregunta": "¿Tienen sets de pintura completos?", "respuesta": "Sí, manejamos sets de pintura con paleta y pincel en distintas presentaciones. Consúltanos por WhatsApp." }
+        {
+          "pregunta": "¿Cómo sé si un color es de buena calidad?",
+          "respuesta": "Por su pigmentación y rendimiento: un buen color cubre bien con una sola pasada y dura más. Elegimos referencias con esas características."
+        },
+        {
+          "pregunta": "¿Las témperas son lavables?",
+          "respuesta": "Tenemos varias opciones; pregúntanos por las referencias lavables, ideales para niños pequeños."
+        },
+        {
+          "pregunta": "¿Tienen sets de pintura completos?",
+          "respuesta": "Sí, manejamos sets de pintura con paleta y pincel en distintas presentaciones. Consúltanos por WhatsApp."
+        }
       ]
     },
     {
@@ -383,7 +557,11 @@
       "excerpt": "Carpetas, folders y separadores: un sistema simple para mantener los trabajos del colegio en orden durante todo el año.",
       "fecha": "2026-05-28",
       "imagenCategoria": "archivos-y-clasificacion",
-      "categoriasRelacionadas": ["archivos-y-clasificacion", "papeles-y-blocks", "accesorios-de-escritorio-y-oficina"],
+      "categoriasRelacionadas": [
+        "archivos-y-clasificacion",
+        "papeles-y-blocks",
+        "accesorios-de-escritorio-y-oficina"
+      ],
       "lead": "El desorden de papeles es enemigo del rendimiento. Con un sistema sencillo de clasificación, cada trabajo está donde debe y nada se pierde antes de la entrega.",
       "secciones": [
         {
@@ -416,9 +594,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Qué necesito para organizar los trabajos del colegio?", "respuesta": "Una carpeta o folder por materia, separadores para subdividir y sobres para hojas sueltas. Etiquetar cada carpeta completa el sistema." },
-        { "pregunta": "¿Venden carpetas, folders y separadores?", "respuesta": "Sí, manejamos carpetas, folders, sobres y artículos de archivo en varios formatos. Consúltanos disponibilidad por WhatsApp." },
-        { "pregunta": "¿Sirve para bachillerato y universidad?", "respuesta": "Sí, el sistema funciona en cualquier nivel donde haya volumen de trabajos. Solo ajustas la cantidad de carpetas y separadores." }
+        {
+          "pregunta": "¿Qué necesito para organizar los trabajos del colegio?",
+          "respuesta": "Una carpeta o folder por materia, separadores para subdividir y sobres para hojas sueltas. Etiquetar cada carpeta completa el sistema."
+        },
+        {
+          "pregunta": "¿Venden carpetas, folders y separadores?",
+          "respuesta": "Sí, manejamos carpetas, folders, sobres y artículos de archivo en varios formatos. Consúltanos disponibilidad por WhatsApp."
+        },
+        {
+          "pregunta": "¿Sirve para bachillerato y universidad?",
+          "respuesta": "Sí, el sistema funciona en cualquier nivel donde haya volumen de trabajos. Solo ajustas la cantidad de carpetas y separadores."
+        }
       ]
     },
     {
@@ -429,7 +616,11 @@
       "excerpt": "Organizadores, archivo y escritura: los básicos de papelería para montar un espacio de trabajo productivo en la oficina o en casa.",
       "fecha": "2026-06-02",
       "imagenCategoria": "accesorios-de-escritorio-y-oficina",
-      "categoriasRelacionadas": ["accesorios-de-escritorio-y-oficina", "archivos-y-clasificacion", "escritura"],
+      "categoriasRelacionadas": [
+        "accesorios-de-escritorio-y-oficina",
+        "archivos-y-clasificacion",
+        "escritura"
+      ],
       "lead": "La papelería no es solo del colegio: la oficina y el trabajo en casa también la necesitan. Esta guía cubre los básicos para un espacio de trabajo ordenado y productivo.",
       "secciones": [
         {
@@ -462,9 +653,18 @@
         }
       ],
       "faq": [
-        { "pregunta": "¿Qué papelería básica necesita una oficina?", "respuesta": "Organizadores, carpetas y folders para archivo, y los básicos de escritura como esferos, resaltadores y libretas." },
-        { "pregunta": "¿Venden papelería por volumen para empresas?", "respuesta": "Sí, surtimos oficinas y negocios al detal y por volumen. Pídenos una cotización por WhatsApp." },
-        { "pregunta": "¿Entregan a domicilio en oficinas?", "respuesta": "Sí, entregamos en oficinas, edificios y hogares de toda Bogotá. Coordinamos por WhatsApp." }
+        {
+          "pregunta": "¿Qué papelería básica necesita una oficina?",
+          "respuesta": "Organizadores, carpetas y folders para archivo, y los básicos de escritura como esferos, resaltadores y libretas."
+        },
+        {
+          "pregunta": "¿Venden papelería por volumen para empresas?",
+          "respuesta": "Sí, surtimos oficinas y negocios al detal y por volumen. Pídenos una cotización por WhatsApp."
+        },
+        {
+          "pregunta": "¿Entregan a domicilio en oficinas?",
+          "respuesta": "Sí, entregamos en oficinas, edificios y hogares de toda Bogotá. Coordinamos por WhatsApp."
+        }
       ]
     }
   ]
