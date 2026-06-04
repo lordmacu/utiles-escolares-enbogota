@@ -10,7 +10,7 @@ import {
   GUIAS,
   getGuia,
   getGuiaSlugs,
-  imagenDeCategoria,
+  heroDe,
   productosDeCategorias,
   formatFecha,
 } from "@/lib/blog";
@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const guia = getGuia(slug);
   if (!guia) return { title: "Guía no encontrada" };
 
-  const img = imagenDeCategoria(guia.imagenCategoria);
+  const img = heroDe(guia).src;
   return {
     title: guia.title,
     description: guia.metaDescription,
@@ -47,7 +47,7 @@ export default async function GuiaPage({ params }: { params: Promise<{ slug: str
   const guia = getGuia(slug);
   if (!guia) notFound();
 
-  const heroImagen = imagenDeCategoria(guia.imagenCategoria);
+  const heroImagen = heroDe(guia).src;
   const productos = productosDeCategorias(guia.categoriasRelacionadas);
   const catsRelacionadas = guia.categoriasRelacionadas
     .map(getCategoriaInfo)

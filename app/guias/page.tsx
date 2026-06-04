@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { JsonLd } from "@/components/JsonLd";
 import { SITE_URL, SITE_NAME } from "@/lib/site";
-import { GUIAS, imagenDeCategoria, formatFecha } from "@/lib/blog";
+import { GUIAS, heroDe, formatFecha } from "@/lib/blog";
 
 const TITLE = "Guías de útiles escolares y papelería";
 const DESCRIPTION =
@@ -71,10 +71,10 @@ export default function GuiasIndexPage() {
                 <Link href={`/guias/${g.slug}`} className="block">
                   <div className="relative aspect-[16/10] overflow-hidden bg-[var(--color-primary-soft)]">
                     <Image
-                      src={imagenDeCategoria(g.imagenCategoria)}
+                      src={heroDe(g).src}
                       alt={g.h1}
                       fill
-                      className="object-contain p-6 transition-transform duration-500 group-hover:scale-105"
+                      className={`${heroDe(g).esFoto ? "object-cover" : "object-contain p-6"} transition-transform duration-500 group-hover:scale-105`}
                       sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                     />
                   </div>

@@ -32,7 +32,7 @@
  *   LLM_MODEL (default MiniMax-M3), LLM_API_STYLE (auto), LLM_MAX_TOKENS.
  */
 
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { execFileSync } from "node:child_process";
 import path from "node:path";
@@ -201,6 +201,55 @@ async function callLlm({ system, user, baseUrl, apiKey, model, apiStyle, maxToke
   throw lastErr;
 }
 
+// ──────────────────── imagen (MiniMax image-01) ────────────────────
+// Endpoint NATIVO (PAYG), no el de /anthropic. Fotorrealista, personas reales.
+const IMG_BASE = "https://api.minimax.io";
+const IMG_STYLE =
+  "photorealistic editorial photography, REAL PEOPLE, candid, Colombian / Latin American families, parents and school children, students in a classroom or at home studying, natural daylight, warm authentic tones, shallow depth of field, high quality magazine look, no text, no letters, no words, no watermark, no logo, no brand names";
+
+async function generateImagen(slug, imagePrompt, apiKey, outDir) {
+  if (!imagePrompt) return null;
+  try {
+    const res = await fetch(`${IMG_BASE}/v1/image_generation`, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${apiKey}`, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        model: "image-01",
+        prompt: `${imagePrompt}. ${IMG_STYLE}`,
+        width: 1536,
+        height: 960,
+        response_format: "url",
+        n: 1,
+        prompt_optimizer: true,
+      }),
+    });
+    const json = await res.json();
+    if (json?.base_resp?.status_code !== 0 || !json?.data?.image_urls?.length) {
+      console.error("  ⚠ imagen:", JSON.stringify(json?.base_resp || json).slice(0, 200));
+      return null;
+    }
+    const buf = Buffer.from(await (await fetch(json.data.image_urls[0])).arrayBuffer());
+    await mkdir(outDir, { recursive: true });
+    // WebP si hay sharp (PC); si no (celular/Termux), guarda el JPG original.
+    let ext = "jpg";
+    let out = buf;
+    try {
+      const sharp = (await import("sharp")).default;
+      out = await sharp(buf).webp({ quality: 84 }).toBuffer();
+      ext = "webp";
+    } catch {
+      /* sin sharp: se guarda el original */
+    }
+    const file = path.join(outDir, `${slug}.${ext}`);
+    await writeFile(file, out);
+    console.error(`  🎨 imagen: /images/blog/${slug}.${ext} (${(out.length / 1024).toFixed(0)} KB)`);
+    return { rel: `/images/blog/${slug}.${ext}`, file };
+  } catch (e) {
+    console.error("  ⚠ imagen falló (continúo sin imagen):", String(e.message || e).split("\n")[0]);
+    return null;
+  }
+}
+
 // ───────────────────────── prompts ─────────────────────────
 function reglasHumanas(humanizeText) {
   const es = [
@@ -273,10 +322,11 @@ function promptNoticia({ store, cats, noticias, fecha, humanizeText }) {
   ],
   "cierre": ["párrafo de cierre con invitación a pedir por WhatsApp / a domicilio en Bogotá"],
   "faq": [ { "pregunta": "...", "respuesta": "..." } ],
-  "categoriasRelacionadas": ["slug", "slug", "slug"]
+  "categoriasRelacionadas": ["slug", "slug", "slug"],
+  "imagePrompt": "descripción EN INGLÉS de una foto fotorrealista con PERSONAS REALES sobre el tema; si habla de colegio, muestra niños en el colegio/salón o papás con sus hijos comprando o alistando útiles; escena natural y cálida, sin texto en la imagen"
 }`,
     "",
-    "Requisitos: 4 a 5 items (cada uno con un ctaCategoria distinto y real), 2 a 3 secciones de análisis (prosa de fondo), 3 a 4 faq, 3 categoriasRelacionadas reales.",
+    "Requisitos: 4 a 5 items (cada uno con un ctaCategoria distinto y real), 2 a 3 secciones de análisis (prosa de fondo), 3 a 4 faq, 3 categoriasRelacionadas reales, e imagePrompt en inglés con personas reales.",
     "La noticia debe ser ORIGINAL y útil, conectando la actualidad con la compra de útiles. Solo JSON.",
   ].join("\n");
   return { system, user };
@@ -302,10 +352,11 @@ function promptGuia({ store, cats, brief, fecha, humanizeText }) {
   "categoriasRelacionadas": ["slug", "slug", "slug"],
   "lead": "1 frase que abre la guía",
   "secciones": [ { "titulo": "subtítulo claro", "parrafos": ["párrafo 1", "párrafo 2"] } ],
-  "faq": [ { "pregunta": "...", "respuesta": "..." } ]
+  "faq": [ { "pregunta": "...", "respuesta": "..." } ],
+  "imagePrompt": "descripción EN INGLÉS de una foto fotorrealista con PERSONAS REALES sobre el tema; si habla de colegio, muestra niños en el colegio/salón o papás con sus hijos alistando útiles; escena natural y cálida, sin texto en la imagen"
 }`,
     "",
-    "Requisitos: 4 a 5 secciones, 3 a 4 faq, 3 categoriasRelacionadas reales (la primera = imagenCategoria).",
+    "Requisitos: 4 a 5 secciones, 3 a 4 faq, 3 categoriasRelacionadas reales (la primera = imagenCategoria), e imagePrompt en inglés con personas reales.",
     "La guía debe mencionar tipos de producto que vendemos y orientar a comprar por WhatsApp / a domicilio en Bogotá. Solo JSON.",
   ].join("\n");
   return { system, user };
@@ -436,12 +487,11 @@ function git(args) {
 function currentBranch() {
   try { return git(["rev-parse", "--abbrev-ref", "HEAD"]); } catch { return "main"; }
 }
-function commitPush(file, message) {
+function commitPush(files, message) {
   // Asegura identidad lordmacu (no la cuenta de trabajo).
   try { git(["config", "user.name", "lordmacu"]); } catch { /* ok */ }
   try { git(["config", "user.email", "10134930+lordmacu@users.noreply.github.com"]); } catch { /* ok */ }
-  const rel = path.relative(ROOT, file);
-  git(["add", rel]);
+  for (const f of (Array.isArray(files) ? files : [files])) git(["add", path.relative(ROOT, f)]);
   // Solo commitea si NUESTRO archivo quedó staged (no toca el resto del working tree).
   if (!git(["diff", "--cached", "--name-only"])) { console.error("· nada que commitear"); return; }
   git(["commit", "-m", message]);
@@ -534,7 +584,16 @@ async function main() {
   console.error(`  metaDescription (${nuevo.metaDescription.length})`);
   console.error(`  categorías referenciadas: ${type === "noticia" ? nuevo.items.map((i) => i.ctaCategoria).join(", ") : nuevo.categoriasRelacionadas.join(", ")}`);
 
-  if (args.dryRun) { console.error("\nDRY-RUN: no se escribió nada.\n", JSON.stringify(nuevo, null, 2).slice(0, 800), "…"); return; }
+  if (args.dryRun) {
+    console.error(`  imagePrompt: ${(raw.imagePrompt || "(ninguno)").slice(0, 120)}`);
+    console.error("\nDRY-RUN: no se escribió nada (ni imagen).\n", JSON.stringify(nuevo, null, 2).slice(0, 800), "…");
+    return;
+  }
+
+  // Imagen del blog (best-effort): MiniMax image-01, escena fotorrealista con personas reales.
+  const imgDir = path.join(ROOT, "public", "images", "blog");
+  const img = await generateImagen(nuevo.slug, raw.imagePrompt, apiKey, imgDir);
+  if (img) nuevo.heroImagen = img.rel;
 
   // Inserta al inicio (lo más nuevo primero) y escribe.
   dataObj[arrKey].unshift(nuevo);
@@ -543,7 +602,9 @@ async function main() {
 
   if (args.commit) {
     const ruta = type === "noticia" ? `/blog/${nuevo.slug}` : `/guias/${nuevo.slug}`;
-    commitPush(targetFile, `Contenido auto: ${type} "${nuevo.h1}" (${ruta})`);
+    const files = [targetFile];
+    if (img) files.push(img.file);
+    commitPush(files, `Contenido auto: ${type} "${nuevo.h1}" (${ruta})`);
   }
 }
 

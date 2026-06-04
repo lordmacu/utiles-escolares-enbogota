@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { JsonLd } from "@/components/JsonLd";
 import { SITE_URL, SITE_NAME } from "@/lib/site";
-import { POSTS, imagenDeCategoria, formatFecha } from "@/lib/blog";
+import { POSTS, heroDe, formatFecha } from "@/lib/blog";
 
 const TITLE = "Blog de útiles escolares y papelería";
 const DESCRIPTION =
@@ -36,6 +36,7 @@ export default function BlogIndexPage() {
   };
 
   const [featured, ...rest] = POSTS;
+  const fHero = featured ? heroDe(featured) : { src: "", esFoto: false };
 
   return (
     <div className="flex flex-col">
@@ -68,11 +69,11 @@ export default function BlogIndexPage() {
             >
               <div className="relative aspect-[16/10] overflow-hidden bg-[var(--color-primary-soft)] lg:aspect-auto lg:min-h-[340px]">
                 <Image
-                  src={imagenDeCategoria(featured.heroCategoria)}
+                  src={fHero.src}
                   alt={featured.h1}
                   fill
                   priority
-                  className="object-contain p-8 transition-transform duration-500 group-hover:scale-105"
+                  className={`${fHero.esFoto ? "object-cover" : "object-contain p-8"} transition-transform duration-500 group-hover:scale-105`}
                   sizes="(max-width: 1024px) 100vw, 50vw"
                 />
                 <span className="absolute left-4 top-4 inline-flex items-center rounded-full bg-[var(--color-primary)] px-3 py-1 text-xs font-semibold uppercase tracking-wide text-white">
@@ -111,10 +112,10 @@ export default function BlogIndexPage() {
               >
                 <div className="relative aspect-[16/10] overflow-hidden bg-[var(--color-primary-soft)]">
                   <Image
-                    src={imagenDeCategoria(post.heroCategoria)}
+                    src={heroDe(post).src}
                     alt={post.h1}
                     fill
-                    className="object-contain p-6 transition-transform duration-500 group-hover:scale-105"
+                    className={`${heroDe(post).esFoto ? "object-cover" : "object-contain p-6"} transition-transform duration-500 group-hover:scale-105`}
                     sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                   />
                   <span className="absolute left-4 top-4 inline-flex items-center rounded-full bg-[var(--color-surface)]/90 px-3 py-1 text-xs font-semibold uppercase tracking-wide text-[var(--color-primary)]">

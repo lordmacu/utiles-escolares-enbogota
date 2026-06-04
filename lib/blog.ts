@@ -25,8 +25,10 @@ export interface Post {
   excerpt: string;
   fecha: string; // YYYY-MM-DD
   etiqueta: string;
-  /** Categoría de la que se toma la imagen del hero. */
+  /** Categoría de la que se toma la imagen del hero (fallback). */
   heroCategoria: string;
+  /** Imagen generada (IA) para el hero. Si falta, se usa la de la categoría. */
+  heroImagen?: string;
   lead: string;
   intro: string[];
   items: BlogItem[];
@@ -49,8 +51,10 @@ export interface Guia {
   metaDescription: string;
   excerpt: string;
   fecha: string; // YYYY-MM-DD
-  /** Categoría de la que se toma la imagen del hero. */
+  /** Categoría de la que se toma la imagen del hero (fallback). */
   imagenCategoria: string;
+  /** Imagen generada (IA) para el hero. Si falta, se usa la de la categoría. */
+  heroImagen?: string;
   categoriasRelacionadas: string[];
   lead: string;
   secciones: GuiaSeccion[];
@@ -75,6 +79,21 @@ export function representativeProducto(catSlug: string): ProductoIndex | undefin
 /** Imagen para ilustrar una categoría: producto representativo o imagen propia. */
 export function imagenDeCategoria(catSlug: string): string {
   return representativeProducto(catSlug)?.imagen || getCategoriaInfo(catSlug)?.imagen || "";
+}
+
+/**
+ * Hero de una entrada: usa la imagen generada (IA, foto a sangre) si existe, o
+ * la imagen de la categoría como fallback (producto, se muestra con contain).
+ * `esFoto` indica cómo encuadrar (cover vs contain).
+ */
+export function heroDe(item: {
+  heroImagen?: string;
+  heroCategoria?: string;
+  imagenCategoria?: string;
+}): { src: string; esFoto: boolean } {
+  if (item.heroImagen) return { src: item.heroImagen, esFoto: true };
+  const cat = item.heroCategoria ?? item.imagenCategoria ?? "";
+  return { src: imagenDeCategoria(cat), esFoto: false };
 }
 
 /** Productos (deduplicados, populares primero) de varias categorías. */

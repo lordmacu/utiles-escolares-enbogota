@@ -10,7 +10,7 @@ import {
   getPost,
   getPostSlugs,
   representativeProducto,
-  imagenDeCategoria,
+  heroDe,
   formatFecha,
   type BlogItem,
 } from "@/lib/blog";
@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const post = getPost(slug);
   if (!post) return { title: "Artículo no encontrado" };
 
-  const img = imagenDeCategoria(post.heroCategoria);
+  const img = heroDe(post).src;
   return {
     title: post.metaTitle,
     description: post.metaDescription,
@@ -113,7 +113,7 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
   const post = getPost(slug);
   if (!post) notFound();
 
-  const heroImagen = imagenDeCategoria(post.heroCategoria);
+  const heroImagen = heroDe(post).src;
   const cats = post.categoriasRelacionadas
     .map(getCategoriaInfo)
     .filter((c): c is NonNullable<typeof c> => Boolean(c));
