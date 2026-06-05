@@ -96,6 +96,17 @@ export default async function ProductPage({ params }: PageProps) {
       url: `${SITE_URL}/producto/${slug}`,
       seller: { "@type": "Organization", name: SITE_NAME },
       areaServed: { "@type": "City", name: "Bogotá" },
+      // Política real: solo cambios (no reembolso) dentro de 5 días; el cliente
+      // asume el transporte del cambio. Se coordina por WhatsApp.
+      hasMerchantReturnPolicy: {
+        "@type": "MerchantReturnPolicy",
+        applicableCountry: "CO",
+        returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
+        merchantReturnDays: 5,
+        returnMethod: "https://schema.org/ReturnByMail",
+        returnFees: "https://schema.org/ReturnFeesCustomerResponsibility",
+        refundType: "https://schema.org/ExchangeRefund",
+      },
     },
   };
 
