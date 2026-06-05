@@ -6,11 +6,20 @@ import { getConteosPorCategoria } from "@/lib/productos";
 import { JsonLd } from "@/components/JsonLd";
 import { SITE_URL } from "@/lib/site";
 
+const TITLE = "Categorías de papelería y útiles escolares";
+const DESCRIPTION =
+  "Navega nuestras categorías: útiles escolares, escritura, morrales y loncheras, papeles, fiesta, confitería y más. Entrega a domicilio en Bogotá.";
+
 export const metadata: Metadata = {
-  title: "Categorías de papelería y útiles escolares",
-  description:
-    "Navega nuestras categorías: útiles escolares, escritura, morrales y loncheras, papeles, fiesta, confitería y más. Entrega a domicilio en Bogotá.",
+  title: TITLE,
+  description: DESCRIPTION,
   alternates: { canonical: "/categorias" },
+  openGraph: {
+    title: `${TITLE} | Útiles Escolares`,
+    description: DESCRIPTION,
+    url: `${SITE_URL}/categorias`,
+    type: "website",
+  },
 };
 
 export default function CategoriasPage() {

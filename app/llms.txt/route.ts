@@ -56,8 +56,13 @@ export function GET() {
   const precioMin = Math.min(...precios);
   const precioMax = Math.max(...precios);
 
-  const masVendidos = productos.productos
-    .filter((p) => p.popular)
+  // Destacados: populares primero y se completa con el resto del catálogo.
+  // (Hoy ningún producto trae `popular: true`, así que sin el fallback esta
+  // sección —la que citan los LLMs— saldría vacía.)
+  const masVendidos = [
+    ...productos.productos.filter((p) => p.popular),
+    ...productos.productos.filter((p) => !p.popular),
+  ]
     .slice(0, 15)
     .map((p) => `- [${p.nombre}](${SITE_URL}/producto/${p.slug}): desde $${p.precio.toLocaleString("es-CO")} COP`)
     .join("\n");
@@ -154,6 +159,8 @@ ${masVendidos}
 - [Ofertas](${SITE_URL}/ofertas)
 - [Blog](${SITE_URL}/blog)
 - [Guías](${SITE_URL}/guias)
+- [Quiénes somos](${SITE_URL}/nosotros)
+- [Contacto](${SITE_URL}/contacto)
 
 ## Para buscadores y motores de IA
 - [Sitemap XML](${SITE_URL}/sitemap.xml) — todas las páginas del sitio

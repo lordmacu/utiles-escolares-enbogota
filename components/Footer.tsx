@@ -53,6 +53,7 @@ export function Footer() {
               <li><Link href="/categorias" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Categorías</Link></li>
               <li><Link href="/blog" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Blog</Link></li>
               <li><Link href="/guias" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Guías</Link></li>
+              <li><Link href="/nosotros" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Quiénes somos</Link></li>
               <li><Link href="/carrito" className="text-[var(--color-ink-soft)] hover:text-[var(--color-primary)]">Mi carrito</Link></li>
             </ul>
           </div>
@@ -81,6 +82,7 @@ export function Footer() {
                   @{config.instagram}
                 </a>
               </li>
+              <li><Link href="/contacto" className="font-medium hover:text-[var(--color-primary)]">Página de contacto →</Link></li>
             </ul>
           </div>
         </div>

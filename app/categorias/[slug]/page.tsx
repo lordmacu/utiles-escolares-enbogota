@@ -56,7 +56,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: descripcion,
       url: `${SITE_URL}/categorias/${slug}`,
       type: "website",
-      images: categoria.imagen ? [{ url: categoria.imagen }] : undefined,
+      // Sin override WebP: usa el PNG de marca del sitio (opengraph-image), que sí
+      // previsualizan WhatsApp y Facebook.
     },
   };
 }

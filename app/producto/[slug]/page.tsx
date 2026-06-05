@@ -46,7 +46,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: metaDescription,
       url: `${SITE_URL}/producto/${slug}`,
       type: "website",
-      images: producto.imagen ? [{ url: producto.imagen }] : undefined,
+      // La imagen OG (JPEG) la aporta el archivo colocado opengraph-image.tsx
+      // de este segmento (WhatsApp/Facebook no previsualizan el WebP del producto).
     },
   };
 }
@@ -106,6 +107,21 @@ export default async function ProductPage({ params }: PageProps) {
         returnMethod: "https://schema.org/ReturnByMail",
         returnFees: "https://schema.org/ReturnFeesCustomerResponsibility",
         refundType: "https://schema.org/ExchangeRefund",
+      },
+      // Entrega a domicilio en Bogotá. El costo del domicilio se cotiza por
+      // WhatsApp (varía por dirección), por eso no se declara una tarifa fija.
+      shippingDetails: {
+        "@type": "OfferShippingDetails",
+        shippingDestination: {
+          "@type": "DefinedRegion",
+          addressCountry: "CO",
+          addressRegion: "Bogotá D.C.",
+        },
+        deliveryTime: {
+          "@type": "ShippingDeliveryTime",
+          handlingTime: { "@type": "QuantitativeValue", minValue: 0, maxValue: 1, unitCode: "DAY" },
+          transitTime: { "@type": "QuantitativeValue", minValue: 0, maxValue: 2, unitCode: "DAY" },
+        },
       },
     },
   };

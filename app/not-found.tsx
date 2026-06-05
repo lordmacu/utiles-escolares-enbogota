@@ -1,4 +1,11 @@
+import type { Metadata } from "next";
 import Link from "next/link";
+
+export const metadata: Metadata = {
+  title: "Página no encontrada",
+  description: "No encontramos esta página. Explora el catálogo de útiles escolares y papelería con entrega a domicilio en Bogotá.",
+  robots: { index: false, follow: true },
+};
 
 export default function NotFound() {
   return (

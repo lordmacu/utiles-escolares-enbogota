@@ -5,11 +5,20 @@ import { getProductoIndex, getConteosPorCategoria, getNavSubcategorias, PRODUCTO
 import { JsonLd } from "@/components/JsonLd";
 import { SITE_URL } from "@/lib/site";
 
+const TITLE = "Todos los productos — útiles, papelería y más";
+const DESCRIPTION =
+  "Explora y busca entre miles de útiles escolares, papelería, artículos de fiesta y oficina. Filtra por categoría y pide a domicilio en Bogotá.";
+
 export const metadata: Metadata = {
-  title: "Todos los productos — útiles, papelería y más",
-  description:
-    "Explora y busca entre miles de útiles escolares, papelería, artículos de fiesta y oficina. Filtra por categoría y pide a domicilio en Bogotá.",
+  title: TITLE,
+  description: DESCRIPTION,
   alternates: { canonical: "/productos" },
+  openGraph: {
+    title: `${TITLE} | Útiles Escolares`,
+    description: DESCRIPTION,
+    url: `${SITE_URL}/productos`,
+    type: "website",
+  },
 };
 
 interface PageProps {

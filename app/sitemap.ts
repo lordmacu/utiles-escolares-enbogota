@@ -18,14 +18,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/categorias`, lastModified: now, changeFrequency: "weekly", priority: 0.8 },
     { url: `${SITE_URL}/blog`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
     { url: `${SITE_URL}/guias`, lastModified: now, changeFrequency: "weekly", priority: 0.7 },
+    { url: `${SITE_URL}/nosotros`, lastModified: now, changeFrequency: "monthly", priority: 0.5 },
+    { url: `${SITE_URL}/contacto`, lastModified: now, changeFrequency: "monthly", priority: 0.5 },
   ];
 
   // Blog y guías: imagen del hero (IA o categoría) como image sitemap.
+  // lastModified real = fecha de publicación de cada entrada (no un valor fijo).
+  const fechaDe = (iso?: string): Date => (iso && /^\d{4}-\d{2}-\d{2}/.test(iso) ? new Date(iso) : now);
+
   const posts: MetadataRoute.Sitemap = POSTS.map((p) => {
     const img = heroDe(p).src;
     return {
       url: `${SITE_URL}/blog/${p.slug}`,
-      lastModified: now,
+      lastModified: fechaDe(p.fecha),
       changeFrequency: "monthly",
       priority: 0.6,
       images: img ? [abs(img)] : undefined,
@@ -36,7 +41,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const img = heroDe(g).src;
     return {
       url: `${SITE_URL}/guias/${g.slug}`,
-      lastModified: now,
+      lastModified: fechaDe(g.fecha),
       changeFrequency: "monthly",
       priority: 0.6,
       images: img ? [abs(img)] : undefined,
