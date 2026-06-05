@@ -33,16 +33,18 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     (producto.descripcion || "").replace(/\s+/g, " ").trim().slice(0, 160) ||
     `Compra ${producto.nombre} en Bogotá. Entrega a domicilio, pide por WhatsApp.`;
 
-  const metaTitle = seo?.metaTitle || `${producto.nombre} | Comprar en Bogotá`;
   const metaDescription = seo?.metaDescription || fallback;
+  // Título SEO: nombre REAL del catálogo (evita typos del LLM) + keyword del
+  // nicho + local. `absolute` para que el template del layout no duplique la marca.
+  const tituloSeo = `${producto.nombre} | Comprar útiles escolares en Bogotá`;
 
   return {
-    title: metaTitle,
+    title: { absolute: tituloSeo },
     description: metaDescription,
     keywords: seo?.keywordsObjetivo?.join(", ") || undefined,
     alternates: { canonical: `/producto/${slug}` },
     openGraph: {
-      title: metaTitle,
+      title: tituloSeo,
       description: metaDescription,
       url: `${SITE_URL}/producto/${slug}`,
       type: "website",
