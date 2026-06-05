@@ -3,8 +3,6 @@
  * Se compone con sharp —que decodifica WebP y codifica JPEG nativamente, sin el
  * problema de WebP de next/og— la foto del producto sobre una tarjeta de marca.
  */
-import { readFile } from "node:fs/promises";
-import path from "node:path";
 import sharp from "sharp";
 import { SITE_NAME, SITE_URL, formatCOP } from "@/lib/site";
 
@@ -75,18 +73,14 @@ export interface ProductOgInput {
 }
 
 /**
- * Carga los bytes de la imagen del producto. Primero intenta el archivo local
- * (build/dev), y si no está —caso de la función serverless en Vercel, que no
- * incluye public/ en su filesystem— la trae por HTTP desde el CDN del sitio.
+ * Carga los bytes de la imagen del producto por HTTP desde el CDN del sitio.
+ *
+ * NO leemos public/ con fs: como `imagen` es dinámico, el bundler trazaba TODO
+ * public/ (14.104 archivos, ~269MB) dentro de esta función serverless y el
+ * deploy fallaba al superar el límite de tamaño de función. La función OG es
+ * dinámica (se renderiza on-demand), así que siempre hay red disponible.
  */
 async function loadImageBytes(imagen: string): Promise<Buffer | null> {
-  if (imagen.startsWith("/")) {
-    try {
-      return await readFile(path.join(process.cwd(), "public", imagen));
-    } catch {
-      // sigue al fallback HTTP
-    }
-  }
   try {
     const url = imagen.startsWith("http") ? imagen : `${SITE_URL}${imagen}`;
     const res = await fetch(url);
