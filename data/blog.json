@@ -1,6 +1,103 @@
 {
   "posts": [
     {
+      "slug": "bogota-fortalece-sus-colegios-con-tecnologia-y-lectura-asi-se",
+      "metaTitle": "Educación Bogotá 2026: guía para comprar útiles escolares",
+      "h1": "Bogotá fortalece sus colegios con tecnología y lectura: así se preparan los útiles para el segundo semestre",
+      "metaDescription": "Bogotá invierte en tecnología y lectura para sus colegios. Conoce qué útiles escolares pedir a domicilio en Bogotá para el regreso a clases. Pide por",
+      "excerpt": "Bogotá refuerza sus colegios con tecnología y programas de lectura. Te contamos cómo armar la lista de útiles para el segundo semestre del año.",
+      "fecha": "2026-06-05",
+      "etiqueta": "Regreso a clases",
+      "heroCategoria": "utiles-escolares",
+      "lead": "La capital suma inversión en tecnología, lectura y mejoras en infraestructura escolar para cerrar el 2026 con más herramientas en las aulas.",
+      "intro": [
+        "La Secretaría de Educación de Bogotá viene moviendo la ficha en distintos frentes durante las últimas semanas. Hay visitas a comunidades educativas en Ciudad Bolívar, hay recursos por 373 millones de pesos para seis colegios en Usme, y hay un nuevo intercambio con Suecia para llevar más lectura y tecnología a las aulas.",
+        "El cuaderno y el esfero de siempre ya no alcanzan. Ahora pesan más los blocks para proyectos, los kits de dibujo, los organizadores y los implementos para clases que combinan libros y pantallas. Por eso conviene revisar la lista con tiempo y pensar el morral completo."
+      ],
+      "items": [
+        {
+          "titulo": "Cuadernos y blocks: la base no se negocia",
+          "texto": "El gasto fuerte sigue siendo el block y el cuaderno. Para este semestre se piden más blocks de rayas y cuadriculados grandes, útiles para matemáticas y para los talleres de lectura. Se pueden pedir por WhatsApp y llegan a la casa en Bogotá sin filas ni trancones.",
+          "ctaCategoria": "papeles-y-blocks",
+          "ctaTexto": "Ver blocks"
+        },
+        {
+          "titulo": "Esferos, lápices y colores para los nuevos talleres",
+          "texto": "Con el enfoque en lectura y proyectos, los profes piden más escritura de colores, resaltadores y sets de lápices para trabajos en grupo. Un estuche bien armado marca la diferencia en clase y le ahorra al niño el famoso 'se me perdió el esfero'.",
+          "ctaCategoria": "escritura",
+          "ctaTexto": "Ver escritura"
+        },
+        {
+          "titulo": "Morrales y loncheras pensados para cargar más",
+          "texto": "Los estudiantes ahora cargan tablet, cuadernos, libros, lonchera y hasta un botilito. El morral tiene que ser cómodo, con buen tamaño y divisiones internas. Una lonchera con cierre resistente aguanta todo el día sin derrames.",
+          "ctaCategoria": "morrales-y-loncheras",
+          "ctaTexto": "Ver morrales"
+        },
+        {
+          "titulo": "Archivos y carpetas: el orden se vuelve materia",
+          "texto": "Con más proyectos, guías impresas y talleres, los estudiantes necesitan carpetas, legajadores y sobres. Organizar el material desde el primer día hace que la tarea llegue a tiempo y sin papeles arrugados en el fondo del morral.",
+          "ctaCategoria": "archivos-y-clasificacion",
+          "ctaTexto": "Ver carpetas"
+        },
+        {
+          "titulo": "Pintura y manualidades para los proyectos de lectura",
+          "texto": "Los programas de fomento a la lectura se apoyan en carteleras, maquetas y trabajo manual. Las témperas, los pinceles y los colores vuelven a ser protagonistas del aula y del hogar durante el segundo semestre.",
+          "ctaCategoria": "pintar",
+          "ctaTexto": "Ver pintar"
+        }
+      ],
+      "cierre": [
+        "Si vives en Bogotá y quieres recibir todo en la puerta de la casa, escríbenos por WhatsApp y te armamos el kit completo de útiles según el grado de tu hijo. Hacemos entregas a domicilio en toda la ciudad, con pago contra entrega y precios que se ajustan a tu bolsillo."
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Hacen domicilios en toda Bogotá?",
+          "respuesta": "Sí, entregamos a domicilio en todas las localidades de Bogotá. El tiempo de entrega depende de la zona, pero en la mayoría de los casos llega el mismo día o al día siguiente."
+        },
+        {
+          "pregunta": "¿Cómo puedo pedir mis útiles escolares?",
+          "respuesta": "Nos escribes por WhatsApp con la lista del colegio o con los productos que necesitas. Te confirmamos disponibilidad, precio total y tiempo de entrega antes de cerrar el pedido."
+        },
+        {
+          "pregunta": "¿Tienen todos los implementos de la lista del colegio?",
+          "respuesta": "Manejamos la mayoría de los productos que aparecen en las listas escolares de Bogotá: cuadernos, blocks, esferos, colores, témperas, morrales, loncheras, carpetas y más. Si algo no lo tenemos, te lo conseguimos."
+        },
+        {
+          "pregunta": "¿Aceptan pago contra entrega?",
+          "respuesta": "Sí, trabajamos con pago contra entrega en Bogotá para que recibas primero tus útiles y luego canceles al domiciliario. También manejamos transferencia y otros medios de pago."
+        }
+      ],
+      "categoriasRelacionadas": [
+        "utiles-escolares",
+        "escritura",
+        "morrales-y-loncheras"
+      ],
+      "secciones": [
+        {
+          "titulo": "Lo que está pasando en los colegios de Bogotá",
+          "parrafos": [
+            "La Secretaría de Educación del Distrito viene recorriendo localidades como Ciudad Bolívar y Usme para escuchar a rectores, profesores y padres. Ese diálogo sirve para ajustar planes y para distribuir recursos a los colegios que más lo necesitan. En Usme, por ejemplo, se acaban de asignar 373 millones de pesos a seis instituciones, lo que se traduce en mejoras de infraestructura, materiales y conectividad.",
+            "También se confirmó un intercambio con Suecia para compartir experiencias de fomento a la lectura y uso de tecnología. Eso abre la puerta a más bibliotecas escolares, más libros digitales y nuevas formas de enseñar. Para las familias, la señal es clara: el segundo semestre va a pedir más útiles, pero útiles mejor pensados."
+          ]
+        },
+        {
+          "titulo": "Clima, calendario y cambios de última hora",
+          "parrafos": [
+            "Las alteraciones de clase por el clima extremo en varias regiones prendieron las alertas en Bogotá. La Secretaría pidió a los colegios flexibilidad en la reprogramación de actividades y un uso más intenso de las plataformas digitales para no perder días de clase.",
+            "En la práctica esto significa que el cuaderno, el block y los organizadores vuelven a ser aliados, porque no todo se puede hacer en pantalla. Los papás que tengan todo listo desde el primer día evitan atrasos cuando se cruza un imprevisto de calendario."
+          ]
+        },
+        {
+          "titulo": "Cómo armar la lista sin pasar de presupuesto",
+          "parrafos": [
+            "La recomendación más práctica es comprar por bloques y no todo de una. Primero los cuadernos y blocks. Luego la escritura. Después el morral y la lonchera. Y al final los materiales de arte y los archivos. Así se reparte el gasto y se evitan compras repetidas a mitad de semestre.",
+            "Otro consejo útil: revisar la lista que envió el colegio antes de salir a comprar. Muchas veces los profes piden marcas específicas, pero también suelen aceptar sustitutos equivalentes. Un buen diálogo con la tienda de útiles por WhatsApp te ahorra tiempo, trancones y dinero."
+          ]
+        }
+      ],
+      "heroImagen": "/images/blog/bogota-fortalece-sus-colegios-con-tecnologia-y-lectura-asi-se.webp"
+    },
+    {
       "slug": "precios-de-utiles-escolares-2026-en-bogota-que-subio-y-donde",
       "metaTitle": "Precios de útiles escolares 2026 en Bogotá: guía y ahorro",
       "h1": "Precios de útiles escolares 2026 en Bogotá: qué subió y dónde conviene comprar",
