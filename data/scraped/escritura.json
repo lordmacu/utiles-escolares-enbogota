@@ -307,18 +307,18 @@
     },
     {
       "id": "boligrafo-corazon-surtido-42645",
-      "nombre": "Boligrafo Corazon Surtido",
+      "nombre": "Bolígrafo Corazón Surtido",
       "slug": "boligrafo-corazon-surtido-42645",
       "marca": "LOS TRES ELEFANTES",
       "precio": 5900,
       "precioAnterior": null,
-      "descripcion": "BOLIGRAFO CON COLORES SUTIDOS DISEÑO CORAZON",
+      "descripcion": "BOLÍGRAFO CON COLORES SUTIDOS DISEÑO CORAZÓN",
       "imagen": "/images/shop/33424529010100-1-.webp",
       "galeria": [
         "/images/shop/33424529010100-1-.webp"
       ],
       "contenido": [
-        "Composición: 100% Plastico"
+        "Composición: 100% Plástico"
       ],
       "tags": [
         "LOS TRES ELEFANTES"
@@ -356,7 +356,7 @@
     },
     {
       "id": "lapiz-triangular-jumbo-x10-37960",
-      "nombre": "Lapiz Triangular Jumbo X10",
+      "nombre": "Lápiz Triangular Jumbo X10",
       "slug": "lapiz-triangular-jumbo-x10-37960",
       "marca": "PELIKAN",
       "precio": 23900,
@@ -380,7 +380,7 @@
     },
     {
       "id": "boligrafo-ineo-green-oasis-37959",
-      "nombre": "Boligrafo Ineo Green Oasis",
+      "nombre": "Bolígrafo Ineo Green Oasis",
       "slug": "boligrafo-ineo-green-oasis-37959",
       "marca": "PELIKAN",
       "precio": 62400,
@@ -404,7 +404,7 @@
     },
     {
       "id": "boligrafo-ineo-fiery-red-37958",
-      "nombre": "Boligrafo Ineo Fiery Red",
+      "nombre": "Bolígrafo Ineo Fiery Red",
       "slug": "boligrafo-ineo-fiery-red-37958",
       "marca": "PELIKAN",
       "precio": 62400,
@@ -428,7 +428,7 @@
     },
     {
       "id": "boligrafo-ineo-ocean-blue-37956",
-      "nombre": "Boligrafo Ineo Ocean Blue",
+      "nombre": "Bolígrafo Ineo Ocean Blue",
       "slug": "boligrafo-ineo-ocean-blue-37956",
       "marca": "PELIKAN",
       "precio": 62400,
@@ -451,7 +451,7 @@
     },
     {
       "id": "boligrafo-jazz-pastel-peach-37955",
-      "nombre": "Boligrafo Jazz Pastel Peach",
+      "nombre": "Bolígrafo Jazz Pastel Peach",
       "slug": "boligrafo-jazz-pastel-peach-37955",
       "marca": "PELIKAN",
       "precio": 32600,
@@ -648,7 +648,7 @@
         "/images/shop/34334529190201-5-.webp"
       ],
       "contenido": [
-        "Composición: 70% PLASTICO 30% TINTA"
+        "Composición: 70% PLÁSTICO 30% TINTA"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -676,7 +676,7 @@
         "/images/shop/34334529170100-4-.webp"
       ],
       "contenido": [
-        "Composición: 60 % PLASTICO 40 % TINTA"
+        "Composición: 60 % PLÁSTICO 40 % TINTA"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -702,7 +702,7 @@
         "/images/shop/34334528080204-1-.webp"
       ],
       "contenido": [
-        "Composición: 70% PLASTICO 50% TINTA"
+        "Composición: 70% PLÁSTICO 50% TINTA"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -727,7 +727,7 @@
         "/images/shop/34334528080203-1-.webp"
       ],
       "contenido": [
-        "Composición: 70% PLASTICO 50% TINTA"
+        "Composición: 70% PLÁSTICO 50% TINTA"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -754,7 +754,7 @@
         "/images/shop/34334528010100-3-.webp"
       ],
       "contenido": [
-        "Composición: 50% PLASTICO 50% TINTA"
+        "Composición: 50% PLÁSTICO 50% TINTA"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -769,7 +769,7 @@
     },
     {
       "id": "lapices-triangulares-x12-35412",
-      "nombre": "Lapices Triangulares x12",
+      "nombre": "Lápices Triangulares x12",
       "slug": "lapices-triangulares-x12-35412",
       "marca": "BAZIC",
       "precio": 12900,
@@ -794,7 +794,7 @@
     },
     {
       "id": "boligrafo-x3-35411",
-      "nombre": "Boligrafo x3",
+      "nombre": "Bolígrafo x3",
       "slug": "boligrafo-x3-35411",
       "marca": "BAZIC",
       "precio": 12900,
@@ -844,7 +844,7 @@
     },
     {
       "id": "boligrafo-colores-x3-35407",
-      "nombre": "Boligrafo Colores x3",
+      "nombre": "Bolígrafo Colores x3",
       "slug": "boligrafo-colores-x3-35407",
       "marca": "BAZIC",
       "precio": 12900,
@@ -895,7 +895,7 @@
     },
     {
       "id": "boligrafo-nino-10-en-1-35404",
-      "nombre": "Boligrafo Niño 10 En 1",
+      "nombre": "Bolígrafo Niño 10 En 1",
       "slug": "boligrafo-nino-10-en-1-35404",
       "marca": "BAZIC",
       "precio": 16900,
@@ -920,7 +920,7 @@
     },
     {
       "id": "boligrafo-retractil-colores-x10-35402",
-      "nombre": "Boligrafo Retractil Colores x10",
+      "nombre": "Bolígrafo Retractil Colores x10",
       "slug": "boligrafo-retractil-colores-x10-35402",
       "marca": "BAZIC",
       "precio": 16900,
@@ -945,7 +945,7 @@
     },
     {
       "id": "boligrafo-negro-x3-35401",
-      "nombre": "Boligrafo Negro x3",
+      "nombre": "Bolígrafo Negro x3",
       "slug": "boligrafo-negro-x3-35401",
       "marca": "BAZIC",
       "precio": 11900,
@@ -970,7 +970,7 @@
     },
     {
       "id": "resaltadores-neon-x4-35400",
-      "nombre": "Resaltadores Neon x4",
+      "nombre": "Resaltadores Neón x4",
       "slug": "resaltadores-neon-x4-35400",
       "marca": "BAZIC",
       "precio": 11900,
@@ -1143,7 +1143,7 @@
     },
     {
       "id": "esferos-gel-neon-x6-35271",
-      "nombre": "Esferos Gel Neon X6",
+      "nombre": "Esferos Gel Neón X6",
       "slug": "esferos-gel-neon-x6-35271",
       "marca": "MULTICRAFT",
       "precio": 19900,
@@ -1193,7 +1193,7 @@
     },
     {
       "id": "boligrafos-negros-x4-35269",
-      "nombre": "Boligrafos Negros X4",
+      "nombre": "Bolígrafos Negros X4",
       "slug": "boligrafos-negros-x4-35269",
       "marca": "MULTICRAFT",
       "precio": 10900,
@@ -1270,7 +1270,7 @@
     },
     {
       "id": "marcador-tipo-tiza-rosado-neon-35265",
-      "nombre": "Marcador Tipo Tiza Rosado Neon",
+      "nombre": "Marcador Tipo Tiza Rosado Neón",
       "slug": "marcador-tipo-tiza-rosado-neon-35265",
       "marca": "MULTICRAFT",
       "precio": 10900,
@@ -1296,7 +1296,7 @@
     },
     {
       "id": "marcador-tipo-tiza-naranja-neon-35264",
-      "nombre": "Marcador Tipo Tiza Naranja Neon",
+      "nombre": "Marcador Tipo Tiza Naranja Neón",
       "slug": "marcador-tipo-tiza-naranja-neon-35264",
       "marca": "MULTICRAFT",
       "precio": 10900,
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "marcador-tipo-tiza-verde-neon-35262",
-      "nombre": "Marcador Tipo Tiza Verde Neon",
+      "nombre": "Marcador Tipo Tiza Verde Neón",
       "slug": "marcador-tipo-tiza-verde-neon-35262",
       "marca": "MULTICRAFT",
       "precio": 10900,
@@ -1373,7 +1373,7 @@
     },
     {
       "id": "marcador-tipo-tiza-amarillo-neon-35261",
-      "nombre": "Marcador Tipo Tiza Amarillo Neon",
+      "nombre": "Marcador Tipo Tiza Amarillo Neón",
       "slug": "marcador-tipo-tiza-amarillo-neon-35261",
       "marca": "MULTICRAFT",
       "precio": 10900,
@@ -1398,7 +1398,7 @@
     },
     {
       "id": "marcador-tipo-tiza-rosado-neon-35260",
-      "nombre": "Marcador Tipo Tiza Rosado Neon",
+      "nombre": "Marcador Tipo Tiza Rosado Neón",
       "slug": "marcador-tipo-tiza-rosado-neon-35260",
       "marca": "MULTICRAFT",
       "precio": 10900,
@@ -1524,7 +1524,7 @@
     },
     {
       "id": "esfero-corazon-surtido-33872",
-      "nombre": "Esfero Corazon Surtido",
+      "nombre": "Esfero Corazón Surtido",
       "slug": "esfero-corazon-surtido-33872",
       "marca": "SIMES LOGISTIC",
       "precio": 3900,
@@ -1922,7 +1922,7 @@
         "/images/shop/ff0c6a39-26834531080401-3-.webp"
       ],
       "contenido": [
-        "Incluye: 6 lapices negros"
+        "Incluye: 6 lápices negros"
       ],
       "tags": [
         "PRIMAVERA",
@@ -1963,7 +1963,7 @@
         "/images/shop/f8bd05f2-26834531061017-8-.webp"
       ],
       "contenido": [
-        "Incluye: 12 lapices de colores 1 sacapuntas 1 regla 1 borrador 1 tijeras 3 lapices negros"
+        "Incluye: 12 lápices de colores 1 sacapuntas 1 regla 1 borrador 1 tijeras 3 lápices negros"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2003,7 +2003,7 @@
         "/images/shop/f5e07b95-26834531061018-5-.webp"
       ],
       "contenido": [
-        "Incluye: 12 lapices de colores 1 sacapuntas 1 regla 1 borrador 1 tijeras 3 lapices negros"
+        "Incluye: 12 lápices de colores 1 sacapuntas 1 regla 1 borrador 1 tijeras 3 lápices negros"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2037,7 +2037,7 @@
         "/images/shop/5b4908dd-26834531050403-2-.webp"
       ],
       "contenido": [
-        "Incluye: 6 lapices negros"
+        "Incluye: 6 lápices negros"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2070,7 +2070,7 @@
         "/images/shop/c791215e-26834531050405-4-.webp"
       ],
       "contenido": [
-        "Incluye: 6 lapices negros"
+        "Incluye: 6 lápices negros"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2097,7 +2097,7 @@
         "/images/shop/6264c692-26834531050602-1-.webp"
       ],
       "contenido": [
-        "Incluye: 6 lapices negros"
+        "Incluye: 6 lápices negros"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2461,7 +2461,7 @@
         "/images/shop/c6413337-26834504051200-1-.webp"
       ],
       "contenido": [
-        "Incluye: caja x12 lapices de colores doble punta"
+        "Incluye: caja x12 lápices de colores doble punta"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2494,7 +2494,7 @@
         "/images/shop/2029718c-26834504040200-4-.webp"
       ],
       "contenido": [
-        "Incluye: caja x12 lapices de colores"
+        "Incluye: caja x12 lápices de colores"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2527,7 +2527,7 @@
         "/images/shop/d3e77925-26834504020206-4-.webp"
       ],
       "contenido": [
-        "Incluye: 12 lapices de colores"
+        "Incluye: 12 lápices de colores"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2560,7 +2560,7 @@
         "/images/shop/d02c1219-26834504020205-4-.webp"
       ],
       "contenido": [
-        "Incluye: 12 lapices de colores"
+        "Incluye: 12 lápices de colores"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2589,7 +2589,7 @@
         "/images/shop/aa467924-26834504020600-2-.webp"
       ],
       "contenido": [
-        "Incluye: caja x48 lapices de colores"
+        "Incluye: caja x48 lápices de colores"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2620,7 +2620,7 @@
         "/images/shop/7767e706-26834504010204-3-.webp"
       ],
       "contenido": [
-        "Incluye: 12 lapices de colores"
+        "Incluye: 12 lápices de colores"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2640,7 +2640,7 @@
       "marca": "PRIMAVERA",
       "precio": 33900,
       "precioAnterior": null,
-      "descripcion": "Estos inigualables Colores Una y Doble Punta x 36 Primavera se caracterizan por su gran calidad y su hermoso diseño de Primavera que sin duda te encantará.Son 36 lápices y 45 colores, 6 metalizados, 6 color piel y 6 neon , tienen una punta y doble punta de 4 milímetros, su cuerpo es redondo, incluyen su propio sacapuntas y cuentan con una punta más gruesa que te sorprenderá.No pierdas la oportunidad de tener estos espectaculares Colores Una y Doble Punta x 36 Primavera 100% originales de Primavera. ¡Cómpralos Ya!",
+      "descripcion": "Estos inigualables Colores Una y Doble Punta x 36 Primavera se caracterizan por su gran calidad y su hermoso diseño de Primavera que sin duda te encantará.Son 36 lápices y 45 colores, 6 metalizados, 6 color piel y 6 neón , tienen una punta y doble punta de 4 milímetros, su cuerpo es redondo, incluyen su propio sacapuntas y cuentan con una punta más gruesa que te sorprenderá.No pierdas la oportunidad de tener estos espectaculares Colores Una y Doble Punta x 36 Primavera 100% originales de Primavera. ¡Cómpralos Ya!",
       "imagen": "/images/shop/26834504010500-1-.webp",
       "galeria": [
         "/images/shop/26834504010500-1-.webp",
@@ -2651,7 +2651,7 @@
         "/images/shop/29f25df1-26834504010500-3-.webp"
       ],
       "contenido": [
-        "Incluye: caja x36 lapices de colores"
+        "Incluye: caja x36 lápices de colores"
       ],
       "tags": [
         "PRIMAVERA",
@@ -2666,7 +2666,7 @@
     },
     {
       "id": "lapices-de-color-extreme-colors-x8-20856",
-      "nombre": "Lapices De Color Extreme Colors X8",
+      "nombre": "Lápices De Color Extreme Colors X8",
       "slug": "lapices-de-color-extreme-colors-x8-20856",
       "marca": "LOS TRES ELEFANTES",
       "precio": 18900,
@@ -2699,7 +2699,7 @@
     },
     {
       "id": "lapices-de-color-efecto-metalico-x8-20855",
-      "nombre": "Lapices De Color Efecto Metalico X8",
+      "nombre": "Lápices De Color Efecto Metalico X8",
       "slug": "lapices-de-color-efecto-metalico-x8-20855",
       "marca": "LOS TRES ELEFANTES",
       "precio": 18900,
@@ -2749,9 +2749,9 @@
         "/images/shop/30864532050207.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
+        "Composición: Plástico",
         "Indicaciones de Uso: Herramienta ideal tomar notas y apuntes importantes. Se puede usar en proyectos escolares y en oficinas. ATENCIÓN” este producto debe ser usado estrictamente bajo la supervisión directa de un adulto responsable. Una mala utilización de esta herramienta puede causar riesgos en niños. \"ATENCIÓN\" No usar este producto a niños por debajo de la edad establecida. ADVERTENCIA: No dejar al alcance de niños ni se debe permitir jugar con este producto ya que no es un juguete y pueden ser ingeridas y causar riesgo de asfixia. Contiene partes pequeñas",
-        "Material: Plastico"
+        "Material: Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -2769,7 +2769,7 @@
     },
     {
       "id": "lapiz-x8-neon-19262",
-      "nombre": "Lapiz X8 Neon",
+      "nombre": "Lápiz X8 Neón",
       "slug": "lapiz-x8-neon-19262",
       "marca": "BAZIC",
       "precio": 9900,
@@ -2797,7 +2797,7 @@
     },
     {
       "id": "lapiz-x8-escarchado-19261",
-      "nombre": "Lapiz X8 Escarchado",
+      "nombre": "Lápiz X8 Escarchado",
       "slug": "lapiz-x8-escarchado-19261",
       "marca": "BAZIC",
       "precio": 7900,
@@ -2830,7 +2830,7 @@
     },
     {
       "id": "lapiz-x8-holografico-19260",
-      "nombre": "Lapiz X8 Holografico",
+      "nombre": "Lápiz X8 Holografico",
       "slug": "lapiz-x8-holografico-19260",
       "marca": "BAZIC",
       "precio": 9900,
@@ -2858,7 +2858,7 @@
     },
     {
       "id": "lapiz-n-2-x3-con-tajalapiz-19259",
-      "nombre": "Lapiz N.2 X3 Con Tajalapiz",
+      "nombre": "Lápiz N.2 X3 Con Tajalapiz",
       "slug": "lapiz-n-2-x3-con-tajalapiz-19259",
       "marca": "BAZIC",
       "precio": 10900,
@@ -2886,7 +2886,7 @@
     },
     {
       "id": "lapiz-n-2-x-4-con-tajalapiz-19258",
-      "nombre": "Lapiz N.2 X 4 Con Tajalapiz",
+      "nombre": "Lápiz N.2 X 4 Con Tajalapiz",
       "slug": "lapiz-n-2-x-4-con-tajalapiz-19258",
       "marca": "BAZIC",
       "precio": 9900,
@@ -2914,7 +2914,7 @@
     },
     {
       "id": "lapiz-n-2-x-4-amarillo-19256",
-      "nombre": "Lapiz N.2 X 4 Amarillo",
+      "nombre": "Lápiz N.2 X 4 Amarillo",
       "slug": "lapiz-n-2-x-4-amarillo-19256",
       "marca": "BAZIC",
       "precio": 10900,
@@ -3018,8 +3018,8 @@
         "/images/shop/837dad67-Resaltadores-Pastel-Colores-30864528080300-1-.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
-        "Material: Plastico"
+        "Composición: Plástico",
+        "Material: Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -3047,8 +3047,8 @@
         "/images/shop/f21b5ac4-Resaltador-Fluorescente--SURTIDO--30864528080303-1-.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
-        "Material: Plastico"
+        "Composición: Plástico",
+        "Material: Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -3077,8 +3077,8 @@
         "/images/shop/487abc9f-Resaltador-Fluorecente-Colores-30864528080400-1-.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
-        "Material: Plastico"
+        "Composición: Plástico",
+        "Material: Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -3206,7 +3206,7 @@
     },
     {
       "id": "marcador-x-5-neon-permanente-19242",
-      "nombre": "Marcador X 5 Neon Permanente",
+      "nombre": "Marcador X 5 Neón Permanente",
       "slug": "marcador-x-5-neon-permanente-19242",
       "marca": "BAZIC",
       "precio": 7900,
@@ -3536,7 +3536,7 @@
     },
     {
       "id": "lapiz-no-2x12-pz-40-18650",
-      "nombre": "Lapiz No 2X12 Pz-40",
+      "nombre": "Lápiz No 2X12 Pz-40",
       "slug": "lapiz-no-2x12-pz-40-18650",
       "marca": "LOS TRES ELEFANTES",
       "precio": 12500,
@@ -3904,7 +3904,7 @@
     },
     {
       "id": "boligrafo-azul-0-7-mm-17838",
-      "nombre": "Boligrafo Azul 0.7 Mm",
+      "nombre": "Bolígrafo Azul 0.7 Mm",
       "slug": "boligrafo-azul-0-7-mm-17838",
       "marca": "MERLETTO",
       "precio": 700,
@@ -3931,7 +3931,7 @@
     },
     {
       "id": "boligrafo-azul-17837",
-      "nombre": "Boligrafo Azul",
+      "nombre": "Bolígrafo Azul",
       "slug": "boligrafo-azul-17837",
       "marca": "MERLETTO",
       "precio": 200,
@@ -3958,7 +3958,7 @@
     },
     {
       "id": "boligrafo-con-luz-led-9714",
-      "nombre": "Boligrafo Con Luz Led",
+      "nombre": "Bolígrafo Con Luz Led",
       "slug": "boligrafo-con-luz-led-9714",
       "marca": "KOLE",
       "precio": 7900,
@@ -3969,8 +3969,8 @@
         "/images/shop/Boligrafo-Con-Luz-Led-32684530070100-1-.webp"
       ],
       "contenido": [
-        "Composición: 60% Tinta 40% Plastico",
-        "Material: 60% Tinta 40% Plastico"
+        "Composición: 60% Tinta 40% Plástico",
+        "Material: 60% Tinta 40% Plástico"
       ],
       "tags": [
         "KOLE",
@@ -4013,12 +4013,12 @@
     },
     {
       "id": "boligrafo-escarchado-x5-9622",
-      "nombre": "Boligrafo Escarchado X5",
+      "nombre": "Bolígrafo Escarchado X5",
       "slug": "boligrafo-escarchado-x5-9622",
       "marca": "BAZIC",
       "precio": 11900,
       "precioAnterior": null,
-      "descripcion": "- BOLIGRAFOS DE GEL PERFUMADOS CON GLITTER. El\nbolígrafo de gel con aroma a frutas brillantes viene\nen una variedad de colores para satisfacer todas tus\nnecesidades de coloración y escritura. Son geniales\npara eliminar el aburrimiento de las notas de clase.\n- APLICACIÓN SUAVE. La punta mediana duradera\npuede producir líneas finas que permiten una\naplicación de color suave y precisa, puede realizar\nfácilmente la coloración sin demasiado esfuerzo.\n- SIN MANCHAS. Sabemos que no desea que la tinta se\nmanche, el flujo de tinta sin manchas significa que\npuede hacer un buen uso de estos bolígrafos\nversátiles para una calidad de escritura superior.\n- EMBALAJE. La bolsa de plástico transparente crea una\nfácil portabilidad para los bolígrafos de gel mientras\nviaja. ¡Lleva contigo a cualquier lugar y en todas\npartes estos bolígrafos son el compañero de viaje\nperfecto!\n- USO IDEAL. Estos increíbles bolígrafos son divertidos\nde usar para colorear libros, dibujar, notas,\ninvitaciones caseras, tarjetas de felicitación y mucho\nmás. Gran idea de regalo para niños y adultos a los\nque les encanta colorear.",
+      "descripcion": "- BOLÍGRAFOS DE GEL PERFUMADOS CON GLITTER. El\nbolígrafo de gel con aroma a frutas brillantes viene\nen una variedad de colores para satisfacer todas tus\nnecesidades de coloración y escritura. Son geniales\npara eliminar el aburrimiento de las notas de clase.\n- APLICACIÓN SUAVE. La punta mediana duradera\npuede producir líneas finas que permiten una\naplicación de color suave y precisa, puede realizar\nfácilmente la coloración sin demasiado esfuerzo.\n- SIN MANCHAS. Sabemos que no desea que la tinta se\nmanche, el flujo de tinta sin manchas significa que\npuede hacer un buen uso de estos bolígrafos\nversátiles para una calidad de escritura superior.\n- EMBALAJE. La bolsa de plástico transparente crea una\nfácil portabilidad para los bolígrafos de gel mientras\nviaja. ¡Lleva contigo a cualquier lugar y en todas\npartes estos bolígrafos son el compañero de viaje\nperfecto!\n- USO IDEAL. Estos increíbles bolígrafos son divertidos\nde usar para colorear libros, dibujar, notas,\ninvitaciones caseras, tarjetas de felicitación y mucho\nmás. Gran idea de regalo para niños y adultos a los\nque les encanta colorear.",
       "imagen": "/images/shop/Boligrafo-Escarchado-X5-Marca-BAZIC-30864529230400-1-.webp",
       "galeria": [
         "/images/shop/Boligrafo-Escarchado-X5-Marca-BAZIC-30864529230400-1-.webp",
@@ -4038,7 +4038,7 @@
     },
     {
       "id": "boligrafo-pastel-gel-x12-9620",
-      "nombre": "Boligrafo Pastel Gel X12",
+      "nombre": "Bolígrafo Pastel Gel X12",
       "slug": "boligrafo-pastel-gel-x12-9620",
       "marca": "BAZIC",
       "precio": 15900,
@@ -4062,7 +4062,7 @@
     },
     {
       "id": "boligrafo-escarchado-gel-x12-9619",
-      "nombre": "Boligrafo Escarchado Gel X12",
+      "nombre": "Bolígrafo Escarchado Gel X12",
       "slug": "boligrafo-escarchado-gel-x12-9619",
       "marca": "BAZIC",
       "precio": 12900,
@@ -4087,7 +4087,7 @@
     },
     {
       "id": "boligrafo-neon-gel-x12-9618",
-      "nombre": "Boligrafo Neon Gel X12",
+      "nombre": "Bolígrafo Neón Gel X12",
       "slug": "boligrafo-neon-gel-x12-9618",
       "marca": "BAZIC",
       "precio": 12900,
@@ -4111,12 +4111,12 @@
     },
     {
       "id": "boligrafo-escarchado-gel-essence-x24-9617",
-      "nombre": "Boligrafo Escarchado Gel Essence X24",
+      "nombre": "Bolígrafo Escarchado Gel Essence X24",
       "slug": "boligrafo-escarchado-gel-essence-x24-9617",
       "marca": "BAZIC",
       "precio": 47900,
       "precioAnterior": null,
-      "descripcion": "- BOLÍGRAFOS DE GEL PACK DE FIESTA. Los bolígrafos de\ngel con aroma afrutado jugoso todo en uno incluyen\nGlitter, Neon y Metallic. ¡Viene en una variedad de\ncolores para satisfacer todas sus necesidades de\ncolorear y escribir!\n- APLICACIÓN SUAVE. La punta mediana duradera\npuede producir líneas finas que permiten una\naplicación de color suave y precisa, puede realizar\nfácilmente la coloración sin demasiado esfuerzo.\n- SIN MANCHAS. Sabemos que no desea que la tinta se\nmanche, el flujo de tinta sin manchas significa que\npuede hacer un buen uso de estos bolígrafos\nversátiles para una calidad de escritura superior.\n- EMBALAJE. La bolsa de plástico transparente crea una\nfácil portabilidad para los bolígrafos de gel mientras\nviaja. ¡Lleva contigo a cualquier lugar y en todas\npartes estos bolígrafos son el compañero de viaje\nperfecto!\n- USO IDEAL. Estos increíbles bolígrafos son divertidos\nde usar para colorear libros, dibujar, notas,\ninvitaciones caseras, tarjetas de felicitación y mucho\nmás. Gran idea de regalo para niños y adultos a los\nque les encanta colorear.",
+      "descripcion": "- BOLÍGRAFOS DE GEL PACK DE FIESTA. Los bolígrafos de\ngel con aroma afrutado jugoso todo en uno incluyen\nGlitter, Neón y Metallic. ¡Viene en una variedad de\ncolores para satisfacer todas sus necesidades de\ncolorear y escribir!\n- APLICACIÓN SUAVE. La punta mediana duradera\npuede producir líneas finas que permiten una\naplicación de color suave y precisa, puede realizar\nfácilmente la coloración sin demasiado esfuerzo.\n- SIN MANCHAS. Sabemos que no desea que la tinta se\nmanche, el flujo de tinta sin manchas significa que\npuede hacer un buen uso de estos bolígrafos\nversátiles para una calidad de escritura superior.\n- EMBALAJE. La bolsa de plástico transparente crea una\nfácil portabilidad para los bolígrafos de gel mientras\nviaja. ¡Lleva contigo a cualquier lugar y en todas\npartes estos bolígrafos son el compañero de viaje\nperfecto!\n- USO IDEAL. Estos increíbles bolígrafos son divertidos\nde usar para colorear libros, dibujar, notas,\ninvitaciones caseras, tarjetas de felicitación y mucho\nmás. Gran idea de regalo para niños y adultos a los\nque les encanta colorear.",
       "imagen": "/images/shop/Boligrafo-Escarchado-Gel-Essence-X24-Marca-BAZIC-30864529200600-1-.webp",
       "galeria": [
         "/images/shop/Boligrafo-Escarchado-Gel-Essence-X24-Marca-BAZIC-30864529200600-1-.webp",
@@ -4136,12 +4136,12 @@
     },
     {
       "id": "boligrado-gel-essence-x6-9611",
-      "nombre": "Boligrado Gel Essence X6",
+      "nombre": "Bolígrafo Gel Essence X6",
       "slug": "boligrado-gel-essence-x6-9611",
       "marca": "BAZIC",
       "precio": 12900,
       "precioAnterior": null,
-      "descripcion": "- BOLIGRAFOS ESSENCE GEL NEGRO. Cada paquete\nviene con un total de 6 bolígrafos de gel negros. Los\nbolígrafos de gel negros han demostrado ser los\nbolígrafos de tinta de gel de mayor duración, con un\nagarre extra cómodo y una tinta que se desliza\nsuavemente.\n- APLICACIÓN SUAVE. La punta duradera de 0,7 mm\npuede producir líneas finas que permiten una\naplicación de escritura suave y precisa, puede\nescribir fácilmente sin demasiado esfuerzo.\n- SIN MANCHAS. Sabemos que no desea que la tinta se\nmanche, el flujo de tinta sin manchas significa que\npuede hacer un buen uso de estos bolígrafos\nversátiles para una calidad de escritura superior.\n- EMBALAJE. La bolsa de plástico transparente crea una\nfácil portabilidad para los bolígrafos de gel mientras\nviaja. ¡Lleva contigo a cualquier lugar y en todas\npartes estos bolígrafos son el compañero de viaje\nperfecto!\n- USO IDEAL. Estos bolígrafos de gel son divertidos de\nusar para colorear libros, dibujar, notas, invitaciones\ncaseras, tarjetas de felicitación y mucho más. Gran\nidea de regalo para niños y adultos a los que les\nencanta colorear.",
+      "descripcion": "- BOLÍGRAFOS ESSENCE GEL NEGRO. Cada paquete\nviene con un total de 6 bolígrafos de gel negros. Los\nbolígrafos de gel negros han demostrado ser los\nbolígrafos de tinta de gel de mayor duración, con un\nagarre extra cómodo y una tinta que se desliza\nsuavemente.\n- APLICACIÓN SUAVE. La punta duradera de 0,7 mm\npuede producir líneas finas que permiten una\naplicación de escritura suave y precisa, puede\nescribir fácilmente sin demasiado esfuerzo.\n- SIN MANCHAS. Sabemos que no desea que la tinta se\nmanche, el flujo de tinta sin manchas significa que\npuede hacer un buen uso de estos bolígrafos\nversátiles para una calidad de escritura superior.\n- EMBALAJE. La bolsa de plástico transparente crea una\nfácil portabilidad para los bolígrafos de gel mientras\nviaja. ¡Lleva contigo a cualquier lugar y en todas\npartes estos bolígrafos son el compañero de viaje\nperfecto!\n- USO IDEAL. Estos bolígrafos de gel son divertidos de\nusar para colorear libros, dibujar, notas, invitaciones\ncaseras, tarjetas de felicitación y mucho más. Gran\nidea de regalo para niños y adultos a los que les\nencanta colorear.",
       "imagen": "/images/shop/Boligrado-Gel-Essence-X6-Marca-BAZIC-30864529030300-1-.webp",
       "galeria": [
         "/images/shop/Boligrado-Gel-Essence-X6-Marca-BAZIC-30864529030300-1-.webp",
@@ -4160,12 +4160,12 @@
     },
     {
       "id": "boligrado-gel-optima-x3-9609",
-      "nombre": "Boligrado Gel Optima X3",
+      "nombre": "Bolígrafo Gel Optima X3",
       "slug": "boligrado-gel-optima-x3-9609",
       "marca": "BAZIC",
       "precio": 9900,
       "precioAnterior": null,
-      "descripcion": "- BOLIGRAFOS DE ACEITE-GEL RETRACTABLES OPTIMA\nBLACK. Cada paquete incluye 3 bolígrafos retráctiles\nnegros. La punta mediana distribuye la tinta de\nmanera uniforme mientras escribe, lo que ofrece un\nrendimiento confiable para el uso diario.\n- APLICACIÓN SUAVE. La punta mediana de 1,0 mm\npuede producir líneas nítidas y limpias que permiten\nuna aplicación de escritura suave y precisa, puede\nescribir fácilmente sin demasiado esfuerzo.\n- DISEÑO. El bolígrafo retráctil está diseñado con un\nconveniente clip de bolsillo que permite un acceso\nrápido y fácil. Cada bolígrafo está equipado con una\nempuñadura acolchada que lo hace muy cómodo\npara los usuarios cuando usan el producto.\n- SIN MANCHAS. Sabemos que no desea que la tinta se\nmanche, el flujo de tinta sin manchas significa que\npuede hacer un buen uso de estos bolígrafos\nversátiles para una calidad de escritura superior.\n- USO IDEAL. Adecuado para una variedad de\naplicaciones de escritura cotidianas, lo que hace que\neste bolígrafo de gel de aceite sea el complemento\nperfecto para su hogar, escuela u oficina.",
+      "descripcion": "- BOLÍGRAFOS DE ACEITE-GEL RETRACTABLES OPTIMA\nBLACK. Cada paquete incluye 3 bolígrafos retráctiles\nnegros. La punta mediana distribuye la tinta de\nmanera uniforme mientras escribe, lo que ofrece un\nrendimiento confiable para el uso diario.\n- APLICACIÓN SUAVE. La punta mediana de 1,0 mm\npuede producir líneas nítidas y limpias que permiten\nuna aplicación de escritura suave y precisa, puede\nescribir fácilmente sin demasiado esfuerzo.\n- DISEÑO. El bolígrafo retráctil está diseñado con un\nconveniente clip de bolsillo que permite un acceso\nrápido y fácil. Cada bolígrafo está equipado con una\nempuñadura acolchada que lo hace muy cómodo\npara los usuarios cuando usan el producto.\n- SIN MANCHAS. Sabemos que no desea que la tinta se\nmanche, el flujo de tinta sin manchas significa que\npuede hacer un buen uso de estos bolígrafos\nversátiles para una calidad de escritura superior.\n- USO IDEAL. Adecuado para una variedad de\naplicaciones de escritura cotidianas, lo que hace que\neste bolígrafo de gel de aceite sea el complemento\nperfecto para su hogar, escuela u oficina.",
       "imagen": "/images/shop/Boligrado-Gel-Optima-X3-Marca-BAZIC-30864529020200-1-.webp",
       "galeria": [
         "/images/shop/Boligrado-Gel-Optima-X3-Marca-BAZIC-30864529020200-1-.webp",
@@ -4234,12 +4234,12 @@
     },
     {
       "id": "boligrafo-borrable-x12-9602",
-      "nombre": "Boligrafo Borrable X12",
+      "nombre": "Bolígrafo Borrable X12",
       "slug": "boligrafo-borrable-x12-9602",
       "marca": "BAZIC",
       "precio": 16900,
       "precioAnterior": null,
-      "descripcion": "- BOLIGRAFO LAVABLE CON PUNTA DE FIBRA. ¡Exprésate\ncon cada trazo mientras transformas cualquier\npágina en una obra maestra con hasta 12 colores\nbrillantes! Lo más importante, la tinta es lavable, lo\nque los hace perfectos.\n- EMBALAJE. La caja de plástico transparente crea una\nfácil portabilidad para los bolígrafos de gel mientras\nviaja. ¡Lleva contigo a cualquier lugar y en todas\npartes estos bolígrafos son el compañero de viaje\nperfecto!\n- PUNTA RESISTENTE A LA PRESIÓN. Los rotuladores con\npunta de fibra vienen con una punta resistente que\nno se rompe fácilmente y durará más. La punta del\nbolígrafo es resistente a la presión y puede resistir\nmuy bien la presión.\n- CALIDAD. Las tintas a base de agua son resistentes a\nla decoloración y se secan rápidamente, lo que\ngarantiza una protección a prueba de manchas. La\nescritura no traspasa el papel para notas ordenadas,\ngarabatos y páginas para colorear para adultos.\n- USO IDEAL. Ideal para la escuela, el hogar y la oficina.\nEstos bolígrafos con punta de fibra son divertidos de\nusar para colorear libros, dibujar, notas, invitaciones,\ntarjetas de felicitación y mucho más. Gran idea de\nregalo para niños y adultos.",
+      "descripcion": "- BOLÍGRAFO LAVABLE CON PUNTA DE FIBRA. ¡Exprésate\ncon cada trazo mientras transformas cualquier\npágina en una obra maestra con hasta 12 colores\nbrillantes! Lo más importante, la tinta es lavable, lo\nque los hace perfectos.\n- EMBALAJE. La caja de plástico transparente crea una\nfácil portabilidad para los bolígrafos de gel mientras\nviaja. ¡Lleva contigo a cualquier lugar y en todas\npartes estos bolígrafos son el compañero de viaje\nperfecto!\n- PUNTA RESISTENTE A LA PRESIÓN. Los rotuladores con\npunta de fibra vienen con una punta resistente que\nno se rompe fácilmente y durará más. La punta del\nbolígrafo es resistente a la presión y puede resistir\nmuy bien la presión.\n- CALIDAD. Las tintas a base de agua son resistentes a\nla decoloración y se secan rápidamente, lo que\ngarantiza una protección a prueba de manchas. La\nescritura no traspasa el papel para notas ordenadas,\ngarabatos y páginas para colorear para adultos.\n- USO IDEAL. Ideal para la escuela, el hogar y la oficina.\nEstos bolígrafos con punta de fibra son divertidos de\nusar para colorear libros, dibujar, notas, invitaciones,\ntarjetas de felicitación y mucho más. Gran idea de\nregalo para niños y adultos.",
       "imagen": "/images/shop/Boligrafo-Borrable-X12-Marca-BAZIC-30864528061200-1-.webp",
       "galeria": [
         "/images/shop/Boligrafo-Borrable-X12-Marca-BAZIC-30864528061200-1-.webp",
@@ -4406,7 +4406,7 @@
     },
     {
       "id": "marcadores-x10-pagina-neon-05x17-9498",
-      "nombre": "Marcadores X10 Pagina Neon 0.5X1.7",
+      "nombre": "Marcadores X10 Página Neón 0.5X1.7",
       "slug": "marcadores-x10-pagina-neon-05x17-9498",
       "marca": "BAZIC",
       "precio": 9900,
@@ -4556,7 +4556,7 @@
     },
     {
       "id": "colores-neon-x8-9488",
-      "nombre": "Colores Neon X8",
+      "nombre": "Colores Neón X8",
       "slug": "colores-neon-x8-9488",
       "marca": "BAZIC",
       "precio": 9900,
@@ -4655,7 +4655,7 @@
     },
     {
       "id": "lapices-x8-9327",
-      "nombre": "Lapices X8",
+      "nombre": "Lápices X8",
       "slug": "lapices-x8-9327",
       "marca": "MULTICRAFT",
       "precio": 9900,
@@ -4679,7 +4679,7 @@
     },
     {
       "id": "boligrafo-x6-premium-metalizado-9326",
-      "nombre": "Boligrafo X6 Premium Metalizado",
+      "nombre": "Bolígrafo X6 Premium Metalizado",
       "slug": "boligrafo-x6-premium-metalizado-9326",
       "marca": "MULTICRAFT",
       "precio": 14900,
@@ -4880,7 +4880,7 @@
     },
     {
       "id": "marcador-x5-tipo-pintura-neon-9312",
-      "nombre": "Marcador X5 Tipo Pintura Neon",
+      "nombre": "Marcador X5 Tipo Pintura Neón",
       "slug": "marcador-x5-tipo-pintura-neon-9312",
       "marca": "MULTICRAFT",
       "precio": 19900,
@@ -5007,7 +5007,7 @@
       "marca": "PRIMAVERA",
       "precio": 29900,
       "precioAnterior": null,
-      "descripcion": "Incluye: -1 Tijeras -1 Tajalapiz -1 Borrador -1 Regla -3 Lapices -12 Colores",
+      "descripcion": "Incluye: -1 Tijeras -1 Tajalapiz -1 Borrador -1 Regla -3 Lápices -12 Colores",
       "imagen": "/images/shop/Set-Escolar-Buzz-Lightyear-Marca-PRIMAVERA-26834531061006-1-.webp",
       "galeria": [
         "/images/shop/Set-Escolar-Buzz-Lightyear-Marca-PRIMAVERA-26834531061006-1-.webp"
@@ -5027,7 +5027,7 @@
     },
     {
       "id": "lapiz-classic-x6-9041",
-      "nombre": "Lapiz Classic X6",
+      "nombre": "Lápiz Classic X6",
       "slug": "lapiz-classic-x6-9041",
       "marca": "PRIMAVERA",
       "precio": 4600,
@@ -5051,7 +5051,7 @@
     },
     {
       "id": "lapiz-black-and-white-x6-9040",
-      "nombre": "Lapiz Black And White X6",
+      "nombre": "Lápiz Black And White X6",
       "slug": "lapiz-black-and-white-x6-9040",
       "marca": "PRIMAVERA",
       "precio": 4800,
@@ -5127,7 +5127,7 @@
       "marca": "PRIMAVERA",
       "precio": 8200,
       "precioAnterior": null,
-      "descripcion": "Incluye: -12 Lapices doble punta fluorecente y metalizados.",
+      "descripcion": "Incluye: -12 Lápices doble punta fluorecente y metalizados.",
       "imagen": "/images/shop/Colores-X6-Marca-PRIMAVERA-26834504050600-1-.webp",
       "galeria": [
         "/images/shop/Colores-X6-Marca-PRIMAVERA-26834504050600-1-.webp"
@@ -5151,7 +5151,7 @@
       "marca": "PRIMAVERA",
       "precio": 22600,
       "precioAnterior": null,
-      "descripcion": "Incluye: -12 Lapices jumbo punta sencilla -1 Tajalapiz",
+      "descripcion": "Incluye: -12 Lápices jumbo punta sencilla -1 Tajalapiz",
       "imagen": "/images/shop/Colores-Jumbo-X12-Marca-PRIMAVERA-26834504021200-1-.webp",
       "galeria": [
         "/images/shop/Colores-Jumbo-X12-Marca-PRIMAVERA-26834504021200-1-.webp"
@@ -5175,7 +5175,7 @@
       "marca": "PRIMAVERA",
       "precio": 10900,
       "precioAnterior": null,
-      "descripcion": "Incluye: -12 Lapices punta sencilla -1 Tajalapiz",
+      "descripcion": "Incluye: -12 Lápices punta sencilla -1 Tajalapiz",
       "imagen": "/images/shop/Colores-X12-Marca-PRIMAVERA-26834504011200-1-.webp",
       "galeria": [
         "/images/shop/Colores-X12-Marca-PRIMAVERA-26834504011200-1-.webp"
@@ -5199,7 +5199,7 @@
       "marca": "PRIMAVERA",
       "precio": 22300,
       "precioAnterior": null,
-      "descripcion": "Incluye: -18 Lapices punta sencilla -6 Lapices doble punta -1 Tajalapiz",
+      "descripcion": "Incluye: -18 Lápices punta sencilla -6 Lápices doble punta -1 Tajalapiz",
       "imagen": "/images/shop/Colores-X24-Marca-PRIMAVERA-26834504012400-1-.webp",
       "galeria": [
         "/images/shop/Colores-X24-Marca-PRIMAVERA-26834504012400-1-.webp"

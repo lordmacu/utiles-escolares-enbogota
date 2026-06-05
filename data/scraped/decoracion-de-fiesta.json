@@ -32,12 +32,12 @@
     },
     {
       "id": "velas-doradas-de-corazon-x3-los-tres-elefantes-0240420914260489",
-      "nombre": "Velas Doradas De Corazon X3",
+      "nombre": "Velas Doradas De Corazón X3",
       "slug": "velas-doradas-de-corazon-x3-los-tres-elefantes-0240420914260489",
       "marca": "LOS TRES ELEFANTES",
       "precio": 9900,
       "precioAnterior": null,
-      "descripcion": "Velas Decorativas Para Fiestas Con Diseño De Corazon, Especial Para Cumpleaños O Reuniones. Cuenta Con Una Base Tipo Pitillo Que Permite Insertarla Fácilmente En Tortas O Cupcakes, Brindando Estabilidad Y Un Toque Llamativo. Su Diseño En Colores Dorado Y Forma De Corazon Con Mensaje De Feliz Cumpleaños Aporta Un Estilo Romantico Y Original A La Decoración.",
+      "descripcion": "Velas Decorativas Para Fiestas Con Diseño De Corazón, Especial Para Cumpleaños O Reuniones. Cuenta Con Una Base Tipo Pitillo Que Permite Insertarla Fácilmente En Tortas O Cupcakes, Brindando Estabilidad Y Un Toque Llamativo. Su Diseño En Colores Dorado Y Forma De Corazón Con Mensaje De Feliz Cumpleaños Aporta Un Estilo Romantico Y Original A La Decoración.",
       "imagen": "/images/shop/02404209140302-1-.webp",
       "galeria": [
         "/images/shop/02404209140302-1-.webp",
@@ -107,7 +107,7 @@
     },
     {
       "id": "vela-blanca-de-balon-de-futbol-los-tres-elefantes-0240420914190828",
-      "nombre": "Vela Blanca De Balon De Futbol",
+      "nombre": "Vela Blanca De Balon De Fútbol",
       "slug": "vela-blanca-de-balon-de-futbol-los-tres-elefantes-0240420914190828",
       "marca": "LOS TRES ELEFANTES",
       "precio": 6900,
@@ -135,18 +135,18 @@
     },
     {
       "id": "vela-en-espiral-neon-los-tres-elefantes-024042091476",
-      "nombre": "Vela En Espiral Neon",
+      "nombre": "Vela En Espiral Neón",
       "slug": "vela-en-espiral-neon-los-tres-elefantes-024042091476",
       "marca": "LOS TRES ELEFANTES",
       "precio": 3900,
       "precioAnterior": null,
-      "descripcion": "Vela Decorativa Para Fiestas Con Diseño En Espiral, Especial Para Cumpleaños Infantiles O Reuniones. Cuenta Con Una Base Tipo Palillo Que Permite Insertarla Fácilmente En Tortas O Cupcakes, Brindando Estabilidad Y Un Toque Llamativo. Su Diseño En Colores Neon Aporta Un Estilo Divertido Y Original A La Decoración.",
+      "descripcion": "Vela Decorativa Para Fiestas Con Diseño En Espiral, Especial Para Cumpleaños Infantiles O Reuniones. Cuenta Con Una Base Tipo Palillo Que Permite Insertarla Fácilmente En Tortas O Cupcakes, Brindando Estabilidad Y Un Toque Llamativo. Su Diseño En Colores Neón Aporta Un Estilo Divertido Y Original A La Decoración.",
       "imagen": "/images/shop/02404209140200-1-.webp",
       "galeria": [
         "/images/shop/02404209140200-1-.webp"
       ],
       "contenido": [
-        "Color: Neon"
+        "Color: Neón"
       ],
       "tags": [
         "LOS TRES ELEFANTES"
@@ -159,12 +159,12 @@
     },
     {
       "id": "vela-dorado-numero-7-los-tres-elefantes-0240420910737",
-      "nombre": "Vela Dorado Numero 7",
+      "nombre": "Vela Dorado Número 7",
       "slug": "vela-dorado-numero-7-los-tres-elefantes-0240420910737",
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Vela De Cumpleaños Dorada Con El Numero 7",
+      "descripcion": "Vela De Cumpleaños Dorada Con El Número 7",
       "imagen": "/images/shop/02404209100110-1-.webp",
       "galeria": [
         "/images/shop/02404209100110-1-.webp",
@@ -193,7 +193,7 @@
     },
     {
       "id": "molde-cupcake-corazon-x24-48198",
-      "nombre": "Molde Cupcake Corazon X24",
+      "nombre": "Molde Cupcake Corazón X24",
       "slug": "molde-cupcake-corazon-x24-48198",
       "marca": "SIMES LOGISTIC",
       "precio": 8900,
@@ -308,7 +308,7 @@
     },
     {
       "id": "vela-plateada-numero-9-30762",
-      "nombre": "Vela Plateada Numero 9",
+      "nombre": "Vela Plateada Número 9",
       "slug": "vela-plateada-numero-9-30762",
       "marca": "OCEANIC",
       "precio": 4900,
@@ -331,7 +331,7 @@
     },
     {
       "id": "vela-plateada-numero-8-30761",
-      "nombre": "Vela Plateada Numero 8",
+      "nombre": "Vela Plateada Número 8",
       "slug": "vela-plateada-numero-8-30761",
       "marca": "OCEANIC",
       "precio": 4900,
@@ -354,7 +354,7 @@
     },
     {
       "id": "vela-plateada-numero-7-30760",
-      "nombre": "Vela Plateada Numero 7",
+      "nombre": "Vela Plateada Número 7",
       "slug": "vela-plateada-numero-7-30760",
       "marca": "OCEANIC",
       "precio": 4900,
@@ -377,7 +377,7 @@
     },
     {
       "id": "vela-plateada-numero-6-30759",
-      "nombre": "Vela Plateada Numero 6",
+      "nombre": "Vela Plateada Número 6",
       "slug": "vela-plateada-numero-6-30759",
       "marca": "OCEANIC",
       "precio": 4900,
@@ -400,7 +400,7 @@
     },
     {
       "id": "vela-plateada-numero-5-30758",
-      "nombre": "Vela Plateada Numero 5",
+      "nombre": "Vela Plateada Número 5",
       "slug": "vela-plateada-numero-5-30758",
       "marca": "OCEANIC",
       "precio": 4900,
@@ -423,7 +423,7 @@
     },
     {
       "id": "vela-plateada-numero-4-30757",
-      "nombre": "Vela Plateada Numero 4",
+      "nombre": "Vela Plateada Número 4",
       "slug": "vela-plateada-numero-4-30757",
       "marca": "OCEANIC",
       "precio": 4900,
@@ -446,7 +446,7 @@
     },
     {
       "id": "vela-plateada-numero-3-30756",
-      "nombre": "Vela Plateada Numero 3",
+      "nombre": "Vela Plateada Número 3",
       "slug": "vela-plateada-numero-3-30756",
       "marca": "OCEANIC",
       "precio": 4900,
@@ -469,7 +469,7 @@
     },
     {
       "id": "vela-plateada-numero-2-30755",
-      "nombre": "Vela Plateada Numero 2",
+      "nombre": "Vela Plateada Número 2",
       "slug": "vela-plateada-numero-2-30755",
       "marca": "OCEANIC",
       "precio": 4900,
@@ -492,7 +492,7 @@
     },
     {
       "id": "vela-plateada-numero-0-30753",
-      "nombre": "Vela Plateada Numero 0",
+      "nombre": "Vela Plateada Número 0",
       "slug": "vela-plateada-numero-0-30753",
       "marca": "OCEANIC",
       "precio": 4900,
@@ -668,7 +668,7 @@
     },
     {
       "id": "vela-rosada-numero-0-43745",
-      "nombre": "Vela Rosada Numero 0",
+      "nombre": "Vela Rosada Número 0",
       "slug": "vela-rosada-numero-0-43745",
       "marca": "TCB",
       "precio": 500,
@@ -720,7 +720,7 @@
     },
     {
       "id": "set-x12-decoracion-baby-rosado-43743",
-      "nombre": "Set X12 Decoracion Baby Rosado",
+      "nombre": "Set X12 Decoración Baby Rosado",
       "slug": "set-x12-decoracion-baby-rosado-43743",
       "marca": "HSE USA",
       "precio": 12900,
@@ -747,7 +747,7 @@
     },
     {
       "id": "set-x12-decoracion-baby-azul-43742",
-      "nombre": "Set X12 Decoracion Baby Azul",
+      "nombre": "Set X12 Decoración Baby Azul",
       "slug": "set-x12-decoracion-baby-azul-43742",
       "marca": "HSE USA",
       "precio": 12900,
@@ -827,7 +827,7 @@
     },
     {
       "id": "topper-cake-plateado-numero-0-43713",
-      "nombre": "Topper Cake Plateado Numero 0",
+      "nombre": "Topper Cake Plateado Número 0",
       "slug": "topper-cake-plateado-numero-0-43713",
       "marca": "CREATIVE CONVERTING",
       "precio": 4900,
@@ -852,7 +852,7 @@
     },
     {
       "id": "topper-cake-plateado-numero-9-43712",
-      "nombre": "Topper Cake Plateado Numero 9",
+      "nombre": "Topper Cake Plateado Número 9",
       "slug": "topper-cake-plateado-numero-9-43712",
       "marca": "CREATIVE CONVERTING",
       "precio": 4900,
@@ -877,7 +877,7 @@
     },
     {
       "id": "topper-cake-plateado-numero-7-43711",
-      "nombre": "Topper Cake Plateado Numero 7",
+      "nombre": "Topper Cake Plateado Número 7",
       "slug": "topper-cake-plateado-numero-7-43711",
       "marca": "CREATIVE CONVERTING",
       "precio": 4900,
@@ -902,7 +902,7 @@
     },
     {
       "id": "topper-cake-plateado-numero-6-43710",
-      "nombre": "Topper Cake Plateado Numero 6",
+      "nombre": "Topper Cake Plateado Número 6",
       "slug": "topper-cake-plateado-numero-6-43710",
       "marca": "CREATIVE CONVERTING",
       "precio": 4900,
@@ -927,7 +927,7 @@
     },
     {
       "id": "topper-cake-plateado-numero-4-43709",
-      "nombre": "Topper Cake Plateado Numero 4",
+      "nombre": "Topper Cake Plateado Número 4",
       "slug": "topper-cake-plateado-numero-4-43709",
       "marca": "CREATIVE CONVERTING",
       "precio": 4900,
@@ -1421,7 +1421,7 @@
     },
     {
       "id": "topper-plateado-numero-8-42983",
-      "nombre": "Topper Plateado Numero 8",
+      "nombre": "Topper Plateado Número 8",
       "slug": "topper-plateado-numero-8-42983",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1445,7 +1445,7 @@
     },
     {
       "id": "topper-plateado-numero-7-42982",
-      "nombre": "Topper Plateado Numero 7",
+      "nombre": "Topper Plateado Número 7",
       "slug": "topper-plateado-numero-7-42982",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1469,7 +1469,7 @@
     },
     {
       "id": "topper-plateado-numero-6-42981",
-      "nombre": "Topper Plateado Numero 6",
+      "nombre": "Topper Plateado Número 6",
       "slug": "topper-plateado-numero-6-42981",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1493,7 +1493,7 @@
     },
     {
       "id": "topper-plateado-numero-5-42980",
-      "nombre": "Topper Plateado Numero 5",
+      "nombre": "Topper Plateado Número 5",
       "slug": "topper-plateado-numero-5-42980",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1517,7 +1517,7 @@
     },
     {
       "id": "topper-plateado-numero-4-42979",
-      "nombre": "Topper Plateado Numero 4",
+      "nombre": "Topper Plateado Número 4",
       "slug": "topper-plateado-numero-4-42979",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1541,7 +1541,7 @@
     },
     {
       "id": "topper-plateado-numero-3-42978",
-      "nombre": "Topper Plateado Numero 3",
+      "nombre": "Topper Plateado Número 3",
       "slug": "topper-plateado-numero-3-42978",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1565,7 +1565,7 @@
     },
     {
       "id": "topper-plateado-numero-2-42977",
-      "nombre": "Topper Plateado Numero 2",
+      "nombre": "Topper Plateado Número 2",
       "slug": "topper-plateado-numero-2-42977",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1589,7 +1589,7 @@
     },
     {
       "id": "topper-plateado-numero-1-42976",
-      "nombre": "Topper Plateado Numero 1",
+      "nombre": "Topper Plateado Número 1",
       "slug": "topper-plateado-numero-1-42976",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1613,7 +1613,7 @@
     },
     {
       "id": "topper-plateado-numero-0-42975",
-      "nombre": "Topper Plateado Numero 0",
+      "nombre": "Topper Plateado Número 0",
       "slug": "topper-plateado-numero-0-42975",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1637,7 +1637,7 @@
     },
     {
       "id": "topper-dorado-numero-9-42974",
-      "nombre": "Topper Dorado Numero 9",
+      "nombre": "Topper Dorado Número 9",
       "slug": "topper-dorado-numero-9-42974",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1661,7 +1661,7 @@
     },
     {
       "id": "topper-dorado-numero-8-42973",
-      "nombre": "Topper Dorado Numero 8",
+      "nombre": "Topper Dorado Número 8",
       "slug": "topper-dorado-numero-8-42973",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1685,7 +1685,7 @@
     },
     {
       "id": "topper-dorado-numero-7-42972",
-      "nombre": "Topper Dorado Numero 7",
+      "nombre": "Topper Dorado Número 7",
       "slug": "topper-dorado-numero-7-42972",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1709,7 +1709,7 @@
     },
     {
       "id": "topper-dorado-numero-6-42971",
-      "nombre": "Topper Dorado Numero 6",
+      "nombre": "Topper Dorado Número 6",
       "slug": "topper-dorado-numero-6-42971",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1733,7 +1733,7 @@
     },
     {
       "id": "topper-dorado-numero-5-42970",
-      "nombre": "Topper Dorado Numero 5",
+      "nombre": "Topper Dorado Número 5",
       "slug": "topper-dorado-numero-5-42970",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1757,7 +1757,7 @@
     },
     {
       "id": "topper-dorado-numero-4-42969",
-      "nombre": "Topper Dorado Numero 4",
+      "nombre": "Topper Dorado Número 4",
       "slug": "topper-dorado-numero-4-42969",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -1781,7 +1781,7 @@
     },
     {
       "id": "topper-dorado-numero-3-42968",
-      "nombre": "Topper Dorado Numero 3",
+      "nombre": "Topper Dorado Número 3",
       "slug": "topper-dorado-numero-3-42968",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -2180,7 +2180,7 @@
     },
     {
       "id": "vela-disenos-numero-8-42895",
-      "nombre": "Vela Diseños Numero 8",
+      "nombre": "Vela Diseños Número 8",
       "slug": "vela-disenos-numero-8-42895",
       "marca": "CARNIVAL DESING",
       "precio": 2900,
@@ -2205,7 +2205,7 @@
     },
     {
       "id": "vela-disenos-numero-6-42894",
-      "nombre": "Vela Diseños Numero 6",
+      "nombre": "Vela Diseños Número 6",
       "slug": "vela-disenos-numero-6-42894",
       "marca": "CARNIVAL DESING",
       "precio": 2900,
@@ -2230,7 +2230,7 @@
     },
     {
       "id": "vela-disenos-numero-5-42893",
-      "nombre": "Vela Diseños Numero 5",
+      "nombre": "Vela Diseños Número 5",
       "slug": "vela-disenos-numero-5-42893",
       "marca": "CARNIVAL DESING",
       "precio": 2900,
@@ -2255,7 +2255,7 @@
     },
     {
       "id": "vela-disenos-numero-4-42892",
-      "nombre": "Vela Diseños Numero 4",
+      "nombre": "Vela Diseños Número 4",
       "slug": "vela-disenos-numero-4-42892",
       "marca": "CARNIVAL DESING",
       "precio": 2900,
@@ -2280,7 +2280,7 @@
     },
     {
       "id": "vela-disenos-numero-3-42891",
-      "nombre": "Vela Diseños Numero 3",
+      "nombre": "Vela Diseños Número 3",
       "slug": "vela-disenos-numero-3-42891",
       "marca": "CARNIVAL DESING",
       "precio": 2900,
@@ -2305,7 +2305,7 @@
     },
     {
       "id": "vela-disenos-numero-0-42890",
-      "nombre": "Vela Diseños Numero 0",
+      "nombre": "Vela Diseños Número 0",
       "slug": "vela-disenos-numero-0-42890",
       "marca": "CARNIVAL DESING",
       "precio": 2900,
@@ -2330,7 +2330,7 @@
     },
     {
       "id": "vela-rosada-polka-numero-0-42889",
-      "nombre": "Vela Rosada Polka Numero 0",
+      "nombre": "Vela Rosada Polka Número 0",
       "slug": "vela-rosada-polka-numero-0-42889",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -2357,7 +2357,7 @@
     },
     {
       "id": "vela-plateada-numero-5-42888",
-      "nombre": "Vela Plateada Numero 5",
+      "nombre": "Vela Plateada Número 5",
       "slug": "vela-plateada-numero-5-42888",
       "marca": "CARNIVAL DESING",
       "precio": 4900,
@@ -2381,7 +2381,7 @@
     },
     {
       "id": "vela-plateada-numero-1-42887",
-      "nombre": "Vela Plateada Numero 1",
+      "nombre": "Vela Plateada Número 1",
       "slug": "vela-plateada-numero-1-42887",
       "marca": "CARNIVAL DESING",
       "precio": 4900,
@@ -2405,7 +2405,7 @@
     },
     {
       "id": "vela-neon-numero-7-42886",
-      "nombre": "Vela Neon Numero 7",
+      "nombre": "Vela Neón Número 7",
       "slug": "vela-neon-numero-7-42886",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -2430,7 +2430,7 @@
     },
     {
       "id": "vela-neon-numero-6-42885",
-      "nombre": "Vela Neon Numero 6",
+      "nombre": "Vela Neón Número 6",
       "slug": "vela-neon-numero-6-42885",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -2455,7 +2455,7 @@
     },
     {
       "id": "vela-neon-numero-5-42884",
-      "nombre": "Vela Neon Numero 5",
+      "nombre": "Vela Neón Número 5",
       "slug": "vela-neon-numero-5-42884",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -2480,7 +2480,7 @@
     },
     {
       "id": "vela-neon-numero-4-42883",
-      "nombre": "Vela Neon Numero 4",
+      "nombre": "Vela Neón Número 4",
       "slug": "vela-neon-numero-4-42883",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -2505,7 +2505,7 @@
     },
     {
       "id": "vela-neon-numero-3-42882",
-      "nombre": "Vela Neon Numero 3",
+      "nombre": "Vela Neón Número 3",
       "slug": "vela-neon-numero-3-42882",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -2530,7 +2530,7 @@
     },
     {
       "id": "vela-neon-numero-1-42880",
-      "nombre": "Vela Neon Numero 1",
+      "nombre": "Vela Neón Número 1",
       "slug": "vela-neon-numero-1-42880",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -2555,7 +2555,7 @@
     },
     {
       "id": "vela-dorada-numero-7-42879",
-      "nombre": "Vela Dorada Numero 7",
+      "nombre": "Vela Dorada Número 7",
       "slug": "vela-dorada-numero-7-42879",
       "marca": "CARNIVAL DESING",
       "precio": 4900,
@@ -2579,7 +2579,7 @@
     },
     {
       "id": "vela-dorada-numero-4-42878",
-      "nombre": "Vela Dorada Numero 4",
+      "nombre": "Vela Dorada Número 4",
       "slug": "vela-dorada-numero-4-42878",
       "marca": "CARNIVAL DESING",
       "precio": 4900,
@@ -2605,7 +2605,7 @@
     },
     {
       "id": "vela-polka-numero-9-42877",
-      "nombre": "Vela Polka Numero 9",
+      "nombre": "Vela Polka Número 9",
       "slug": "vela-polka-numero-9-42877",
       "marca": "CARNIVAL DESING",
       "precio": 1900,
@@ -2701,7 +2701,7 @@
     },
     {
       "id": "velas-neon-x24-42873",
-      "nombre": "Velas Neon X24",
+      "nombre": "Velas Neón X24",
       "slug": "velas-neon-x24-42873",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -3008,7 +3008,7 @@
     },
     {
       "id": "topper-dorado-numero-8-22-cm-41429",
-      "nombre": "Topper Dorado Numero 8 22 Cm",
+      "nombre": "Topper Dorado Número 8 22 Cm",
       "slug": "topper-dorado-numero-8-22-cm-41429",
       "marca": "LINK",
       "precio": 10900,
@@ -3031,7 +3031,7 @@
     },
     {
       "id": "topper-dorado-numero-7-22-cm-41428",
-      "nombre": "Topper Dorado Numero 7 22 Cm",
+      "nombre": "Topper Dorado Número 7 22 Cm",
       "slug": "topper-dorado-numero-7-22-cm-41428",
       "marca": "LINK",
       "precio": 10900,
@@ -3055,7 +3055,7 @@
     },
     {
       "id": "topper-dorado-numero-6-22-cm-41427",
-      "nombre": "Topper Dorado Numero 6 22 Cm",
+      "nombre": "Topper Dorado Número 6 22 Cm",
       "slug": "topper-dorado-numero-6-22-cm-41427",
       "marca": "LINK",
       "precio": 10900,
@@ -3078,7 +3078,7 @@
     },
     {
       "id": "topper-dorado-numero-1-22-cm-41426",
-      "nombre": "Topper Dorado Numero 1 22 Cm",
+      "nombre": "Topper Dorado Número 1 22 Cm",
       "slug": "topper-dorado-numero-1-22-cm-41426",
       "marca": "LINK",
       "precio": 10900,
@@ -3102,7 +3102,7 @@
     },
     {
       "id": "topper-plateado-numero-9-22-cm-41425",
-      "nombre": "Topper Plateado Numero 9 22 Cm",
+      "nombre": "Topper Plateado Número 9 22 Cm",
       "slug": "topper-plateado-numero-9-22-cm-41425",
       "marca": "LINK",
       "precio": 10900,
@@ -3125,7 +3125,7 @@
     },
     {
       "id": "topper-plateado-numero-7-22-cm-41423",
-      "nombre": "Topper Plateado Numero 7 22 Cm",
+      "nombre": "Topper Plateado Número 7 22 Cm",
       "slug": "topper-plateado-numero-7-22-cm-41423",
       "marca": "LINK",
       "precio": 10900,
@@ -3148,7 +3148,7 @@
     },
     {
       "id": "topper-plateado-numero-4-22-cm-41421",
-      "nombre": "Topper Plateado Numero 4 22 Cm",
+      "nombre": "Topper Plateado Número 4 22 Cm",
       "slug": "topper-plateado-numero-4-22-cm-41421",
       "marca": "LINK",
       "precio": 10900,
@@ -3171,7 +3171,7 @@
     },
     {
       "id": "topper-plateado-numero-3-22-cm-41420",
-      "nombre": "Topper Plateado Numero 3 22 Cm",
+      "nombre": "Topper Plateado Número 3 22 Cm",
       "slug": "topper-plateado-numero-3-22-cm-41420",
       "marca": "LINK",
       "precio": 10900,
@@ -3195,7 +3195,7 @@
     },
     {
       "id": "topper-plateado-numero-1-22-cm-41419",
-      "nombre": "Topper Plateado Numero 1 22 Cm",
+      "nombre": "Topper Plateado Número 1 22 Cm",
       "slug": "topper-plateado-numero-1-22-cm-41419",
       "marca": "LINK",
       "precio": 10900,
@@ -3218,7 +3218,7 @@
     },
     {
       "id": "topper-plateado-numero-0-22-cm-41418",
-      "nombre": "Topper Plateado Numero 0 22 Cm",
+      "nombre": "Topper Plateado Número 0 22 Cm",
       "slug": "topper-plateado-numero-0-22-cm-41418",
       "marca": "LINK",
       "precio": 10900,
@@ -3335,7 +3335,7 @@
     },
     {
       "id": "vela-iris-numero-0-41250",
-      "nombre": "Vela Iris Numero 0",
+      "nombre": "Vela Iris Número 0",
       "slug": "vela-iris-numero-0-41250",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3359,7 +3359,7 @@
     },
     {
       "id": "vela-iris-numero-9-41249",
-      "nombre": "Vela Iris Numero 9",
+      "nombre": "Vela Iris Número 9",
       "slug": "vela-iris-numero-9-41249",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3383,7 +3383,7 @@
     },
     {
       "id": "vela-iris-numero-8-41248",
-      "nombre": "Vela Iris Numero 8",
+      "nombre": "Vela Iris Número 8",
       "slug": "vela-iris-numero-8-41248",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3407,7 +3407,7 @@
     },
     {
       "id": "vela-iris-numero-7-41247",
-      "nombre": "Vela Iris Numero 7",
+      "nombre": "Vela Iris Número 7",
       "slug": "vela-iris-numero-7-41247",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3431,7 +3431,7 @@
     },
     {
       "id": "vela-iris-numero-5-41246",
-      "nombre": "Vela Iris Numero 5",
+      "nombre": "Vela Iris Número 5",
       "slug": "vela-iris-numero-5-41246",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3455,7 +3455,7 @@
     },
     {
       "id": "vela-iris-numero-3-41245",
-      "nombre": "Vela Iris Numero 3",
+      "nombre": "Vela Iris Número 3",
       "slug": "vela-iris-numero-3-41245",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3480,7 +3480,7 @@
     },
     {
       "id": "vela-neon-numero-9-41244",
-      "nombre": "Vela Neon Numero 9",
+      "nombre": "Vela Neón Número 9",
       "slug": "vela-neon-numero-9-41244",
       "marca": "PRIVILEGE",
       "precio": 1900,
@@ -3502,7 +3502,7 @@
     },
     {
       "id": "vela-neon-numero-8-41243",
-      "nombre": "Vela Neon Numero 8",
+      "nombre": "Vela Neón Número 8",
       "slug": "vela-neon-numero-8-41243",
       "marca": "PRIVILEGE",
       "precio": 1900,
@@ -3524,7 +3524,7 @@
     },
     {
       "id": "vela-neon-numero-0-41242",
-      "nombre": "Vela Neon Numero 0",
+      "nombre": "Vela Neón Número 0",
       "slug": "vela-neon-numero-0-41242",
       "marca": "PRIVILEGE",
       "precio": 1900,
@@ -3546,7 +3546,7 @@
     },
     {
       "id": "vela-numero-0-41241",
-      "nombre": "Vela Numero 0",
+      "nombre": "Vela Número 0",
       "slug": "vela-numero-0-41241",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3569,7 +3569,7 @@
     },
     {
       "id": "vela-numero-9-41240",
-      "nombre": "Vela Numero 9",
+      "nombre": "Vela Número 9",
       "slug": "vela-numero-9-41240",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3592,7 +3592,7 @@
     },
     {
       "id": "vela-numero-8-41239",
-      "nombre": "Vela Numero 8",
+      "nombre": "Vela Número 8",
       "slug": "vela-numero-8-41239",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3615,7 +3615,7 @@
     },
     {
       "id": "vela-numero-7-41238",
-      "nombre": "Vela Numero 7",
+      "nombre": "Vela Número 7",
       "slug": "vela-numero-7-41238",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3638,7 +3638,7 @@
     },
     {
       "id": "vela-numero-6-41237",
-      "nombre": "Vela Numero 6",
+      "nombre": "Vela Número 6",
       "slug": "vela-numero-6-41237",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3662,7 +3662,7 @@
     },
     {
       "id": "vela-numero-4-41236",
-      "nombre": "Vela Numero 4",
+      "nombre": "Vela Número 4",
       "slug": "vela-numero-4-41236",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3686,7 +3686,7 @@
     },
     {
       "id": "vela-numero-3-41235",
-      "nombre": "Vela Numero 3",
+      "nombre": "Vela Número 3",
       "slug": "vela-numero-3-41235",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3709,7 +3709,7 @@
     },
     {
       "id": "vela-rosada-numero-0-41234",
-      "nombre": "Vela Rosada Numero 0",
+      "nombre": "Vela Rosada Número 0",
       "slug": "vela-rosada-numero-0-41234",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3733,7 +3733,7 @@
     },
     {
       "id": "vela-azul-numero-0-41233",
-      "nombre": "Vela Azul Numero 0",
+      "nombre": "Vela Azul Número 0",
       "slug": "vela-azul-numero-0-41233",
       "marca": "PRIVILEGE",
       "precio": 2900,
@@ -3804,7 +3804,7 @@
     },
     {
       "id": "pesa-roja-para-globos-con-decoracion-41230",
-      "nombre": "Pesa Roja Para Globos Con Decoracion",
+      "nombre": "Pesa Roja Para Globos Con Decoración",
       "slug": "pesa-roja-para-globos-con-decoracion-41230",
       "marca": "PRIVILEGE",
       "precio": 7900,
@@ -3985,7 +3985,7 @@
     },
     {
       "id": "topper-plateado-numero-9-41218",
-      "nombre": "Topper Plateado Numero 9",
+      "nombre": "Topper Plateado Número 9",
       "slug": "topper-plateado-numero-9-41218",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -4008,7 +4008,7 @@
     },
     {
       "id": "topper-dorado-numero-1-41217",
-      "nombre": "Topper Dorado Numero 1",
+      "nombre": "Topper Dorado Número 1",
       "slug": "topper-dorado-numero-1-41217",
       "marca": "CARNIVAL DESING",
       "precio": 3900,
@@ -4916,7 +4916,7 @@
     },
     {
       "id": "vela-plateada-numero-9-41093",
-      "nombre": "Vela Plateada Numero 9",
+      "nombre": "Vela Plateada Número 9",
       "slug": "vela-plateada-numero-9-41093",
       "marca": "CARNIVAL DESING",
       "precio": 4900,
@@ -4940,7 +4940,7 @@
     },
     {
       "id": "vela-plateada-numero-7-41092",
-      "nombre": "Vela Plateada Numero 7",
+      "nombre": "Vela Plateada Número 7",
       "slug": "vela-plateada-numero-7-41092",
       "marca": "CARNIVAL DESING",
       "precio": 4900,
@@ -4964,7 +4964,7 @@
     },
     {
       "id": "vela-dorada-numero-9-41091",
-      "nombre": "Vela Dorada Numero 9",
+      "nombre": "Vela Dorada Número 9",
       "slug": "vela-dorada-numero-9-41091",
       "marca": "CARNIVAL DESING",
       "precio": 4900,
@@ -4988,7 +4988,7 @@
     },
     {
       "id": "vela-dorada-numero-8-41090",
-      "nombre": "Vela Dorada Numero 8",
+      "nombre": "Vela Dorada Número 8",
       "slug": "vela-dorada-numero-8-41090",
       "marca": "CARNIVAL DESING",
       "precio": 4900,
@@ -5013,7 +5013,7 @@
     },
     {
       "id": "vela-dorada-numero-6-41089",
-      "nombre": "Vela Dorada Numero 6",
+      "nombre": "Vela Dorada Número 6",
       "slug": "vela-dorada-numero-6-41089",
       "marca": "CARNIVAL DESING",
       "precio": 4900,
@@ -5083,7 +5083,7 @@
     },
     {
       "id": "vela-escarchada-numero-9-41037",
-      "nombre": "Vela Escarchada Numero 9",
+      "nombre": "Vela Escarchada Número 9",
       "slug": "vela-escarchada-numero-9-41037",
       "marca": "SIU AND SONS",
       "precio": 3900,
@@ -5107,7 +5107,7 @@
     },
     {
       "id": "vela-escarchada-numero-8-41036",
-      "nombre": "Vela Escarchada Numero 8",
+      "nombre": "Vela Escarchada Número 8",
       "slug": "vela-escarchada-numero-8-41036",
       "marca": "SIU AND SONS",
       "precio": 3900,
@@ -5131,7 +5131,7 @@
     },
     {
       "id": "vela-escarchada-numero-7-41035",
-      "nombre": "Vela Escarchada Numero 7",
+      "nombre": "Vela Escarchada Número 7",
       "slug": "vela-escarchada-numero-7-41035",
       "marca": "SIU AND SONS",
       "precio": 3900,
@@ -5156,7 +5156,7 @@
     },
     {
       "id": "vela-escarchada-numero-6-41034",
-      "nombre": "Vela Escarchada Numero 6",
+      "nombre": "Vela Escarchada Número 6",
       "slug": "vela-escarchada-numero-6-41034",
       "marca": "SIU AND SONS",
       "precio": 3900,
@@ -5180,7 +5180,7 @@
     },
     {
       "id": "vela-escarchada-numero-3-41033",
-      "nombre": "Vela Escarchada Numero 3",
+      "nombre": "Vela Escarchada Número 3",
       "slug": "vela-escarchada-numero-3-41033",
       "marca": "SIU AND SONS",
       "precio": 3900,
@@ -5204,7 +5204,7 @@
     },
     {
       "id": "vela-escarchada-numero-0-41032",
-      "nombre": "Vela Escarchada Numero 0",
+      "nombre": "Vela Escarchada Número 0",
       "slug": "vela-escarchada-numero-0-41032",
       "marca": "SIU AND SONS",
       "precio": 3900,
@@ -5842,7 +5842,7 @@
     },
     {
       "id": "globo-metalizado-numero-9-plata-40-cm-37836",
-      "nombre": "Globo Metalizado Numero 9 Plata 40 Cm",
+      "nombre": "Globo Metalizado Número 9 Plata 40 Cm",
       "slug": "globo-metalizado-numero-9-plata-40-cm-37836",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -5865,7 +5865,7 @@
     },
     {
       "id": "globo-metalizado-numero-8-plata-40-cm-37835",
-      "nombre": "Globo Metalizado Numero 8 Plata 40 Cm",
+      "nombre": "Globo Metalizado Número 8 Plata 40 Cm",
       "slug": "globo-metalizado-numero-8-plata-40-cm-37835",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -5888,7 +5888,7 @@
     },
     {
       "id": "globo-metalizado-numero-7-plata-40-cm-37834",
-      "nombre": "Globo Metalizado Numero 7 Plata 40 Cm",
+      "nombre": "Globo Metalizado Número 7 Plata 40 Cm",
       "slug": "globo-metalizado-numero-7-plata-40-cm-37834",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -5915,7 +5915,7 @@
     },
     {
       "id": "globo-metalizado-numero-6-plata-40-cm-37833",
-      "nombre": "Globo Metalizado Numero 6 Plata 40 Cm",
+      "nombre": "Globo Metalizado Número 6 Plata 40 Cm",
       "slug": "globo-metalizado-numero-6-plata-40-cm-37833",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -5938,7 +5938,7 @@
     },
     {
       "id": "globo-metalizado-numero-5-plata-40-cm-37832",
-      "nombre": "Globo Metalizado Numero 5 Plata 40 CM",
+      "nombre": "Globo Metalizado Número 5 Plata 40 CM",
       "slug": "globo-metalizado-numero-5-plata-40-cm-37832",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -5961,7 +5961,7 @@
     },
     {
       "id": "globo-metalizado-numero-4-plata-40-cm-37831",
-      "nombre": "Globo Metalizado Numero 4 Plata 40 Cm",
+      "nombre": "Globo Metalizado Número 4 Plata 40 Cm",
       "slug": "globo-metalizado-numero-4-plata-40-cm-37831",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -5984,7 +5984,7 @@
     },
     {
       "id": "globo-metalizado-numero-0-dorado-mate-40-cm-37827",
-      "nombre": "Globo Metalizado Numero 0 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 0 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-0-dorado-mate-40-cm-37827",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6007,7 +6007,7 @@
     },
     {
       "id": "globo-metalizado-numero-9-dorado-mate-40-cm-37826",
-      "nombre": "Globo Metalizado Numero 9 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 9 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-9-dorado-mate-40-cm-37826",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6030,7 +6030,7 @@
     },
     {
       "id": "globo-metalizado-numero-8-dorado-mate-40-cm-37825",
-      "nombre": "Globo Metalizado Numero 8 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 8 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-8-dorado-mate-40-cm-37825",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6053,7 +6053,7 @@
     },
     {
       "id": "globo-metalizado-numero-7-dorado-mate-40-cm-37824",
-      "nombre": "Globo Metalizado Numero 7 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 7 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-7-dorado-mate-40-cm-37824",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6076,7 +6076,7 @@
     },
     {
       "id": "globo-metalizado-numero-6-dorado-mate-40-cm-37823",
-      "nombre": "Globo Metalizado Numero 6 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 6 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-6-dorado-mate-40-cm-37823",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6099,7 +6099,7 @@
     },
     {
       "id": "globo-metalizado-numero-5-dorado-mate-40-cm-37822",
-      "nombre": "Globo Metalizado Numero 5 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 5 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-5-dorado-mate-40-cm-37822",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6122,7 +6122,7 @@
     },
     {
       "id": "globo-metalizado-numero-4-dorado-mate-40-cm-37821",
-      "nombre": "Globo Metalizado Numero 4 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 4 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-4-dorado-mate-40-cm-37821",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6145,7 +6145,7 @@
     },
     {
       "id": "globo-metalizado-numero-3-dorado-mate-40-cm-37820",
-      "nombre": "Globo Metalizado Numero 3 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 3 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-3-dorado-mate-40-cm-37820",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6168,7 +6168,7 @@
     },
     {
       "id": "globo-metalizado-numero-2-dorado-mate-40-cm-37819",
-      "nombre": "Globo Metalizado Numero 2 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 2 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-2-dorado-mate-40-cm-37819",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6191,7 +6191,7 @@
     },
     {
       "id": "globo-metalizado-numero-0-dorado-mate-40-cm-37817",
-      "nombre": "Globo Metalizado Numero 0 Dorado Mate 40 Cm",
+      "nombre": "Globo Metalizado Número 0 Dorado Mate 40 Cm",
       "slug": "globo-metalizado-numero-0-dorado-mate-40-cm-37817",
       "marca": "SEMPERTEX",
       "precio": 2200,
@@ -6283,7 +6283,7 @@
     },
     {
       "id": "globo-metalizado-corazon-dorado-mate-45-cm-37812",
-      "nombre": "Globo Metalizado Corazon Dorado Mate 45 Cm",
+      "nombre": "Globo Metalizado Corazón Dorado Mate 45 Cm",
       "slug": "globo-metalizado-corazon-dorado-mate-45-cm-37812",
       "marca": "SEMPERTEX",
       "precio": 2500,
@@ -6306,7 +6306,7 @@
     },
     {
       "id": "globo-metalizado-corazon-rojo-45-cm-37811",
-      "nombre": "Globo Metalizado Corazon Rojo 45 Cm",
+      "nombre": "Globo Metalizado Corazón Rojo 45 Cm",
       "slug": "globo-metalizado-corazon-rojo-45-cm-37811",
       "marca": "SEMPERTEX",
       "precio": 2500,
@@ -6508,7 +6508,7 @@
     },
     {
       "id": "globo-latex-infinity-escarchado-happy-birthday-r-12-x-12-unidades-37800",
-      "nombre": "Globo Latex Infinity Escarchado Happy Birthday R-12 X 12 Unidades",
+      "nombre": "Globo Látex Infinity Escarchado Happy Birthday R-12 X 12 Unidades",
       "slug": "globo-latex-infinity-escarchado-happy-birthday-r-12-x-12-unidades-37800",
       "marca": "SEMPERTEX",
       "precio": 12300,
@@ -6531,7 +6531,7 @@
     },
     {
       "id": "globo-latex-pastel-dusk-surtido-r-12-x-12-unidades-37799",
-      "nombre": "Globo Latex Pastel Dusk Surtido R-12 X 12 Unidades",
+      "nombre": "Globo Látex Pastel Dusk Surtido R-12 X 12 Unidades",
       "slug": "globo-latex-pastel-dusk-surtido-r-12-x-12-unidades-37799",
       "marca": "SEMPERTEX",
       "precio": 6800,
@@ -6577,7 +6577,7 @@
     },
     {
       "id": "confetti-corazon-32-gramos-35108",
-      "nombre": "Confetti Corazon 32 Gramos",
+      "nombre": "Confetti Corazón 32 Gramos",
       "slug": "confetti-corazon-32-gramos-35108",
       "marca": "MULTICRAFT",
       "precio": 12900,
@@ -6951,7 +6951,7 @@
         "/images/shop/2a2e6733-25664218040014-1-.webp"
       ],
       "contenido": [
-        "Composición: PLASTICO"
+        "Composición: PLÁSTICO"
       ],
       "tags": [
         "CREATIVE CONVERTING",
@@ -7018,7 +7018,7 @@
     },
     {
       "id": "vela-numero-8-con-globito--28910",
-      "nombre": "Vela Numero 8 Con Globito.",
+      "nombre": "Vela Número 8 Con Globito.",
       "slug": "vela-numero-8-con-globito--28910",
       "marca": "CREATIVE CONVERTING",
       "precio": 4900,
@@ -7049,7 +7049,7 @@
     },
     {
       "id": "vela-numero-50-escarchada--28908",
-      "nombre": "Vela Numero 50 Escarchada.",
+      "nombre": "Vela Número 50 Escarchada.",
       "slug": "vela-numero-50-escarchada--28908",
       "marca": "CREATIVE CONVERTING",
       "precio": 19900,
@@ -7075,7 +7075,7 @@
     },
     {
       "id": "vela-numero-30-escarchada--28907",
-      "nombre": "Vela Numero 30 Escarchada.",
+      "nombre": "Vela Número 30 Escarchada.",
       "slug": "vela-numero-30-escarchada--28907",
       "marca": "CREATIVE CONVERTING",
       "precio": 11900,
@@ -7101,12 +7101,12 @@
     },
     {
       "id": "globo-numero-7-plateado--28900",
-      "nombre": "Globo Numero 7 Plateado.",
+      "nombre": "Globo Número 7 Plateado.",
       "slug": "globo-numero-7-plateado--28900",
       "marca": "CREATIVE CONVERTING",
       "precio": 4900,
       "precioAnterior": 9900,
-      "descripcion": "Decora tus pasteles o cupcakes con este adorno para tarta de globos de plata numero 7. Ideal para cualquier edad o fiesta temática, este adorno de globo plateado para tartas atraerá la atención sobre tus deliciosos postres.",
+      "descripcion": "Decora tus pasteles o cupcakes con este adorno para tarta de globos de plata número 7. Ideal para cualquier edad o fiesta temática, este adorno de globo plateado para tartas atraerá la atención sobre tus deliciosos postres.",
       "imagen": "/images/shop/25664207150004-1-.webp",
       "galeria": [
         "/images/shop/25664207150004-1-.webp",
@@ -7133,12 +7133,12 @@
     },
     {
       "id": "globo-numero-8-plateado--28898",
-      "nombre": "Globo Numero 8 Plateado.",
+      "nombre": "Globo Número 8 Plateado.",
       "slug": "globo-numero-8-plateado--28898",
       "marca": "CREATIVE CONVERTING",
       "precio": 4900,
       "precioAnterior": 9900,
-      "descripcion": "Decora tus pasteles o cupcakes con este adorno para tarta de globos de plata numero 8. Ideal para cualquier edad o fiesta temática, este adorno de globo plateado para tartas atraerá la atención sobre tus deliciosos postres.",
+      "descripcion": "Decora tus pasteles o cupcakes con este adorno para tarta de globos de plata número 8. Ideal para cualquier edad o fiesta temática, este adorno de globo plateado para tartas atraerá la atención sobre tus deliciosos postres.",
       "imagen": "/images/shop/25664207150001-1-.webp",
       "galeria": [
         "/images/shop/25664207150001-1-.webp",
@@ -7293,7 +7293,7 @@
       "marca": "CREATIVE CONVERTING",
       "precio": 24900,
       "precioAnterior": null,
-      "descripcion": "\"¡Celebra con estilo! Nuestros picks de decoración para pastel con diseño 'Happy Birthday' Plateado con escacha de 13.9 cm x 11.4 cm , son el toque perfecto para cualquier ocasión especial. Fabricados con un 100 % de plastico de alta calidad, estos picks añaden un brillo único a tu pastel. ¡Haz clic para comprar ahora y darle un toque dorado a tus dulces momentos!\"",
+      "descripcion": "\"¡Celebra con estilo! Nuestros picks de decoración para pastel con diseño 'Happy Birthday' Plateado con escacha de 13.9 cm x 11.4 cm , son el toque perfecto para cualquier ocasión especial. Fabricados con un 100 % de plástico de alta calidad, estos picks añaden un brillo único a tu pastel. ¡Haz clic para comprar ahora y darle un toque dorado a tus dulces momentos!\"",
       "imagen": "/images/shop/25664230080222-1-.webp",
       "galeria": [
         "/images/shop/25664230080222-1-.webp"
@@ -11032,9 +11032,9 @@
         "/images/shop/22374226030003.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Plastico"
+        "Composición: Plástico",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Plástico"
       ],
       "tags": [
         "SEMPERTEX"
@@ -11059,7 +11059,7 @@
       ],
       "contenido": [
         "Composición: Papel",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
         "Material: Papel"
       ],
       "tags": [
@@ -11085,7 +11085,7 @@
       ],
       "contenido": [
         "Composición: Papel",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
         "Material: Papel"
       ],
       "tags": [
@@ -11111,7 +11111,7 @@
       ],
       "contenido": [
         "Composición: Papel",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
         "Material: Papel"
       ],
       "tags": [
@@ -11137,7 +11137,7 @@
       ],
       "contenido": [
         "Composición: Papel",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
         "Material: Papel"
       ],
       "tags": [
@@ -11163,7 +11163,7 @@
       ],
       "contenido": [
         "Composición: Papel",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
         "Material: Papel"
       ],
       "tags": [
@@ -11299,7 +11299,7 @@
     },
     {
       "id": "velita-fiesta-fina-neon-x-24-unidades-18409",
-      "nombre": "Velita Fiesta Fina Neon X 24 Unidades",
+      "nombre": "Velita Fiesta Fina Neón X 24 Unidades",
       "slug": "velita-fiesta-fina-neon-x-24-unidades-18409",
       "marca": "SEMPERTEX",
       "precio": 4300,
@@ -11321,7 +11321,7 @@
     },
     {
       "id": "velita-fiesta-neon-x-24-unidades-18408",
-      "nombre": "Velita Fiesta Neon X 24 Unidades",
+      "nombre": "Velita Fiesta Neón X 24 Unidades",
       "slug": "velita-fiesta-neon-x-24-unidades-18408",
       "marca": "SEMPERTEX",
       "precio": 2800,
@@ -11431,7 +11431,7 @@
     },
     {
       "id": "globo-bouquet-x8-latex-feliz-cumpleanos-surtido-r-12-18393",
-      "nombre": "Globo Bouquet X8 Latex Feliz Cumpleaños Surtido R-12",
+      "nombre": "Globo Bouquet X8 Látex Feliz Cumpleaños Surtido R-12",
       "slug": "globo-bouquet-x8-latex-feliz-cumpleanos-surtido-r-12-18393",
       "marca": "SEMPERTEX",
       "precio": 11900,
@@ -11457,7 +11457,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-reflex-surtido-r-12-18391",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Reflex Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Reflex Surtido R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-reflex-surtido-r-12-18391",
       "marca": "SEMPERTEX",
       "precio": 17400,
@@ -11483,7 +11483,7 @@
     },
     {
       "id": "globo-x50-latex-feliz-cumpleanos-surtido-r-12-18390",
-      "nombre": "Globo X50 Latex Feliz Cumpleaños Surtido R-12",
+      "nombre": "Globo X50 Látex Feliz Cumpleaños Surtido R-12",
       "slug": "globo-x50-latex-feliz-cumpleanos-surtido-r-12-18390",
       "marca": "SEMPERTEX",
       "precio": 19900,
@@ -11511,7 +11511,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-reflex-surtido-r-12-18389",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Reflex Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Reflex Surtido R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-reflex-surtido-r-12-18389",
       "marca": "SEMPERTEX",
       "precio": 7900,
@@ -11539,7 +11539,7 @@
     },
     {
       "id": "globo-x50-latex-reflex-surtido-luxury-r-12-18388",
-      "nombre": "Globo X50 Latex Reflex Surtido Luxury R-12",
+      "nombre": "Globo X50 Látex Reflex Surtido Luxury R-12",
       "slug": "globo-x50-latex-reflex-surtido-luxury-r-12-18388",
       "marca": "SEMPERTEX",
       "precio": 49900,
@@ -11565,7 +11565,7 @@
     },
     {
       "id": "globo-x12-latex-reflex-surtido-luxury-r-12-18387",
-      "nombre": "Globo X12 Latex Reflex Surtido Luxury R-12",
+      "nombre": "Globo X12 Látex Reflex Surtido Luxury R-12",
       "slug": "globo-x12-latex-reflex-surtido-luxury-r-12-18387",
       "marca": "SEMPERTEX",
       "precio": 15300,
@@ -11591,7 +11591,7 @@
     },
     {
       "id": "globo-x50-latex-reflex-surtido-luxury-r-5-18386",
-      "nombre": "Globo X50 Latex Reflex Surtido Luxury R-5",
+      "nombre": "Globo X50 Látex Reflex Surtido Luxury R-5",
       "slug": "globo-x50-latex-reflex-surtido-luxury-r-5-18386",
       "marca": "SEMPERTEX",
       "precio": 21600,
@@ -11617,7 +11617,7 @@
     },
     {
       "id": "globo-x12-latex-mi-bautizo-reflex-dorado-r-12-18382",
-      "nombre": "Globo X12 Latex Mi Bautizo Reflex Dorado R-12",
+      "nombre": "Globo X12 Látex Mi Bautizo Reflex Dorado R-12",
       "slug": "globo-x12-latex-mi-bautizo-reflex-dorado-r-12-18382",
       "marca": "SEMPERTEX",
       "precio": 7900,
@@ -11645,7 +11645,7 @@
     },
     {
       "id": "globo-x12-latex-mi-bautizo-reflex-plata-r-12-18381",
-      "nombre": "Globo X12 Latex Mi Bautizo Reflex Plata R-12",
+      "nombre": "Globo X12 Látex Mi Bautizo Reflex Plata R-12",
       "slug": "globo-x12-latex-mi-bautizo-reflex-plata-r-12-18381",
       "marca": "SEMPERTEX",
       "precio": 7900,
@@ -11719,7 +11719,7 @@
     },
     {
       "id": "globo-x12-latex-50-reflex-dorado-r-12-18376",
-      "nombre": "Globo X12 Latex 50 Reflex Dorado R-12",
+      "nombre": "Globo X12 Látex 50 Reflex Dorado R-12",
       "slug": "globo-x12-latex-50-reflex-dorado-r-12-18376",
       "marca": "SEMPERTEX",
       "precio": 15700,
@@ -11745,7 +11745,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-reflex-surtido-r-12-18375",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Reflex Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Reflex Surtido R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-reflex-surtido-r-12-18375",
       "marca": "SEMPERTEX",
       "precio": 17400,
@@ -11771,7 +11771,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-grado-reflex-plata-r-12-18374",
-      "nombre": "Globo X12 Latex Feliz Grado Reflex Plata R-12",
+      "nombre": "Globo X12 Látex Feliz Grado Reflex Plata R-12",
       "slug": "globo-x12-latex-feliz-grado-reflex-plata-r-12-18374",
       "marca": "SEMPERTEX",
       "precio": 17400,
@@ -11797,7 +11797,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-grado-reflex-dorado-r-12-18373",
-      "nombre": "Globo X12 Latex Feliz Grado Reflex Dorado R-12",
+      "nombre": "Globo X12 Látex Feliz Grado Reflex Dorado R-12",
       "slug": "globo-x12-latex-feliz-grado-reflex-dorado-r-12-18373",
       "marca": "SEMPERTEX",
       "precio": 17400,
@@ -11823,7 +11823,7 @@
     },
     {
       "id": "globo-x12-latex-mis-15-anos-reflex-fucsia-r-12-18372",
-      "nombre": "Globo X12 Latex Mis 15 Años Reflex Fucsia R-12",
+      "nombre": "Globo X12 Látex Mis 15 Años Reflex Fucsia R-12",
       "slug": "globo-x12-latex-mis-15-anos-reflex-fucsia-r-12-18372",
       "marca": "SEMPERTEX",
       "precio": 7900,
@@ -11874,7 +11874,7 @@
     },
     {
       "id": "globo-x50-latex-estrellas-plata-r-5-18366",
-      "nombre": "Globo X50 Latex Estrellas Plata R-5",
+      "nombre": "Globo X50 Látex Estrellas Plata R-5",
       "slug": "globo-x50-latex-estrellas-plata-r-5-18366",
       "marca": "SEMPERTEX",
       "precio": 19900,
@@ -11902,7 +11902,7 @@
     },
     {
       "id": "globo-x5-latex-estrellas-doradas-r-50-18364",
-      "nombre": "Globo X5 Latex Estrellas Doradas R-50",
+      "nombre": "Globo X5 Látex Estrellas Doradas R-50",
       "slug": "globo-x5-latex-estrellas-doradas-r-50-18364",
       "marca": "SEMPERTEX",
       "precio": 37800,
@@ -11928,7 +11928,7 @@
     },
     {
       "id": "globo-x12-latex-estrellas-reflex-dorado-r-12-18363",
-      "nombre": "Globo X12 Latex Estrellas Reflex Dorado R-12",
+      "nombre": "Globo X12 Látex Estrellas Reflex Dorado R-12",
       "slug": "globo-x12-latex-estrellas-reflex-dorado-r-12-18363",
       "marca": "SEMPERTEX",
       "precio": 10700,
@@ -11982,7 +11982,7 @@
     },
     {
       "id": "globo-x50-latex-reflex-fucsia-r-12-18361",
-      "nombre": "Globo X50 Latex Reflex Fucsia R-12",
+      "nombre": "Globo X50 Látex Reflex Fucsia R-12",
       "slug": "globo-x50-latex-reflex-fucsia-r-12-18361",
       "marca": "SEMPERTEX",
       "precio": 47200,
@@ -12008,7 +12008,7 @@
     },
     {
       "id": "globo-x12-latex-reflex-fucsia-r-12-18360",
-      "nombre": "Globo X12 Latex Reflex Fucsia R-12",
+      "nombre": "Globo X12 Látex Reflex Fucsia R-12",
       "slug": "globo-x12-latex-reflex-fucsia-r-12-18360",
       "marca": "SEMPERTEX",
       "precio": 15300,
@@ -12034,7 +12034,7 @@
     },
     {
       "id": "globo-x50-latex-reflex-fucsia-r-5-18359",
-      "nombre": "Globo X50 Latex Reflex Fucsia R-5",
+      "nombre": "Globo X50 Látex Reflex Fucsia R-5",
       "slug": "globo-x50-latex-reflex-fucsia-r-5-18359",
       "marca": "SEMPERTEX",
       "precio": 21600,
@@ -12060,7 +12060,7 @@
     },
     {
       "id": "globo-x20-latex-reflex-fucsia-r-5-18358",
-      "nombre": "Globo X20 Latex Reflex Fucsia R-5",
+      "nombre": "Globo X20 Látex Reflex Fucsia R-5",
       "slug": "globo-x20-latex-reflex-fucsia-r-5-18358",
       "marca": "SEMPERTEX",
       "precio": 10400,
@@ -12086,7 +12086,7 @@
     },
     {
       "id": "globo-x3-latex-reflex-fucsia-r-24-18357",
-      "nombre": "Globo X3 Latex Reflex Fucsia R-24",
+      "nombre": "Globo X3 Látex Reflex Fucsia R-24",
       "slug": "globo-x3-latex-reflex-fucsia-r-24-18357",
       "marca": "SEMPERTEX",
       "precio": 19900,
@@ -12217,9 +12217,9 @@
         "/images/shop/22374207080024.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12243,9 +12243,9 @@
         "/images/shop/22374207080013.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12269,9 +12269,9 @@
         "/images/shop/22374207080012.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12285,7 +12285,7 @@
     },
     {
       "id": "globo-fiesta-neon-surtido-r-12-x-12-unidades-18347",
-      "nombre": "Globo Fiesta Neon Surtido R-12 X 12 Unidades",
+      "nombre": "Globo Fiesta Neón Surtido R-12 X 12 Unidades",
       "slug": "globo-fiesta-neon-surtido-r-12-x-12-unidades-18347",
       "marca": "SEMPERTEX",
       "precio": 7300,
@@ -12296,9 +12296,9 @@
         "/images/shop/22374207080011.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12323,9 +12323,9 @@
         "/images/shop/22374207080006.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12350,9 +12350,9 @@
         "/images/shop/22374207080022.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12377,9 +12377,9 @@
         "/images/shop/22374207080007.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12404,9 +12404,9 @@
         "/images/shop/22374207080030.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12431,9 +12431,9 @@
         "/images/shop/22374207080023.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12458,9 +12458,9 @@
         "/images/shop/22374207080008.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12485,9 +12485,9 @@
         "/images/shop/22374207080021.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12512,9 +12512,9 @@
         "/images/shop/22374207080020.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12539,9 +12539,9 @@
         "/images/shop/22374207080009.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12566,9 +12566,9 @@
         "/images/shop/22374207080010.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -12582,7 +12582,7 @@
     },
     {
       "id": "globo-x50-latex-surtido-cafe-r-12-18331",
-      "nombre": "Globo X50 Latex Surtido Café R-12",
+      "nombre": "Globo X50 Látex Surtido Café R-12",
       "slug": "globo-x50-latex-surtido-cafe-r-12-18331",
       "marca": "SEMPERTEX",
       "precio": 22700,
@@ -12608,7 +12608,7 @@
     },
     {
       "id": "globo-x50-latex-fashion-surtido-cafe-r-5-18329",
-      "nombre": "Globo X50 Latex Fashion Surtido Café R-5",
+      "nombre": "Globo X50 Látex Fashion Surtido Café R-5",
       "slug": "globo-x50-latex-fashion-surtido-cafe-r-5-18329",
       "marca": "SEMPERTEX",
       "precio": 10700,
@@ -12634,7 +12634,7 @@
     },
     {
       "id": "globo-x50-latex-feliz-dia-surtido-r-12-18328",
-      "nombre": "Globo X50 Latex Feliz Dia Surtido R-12",
+      "nombre": "Globo X50 Látex Feliz Dia Surtido R-12",
       "slug": "globo-x50-latex-feliz-dia-surtido-r-12-18328",
       "marca": "SEMPERTEX",
       "precio": 19900,
@@ -12662,7 +12662,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-dia-metal-surtido-r-12-18327",
-      "nombre": "Globo X12 Latex Feliz Día Metal Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Día Metal Surtido R-12",
       "slug": "globo-x12-latex-feliz-dia-metal-surtido-r-12-18327",
       "marca": "SEMPERTEX",
       "precio": 7900,
@@ -12716,7 +12716,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-dia-metal-surtido-r-12-18325",
-      "nombre": "Globo X12 Latex Feliz Día Metal Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Día Metal Surtido R-12",
       "slug": "globo-x12-latex-feliz-dia-metal-surtido-r-12-18325",
       "marca": "SEMPERTEX",
       "precio": 10700,
@@ -12770,7 +12770,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-palmas-surtido-r-12-18320",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Palmas Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Palmas Surtido R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-palmas-surtido-r-12-18320",
       "marca": "SEMPERTEX",
       "precio": 11800,
@@ -12796,7 +12796,7 @@
     },
     {
       "id": "globo-x12-latex-palmas-surtido-r-12-18318",
-      "nombre": "Globo X12 Latex Palmas Surtido R-12",
+      "nombre": "Globo X12 Látex Palmas Surtido R-12",
       "slug": "globo-x12-latex-palmas-surtido-r-12-18318",
       "marca": "SEMPERTEX",
       "precio": 11800,
@@ -12822,7 +12822,7 @@
     },
     {
       "id": "globo-x50-feliz-cumpleanos-neon-surtido-r-12-18316",
-      "nombre": "Globo X50 Feliz Cumpleaños Neon Surtido R-12",
+      "nombre": "Globo X50 Feliz Cumpleaños Neón Surtido R-12",
       "slug": "globo-x50-feliz-cumpleanos-neon-surtido-r-12-18316",
       "marca": "SEMPERTEX",
       "precio": 29900,
@@ -12848,7 +12848,7 @@
     },
     {
       "id": "globo-x50-feliz-cumpleanos-neon-surtido-r-12-18315",
-      "nombre": "Globo X50 Feliz Cumpleaños Neon Surtido R-12",
+      "nombre": "Globo X50 Feliz Cumpleaños Neón Surtido R-12",
       "slug": "globo-x50-feliz-cumpleanos-neon-surtido-r-12-18315",
       "marca": "SEMPERTEX",
       "precio": 41200,
@@ -12874,7 +12874,7 @@
     },
     {
       "id": "globo-x50-latex-diamante-surtido-r-12-18314",
-      "nombre": "Globo X50 Latex Diamante Surtido R-12",
+      "nombre": "Globo X50 Látex Diamante Surtido R-12",
       "slug": "globo-x50-latex-diamante-surtido-r-12-18314",
       "marca": "SEMPERTEX",
       "precio": 45200,
@@ -12928,7 +12928,7 @@
     },
     {
       "id": "globo-x50-latex-triangulos-azules-r-12-18312",
-      "nombre": "Globo X50 Latex Triangulos Azules R-12",
+      "nombre": "Globo X50 Látex Triangulos Azules R-12",
       "slug": "globo-x50-latex-triangulos-azules-r-12-18312",
       "marca": "SEMPERTEX",
       "precio": 19900,
@@ -12956,7 +12956,7 @@
     },
     {
       "id": "globo-x50-latex-corazones-surtido-r-12-18311",
-      "nombre": "Globo X50 Latex Corazones Surtido R-12",
+      "nombre": "Globo X50 Látex Corazones Surtido R-12",
       "slug": "globo-x50-latex-corazones-surtido-r-12-18311",
       "marca": "SEMPERTEX",
       "precio": 39200,
@@ -12982,7 +12982,7 @@
     },
     {
       "id": "globo-x50-latex-feliz-cumpleanos-surtido-r-12-18310",
-      "nombre": "Globo X50 Latex Feliz Cumpleaños Surtido R-12",
+      "nombre": "Globo X50 Látex Feliz Cumpleaños Surtido R-12",
       "slug": "globo-x50-latex-feliz-cumpleanos-surtido-r-12-18310",
       "marca": "SEMPERTEX",
       "precio": 19900,
@@ -13021,9 +13021,9 @@
         "/images/shop/22374207070000.webp"
       ],
       "contenido": [
-        "Composición: Latex",
-        "Indicaciones de Uso: Uso exclusivo decoracion. Hecho en Colombia",
-        "Material: Latex"
+        "Composición: Látex",
+        "Indicaciones de Uso: Uso exclusivo decoración. Hecho en Colombia",
+        "Material: Látex"
       ],
       "tags": [
         "SEMPERTEX"
@@ -13036,7 +13036,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-neon-surtido-r-12-18307",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Neon Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Neón Surtido R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-neon-surtido-r-12-18307",
       "marca": "SEMPERTEX",
       "precio": 8900,
@@ -13062,7 +13062,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-azul-rey-r-12-18306",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Azul Rey R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Azul Rey R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-azul-rey-r-12-18306",
       "marca": "SEMPERTEX",
       "precio": 11200,
@@ -13088,7 +13088,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-surtido-r-12-18305",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Surtido R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-surtido-r-12-18305",
       "marca": "SEMPERTEX",
       "precio": 12300,
@@ -13114,7 +13114,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-surtido-r-12-18304",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Surtido R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-surtido-r-12-18304",
       "marca": "SEMPERTEX",
       "precio": 10700,
@@ -13140,7 +13140,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-surtido-r-12-18303",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Surtido R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Surtido R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-surtido-r-12-18303",
       "marca": "SEMPERTEX",
       "precio": 11200,
@@ -13166,7 +13166,7 @@
     },
     {
       "id": "globo-x6-latex-cafe-r-18-18302",
-      "nombre": "Globo X6 Latex Café R-18",
+      "nombre": "Globo X6 Látex Café R-18",
       "slug": "globo-x6-latex-cafe-r-18-18302",
       "marca": "SEMPERTEX",
       "precio": 4900,
@@ -13194,7 +13194,7 @@
     },
     {
       "id": "globo-x6-latex-latte-r-18-18300",
-      "nombre": "Globo X6 Latex Latte R-18",
+      "nombre": "Globo X6 Látex Latte R-18",
       "slug": "globo-x6-latex-latte-r-18-18300",
       "marca": "SEMPERTEX",
       "precio": 4900,
@@ -13221,7 +13221,7 @@
     },
     {
       "id": "globo-x50-latex-dorado-r-12-18299",
-      "nombre": "Globo X50 Latex Dorado R-12",
+      "nombre": "Globo X50 Látex Dorado R-12",
       "slug": "globo-x50-latex-dorado-r-12-18299",
       "marca": "SEMPERTEX",
       "precio": 9900,
@@ -13249,7 +13249,7 @@
     },
     {
       "id": "globo-x50-latex-fashion-latte-r-5-18297",
-      "nombre": "Globo X50 Latex Fashion Latte R-5",
+      "nombre": "Globo X50 Látex Fashion Latte R-5",
       "slug": "globo-x50-latex-fashion-latte-r-5-18297",
       "marca": "SEMPERTEX",
       "precio": 4900,
@@ -13304,7 +13304,7 @@
     },
     {
       "id": "globo-x12-latex-feliz-cumpleanos-rosa-r-12-18295",
-      "nombre": "Globo X12 Latex Feliz Cumpleaños Rosa R-12",
+      "nombre": "Globo X12 Látex Feliz Cumpleaños Rosa R-12",
       "slug": "globo-x12-latex-feliz-cumpleanos-rosa-r-12-18295",
       "marca": "SEMPERTEX",
       "precio": 7900,
@@ -13360,7 +13360,7 @@
     },
     {
       "id": "globo-x12-latex-diamante-dorado-surtido-r-12-18292",
-      "nombre": "Globo X12 Latex Diamante Dorado Surtido R-12",
+      "nombre": "Globo X12 Látex Diamante Dorado Surtido R-12",
       "slug": "globo-x12-latex-diamante-dorado-surtido-r-12-18292",
       "marca": "SEMPERTEX",
       "precio": 12300,
@@ -13386,7 +13386,7 @@
     },
     {
       "id": "globo-x6-latex-rosa-r-18-18290",
-      "nombre": "Globo X6 Latex Rosa R-18",
+      "nombre": "Globo X6 Látex Rosa R-18",
       "slug": "globo-x6-latex-rosa-r-18-18290",
       "marca": "SEMPERTEX",
       "precio": 4900,
@@ -13414,7 +13414,7 @@
     },
     {
       "id": "globo-x6-latex-terracota-r-18-18289",
-      "nombre": "Globo X6 Latex Terracota R-18",
+      "nombre": "Globo X6 Látex Terracota R-18",
       "slug": "globo-x6-latex-terracota-r-18-18289",
       "marca": "SEMPERTEX",
       "precio": 4900,
@@ -13441,7 +13441,7 @@
     },
     {
       "id": "globo-x6-latex-mostaza-r-18-18288",
-      "nombre": "Globo X6 Latex Mostaza R-18",
+      "nombre": "Globo X6 Látex Mostaza R-18",
       "slug": "globo-x6-latex-mostaza-r-18-18288",
       "marca": "SEMPERTEX",
       "precio": 4900,
@@ -13468,7 +13468,7 @@
     },
     {
       "id": "globo-x6-latex-arena-r-18-18286",
-      "nombre": "Globo X6 Latex Arena R-18",
+      "nombre": "Globo X6 Látex Arena R-18",
       "slug": "globo-x6-latex-arena-r-18-18286",
       "marca": "SEMPERTEX",
       "precio": 11700,
@@ -13653,12 +13653,12 @@
     },
     {
       "id": "vela-espiral-neon-x6-15620",
-      "nombre": "Vela Espiral Neon X6",
+      "nombre": "Vela Espiral Neón X6",
       "slug": "vela-espiral-neon-x6-15620",
       "marca": "CREATIVE CONVERTING",
       "precio": 15900,
       "precioAnterior": null,
-      "descripcion": "Las velas espirales neon son una opción vibrante y llamativa para decorar tu pastel o tarta. Con colores brillantes y un diseño en espiral, estas velas agregan un toque de diversión y energía a cualquier celebración. Perfectas para fiestas temáticas, eventos juveniles o simplemente para darle un toque de color a tu celebración, las velas espirales neon son una opción popular para aquellos que buscan algo un poco más fuera de lo común. ¡Prepárate para que tu pastel sea el centro de atención con estas llamativas velas!",
+      "descripcion": "Las velas espirales neón son una opción vibrante y llamativa para decorar tu pastel o tarta. Con colores brillantes y un diseño en espiral, estas velas agregan un toque de diversión y energía a cualquier celebración. Perfectas para fiestas temáticas, eventos juveniles o simplemente para darle un toque de color a tu celebración, las velas espirales neón son una opción popular para aquellos que buscan algo un poco más fuera de lo común. ¡Prepárate para que tu pastel sea el centro de atención con estas llamativas velas!",
       "imagen": "/images/shop/Vela-Espiral-Neon-X6-CREATIVE-CONVERTING-25664209150600-1-.webp",
       "galeria": [
         "/images/shop/Vela-Espiral-Neon-X6-CREATIVE-CONVERTING-25664209150600-1-.webp"
@@ -14135,7 +14135,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper plateado metalizado en forma de numero 9 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper plateado metalizado en forma de número 9 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Plateado-N9-11-Cm-33574230080118-1-.webp",
       "galeria": [
         "/images/shop/Topper-Plateado-N9-11-Cm-33574230080118-1-.webp"
@@ -14160,7 +14160,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper dorado metalizado en forma de numero 9 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper dorado metalizado en forma de número 9 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Dorado-N9-11-Cm-33574230080117-1-.webp",
       "galeria": [
         "/images/shop/Topper-Dorado-N9-11-Cm-33574230080117-1-.webp"
@@ -14185,7 +14185,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper plateado metalizado en forma de numero 8 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper plateado metalizado en forma de número 8 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Plateado-N8-11-Cm-33574230080116-1-.webp",
       "galeria": [
         "/images/shop/Topper-Plateado-N8-11-Cm-33574230080116-1-.webp"
@@ -14210,7 +14210,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper dorado metalizado en forma de numero 8 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper dorado metalizado en forma de número 8 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Dorado-N8-11-Cm-33574230080115-1-.webp",
       "galeria": [
         "/images/shop/Topper-Dorado-N8-11-Cm-33574230080115-1-.webp"
@@ -14235,7 +14235,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper plateado metalizado en forma de numero 7 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper plateado metalizado en forma de número 7 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Plateado-N7-11-Cm-33574230080114-1-.webp",
       "galeria": [
         "/images/shop/Topper-Plateado-N7-11-Cm-33574230080114-1-.webp"
@@ -14260,7 +14260,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper dorado metalizado en forma de numero 7 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper dorado metalizado en forma de número 7 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Dorado-N7-11-Cm-33574230080113-1-.webp",
       "galeria": [
         "/images/shop/Topper-Dorado-N7-11-Cm-33574230080113-1-.webp"
@@ -14285,7 +14285,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper plateado metalizado en forma de numero 6 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper plateado metalizado en forma de número 6 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Plateado-N6-11-Cm-33574230080112-1-.webp",
       "galeria": [
         "/images/shop/Topper-Plateado-N6-11-Cm-33574230080112-1-.webp"
@@ -14310,7 +14310,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper dorado metalizado en forma de numero 6 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper dorado metalizado en forma de número 6 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Dorado-N6-11-Cm-33574230080111-1-.webp",
       "galeria": [
         "/images/shop/Topper-Dorado-N6-11-Cm-33574230080111-1-.webp"
@@ -14335,7 +14335,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper plateado metalizado en forma de numero 5 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper plateado metalizado en forma de número 5 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Plateado-N5-11-Cm-33574230080110-1-.webp",
       "galeria": [
         "/images/shop/Topper-Plateado-N5-11-Cm-33574230080110-1-.webp"
@@ -14360,7 +14360,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper plateado metalizado en forma de numero 4 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper plateado metalizado en forma de número 4 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Plateado-N4-11-Cm-33574230080108-1-.webp",
       "galeria": [
         "/images/shop/Topper-Plateado-N4-11-Cm-33574230080108-1-.webp"
@@ -14385,7 +14385,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper dorado metalizado en forma de numero 4 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper dorado metalizado en forma de número 4 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Dorado-N4-11-Cm-33574230080107-1-.webp",
       "galeria": [
         "/images/shop/Topper-Dorado-N4-11-Cm-33574230080107-1-.webp"
@@ -14410,7 +14410,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper plateado metalizado en forma de numero 3 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper plateado metalizado en forma de número 3 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Plateado-N3-11-Cm-33574230080106-1-.webp",
       "galeria": [
         "/images/shop/Topper-Plateado-N3-11-Cm-33574230080106-1-.webp"
@@ -14435,7 +14435,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "Topper dorado metalizado en forma de numero 2 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
+      "descripcion": "Topper dorado metalizado en forma de número 2 de 11 cm, para decorar centros de mesas o donde tu lo prefieras. Trae mango con punta para insertar.",
       "imagen": "/images/shop/Topper-Dorado-N2-11-Cm-33574230080103-1-.webp",
       "galeria": [
         "/images/shop/Topper-Dorado-N2-11-Cm-33574230080103-1-.webp"
@@ -15190,7 +15190,7 @@
       "marca": "LOS TRES ELEFANTES",
       "precio": 4900,
       "precioAnterior": null,
-      "descripcion": "- Globo metalizado numero 8. - Altura (80 cm). - Color dorado. - Cantidad 1 Globo. - Viene disunflado. - Se puede llenar con aire..",
+      "descripcion": "- Globo metalizado número 8. - Altura (80 cm). - Color dorado. - Cantidad 1 Globo. - Viene disunflado. - Se puede llenar con aire..",
       "imagen": "/images/shop/Globo-Dorado-N8-80-Cm-33574207150811-1-.webp",
       "galeria": [
         "/images/shop/Globo-Dorado-N8-80-Cm-33574207150811-1-.webp"
@@ -16053,8 +16053,8 @@
         "/images/shop/Confeti-Mentalico-Jumbo-32684203010002-1-.webp"
       ],
       "contenido": [
-        "Composición: 100% Plastico",
-        "Material: 100% Plastico"
+        "Composición: 100% Plástico",
+        "Material: 100% Plástico"
       ],
       "tags": [
         "KOLE"

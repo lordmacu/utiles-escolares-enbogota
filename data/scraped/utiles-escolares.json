@@ -60,7 +60,7 @@
     },
     {
       "id": "set-numeros-fomy-48218",
-      "nombre": "Set Numeros Fomy",
+      "nombre": "Set Números Fomy",
       "slug": "set-numeros-fomy-48218",
       "marca": "SIMES LOGISTIC",
       "precio": 8900,
@@ -351,7 +351,7 @@
     },
     {
       "id": "set-notas-adhesivas-x100-neon-46908",
-      "nombre": "Set Notas Adhesivas X100 Neon",
+      "nombre": "Set Notas Adhesivas X100 Neón",
       "slug": "set-notas-adhesivas-x100-neon-46908",
       "marca": "SIMES LOGISTIC",
       "precio": 4900,
@@ -486,12 +486,12 @@
     },
     {
       "id": "libreta-mariposa-con-boligrafo-surtido-42649",
-      "nombre": "Libreta Mariposa Con Boligrafo Surtido",
+      "nombre": "Libreta Mariposa Con Bolígrafo Surtido",
       "slug": "libreta-mariposa-con-boligrafo-surtido-42649",
       "marca": "LOS TRES ELEFANTES",
       "precio": 5900,
       "precioAnterior": null,
-      "descripcion": "LIBRETA CON BOLIGRAFO, DIEÑO MARIPOSA EN COLORES SURTIDOS",
+      "descripcion": "LIBRETA CON BOLÍGRAFO, DIEÑO MARIPOSA EN COLORES SURTIDOS",
       "imagen": "/images/shop/33424537020200-1-.webp",
       "galeria": [
         "/images/shop/33424537020200-1-.webp"
@@ -711,7 +711,7 @@
     },
     {
       "id": "lapiz-borrador-click-2-repuestos-37938",
-      "nombre": "Lapiz Borrador Click 2 Repuestos",
+      "nombre": "Lápiz Borrador Click 2 Repuestos",
       "slug": "lapiz-borrador-click-2-repuestos-37938",
       "marca": "PELIKAN",
       "precio": 7900,
@@ -985,7 +985,7 @@
         "/images/shop/34334522030204-8-.webp"
       ],
       "contenido": [
-        "Composición: 100% PLASTICO"
+        "Composición: 100% PLÁSTICO"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -1014,7 +1014,7 @@
         "/images/shop/34334522030203-5-.webp"
       ],
       "contenido": [
-        "Composición: 100% PLASTICO"
+        "Composición: 100% PLÁSTICO"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -1046,7 +1046,7 @@
         "/images/shop/34334522020201-8-.webp"
       ],
       "contenido": [
-        "Composición: 100% PLASTICO"
+        "Composición: 100% PLÁSTICO"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -1078,7 +1078,7 @@
         "/images/shop/34334522020200-8-.webp"
       ],
       "contenido": [
-        "Composición: 100% PLASTICO"
+        "Composición: 100% PLÁSTICO"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -1106,7 +1106,7 @@
         "/images/shop/34334514030101-4-.webp"
       ],
       "contenido": [
-        "Composición: 60 % PLASTICO 20 % OXIDO DE TITANIO 20 % ALCOHOL"
+        "Composición: 60 % PLÁSTICO 20 % OXIDO DE TITANIO 20 % ALCOHOL"
       ],
       "tags": [
         "SIMES LOGISTIC"
@@ -1180,7 +1180,7 @@
       ],
       "contenido": [
         "Incluye: Libro lleno de diversión y actividades. Propuestas muy creativas y variadas de los temas que más les interesan a los chicos. Además trae un bolígrafo que",
-        "Composición: Papel 90%, Plastico 10%"
+        "Composición: Papel 90%, Plástico 10%"
       ],
       "tags": [
         "BROSS ENTERTAINMENT"
@@ -1361,7 +1361,7 @@
     },
     {
       "id": "plastilina-colores-neon-x4-35440",
-      "nombre": "Plastilina Colores Neon x4",
+      "nombre": "Plastilina Colores Neón x4",
       "slug": "plastilina-colores-neon-x4-35440",
       "marca": "BAZIC",
       "precio": 14900,
@@ -1910,7 +1910,7 @@
     },
     {
       "id": "set-x20-borradores-neon-35346",
-      "nombre": "Set x20 Borradores Neon",
+      "nombre": "Set x20 Borradores Neón",
       "slug": "set-x20-borradores-neon-35346",
       "marca": "BAZIC",
       "precio": 7900,
@@ -2306,7 +2306,7 @@
     },
     {
       "id": "banderitas-neon-x100-35324",
-      "nombre": "Banderitas Neon X100",
+      "nombre": "Banderitas Neón X100",
       "slug": "banderitas-neon-x100-35324",
       "marca": "BAZIC",
       "precio": 9900,
@@ -2377,7 +2377,7 @@
     },
     {
       "id": "set-moldes-letras-plasticas-35283",
-      "nombre": "Set Moldes Letras Plasticas",
+      "nombre": "Set Moldes Letras Plásticas",
       "slug": "set-moldes-letras-plasticas-35283",
       "marca": "MULTICRAFT",
       "precio": 28900,
@@ -4905,12 +4905,12 @@
     },
     {
       "id": "compas-lapiz-20203",
-      "nombre": "Compas Lapiz",
+      "nombre": "Compas Lápiz",
       "slug": "compas-lapiz-20203",
       "marca": "SIMES LOGISTIC",
       "precio": 1500,
       "precioAnterior": null,
-      "descripcion": "compas lapiz. perfecto para el colegio y/o universidad.",
+      "descripcion": "compas lápiz. perfecto para el colegio y/o universidad.",
       "imagen": "/images/shop/Compas-Lapiz-34334533050200-1-.webp",
       "galeria": [
         "/images/shop/Compas-Lapiz-34334533050200-1-.webp",
@@ -4932,12 +4932,12 @@
     },
     {
       "id": "compas-lapiz-20202",
-      "nombre": "Compas Lapiz",
+      "nombre": "Compas Lápiz",
       "slug": "compas-lapiz-20202",
       "marca": "SIMES LOGISTIC",
       "precio": 900,
       "precioAnterior": null,
-      "descripcion": "compas lapiz. perfecto para el colegio y/o universidad.",
+      "descripcion": "compas lápiz. perfecto para el colegio y/o universidad.",
       "imagen": "/images/shop/Compas-Lapiz-34334533050201-1-.webp",
       "galeria": [
         "/images/shop/Compas-Lapiz-34334533050201-1-.webp",
@@ -5067,12 +5067,12 @@
     },
     {
       "id": "borrador-lapiz-rojo-20188",
-      "nombre": "Borrador Lapiz Rojo",
+      "nombre": "Borrador Lápiz Rojo",
       "slug": "borrador-lapiz-rojo-20188",
       "marca": "SIMES LOGISTIC",
       "precio": 900,
       "precioAnterior": null,
-      "descripcion": "borrador lapiz rojo. ideal para el colegio, oficina y casa.",
+      "descripcion": "borrador lápiz rojo. ideal para el colegio, oficina y casa.",
       "imagen": "/images/shop/Borrador-Lapiz-Rojo-34334513060600-1-.webp",
       "galeria": [
         "/images/shop/Borrador-Lapiz-Rojo-34334513060600-1-.webp",
@@ -5121,7 +5121,7 @@
     },
     {
       "id": "libro-safari-para-raspar-y-revelar-lapiz-19296",
-      "nombre": "Libro Safari Para Raspar Y Revelar + Lapiz",
+      "nombre": "Libro Safari Para Raspar Y Revelar + Lápiz",
       "slug": "libro-safari-para-raspar-y-revelar-lapiz-19296",
       "marca": "LOS TRES ELEFANTES",
       "precio": 24900,
@@ -5143,9 +5143,9 @@
         "/images/shop/79344f28-31184555470201-4-.webp"
       ],
       "contenido": [
-        "Composición: 70% Papel, 18% Plastico, 10% Tinta, 2% Fieltro",
+        "Composición: 70% Papel, 18% Plástico, 10% Tinta, 2% Fieltro",
         "Indicaciones de Uso: Los productos Scratch Art presentan colores y patrones brillantes ocultos debajo de un revestimiento mate, además de un lápiz de madera para revelarlos con un simple rasguño. Incluye una libreta Scratch Art de 12 páginas encuadernada en espiral con colores reveladores con adorables animales de safari. Datos divertidos e ideas de patrones incluidos para cada página El lápiz óptico de madera encaja en el libro para brindar diversión y creatividad portátil, conveniente y en movimiento Contiene puntas afiladas funcionales. Cumple con ASTM D-4236.",
-        "Material: 70% Papel, 18% Plastico, 10% Tinta, 2% Fieltro"
+        "Material: 70% Papel, 18% Plástico, 10% Tinta, 2% Fieltro"
       ],
       "tags": [
         "LOS TRES ELEFANTES",
@@ -5180,9 +5180,9 @@
         "/images/shop/125a1b8d-31184555250301-3-.webp"
       ],
       "contenido": [
-        "Composición: 70% Papel, 18% Plastico, 10% Tinta, 2% Fieltro",
+        "Composición: 70% Papel, 18% Plástico, 10% Tinta, 2% Fieltro",
         "Indicaciones de Uso: ¡Una introducción ideal a la pintura! 24 páginas de pintura, cada una con los vehículos favoritos de los niños como trenes, barcos, camiones, un avión, un autobús escolar y más Simplemente moje el pincel, úselo para difuminar un área estampada y observe cómo se combinan los colores. Las páginas perforadas se arrancan limpiamente para pintar y exponer Ayuda a enseñar el reconocimiento de colores y promueve la motricidad fina y la coordinación ojo-mano Cumple con ASTM D-4236.",
-        "Material: 70% Papel, 18% Plastico, 10% Tinta, 2% Fieltro"
+        "Material: 70% Papel, 18% Plástico, 10% Tinta, 2% Fieltro"
       ],
       "tags": [
         "LOS TRES ELEFANTES",
@@ -5275,8 +5275,8 @@
         "/images/shop/2b7ee122-Borrador-Magneitco-Tablero--SURTIDO--30864538040100-1-.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
-        "Material: Plastico"
+        "Composición: Plástico",
+        "Material: Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -5387,7 +5387,7 @@
     },
     {
       "id": "set-geometrico-11-piezas-surtido-individual-19267",
-      "nombre": "Set Geometrico 11 Piezas Surtido (Individual)",
+      "nombre": "Set Geométrico 11 Piezas Surtido (Individual)",
       "slug": "set-geometrico-11-piezas-surtido-individual-19267",
       "marca": "BAZIC",
       "precio": 16900,
@@ -5398,9 +5398,9 @@
         "/images/shop/30864533060300.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
+        "Composición: Plástico",
         "Indicaciones de Uso: Ideal para entretener los niños durante el tiempo libre. ATENCIÓN” este producto debe ser usado estrictamente bajo la supervisión directa de un adulto responsable. Una mala utilización de esta herramienta puede causar riesgos en niños. \"ATENCIÓN\" No usar este producto a niños por debajo de la edad establecida. ADVERTENCIA: No dejar al alcance de niños ni se debe permitir jugar con este producto ya que no es un juguete y pueden ser ingeridas y causar riesgo de asfixia. Contiene partes pequeñas",
-        "Material: Plastico"
+        "Material: Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -5520,8 +5520,8 @@
         "/images/shop/0b4b6f27-Pegamento-Madera-118ml-30864527011100-1-.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
-        "Material: Plastico"
+        "Composición: Plástico",
+        "Material: Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -5554,9 +5554,9 @@
         "/images/shop/1e8b423b-30864525060300-3-.webp"
       ],
       "contenido": [
-        "Composición: 80% Metal 20% Plastico",
+        "Composición: 80% Metal 20% Plástico",
         "Indicaciones de Uso: Herramienta ideal para quita, desengrapar o extraer las grapas que sujetan las hojas de papel, evitando el posible daño en uñas o dedos. Se puede usar en proyectos escolares y en oficinas. ATENCIÓN” este producto debe ser usado estrictamente bajo la supervisión directa de un adulto responsable. Una mala utilización de esta herramienta puede causar riesgos en niños. \"ATENCIÓN\" No usar este producto a niños por debajo de la edad establecida. ADVERTENCIA: No dejar al alcance de niños ni se debe permitir jugar con este producto ya que no es un juguete.",
-        "Material: 80% Metal 20% Plastico"
+        "Material: 80% Metal 20% Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -5920,9 +5920,9 @@
         "/images/shop/e18c446d-30864523022301-3-.webp"
       ],
       "contenido": [
-        "Composición: 50% Acero 50% Plastico",
+        "Composición: 50% Acero 50% Plástico",
         "Indicaciones de Uso: Herramienta ideal útil para mantener o sujetar los papeles en paneles de avisos. Se puede usar en proyectos escolares y en oficinas. ATENCIÓN” este producto debe ser usado estrictamente bajo la supervisión directa de un adulto responsable. PELIGRO DE AHOGARSE: Contiene partes pequeñas que pueden causar asfixia. Una mala utilización de esta herramienta puede causar riesgos en niños. \"ATENCIÓN\" No usar este producto a niños por debajo de la edad establecida. ADVERTENCIA: No dejar al alcance de niños ni se debe permitir jugar con este producto ya que no es un juguete",
-        "Material: 50% Acero 50% Plastico"
+        "Material: 50% Acero 50% Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -5955,9 +5955,9 @@
         "/images/shop/3fc77d6c-30864522040201-3-.webp"
       ],
       "contenido": [
-        "Composición: 100% Plastico",
+        "Composición: 100% Plástico",
         "Indicaciones de Uso: Herramienta ideal para hacer cálculos aritméticos como apoyo en proyectos escolares y en oficinas.",
-        "Material: 100% Plastico"
+        "Material: 100% Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -5991,9 +5991,9 @@
         "/images/shop/93403ca0-30864522020301-3-.webp"
       ],
       "contenido": [
-        "Composición: 100% Plastico",
+        "Composición: 100% Plástico",
         "Indicaciones de Uso: Herramienta ideal para hacer cálculos aritméticos como apoyo en proyectos escolares y en oficinas.",
-        "Material: 100% Plastico"
+        "Material: 100% Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -6041,7 +6041,7 @@
     },
     {
       "id": "corrector-lapiz-x-2-unidades-19197",
-      "nombre": "Corrector Lapiz X 2 Unidades",
+      "nombre": "Corrector Lápiz X 2 Unidades",
       "slug": "corrector-lapiz-x-2-unidades-19197",
       "marca": "BAZIC",
       "precio": 12900,
@@ -6146,9 +6146,9 @@
         "/images/shop/8697a28d-30864512020100-3-.webp"
       ],
       "contenido": [
-        "Composición: 100% Plastico",
+        "Composición: 100% Plástico",
         "Indicaciones de Uso: Herramienta ideal para afilar la punta del lápiz cuando ésta se ha engrosado o cuando el lápiz es nuevo. Se puede usar en proyectos escolares y en oficinas. ATENCIÓN” este producto debe ser usado estrictamente bajo la supervisión directa de un adulto responsable contiene elemento de corte. Una mala utilización de esta herramienta puede causar riesgos en niños. \"ATENCIÓN\" No usar este producto a niños por debajo de la edad establecida. ADVERTENCIA: No dejar al alcance de niños ni se debe permitir jugar con este producto ya que no es un juguete y pueden ser ingeridas y causar riesgo de asfixia. Contiene partes pequeñas",
-        "Material: 100% Plastico"
+        "Material: 100% Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -6182,9 +6182,9 @@
         "/images/shop/1d249ee7-30864512020300-3-.webp"
       ],
       "contenido": [
-        "Composición: 100% Plastico",
+        "Composición: 100% Plástico",
         "Indicaciones de Uso: Herramienta ideal para afilar la punta del lápiz cuando ésta se ha engrosado o cuando el lápiz es nuevo. Se puede usar en proyectos escolares y en oficinas. ATENCIÓN” este producto debe ser usado estrictamente bajo la supervisión directa de un adulto responsable contiene elemento de corte. Una mala utilización de esta herramienta puede causar riesgos en niños. \"ATENCIÓN\" No usar este producto a niños por debajo de la edad establecida. ADVERTENCIA: No dejar al alcance de niños ni se debe permitir jugar con este producto ya que no es un juguete y pueden ser ingeridas y causar riesgo de asfixia. Contiene partes pequeñas",
-        "Material: 100% Plastico"
+        "Material: 100% Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -6218,9 +6218,9 @@
         "/images/shop/cc892dfc-30864512010104-3-.webp"
       ],
       "contenido": [
-        "Composición: 100% Plastico",
+        "Composición: 100% Plástico",
         "Indicaciones de Uso: Herramienta ideal para afilar la punta del lápiz cuando ésta se ha engrosado o cuando el lápiz es nuevo. Se puede usar en proyectos escolares y en oficinas. ATENCIÓN” este producto debe ser usado estrictamente bajo la supervisión directa de un adulto responsable contiene elemento de corte. Una mala utilización de esta herramienta puede causar riesgos en niños. \"ATENCIÓN\" No usar este producto a niños por debajo de la edad establecida. ADVERTENCIA: No dejar al alcance de niños ni se debe permitir jugar con este producto ya que no es un juguete y pueden ser ingeridas y causar riesgo de asfixia. Contiene partes pequeñas",
-        "Material: 100% Plastico"
+        "Material: 100% Plástico"
       ],
       "tags": [
         "BAZIC",
@@ -6295,12 +6295,12 @@
     },
     {
       "id": "notas-adhesivas-colores-neon-surtido-19186",
-      "nombre": "Notas Adhesivas Colores Neon (Surtido)",
+      "nombre": "Notas Adhesivas Colores Neón (Surtido)",
       "slug": "notas-adhesivas-colores-neon-surtido-19186",
       "marca": "BAZIC",
       "precio": 5900,
       "precioAnterior": null,
-      "descripcion": "notas adhesivas de colores neon. ideales para realizar un seguimiento de los documentos y las tareas con recordatorios coloridos. la imagen es ilustrativa, el producto se vende individual. este producto viene surtido, un asesor se comunicara con usted para escoger el producto de su preferencia.",
+      "descripcion": "notas adhesivas de colores neón. ideales para realizar un seguimiento de los documentos y las tareas con recordatorios coloridos. la imagen es ilustrativa, el producto se vende individual. este producto viene surtido, un asesor se comunicara con usted para escoger el producto de su preferencia.",
       "imagen": "/images/shop/Notas-Adhesivas-Colores-Neon--SURTIDO--30864506010200-1-.webp",
       "galeria": [
         "/images/shop/Notas-Adhesivas-Colores-Neon--SURTIDO--30864506010200-1-.webp",
@@ -6336,8 +6336,8 @@
         "/images/shop/b954c65b-Esferas-Icopor-27804553030108-1-.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
-        "Material: Plastico"
+        "Composición: Plástico",
+        "Material: Plástico"
       ],
       "tags": [
         "MULTICRAFT",
@@ -6432,8 +6432,8 @@
         "/images/shop/4516a19f-Plastilina-190g-Roja-27804544030103-1-.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
-        "Material: Plastico"
+        "Composición: Plástico",
+        "Material: Plástico"
       ],
       "tags": [
         "MULTICRAFT",
@@ -6497,8 +6497,8 @@
         "/images/shop/3bf28812-Manualidades-Fomi-Mano-27804503050036-1-.webp"
       ],
       "contenido": [
-        "Composición: Plastico",
-        "Material: Plastico"
+        "Composición: Plástico",
+        "Material: Plástico"
       ],
       "tags": [
         "MULTICRAFT",
@@ -6599,7 +6599,7 @@
     },
     {
       "id": "borrador-plastico-para-tablero-18655",
-      "nombre": "Borrador Plastico Para Tablero",
+      "nombre": "Borrador Plástico Para Tablero",
       "slug": "borrador-plastico-para-tablero-18655",
       "marca": "LOS TRES ELEFANTES",
       "precio": 12200,
@@ -6674,7 +6674,7 @@
     },
     {
       "id": "corrector-lapiz-18637",
-      "nombre": "Corrector Lapiz",
+      "nombre": "Corrector Lápiz",
       "slug": "corrector-lapiz-18637",
       "marca": "LOS TRES ELEFANTES",
       "precio": 7200,
@@ -6852,7 +6852,7 @@
     },
     {
       "id": "numeros-en-fomi-educativo-17832",
-      "nombre": "Numeros En Fomi Educativo",
+      "nombre": "Números En Fomi Educativo",
       "slug": "numeros-en-fomi-educativo-17832",
       "marca": "MERLETTO",
       "precio": 6900,
@@ -7104,8 +7104,8 @@
         "/images/shop/b62ef6d7-Mini-Cintas-X5-MERLETTO-20284526070500-1-.webp"
       ],
       "contenido": [
-        "Composición: 40% PLASTICO 60 % PAPEL",
-        "Material: 40% Plastico 60 % Papel"
+        "Composición: 40% PLÁSTICO 60 % PAPEL",
+        "Material: 40% Plástico 60 % Papel"
       ],
       "tags": [
         "MERLETTO",
@@ -7133,8 +7133,8 @@
         "/images/shop/67ee63c5-Calculadora-Cientifica-240-Funciones-MERLETTO-20284522040200-1-.webp"
       ],
       "contenido": [
-        "Composición: 100%PLASTICO",
-        "Material: 100%Plastico"
+        "Composición: 100%PLÁSTICO",
+        "Material: 100%Plástico"
       ],
       "tags": [
         "MERLETTO",
@@ -7404,8 +7404,8 @@
         "/images/shop/Tijeras-Punta-Roma-32684511020100-1-.webp"
       ],
       "contenido": [
-        "Composición: 40% Metal 60 % Plastico",
-        "Material: 40% Metal 60 % Plastico"
+        "Composición: 40% Metal 60 % Plástico",
+        "Material: 40% Metal 60 % Plástico"
       ],
       "tags": [
         "KOLE",
@@ -7832,7 +7832,7 @@
     },
     {
       "id": "stickers-neon-x72-9533",
-      "nombre": "Stickers Neon X72",
+      "nombre": "Stickers Neón X72",
       "slug": "stickers-neon-x72-9533",
       "marca": "BAZIC",
       "precio": 3900,
@@ -8078,7 +8078,7 @@
     },
     {
       "id": "borrador-neon-x6-9518",
-      "nombre": "Borrador Neon X6",
+      "nombre": "Borrador Neón X6",
       "slug": "borrador-neon-x6-9518",
       "marca": "BAZIC",
       "precio": 6900,
@@ -8325,7 +8325,7 @@
     },
     {
       "id": "banderas-neon-x10-9496",
-      "nombre": "Banderas Neon X10",
+      "nombre": "Banderas Neón X10",
       "slug": "banderas-neon-x10-9496",
       "marca": "BAZIC",
       "precio": 9900,
@@ -8487,7 +8487,7 @@
     },
     {
       "id": "numeros-icopor-75cm-9459",
-      "nombre": "Numeros Icopor 7.5Cm",
+      "nombre": "Números Icopor 7.5Cm",
       "slug": "numeros-icopor-75cm-9459",
       "marca": "MULTICRAFT",
       "precio": 10900,
@@ -8510,7 +8510,7 @@
     },
     {
       "id": "chelines-x40-colores-neon-9456",
-      "nombre": "Chelines X40 Colores Neon",
+      "nombre": "Chelines X40 Colores Neón",
       "slug": "chelines-x40-colores-neon-9456",
       "marca": "MULTICRAFT",
       "precio": 8900,
@@ -8696,7 +8696,7 @@
     },
     {
       "id": "escarcha-con-pegante-neon-125-ml-surtido-9439",
-      "nombre": "Escarcha Con Pegante Neon 125 Ml Surtido",
+      "nombre": "Escarcha Con Pegante Neón 125 Ml Surtido",
       "slug": "escarcha-con-pegante-neon-125-ml-surtido-9439",
       "marca": "MULTICRAFT",
       "precio": 7900,
@@ -8796,7 +8796,7 @@
     },
     {
       "id": "escarcha-con-pegante-neon-60-ml-surtido-9435",
-      "nombre": "Escarcha Con Pegante Neon 60 Ml Surtido",
+      "nombre": "Escarcha Con Pegante Neón 60 Ml Surtido",
       "slug": "escarcha-con-pegante-neon-60-ml-surtido-9435",
       "marca": "MULTICRAFT",
       "precio": 4900,
@@ -8848,7 +8848,7 @@
     },
     {
       "id": "escarcha-con-pegante-neon-80-ml-surtido-9433",
-      "nombre": "Escarcha Con Pegante Neon 80 Ml Surtido",
+      "nombre": "Escarcha Con Pegante Neón 80 Ml Surtido",
       "slug": "escarcha-con-pegante-neon-80-ml-surtido-9433",
       "marca": "MULTICRAFT",
       "precio": 7900,
@@ -9235,7 +9235,7 @@
     },
     {
       "id": "pegante-multiuso-neon-147-ml-surtido-9310",
-      "nombre": "Pegante Multiuso Neon 147 Ml Surtido",
+      "nombre": "Pegante Multiuso Neón 147 Ml Surtido",
       "slug": "pegante-multiuso-neon-147-ml-surtido-9310",
       "marca": "MULTICRAFT",
       "precio": 29900,
@@ -9621,7 +9621,7 @@
     },
     {
       "id": "lana-neon-combinados-x4-10-metros-9284",
-      "nombre": "Lana Neon Combinados X4 10 Metros",
+      "nombre": "Lana Neón Combinados X4 10 Metros",
       "slug": "lana-neon-combinados-x4-10-metros-9284",
       "marca": "MULTICRAFT",
       "precio": 8900,
@@ -9713,7 +9713,7 @@
     },
     {
       "id": "lana-neon-x6-9-metros-9280",
-      "nombre": "Lana Neon X6 9 Metros",
+      "nombre": "Lana Neón X6 9 Metros",
       "slug": "lana-neon-x6-9-metros-9280",
       "marca": "MULTICRAFT",
       "precio": 9900,
@@ -10442,7 +10442,7 @@
     },
     {
       "id": "stick-neon-surtidos-9215",
-      "nombre": "Stick Neon Surtidos",
+      "nombre": "Stick Neón Surtidos",
       "slug": "stick-neon-surtidos-9215",
       "marca": "MULTICRAFT",
       "precio": 10900,
@@ -10581,7 +10581,7 @@
     },
     {
       "id": "stickers-numeros-negrilla-9204",
-      "nombre": "Stickers Numeros Negrilla",
+      "nombre": "Stickers Números Negrilla",
       "slug": "stickers-numeros-negrilla-9204",
       "marca": "MULTICRAFT",
       "precio": 9900,
@@ -11246,7 +11246,7 @@
     },
     {
       "id": "tijeras-plasticas-ninos-x2-surtida-9141",
-      "nombre": "Tijeras Plasticas Ninos X2 Surtida",
+      "nombre": "Tijeras Plásticas Ninos X2 Surtida",
       "slug": "tijeras-plasticas-ninos-x2-surtida-9141",
       "marca": "MULTICRAFT",
       "precio": 6900,
