@@ -69,6 +69,10 @@ export default function HomePage() {
 
   return (
     <div className="flex flex-col">
+      {/* H1 de marca (oculto visualmente): da a la home un H1 claro y refuerza
+          el "nombre del sitio" en Google. Accesible para lectores/crawlers. */}
+      <h1 className="sr-only">Útiles Escolares — papelería y útiles escolares a domicilio en Bogotá</h1>
+
       {/* Hero: carrusel de banners */}
       <section className="mx-auto w-full max-w-7xl px-4 pt-6 sm:px-6 lg:px-8">
         <HeroCarousel slides={SLIDES} />

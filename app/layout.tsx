@@ -34,6 +34,8 @@ export const metadata: Metadata = {
     default: `${SITE_NAME} | Papelería y útiles escolares a domicilio en Bogotá`,
     template: `%s | ${SITE_NAME} Bogotá`,
   },
+  // Señal de "nombre del sitio" para Google (junto a og:site_name y WebSite schema).
+  applicationName: SITE_NAME,
   description: config.descripcion,
   keywords: [
     "útiles escolares Bogotá",
