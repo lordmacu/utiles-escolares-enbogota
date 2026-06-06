@@ -36,6 +36,7 @@ import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { execFileSync } from "node:child_process";
 import path from "node:path";
+import { assertEspanol } from "./lib/es-guard.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
@@ -571,11 +572,27 @@ async function main() {
   }
 
   const existingSlugs = new Set(dataObj[arrKey].map((x) => x.slug));
-  const content = await callLlm({ system, user, baseUrl, apiKey, model, apiStyle, maxTokens });
-  const raw = extractJson(content);
-  nuevo = type === "noticia"
-    ? sanitizeNoticia(raw, validSet, fecha, existingSlugs)
-    : sanitizeGuia(raw, validSet, fecha, existingSlugs);
+  // Hasta 3 intentos: rechaza y regenera si falla validación o la regla de idioma.
+  let raw = null;
+  let lastErr = null;
+  for (let intento = 1; intento <= 3; intento++) {
+    const content = await callLlm({ system, user, baseUrl, apiKey, model, apiStyle, maxTokens });
+    try {
+      const parsed = extractJson(content);
+      const cand = type === "noticia"
+        ? sanitizeNoticia(parsed, validSet, fecha, existingSlugs)
+        : sanitizeGuia(parsed, validSet, fecha, existingSlugs);
+      // Regla irrompible: todo en español (ni inglés, ni chino, ni portugués).
+      assertEspanol(JSON.stringify(cand));
+      raw = parsed;
+      nuevo = cand;
+      break;
+    } catch (e) {
+      lastErr = e;
+      if (intento < 3) console.error(`  ⟳ regenerando (${intento + 1}/3): ${e.message}`);
+    }
+  }
+  if (!nuevo) throw lastErr;
 
   const tituloSeo = nuevo.metaTitle || nuevo.title;
   console.error(`\n→ ${type}: ${nuevo.h1}`);

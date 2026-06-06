@@ -49,6 +49,7 @@
 import { readFile, writeFile, access, mkdir, rm } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import { assertEspanol } from "./lib/es-guard.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
@@ -425,21 +426,45 @@ async function processOne(item, opts) {
     return { slug: producto.slug, status: "dry" };
   }
 
-  const content = await callLlm({
-    system,
-    user,
-    baseUrl: opts.baseUrl,
-    apiKey: opts.apiKey,
-    model: opts.model,
-    apiStyle: opts.apiStyle,
-    jsonMode: opts.jsonMode,
-    maxTokens: opts.maxTokens,
-  });
-  const obj = extractJson(content);
-  const err = validateSeo(obj, producto.slug);
-  if (err) {
-    throw new Error(`Validación: ${err}`);
+  // Hasta 3 intentos: rechaza y regenera si falla validación o la regla de idioma.
+  let obj = null;
+  let lastErr = null;
+  for (let intento = 1; intento <= 3; intento++) {
+    const content = await callLlm({
+      system,
+      user,
+      baseUrl: opts.baseUrl,
+      apiKey: opts.apiKey,
+      model: opts.model,
+      apiStyle: opts.apiStyle,
+      jsonMode: opts.jsonMode,
+      maxTokens: opts.maxTokens,
+    });
+    try {
+      const parsed = extractJson(content);
+      const err = validateSeo(parsed, producto.slug);
+      if (err) throw new Error(`Validación: ${err}`);
+      // Regla irrompible: todo en español, o se rechaza y se regenera.
+      assertEspanol([
+        parsed.metaTitle,
+        parsed.metaDescription,
+        parsed.intro,
+        parsed.paraQuien,
+        parsed.highlights,
+        parsed.usos,
+        parsed.cuidados,
+        (parsed.faqs || []).map((f) => [f.pregunta, f.respuesta]),
+        (parsed.especificaciones || []).map((e) => e.detalle),
+        parsed.keywordsObjetivo,
+      ]);
+      obj = parsed;
+      break;
+    } catch (e) {
+      lastErr = e;
+      if (intento < 3) console.error(`  ⟳ ${producto.slug}: ${e.message} — regenerando (${intento + 1}/3)`);
+    }
   }
+  if (!obj) throw lastErr;
   await writeFile(target, JSON.stringify(obj, null, 2) + "\n", "utf8");
   return { slug: producto.slug, status: "ok" };
 }

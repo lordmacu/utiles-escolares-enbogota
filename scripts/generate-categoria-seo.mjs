@@ -12,6 +12,7 @@
 import { readFile, writeFile, access, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import { assertEspanol } from "./lib/es-guard.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.join(__dirname, "..");
@@ -186,10 +187,19 @@ async function main() {
     const user = JSON.stringify(payload, null, 2) + "\n\nGenera el JSON siguiendo el esquema. Solo el JSON.";
     if (args.dryRun) { console.error(`~ ${e.slug}\n`, user); ok++; continue; }
     try {
-      const content = await callLlm({ system, user, baseUrl, apiKey, model, apiStyle });
-      const obj = extractJson(content);
-      const v = validate(obj, e.slug);
-      if (v) throw new Error(v);
+      let obj = null, lastErr = null;
+      for (let intento = 1; intento <= 3; intento++) {
+        const content = await callLlm({ system, user, baseUrl, apiKey, model, apiStyle });
+        try {
+          const parsed = extractJson(content);
+          const v = validate(parsed, e.slug);
+          if (v) throw new Error(v);
+          // Regla irrompible: todo en español, o se rechaza y se regenera.
+          assertEspanol([parsed.metaTitle, parsed.metaDescription, parsed.intro, parsed.destacados, (parsed.faqs || []).map((f) => [f.pregunta, f.respuesta]), parsed.keywordsObjetivo]);
+          obj = parsed; break;
+        } catch (re) { lastErr = re; if (intento < 3) console.error(`  ⟳ ${e.slug}: ${re.message} — regenerando (${intento + 1}/3)`); }
+      }
+      if (!obj) throw lastErr;
       await writeFile(target, JSON.stringify(obj, null, 2) + "\n", "utf8");
       ok++; console.error(`✓ ${e.slug}`);
     } catch (ex) { err++; console.error(`✗ ${e.slug}: ${ex.message}`); }

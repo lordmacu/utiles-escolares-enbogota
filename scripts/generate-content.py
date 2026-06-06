@@ -212,6 +212,52 @@ def extract_json(text):
         raise ValueError("No se encontró JSON válido en la respuesta del modelo")
 
 
+# ──────────────── guard de idioma (todo en español) ────────────────
+# Regla irrompible: ni inglés, ni chino/otros alfabetos, ni portugués.
+_EN_WORDS = {
+    "the", "and", "with", "for", "your", "you", "are", "was", "were", "will",
+    "would", "this", "that", "these", "those", "our", "their", "from", "what",
+    "when", "where", "which", "while", "because", "however", "therefore", "they",
+    "them", "there", "than", "then", "into", "about", "over", "also", "very",
+    "just", "only", "more", "most", "each", "every", "other", "some", "such",
+    "been", "being", "does", "should", "could", "here", "have", "has", "make",
+    "best", "buy", "cheap", "free", "shipping", "discount",
+}
+_PT_WORDS = {
+    "nao", "voce", "voces", "com", "uma", "umas", "muito", "muitos", "tambem",
+    "entao", "isso", "mais", "obrigado", "obrigada", "estao", "sao", "seu", "sua", "aqui",
+}
+_NO_LATINO = re.compile(
+    "[　-〿぀-ヿ㐀-鿿豈-﫿가-힯"
+    "Ѐ-ӿ؀-ۿͰ-Ͽ֐-׿฀-๿＀-￯]"
+)
+_PT_CHARS = re.compile("[ãõçÃÕÇ]")
+
+
+def detectar_no_espanol(text):
+    s = text or ""
+    m = _NO_LATINO.search(s)
+    if m:
+        return f"alfabeto no latino (p. ej. chino): '{m.group(0)}'"
+    m = _PT_CHARS.search(s)
+    if m:
+        return f"caracteres de portugués (ã/õ/ç): '{m.group(0)}'"
+    toks = re.split(r"[^a-zñáéíóúü]+", s.lower())
+    en = {t for t in toks if t in _EN_WORDS}
+    pt = {t for t in toks if t in _PT_WORDS}
+    if len(pt) >= 2:
+        return "palabras en portugués: " + ", ".join(sorted(pt))
+    if len(en) >= 3:
+        return "palabras en inglés: " + ", ".join(sorted(en))
+    return None
+
+
+def assert_espanol(text):
+    motivo = detectar_no_espanol(text)
+    if motivo:
+        raise ValueError(f"Idioma no español detectado ({motivo}). Rechazado: regenerar en español.")
+
+
 def call_llm(system, user, base_url, api_key, model, api_style, max_tokens=16000, max_retries=4):
     base = base_url.rstrip("/")
     last_err = None
@@ -728,13 +774,30 @@ def main():
         target_file, data_obj, arr_key = GUIAS_FILE, guias, "guias"
 
     existing_slugs = set(x["slug"] for x in data_obj[arr_key])
-    content = call_llm(system, user, base_url, api_key, model, api_style, max_tokens)
-    raw = extract_json(content)
-    nuevo = (
-        sanitize_noticia(raw, valid_set, fecha, existing_slugs)
-        if type_ == "noticia"
-        else sanitize_guia(raw, valid_set, fecha, existing_slugs)
-    )
+    # Hasta 3 intentos: rechaza y regenera si falla la regla de idioma (todo en
+    # español; ni inglés, ni chino, ni portugués). El imagePrompt va en `raw`
+    # (en inglés a propósito para el generador de imágenes) y NO se valida.
+    raw = None
+    nuevo = None
+    last_err = None
+    for intento in range(1, 4):
+        content = call_llm(system, user, base_url, api_key, model, api_style, max_tokens)
+        try:
+            parsed = extract_json(content)
+            cand = (
+                sanitize_noticia(parsed, valid_set, fecha, existing_slugs)
+                if type_ == "noticia"
+                else sanitize_guia(parsed, valid_set, fecha, existing_slugs)
+            )
+            assert_espanol(json.dumps(cand, ensure_ascii=False))
+            raw, nuevo = parsed, cand
+            break
+        except Exception as e:  # noqa: BLE001
+            last_err = e
+            if intento < 3:
+                log(f"  ⟳ regenerando ({intento + 1}/3): {e}")
+    if nuevo is None:
+        raise last_err
 
     titulo_seo = nuevo.get("metaTitle") or nuevo.get("title") or ""
     log(f"\n→ {type_}: {nuevo['h1']}")
