@@ -1,6 +1,78 @@
 {
   "guias": [
     {
+      "slug": "materiales-de-arte-y-manualidades-para-el-colegio-guia-completa",
+      "title": "Materiales de arte y manualidades para el colegio: guía",
+      "h1": "Materiales de arte y manualidades para el colegio: guía completa",
+      "metaDescription": "Conoce los materiales de arte y manualidades para el colegio que sí usan los niños. Pide a domicilio en Bogotá por WhatsApp. Cuadernos, témperas y más.",
+      "excerpt": "Una lista clara de los materiales de arte y manualidades que los niños necesitan en el colegio, con consejos prácticos y opciones para pedir a domicilio en Bogotá.",
+      "fecha": "2026-06-08",
+      "imagenCategoria": "pintar",
+      "categoriasRelacionadas": [
+        "pintar",
+        "utiles-escolares",
+        "papeles-y-blocks",
+        "escritura"
+      ],
+      "lead": "Elegir bien los materiales de arte y manualidades para el colegio evita compras de último minuto y trabajos a medias. Te contamos qué tener en cuenta.",
+      "secciones": [
+        {
+          "titulo": "Los materiales básicos que no pueden faltar",
+          "parrafos": [
+            "Témperas, pinceles, colores, tijeras de punta roma y pegante escolar son el punto de partida de cualquier clase de arte. Funcionan para pintar, recortar y armar maquetas, así que vale la pena tenerlos siempre listos en el morral o en un cajón del salón.",
+            "En nuestro catálogo de la categoría Pintar encuentras sets de témperas lavables, marcadores gruesos, lápices de colores y plastilina. Son productos que resisten el uso diario de los niños y rinden bien durante todo el año escolar."
+          ]
+        },
+        {
+          "titulo": "Papeles y soportes para cada tipo de trabajo",
+          "parrafos": [
+            "El papel correcto hace la diferencia entre un trabajo que luce bien y uno que se rompe o traspasa la pintura. Para dibujo y coloreado van bien los blocks de papel bond o cartulina. Para acuarela o témpera diluida, lo mejor es un papel más grueso que no se arrugue.",
+            "En Papeles y Blocks tenemos blocks rayados, cuadriculados, cartulinas blancas y de colores, papel silueta y papel kraft. Escoge según la tarea: silueta para figuras, cartulina para bases de maquetas y kraft para forrar y decorar."
+          ]
+        },
+        {
+          "titulo": "Útiles que complementan cada proyecto",
+          "parrafos": [
+            "Una buena caja de útiles escolares con esferos, lápices, borrador y sacapuntas siempre entra en acción durante las manualidades. Sirven para marcar, escribir títulos o delinear antes de pintar, y casi nunca vienen de más.",
+            "En Útiles Escolares y Escritura consigues kits ya armados o productos sueltos según el grado del niño. Esto ayuda a renovar lo que se va gastando y a reponer rápido cuando un material se pierde o se rompe."
+          ]
+        },
+        {
+          "titulo": "Cómo organizar y transportar los materiales",
+          "parrafos": [
+            "Un morral amplio con compartimentos y una lonchera rígida para los tubos de pintura evitan que todo llegue aplastado al colegio. Si los niños cargan líquidos, lo ideal es una lonchera con cierre seguro que no se abra dentro del morral.",
+            "Mira las opciones en Morrales y Loncheras. Hay modelos con ruedas, morrales con bolsillo térmico y loncheras con divisiones, pensados justo para llevar materiales de arte sin que se mezclen o se dañen."
+          ]
+        },
+        {
+          "titulo": "Dónde comprar y cómo pedir a domicilio en Bogotá",
+          "parrafos": [
+            "Comprar en una sola tienda especializada te ahorra tiempo y traslados. En Útiles Escolares Bogotá reunimos todo lo necesario para el regreso a clases: cuadernos, colores, témperas, blocks, morrales y más, con servicio a domicilio en toda la ciudad.",
+            "Para hacer tu pedido solo necesitas escribirnos por WhatsApp, contar qué lista de materiales necesitas y tu dirección. Te confirmamos disponibilidad, te pasamos el pago y llevamos los productos hasta la puerta de tu casa o del colegio."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Qué materiales de arte piden más en el colegio?",
+          "respuesta": "Los más pedidos son témperas, pinceles, colores, tijeras, pegante, cartulina y blocks de papel. Una lista base con estos productos cubre la mayoría de tareas de arte en primaria."
+        },
+        {
+          "pregunta": "¿Hacen entregas a domicilio en Bogotá?",
+          "respuesta": "Sí, entregamos a domicilio en toda Bogotá. Solo necesitas escribirnos por WhatsApp con tu lista de útiles y la dirección. Coordinamos el pago y el horario de entrega."
+        },
+        {
+          "pregunta": "¿Puedo pedir productos sueltos o solo kits armados?",
+          "respuesta": "Puedes pedir productos sueltos o kits según lo que necesites. Vendemos desde un solo esfero hasta listas completas para el grado del niño."
+        },
+        {
+          "pregunta": "¿Qué tipo de pintura es mejor para los niños?",
+          "respuesta": "Las témperas lavables son la opción más usada en el colegio porque se limpian fácil, no manchan la ropa y rinden bien. Para trabajos con más detalle van bien los marcadores gruesos y los lápices de colores."
+        }
+      ],
+      "heroImagen": "/images/blog/materiales-de-arte-y-manualidades-para-el-colegio-guia-completa.webp"
+    },
+    {
       "slug": "que-utiles-de-escritura-necesita-un-estudiante-en-bogota",
       "title": "Qué útiles de escritura necesita un estudiante en Bogotá",
       "h1": "Qué útiles de escritura necesita un estudiante en Bogotá",
