@@ -120,7 +120,10 @@ export function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-[var(--color-line)] pt-6 text-xs text-[var(--color-ink-soft)] sm:flex-row">
-          <p>© {year} {config.nombre}. Útiles escolares y papelería en Bogotá.</p>
+          <p>
+            © {year} {config.nombre}. Útiles escolares y papelería en Bogotá. · Parte de{" "}
+            <a href="https://enbogota.app" className="font-semibold hover:text-[var(--color-primary)]">enbogota.app</a>
+          </p>
           <p>Hecho con cuidado para estudiantes y oficinas.</p>
         </div>
       </div>
