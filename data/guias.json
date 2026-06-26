@@ -1,6 +1,83 @@
 {
   "guias": [
     {
+      "slug": "papel-blocks-y-resmas-como-elegir-el-ideal-para-cada-uso",
+      "title": "Papel, blocks y resmas: cuál elegir según el uso",
+      "h1": "Papel, blocks y resmas: cómo elegir el ideal para cada uso",
+      "metaDescription": "Aprende a elegir entre papel, blocks y resmas según el uso. Tips prácticos para colegio y oficina en Bogotá. Pide ya a domicilio por WhatsApp.",
+      "excerpt": "No es lo mismo un block para dibujo que una resma para imprimir. Te contamos cuál papel necesitas según lo que vas a hacer y dónde lo vas a usar.",
+      "fecha": "2026-06-26",
+      "imagenCategoria": "papeles-y-blocks",
+      "categoriasRelacionadas": [
+        "papeles-y-blocks",
+        "utiles-escolares",
+        "pintar",
+        "escritura"
+      ],
+      "lead": "Elegir el papel correcto ahorra dinero y mejora el resultado, así sea para escribir, dibujar o imprimir.",
+      "secciones": [
+        {
+          "titulo": "Block vs resma: en qué se diferencian",
+          "parrafos": [
+            "Un block es un cuaderno de hojas sueltas, grapadas o pegadas, que se usa para tareas, dibujos o apuntes. Viene en tamaños carta, oficio y escolar, con hojas blancas o cuadriculadas.",
+            "La resma, en cambio, es un paquete de 500 hojas sueltas pensado para la impresora o el fotocopiador. Se mide por gramaje, y el más común para oficina es de 75 gramos.",
+            "Si el niño va al colegio, lo usual es cargar un block rayado o cuadriculado. Para la casa o la oficina, conviene tener una resma a la mano para imprimir tareas, recetas o documentos."
+          ]
+        },
+        {
+          "titulo": "Cuál papel sirve para escribir y cuál para imprimir",
+          "parrafos": [
+            "Para escribir a mano con esfero o lápiz, sirve un papel de 60 a 75 gramos. Se siente suave y la tinta no se traspasa. Los blocks cuadriculados ayudan a los niños a mantener números y letras derechos.",
+            "Para imprimir, lo mejor es papel bond de 75 a 90 gramos. Aguanta bien la tinta de inyección y láser sin atascar la impresora.",
+            "Si vas a imprimir diplomas, certificados o trabajos especiales, sube a 100 o 120 gramos. Queda más firme y da aspecto profesional sin gastar de más."
+          ]
+        },
+        {
+          "titulo": "Papeles para dibujar y pintar",
+          "parrafos": [
+            "Para colorear con lápices o crayones, un block escolar de 75 gramos funciona perfecto. Hay blocks con hojas blancas y otros con tonos suaves, ideales para manualidades.",
+            "Si el plan es pintar con témpera o acuarela, necesitas papel más grueso, de 120 gramos en adelante. Así no se arruga ni se traspasa la pintura. Lo encuentras en blocks tamaño carta u oficio.",
+            "Para trabajos de collage, recortes o scrapbook, conviene un block de cartulina o papel kraft. Aguanta el pegante y se ve bonito sin deteriorarse."
+          ]
+        },
+        {
+          "titulo": "Blocks por tamaño y presentación",
+          "parrafos": [
+            "El block carta mide 21,6 por 27,9 cm y es el más usado en colegios y oficinas. Sirve para tareas, informes y dibujos medianos.",
+            "El block oficio es un poco más largo, 21,6 por 35,6 cm, y se usa para contabilidad, facturas y largas listas.",
+            "También hay blocks pequeños, tipo cuadernillo, muy prácticos para llevar en el morral o la lonchera. Revisa siempre que las hojas tengan buena sujeción para que no se salgan."
+          ]
+        },
+        {
+          "titulo": "Cómo pedir tu papel a domicilio en Bogotá",
+          "parrafos": [
+            "En Útiles Escolares tenemos blocks, resmas y todo tipo de papeles listos para enviar a tu casa en Bogotá. Solo necesitas tu celular.",
+            "Escríbenos por WhatsApp, dime qué cantidad y tipo de papel quieres, y te lo llevamos el mismo día o al siguiente según tu zona.",
+            "También puedes combinar tu pedido con esferos, colores, témperas o morrales y pagar todo en un solo envío."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuál es la diferencia entre block y resma?",
+          "respuesta": "El block trae hojas unidas y grapadas, listo para escribir o dibujar. La resma son 500 hojas sueltas para usar en impresora o fotocopiadora."
+        },
+        {
+          "pregunta": "¿Qué gramaje de papel es mejor para imprimir?",
+          "respuesta": "Para uso diario en casa u oficina, el papel bond de 75 a 90 gramos funciona perfecto. Para documentos formales o diplomas, sube a 100 o 120 gramos."
+        },
+        {
+          "pregunta": "¿Qué block comprar para un niño que empieza el colegio?",
+          "respuesta": "Un block carta cuadriculado de 75 gramos es ideal para los primeros años. Si dibuja mucho, añade uno blanco para colorear y pintar con lápices."
+        },
+        {
+          "pregunta": "¿Hacen domicilios en Bogotá y cómo los pido?",
+          "respuesta": "Sí, hacemos entregas a domicilio en toda Bogotá. Solo escríbenos por WhatsApp con tu pedido, te confirmamos el valor del envío y lo despachamos el mismo día."
+        }
+      ],
+      "heroImagen": "/images/blog/papel-blocks-y-resmas-como-elegir-el-ideal-para-cada-uso.webp"
+    },
+    {
       "slug": "como-organizar-y-clasificar-los-trabajos-del-colegio-con-carpetas",
       "title": "Cómo organizar trabajos del colegio con carpetas y folders",
       "h1": "Cómo organizar y clasificar los trabajos del colegio con carpetas y folders",
