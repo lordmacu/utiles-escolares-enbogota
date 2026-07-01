@@ -1,6 +1,103 @@
 {
   "posts": [
     {
+      "slug": "regreso-a-clases-2026-en-bogota-fechas-oficiales-y-lista-de",
+      "metaTitle": "Regreso a clases en Bogotá: lista de útiles y fechas 2026",
+      "h1": "Regreso a clases 2026 en Bogotá: fechas oficiales y lista de útiles que ya toca comprar",
+      "metaDescription": "Vuelven las clases a Bogotá en julio de 2026. Conoce las fechas oficiales y pide a domicilio cuadernos, esferos, morrales y más por WhatsApp.",
+      "excerpt": "El Ministerio de Educación ajustó el calendario y los colegios de Bogotá vuelven a clases en julio. Revisa la lista de útiles y empieza a pedir a domicilio.",
+      "fecha": "2026-07-01",
+      "etiqueta": "Regreso a clases",
+      "heroCategoria": "utiles-escolares",
+      "lead": "Las vacaciones de mitad de año se acaban y los colegios públicos de Bogotá ya tienen fecha de regreso a clases.",
+      "intro": [
+        "El Ministerio de Educación confirmó el calendario escolar para el segundo semestre del 2026, con un ajuste por el nuevo festivo nacional que movió algunas fechas en distintas ciudades del país. En el caso de Bogotá, las instituciones distritales terminan el receso de mitad de año y vuelven a las aulas en la segunda semana de julio.",
+        "Para las familias bogotanas eso significa una sola cosa: hay que alistar la lista de útiles, revisar morrales y loncheras del año pasado y comprar lo que haga falta antes de que los niños vuelvan a las aulas. La buena noticia es que se puede pedir todo a domicilio por WhatsApp y recibirlo en la puerta de la casa."
+      ],
+      "items": [
+        {
+          "titulo": "Cuadernos y libretas: arranca el segundo semestre con hojas nuevas",
+          "texto": "Los cuadernos del primer semestre ya están rayados o perdidos. Comprar cuadernos nuevos para cada materia evita que los niños pierdan apuntes y lleguen con el material completo el primer día. En Bogotá los más pedidos son los de 100 hojas, los cuadriculados tipo college y los de argollas con separadores.",
+          "ctaCategoria": "escritura",
+          "ctaTexto": "Ver cuadernos"
+        },
+        {
+          "titulo": "Esferos, lápices y colores: los básicos que nunca pueden faltar",
+          "texto": "Lápiz negro número 2, esferos negros, azules y rojos, un buen borrador y tajalápiz con depósito. Los colores son obligatorios en primaria y se gastan rápido. Tener un kit completo evita el famoso 'se me acabó' en la primera semana de clase.",
+          "ctaCategoria": "escritura",
+          "ctaTexto": "Ver esferos y lápices"
+        },
+        {
+          "titulo": "Morrales y loncheras: revisa los del año pasado antes de comprar",
+          "texto": "Antes de gastar en un morral nuevo hay que revisar el estado del actual: costuras, cierres y tirantes. Si ya no aguanta, vale la pena cambiarlo porque carga mucho peso. Las loncheras con espacio para termo son las más prácticas para el refrigerio.",
+          "ctaCategoria": "morrales-y-loncheras",
+          "ctaTexto": "Ver morrales y loncheras"
+        },
+        {
+          "titulo": "Témperas, pinceles y Blocks: el kit de arte para dibujo y pintura",
+          "texto": "En julio arrancan los talleres de arte y manualidades. Témperas de varios colores, pinceles de distintos grosores, Blocks de hojas blancas y cartulinas hacen parte del material que piden los colegios. Tenerlo listo desde el primer día evita correr a última hora.",
+          "ctaCategoria": "pintar",
+          "ctaTexto": "Ver témperas y pinceles"
+        },
+        {
+          "titulo": "Carpetas, fólderes y archivos: organiza los talleres y trabajos del segundo semestre",
+          "texto": "Los proyectos del segundo semestre suelen ser más pesados. Carpetas celtas, fólderes plásticos y legajadores tamaño oficio ayudan a mantener ordenados los trabajos, las evaluaciones y las fichas de lectura. Es el momento perfecto para empezar el año bien organizado.",
+          "ctaCategoria": "archivos-y-clasificacion",
+          "ctaTexto": "Ver carpetas y archivos"
+        }
+      ],
+      "cierre": [
+        "Si vives en Bogotá y necesitas tener todo listo para el regreso a clases, escríbenos por WhatsApp y armamos tu pedido a domicilio. Te enviamos cuadernos, morrales, loncheras, colores y todo lo que pidan los colegios, con entrega el mismo día en muchas localidades de la ciudad."
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuándo regresan a clases los colegios públicos de Bogotá en julio de 2026?",
+          "respuesta": "Los colegios distritales de Bogotá vuelven a clases entre el 13 y el 14 de julio de 2026, según el calendario del Ministerio de Educación. Cada colegio publica la fecha exacta en su página oficial."
+        },
+        {
+          "pregunta": "¿Se puede pedir la lista de útiles completa por WhatsApp a domicilio en Bogotá?",
+          "respuesta": "Sí. En Útiles Escolares recibes cuadernos, esferos, morrales, loncheras, colores y demás materiales con entrega a domicilio en Bogotá. Solo necesitas enviar la lista por WhatsApp."
+        },
+        {
+          "pregunta": "¿Cuánto cuestan los kits de regreso a clases en Bogotá?",
+          "respuesta": "El precio varía según los productos y las cantidades. Un kit básico con cuadernos, esferos y colores puede arrancar desde los 30 mil pesos, y los kits completos con morral y loncheras pueden pasar los 150 mil pesos."
+        },
+        {
+          "pregunta": "¿Hacen entregas el mismo día del pedido en Bogotá?",
+          "respuesta": "Sí, en la mayoría de localidades de Bogotá se puede programar entrega el mismo día si el pedido se hace temprano. Para zonas más alejadas como Sumapaz se coordina la ruta."
+        }
+      ],
+      "categoriasRelacionadas": [
+        "utiles-escolares",
+        "morrales-y-loncheras",
+        "archivos-y-clasificacion"
+      ],
+      "secciones": [
+        {
+          "titulo": "Cuándo vuelven a clase los colegios públicos de Bogotá",
+          "parrafos": [
+            "Según el calendario oficial del Ministerio de Educación, el receso de mitad de año en Bogotá arrancó a finales de junio y termina en la segunda semana de julio de 2026. Los estudiantes de los colegios distritales regresan a las aulas entre el 13 y el 14 de julio, dependiendo de la jornada.",
+            "El ajuste responde a un nuevo festivo nacional que se incluyó en el calendario y que cambió las fechas de finalización y reinicio de actividades en varias regiones del país. La Secretaría de Educación de Bogotá publicó el cronograma detallado por colegio, así que conviene revisar la página del plantel para confirmar el día exacto de regreso."
+          ]
+        },
+        {
+          "titulo": "Qué cambió en el calendario escolar 2026 con el nuevo festivo",
+          "parrafos": [
+            "El Ministerio de Educación explicó que la inclusión del nuevo festivo obligó a reorganizar las semanas lectivas del segundo semestre. En algunas ciudades el descanso de mitad de año se extendió hasta tres semanas, mientras que en otras solo se reajustaron las fechas de evaluación y entrega de boletines.",
+            "Para los padres esto se traduce en menos tiempo para comprar útiles antes del regreso a clases. La recomendación de expertos en educación es no esperar al último día, porque los precios de morrales, cuadernos y kits escolares suelen subir a medida que se acerca la fecha de ingreso."
+          ]
+        },
+        {
+          "titulo": "Cómo armar la lista de útiles sin estrés y a domicilio en Bogotá",
+          "parrafos": [
+            "El primer paso es pedir al colegio la lista oficial de útiles para el grado. Cada año los planteles ajustan los materiales y muchas veces piden marcas o cantidades específicas. Con esa lista en mano, lo más práctico es armar un pedido completo por WhatsApp y recibirlo en la casa.",
+            "En Útiles Escolares manejamos todo el catálogo escolar y de oficina con entrega a domicilio en Bogotá. Cuadernos, esferos, lápices, colores, témperas, morrales, loncheras, carpetas y Blocks llegan en el mismo pedido. Pagar se hace contraentrega o por transferencia, sin filas ni trancones."
+          ]
+        }
+      ],
+      "heroImagen": "/images/blog/regreso-a-clases-2026-en-bogota-fechas-oficiales-y-lista-de.webp"
+    },
+    {
       "slug": "precios-de-utiles-escolares-2026-en-bogota-que-sube-que-se",
       "metaTitle": "Precios de útiles escolares 2026 en Bogotá: guía útil",
       "h1": "Precios de útiles escolares 2026 en Bogotá: qué sube, qué se mantiene y cómo comprar sin gastar de más",
