@@ -1,6 +1,77 @@
 {
   "guias": [
     {
+      "slug": "como-montar-un-escritorio-de-estudio-en-casa-paso-a-paso",
+      "title": "Cómo montar un escritorio de estudio en casa | Útiles",
+      "h1": "Cómo montar un escritorio de estudio en casa paso a paso",
+      "metaDescription": "Aprende cómo montar un escritorio de estudio en casa con organización, buena luz y accesorios. Pide todo a domicilio en Bogotá por WhatsApp.",
+      "excerpt": "Un buen rincón de estudio cambia los hábitos de cualquier niño o estudiante. Te contamos qué necesitas y cómo dejarlo listo en una tarde.",
+      "fecha": "2026-07-03",
+      "imagenCategoria": "accesorios-de-escritorio-y-oficina",
+      "categoriasRelacionadas": [
+        "accesorios-de-escritorio-y-oficina",
+        "utiles-escolares",
+        "escritura"
+      ],
+      "lead": "Montar un escritorio de estudio en casa no requiere mucho espacio ni gran presupuesto, solo decisiones claras sobre ubicación, luz y accesorios.",
+      "secciones": [
+        {
+          "titulo": "Elige el lugar correcto en la casa",
+          "parrafos": [
+            "Lo primero es buscar un sitio tranquilo, lejos de la televisión y del ruido de la calle. Una esquina bien iluminada funciona muy bien, incluso si el cuarto es pequeño. La mesa debe quedar contra una pared para dar sensación de apoyo y reducir distracciones.",
+            "Evita colocar el escritorio de cara a la ventana. La luz de frente cansa la vista y genera reflejo en la pantalla o en el papel. Mejor que la ventana quede a un lado, así la luz natural cae de forma pareja sobre los cuadernos y los libros."
+          ]
+        },
+        {
+          "titulo": "Mesa, silla y la altura correcta",
+          "parrafos": [
+            "La altura ideal de la mesa se mide por los codos. Sentado, el antebrazo debe quedar paralelo al tablero sin levantar el hombro. Si la silla es muy baja, una almohada firme o un cojín grueso resuelve el problema de inmediato.",
+            "La espalda debe quedar apoyada en el respaldar, con los pies planos en el piso. Para los niños que aún no llegan al suelo, sirve una caja de cartón firme o un cajón de madera como apoyapiés. Cualquier silla rígida se vuelve cómoda con estos ajustes simples."
+          ]
+        },
+        {
+          "titulo": "Organización con accesorios de escritorio",
+          "parrafos": [
+            "Un escritorio ordenado acelera el trabajo. Un organizador de lápices y esferos, un portalápices con varios compartos y una bandeja para papeles son básicos que se consiguen fácil en Bogotá. Todo a la mano y sin pararse cada cinco minutos.",
+            "También vale la pena sumar una carpeta clasificadora, un porta documentos y un pequeño archivador para guardar guías, talleres y hojas sueltas. En la papelería a domicilio encuentras sets ya armados que ahorran tiempo de compra."
+          ]
+        },
+        {
+          "titulo": "Iluminación y materiales de escritura",
+          "parrafos": [
+            "La luz artificial importa en las tardes bogotanas, que se oscurecen rápido. Una lámpara LED de escritorio con brazo flexible ilumina justo el punto donde se escribe, sin sombras en el cuaderno. Busca bombillas de tono cálido para no cansar la vista.",
+            "Para escribir con comodidad, ten a la mano un buen set de esferos, lápices negros, colores y un tajalápiz con depósito. Renovar el material antes de empezar el año escolar motiva mucho a los niños y les da ganas de sentarse a estudiar."
+          ]
+        },
+        {
+          "titulo": "Toques finales y motivación visual",
+          "parrafos": [
+            "Un tablero de corcho en la pared sirve para pegar el horario escolar, un dibujo favorito o la lista de tareas de la semana. Es barato, ocupa poco y mantiene visible el plan del día sin perder tiempo buscándolo.",
+            "Suma una planta pequeña si hay buena luz natural, un morral colgado en un gancho y una lonchera con un snack saludable para los descansos. Con pocos cambios, el rincón se siente propio y los tiempos de estudio fluyen mejor."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Qué accesorios de escritorio son indispensables para empezar?",
+          "respuesta": "Un portalápices, una bandeja para papeles, un organizador con compartos y una buena lámpara de mesa. Con eso ya tienes un escritorio funcional y ordenado."
+        },
+        {
+          "pregunta": "¿Hacen entregas a domicilio en Bogotá?",
+          "respuesta": "Sí, entregamos a domicilio en toda Bogotá. Los pedidos se reciben por WhatsApp y los llevamos hasta la puerta de tu casa, sin demoras."
+        },
+        {
+          "pregunta": "¿Puedo pedir todo el set armado en un solo pedido?",
+          "respuesta": "Claro, armamos kits de útiles escolares y de oficina según la edad y el grado. Solo necesitas escribirnos por WhatsApp y te enviamos las opciones disponibles."
+        },
+        {
+          "pregunta": "¿Cómo cuidar la postura de los niños en el escritorio?",
+          "respuesta": "Ajusta la altura para que los codos queden a nivel de la mesa, apoya la espalda y usa un apoyapiés si no llegan al suelo. Revisa la postura cada hora de estudio."
+        }
+      ],
+      "heroImagen": "/images/blog/como-montar-un-escritorio-de-estudio-en-casa-paso-a-paso.jpg"
+    },
+    {
       "slug": "papel-blocks-y-resmas-como-elegir-el-ideal-para-cada-uso",
       "title": "Papel, blocks y resmas: cuál elegir según el uso",
       "h1": "Papel, blocks y resmas: cómo elegir el ideal para cada uso",
