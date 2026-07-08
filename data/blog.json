@@ -1,6 +1,90 @@
 {
   "posts": [
     {
+      "slug": "regreso-a-clases-en-bogota-2026-que-utiles-comprar-y-como",
+      "metaTitle": "Regreso a clases en Bogotá: guías y útiles escolares 2026",
+      "h1": "Regreso a clases en Bogotá 2026: qué útiles comprar y cómo pedirlos a domicilio",
+      "metaDescription": "Vuelve el calendario escolar en Bogotá. Arma la lista de útiles, conoce fechas oficiales y pide todo a domicilio por WhatsApp con envío rápido.",
+      "excerpt": "El calendario escolar ya está cerca y Bogotá se alista para el regreso a clases. Te contamos qué útiles comprar y cómo recibirlos en la puerta de tu casa.",
+      "fecha": "2026-07-08",
+      "etiqueta": "Regreso a clases",
+      "heroCategoria": "utiles-escolares",
+      "lead": "Bogotá se prepara para un nuevo regreso a clases y las familias ya empiezan a armar la lista de útiles.",
+      "intro": [
+        "La Secretaría de Educación publicó el calendario oficial y miles de colegios públicos y privados vuelven a abrir sus puertas en pocas semanas. Padres y madres en Bogotá empiezan a comparar precios, recorrer papelerías y buscar promociones para no gastar de más.",
+        "En este contexto, comprar útiles escolares a domicilio por WhatsApp se volvió una opción práctica para ahorrar tiempo y evitar filas. La clave es organizar la lista por materias, revisar el colegio y separar lo que se puede reutilizar de lo que toca renovar."
+      ],
+      "items": [
+        {
+          "titulo": "Cuadernos y libretas: el básico que nunca sobra",
+          "texto": "Para primaria y bachillerato, lo más pedido sigue siendo el cuaderno cosido de 100 hojas. Comprar varios al tiempo baja el precio por unidad y deja margen para repuestos durante el año. Mira las opciones de cuadernos y libretas que tenemos listas para enviar.",
+          "ctaCategoria": "utiles-escolares",
+          "ctaTexto": "Ver cuadernos"
+        },
+        {
+          "titulo": "Esferos, lápices y colores: el kit de escritura completo",
+          "texto": "Esferos negros y rojos, lápiz negro, tajalápiz y caja de colores marcan la lista de cualquier colegio. Tener un kit de escritura por cada hijo evita carreras a última hora en julio.",
+          "ctaCategoria": "escritura",
+          "ctaTexto": "Ver esferos y lápices"
+        },
+        {
+          "titulo": "Morrales y loncheras resistentes para el día a día",
+          "texto": "El morral se usa todos los días y por eso conviene uno reforzado, con buen cierre y compartimentos. Una lonchera grande ayuda a llevar refrigerio, agua y lonchera de comida sin mezclar olores.",
+          "ctaCategoria": "morrales-y-loncheras",
+          "ctaTexto": "Ver morrales y loncheras"
+        },
+        {
+          "titulo": "Carpetas y archivos para organizar materias y guías",
+          "texto": "Carpetas celuladas, carpetas de argolla y separadores sirven para guardar guías, talleres y evaluaciones. Empezar el año con un buen sistema de archivo le ahorra dolores de cabeza a los estudiantes.",
+          "ctaCategoria": "archivos-y-clasificacion",
+          "ctaTexto": "Ver carpetas"
+        },
+        {
+          "titulo": "Colores, témperas y pinceles para el área de arte",
+          "texto": "Crayolas, marcadores, témperas y pinceles están en casi todas de las listas escolares. Comprarlos juntos en un solo pedido evita viajes extra a la tienda.",
+          "ctaCategoria": "pintar",
+          "ctaTexto": "Ver colores y témperas"
+        }
+      ],
+      "cierre": [
+        "¿Listo para el regreso a clases en Bogotá? Pide tus útiles por WhatsApp, te los armamos según la lista del colegio y los enviamos a tu casa. Atención a domicilio en toda Bogotá y pagos fáciles por Nequi, Daviplata o transferencia."
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuándo empieza el calendario escolar 2026 en Bogotá?",
+          "respuesta": "El calendario escolar 2026 fue ajustado por el Ministerio de Educación por un nuevo festivo. Las fechas exactas dependen del colegio, así que conviene revisar el calendario publicado por la Secretaría de Educación del Distrito o el colegio particular."
+        },
+        {
+          "pregunta": "¿Hacen envíos a domicilio en toda Bogotá?",
+          "respuesta": "Sí, hacemos envíos a domicilio en Bogotá y municipios cercanos. El pedido se coordina por WhatsApp y suele llegar el mismo día o al siguiente, según la zona y la hora en que confirmes el pago."
+        },
+        {
+          "pregunta": "¿Pueden armar la lista de útiles del colegio?",
+          "respuesta": "Claro. Solo envíale la lista del colegio por WhatsApp y te armamos un paquete con todo, listo para enviar. Si quieres puedes sumar productos extra como morral, lonchera o dulces para la lonchera."
+        },
+        {
+          "pregunta": "¿Qué medios de pago aceptan?",
+          "respuesta": "Recibimos pagos por Nequi, Daviplata, transferencia bancaria y efectivo contra entrega en zonas cubiertas de Bogotá. Te confirmamos el pedido y los datos del pago por el mismo chat."
+        }
+      ],
+      "categoriasRelacionadas": [
+        "utiles-escolares",
+        "escritura",
+        "morrales-y-loncheras",
+        "archivos-y-clasificacion"
+      ],
+      "secciones": [
+        {
+          "titulo": "Cuidado con la violencia digital: cómo hablar de redes con los hijos",
+          "parrafos": [
+            "Las cifras de violencia digital en colegios de Bogotá prendieron las alertas, sobre todo en el caso de las niñas. El regreso a clases es un buen momento para hablar con los hijos sobre uso del celular, contraseñas y reportes de acoso.",
+            "En lo escolar, también ayuda contar con cuadernos y libretas físicas que reduzcan la dependencia del celular para tomar apuntes. Tener agendas y planners a la mano facilita organizar tareas sin pantalla."
+          ]
+        }
+      ],
+      "heroImagen": "/images/blog/regreso-a-clases-en-bogota-2026-que-utiles-comprar-y-como.jpg"
+    },
+    {
       "slug": "sube-o-no-la-lista-de-utiles-en-bogota-lo-que-pasa-con-los",
       "metaTitle": "Precios de útiles escolares 2026 en Bogotá: qué sube y qué",
       "h1": "¿Sube o no la lista de útiles en Bogotá? Lo que pasa con los precios en 2026",
