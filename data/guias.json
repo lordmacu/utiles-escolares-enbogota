@@ -1,6 +1,77 @@
 {
   "guias": [
     {
+      "slug": "como-elegir-el-cuaderno-correcto-para-cada-materia-del-colegio",
+      "title": "Cómo elegir el cuaderno correcto para cada materia | Bogotá",
+      "h1": "Cómo elegir el cuaderno correcto para cada materia del colegio",
+      "metaDescription": "Aprende cómo elegir el cuaderno ideal para cada materia del colegio. Tipos, tamaños y usos. Pide a domicilio en Bogotá por WhatsApp. ¡Compra fácil y rápido!",
+      "excerpt": "Elegir bien el cuaderno para cada materia ahorra dinero y mejora el estudio. Te contamos qué tipo usar en Bogotá según la asignatura.",
+      "fecha": "2026-07-17",
+      "imagenCategoria": "utiles-escolares",
+      "categoriasRelacionadas": [
+        "utiles-escolares",
+        "escritura",
+        "morrales-y-loncheras"
+      ],
+      "lead": "No todos los cuadernos sirven para lo mismo, y elegir el correcto para cada materia te ayuda a estudiar mejor y a mantener todo ordenado desde el primer día de clases.",
+      "secciones": [
+        {
+          "titulo": "Cuaderno cuadriculado: el aliado de matemáticas y ciencias",
+          "parrafos": [
+            "El cuaderno cuadriculado es el más usado en matemáticas, física, química y estadística. Las cuadrículas permiten alinear bien las cifras, dibujar gráficas con precisión y resolver operaciones largas sin torcer los números. Para álgebra y geometría funciona mucho mejor que uno de líneas.",
+            "En Bogotá se consiguen tamaños grande y pequeño. Para el colegio, el grande (105 hojas o más) rinde todo el año en la mayoría de instituciones. Si quieres reforzar el trabajo, unas buenas minas y un buen esfero negro para lapicero ayudan a que las gráficas queden claras."
+          ]
+        },
+        {
+          "titulo": "Cuaderno de líneas: ideal para español, sociales y humanidades",
+          "parrafos": [
+            "Para español, inglés, sociales, filosofía y religión, lo mejor es un cuaderno de líneas o un cuaderno de rayas. Las líneas guía la letra, ayudan a mantener una buena caligrafía y permiten escribir ensayos, resúmenes y análisis con orden.",
+            "Un cuaderno de 100 hojas tamaño carta alcanza sin problema para una materia que pide mucho texto. Si prefieres algo más práctico para llevar en el morral, también hay versiones pocket que caben perfecto en el bolsillo frontal."
+          ]
+        },
+        {
+          "titulo": "Cuaderno de dibujo o libreta artística: para artes y dibujo técnico",
+          "parrafos": [
+            "En dibujo técnico, artes y diseño se necesita un cuaderno con hojas blancas o tipo sketchbook. Las hojas lisas permiten usar colores, témperas, marcadores y lápices de grafito sin que la cuadrícula o la línea estorben.",
+            "Para dibujo técnico, escoge una libreta con hojas gruesas que soporten el trazo del lápiz y el borrador. Si vas a pintar, busca hojas de mayor gramaje para que la tinta no traspase."
+          ]
+        },
+        {
+          "titulo": "Carpetas y archivos: cuándo conviene mejor que un cuaderno",
+          "parrafos": [
+            "Para talleres, evaluaciones y hojas sueltas, una carpeta con gancho o un folder facilita archivar por materia y por periodo. Muchas veces se usa el cuaderno solo para apuntes y el folder para trabajos y guías entregadas.",
+            "Combinar cuaderno con carpetas de clasificación evita que se pierda material importante. Es una forma simple de llevar el colegio al día sin cargar de más en el morral."
+          ]
+        },
+        {
+          "titulo": "Cómo armar el kit completo de cuadernos según el grado",
+          "parrafos": [
+            "Para primaria suelen bastar 4 a 5 cuadernos grandes, dos cuadriculados y tres de líneas, más un block de hojas blancas para dibujo. Para secundaria conviene sumar cuadernos por materia y agregar carpetas con gancho legajadoras para archivar trabajos.",
+            "En nuestra tienda de útiles escolares en Bogotá tenemos cuadernos, carpetas, blocks y todo lo necesario para el regreso a clases. Hacemos entregas a domicilio en toda la ciudad y recibimos pedidos por WhatsApp, así que armar el kit toma solo unos minutos."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuántos cuadernos necesita un estudiante de secundaria en Bogotá?",
+          "respuesta": "Lo más común es uno por materia, entre 6 y 8 cuadernos según el plan de estudios. Se recomienda combinar cuadernos cuadriculados para ciencias y de líneas para humanidades."
+        },
+        {
+          "pregunta": "¿Qué cuaderno es mejor para dibujo técnico?",
+          "respuesta": "Una libreta de hojas blancas tipo sketchbook o un block de hojas gruesas. Las hojas lisas permiten trazar con regla, compás y lápices de grafito sin que la cuadrícula moleste."
+        },
+        {
+          "pregunta": "¿Hacen domicilios de cuadernos en Bogotá?",
+          "respuesta": "Sí, hacemos entregas a domicilio en toda Bogotá. Solo necesitas escribirnos por WhatsApp con la lista de cuadernos, colores y materiales que necesitas, y te los llevamos hasta la puerta de tu casa."
+        },
+        {
+          "pregunta": "¿Cuál es la diferencia entre un cuaderno cocido y uno con espiral?",
+          "respuesta": "El cuaderno cocido es más firme y protege mejor las hojas. El de espiral se abre completamente, lo que es útil para tomar apuntes al lado del teclado o para dibujar. La elección depende del gusto de cada estudiante."
+        }
+      ],
+      "heroImagen": "/images/blog/como-elegir-el-cuaderno-correcto-para-cada-materia-del-colegio.jpg"
+    },
+    {
       "slug": "ideas-para-celebrar-fechas-especiales-en-el-salon-de-clases",
       "title": "Ideas para celebrar fechas especiales en el salón de clases",
       "h1": "Ideas para celebrar fechas especiales en el salón de clases",
