@@ -1,6 +1,74 @@
 {
   "guias": [
     {
+      "slug": "guia-para-comprar-morral-y-lonchera-que-duren-todo-el-ano",
+      "title": "Guía para comprar morral y lonchera que duren todo el año",
+      "h1": "Guía para comprar morral y lonchera que duren todo el año",
+      "metaDescription": "Aprende a elegir morral y lonchera resistentes para el colegio. Consejos prácticos, materiales y dónde comprarlos a domicilio en Bogotá por WhatsApp.",
+      "excerpt": "Elegir un buen morral y una lonchera resistente evita dolores de cabeza durante el año escolar. Te contamos qué revisar antes de comprar.",
+      "fecha": "2026-07-24",
+      "imagenCategoria": "morrales-y-loncheras",
+      "categoriasRelacionadas": [
+        "morrales-y-loncheras",
+        "utiles-escolares",
+        "accesorios-de-escritorio-y-oficina"
+      ],
+      "lead": "Un morral y una lonchera bien elegidos soportan el ritmo del colegio, los traslados en TransMilenio y los recreos largos sin romperse a la primera.",
+      "secciones": [
+        {
+          "titulo": "Qué revisar del morral antes de pagar",
+          "parrafos": [
+            "La tela marca la diferencia. Un morral en poliéster grueso o nylon repelente aguanta mejor la lluvia de Bogotá y los roces contra la pared del salón. Detrás de las costuras, las costuras dobles y los remaches en las asas son una buena señal.",
+            "Busca tirantes acolchados y ajustables. Los niños cargan libros, lonchera y a veces un morral extra con ropa de educación física. Si las correas no distribuyen el peso, aparecerán los dolores de espalda en pocos meses."
+          ]
+        },
+        {
+          "titulo": "Cómo elegir la lonchera correcta",
+          "parrafos": [
+            "Piensa en el uso diario. Las loncheras térmicas con cierre hermético mantienen el jugo fresco hasta el descanso. Si el niño almuerza fuera, una lonchera con compartimentos evita que el arroz se mezcle con la fruta.",
+            "El tamaño importa más de lo que parece. Una lonchera muy grande termina aplastando el sánduche. Una muy pequeña obliga a meter paquetes en el morral. Mide el espacio interno y compara con los recipientes que ya tienes en casa."
+          ]
+        },
+        {
+          "titulo": "",
+          "parrafos": []
+        },
+        {
+          "titulo": "Trucos para alargar la vida útil",
+          "parrafos": [
+            "Rota el morral entre dos si tienes más de un niño. Cada tela necesita descansar para que el elástico de las asas no ceda. Lava el morral cada dos meses con agua tibia y jabón suave, nunca en lavadora.",
+            "Guarda la lonchera abierta en la noche para que seque bien. Un trapo con vinagre blanco elimina manchas y olores sin afectar la térmica. Renueva los empaques de la categoría de desechables cada vez que cambien de grado."
+          ]
+        },
+        {
+          "titulo": "Dónde comprar en Bogotá y cómo pedirlo",
+          "parrafos": [
+            "En Útiles Escolares encuentras morrales y loncheras con despacho a domicilio en toda Bogotá. Pides por WhatsApp, confirmas tallas y colores, y el pedido llega a tu casa o al colegio del niño.",
+            "Antes de cerrar la compra revisa el listado de útiles escolares y cruza con los tamaños sugeridos. Si necesitas varios artículos, empaca cuadernos, colores y paquetes de escribir en el mismo envío para ahorrar en el domicilio."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuánto cuesta un morral escolar bueno en Bogotá?",
+          "respuesta": "Los morrales en material resistente van desde 60 mil pesos y pueden superar los 200 mil según marca y capacidad. En nuestro catálogo hay opciones para preescolar, primaria y bachillerato."
+        },
+        {
+          "pregunta": "¿Hacen entregas el mismo día en Bogotá?",
+          "respuesta": "Sí, despachamos el mismo día para pedidos confirmados por WhatsApp antes de las 2 pm. La entrega cubre todas las localidades de Bogotá y el pago se hace contra entrega o por transferencia."
+        },
+        {
+          "pregunta": "¿Qué lonchera sirve para guardería y para colegio?",
+          "respuesta": "Para guardería funcionan las loncheras pequeñas con asa y fácil apertura. Para colegio, las térmicas con compartimentos y cierre hermético mantienen el almuerzo en buen estado hasta el descanso."
+        },
+        {
+          "pregunta": "¿Puedo armar un paquete de morral, lonchera y útiles en un solo pedido?",
+          "respuesta": "Claro. Solo escribe por WhatsApp con el listado de útiles escolares del grado, las tallas de morral y el modelo de lonchera. Armamos el paquete completo y lo llevamos a tu casa."
+        }
+      ],
+      "heroImagen": "/images/blog/guia-para-comprar-morral-y-lonchera-que-duren-todo-el-ano.jpg"
+    },
+    {
       "slug": "como-elegir-el-cuaderno-correcto-para-cada-materia-del-colegio",
       "title": "Cómo elegir el cuaderno correcto para cada materia | Bogotá",
       "h1": "Cómo elegir el cuaderno correcto para cada materia del colegio",
