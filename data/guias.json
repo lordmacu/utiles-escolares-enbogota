@@ -1,6 +1,77 @@
 {
   "guias": [
     {
+      "slug": "que-utiles-de-escritura-necesita-un-estudiante-en-bogota-2",
+      "title": "Útiles de escritura que necesita un estudiante en Bogotá",
+      "h1": "Qué útiles de escritura necesita un estudiante en Bogotá",
+      "metaDescription": "Descubre qué útiles de escritura necesita un estudiante: esferos, lápices y resaltadores. Pide a domicilio en Bogotá por WhatsApp. ¡Compra fácil y rápido!",
+      "excerpt": "Una guía clara con los útiles de escritura básicos y avanzados que todo estudiante debe tener en su cartuchera, según el grado y la rutina escolar.",
+      "fecha": "2026-08-14",
+      "imagenCategoria": "escritura",
+      "categoriasRelacionadas": [
+        "escritura",
+        "utiles-escolares",
+        "morrales-y-loncheras"
+      ],
+      "lead": "Elegir bien los útiles de escritura marca la diferencia entre una jornada escolar cómoda y una llena de contratiempos con esferos que se secan o lápices que no marcan.",
+      "secciones": [
+        {
+          "titulo": "Esferos: la base de cualquier cartuchera escolar",
+          "parrafos": [
+            "El esfero negro sigue siendo el rey de la lista. Sirve para exámenes, tareas y firmas, y debe estar siempre listo. Una buena opción es combinar uno negro para lo formal con uno azul para subrayar fechas y uno rojo para correcciones rápidas en cuadernos.",
+            "Para los grados de bachillerato y universidad conviene llevar un par de repuestos en el morral, porque los esferos se pierden o se secan con el uso diario. Los bolígrafos de gel escriben más suave y los de punta fina permiten letra pequeña en apuntes cargados de información."
+          ]
+        },
+        {
+          "titulo": "Lápices de grafito y portaminas para el día a día",
+          "parrafos": [
+            "El lápiz negro tradicional nunca puede faltar. Se usa en dibujo, mapas, operaciones matemáticas y exámenes de selección múltiple. Una mina HB sirve para escritura general, mientras una 2B da trazo más oscuro para sombreados o repintar letras.",
+            "El portaminas con minas de 0.5 o 0.7 mm es ideal para los estudiantes de bachillerato. Mantiene la punta pareja, no requiere sacapuntas y permite escribir con precisión durante clases largas. Llevar un paquete extra de minas de repuesto evita quedarse a medias en un examen."
+          ]
+        },
+        {
+          "titulo": "Resaltadores y lápices de colores para estudiar mejor",
+          "parrafos": [
+            "Los resaltadores ayudan a separar ideas principales en textos largos. Con tres colores basta: amarillo para ideas clave, verde para fechas y rosado para vocabulario o definiciones. Marcar demasiado pierde el sentido, por eso lo mejor es elegir un máximo de tres tonos.",
+            "Los lápices de colores son obligatorios desde primaria. Un set de 12 cubre trabajos escolares, mapas y actividades de arte. Para dibujo técnico o biología, vale la pena sumar un set de 24 o 36 con tonos más finos. Los colores en madera de buena calidad no se rompen con el uso."
+          ]
+        },
+        {
+          "titulo": "Otros útiles de escritura que no pueden quedarse por fuera",
+          "parrafos": [
+            "El tajalápiz con depósito evita el desorden en el pupitre y mantiene la punta del lápiz lista. El borrador de nata limpia mejor que el de vinilo, sobre todo en trazos de grafito suave. Un corrector líquido o en cinta resuelve errores sin tener que repetir toda la hoja.",
+            "Para los más grandes, un set de marcadores finos sirve para rotular carpetas y decorar cuadernos. Y para los trabajos en grupo, los marcadores para tablero blanco se vuelven aliados en exposiciones dentro del salón."
+          ]
+        },
+        {
+          "titulo": "Cómo armar el kit completo y pedirlo a domicilio en Bogotá",
+          "parrafos": [
+            "Armar el kit por grado es la forma más práctica de no olvidar nada. Para primaria basta con esferos, lápices, colores y tajalápiz. En bachillerato se suman portaminas, resaltadores y un juego de marcadores finos. En universidad el foco pasa a esferos de gel, resaltadores y correctores.",
+            "En Útiles Escolares encuentras todo armado en un solo lugar. Hacemos entregas a domicilio en Bogotá y pedidos rápidos por WhatsApp. Escribe, arma tu lista y recibe tus útiles de escritura sin salir de casa."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuántos esferos debe llevar un estudiante al colegio?",
+          "respuesta": "Lo ideal es tener tres en el morral: uno negro, uno azul y uno rojo, más dos de repuesto guardados en un estuche. Así siempre hay uno disponible durante exámenes o tareas largas."
+        },
+        {
+          "pregunta": "¿Qué diferencia hay entre un lápiz HB y uno 2B?",
+          "respuesta": "El HB tiene trazo medio y sirve para escritura normal. El 2B escribe más oscuro y se usa para dibujar, sombrear o repasar letras. Para la escuela conviene tener al menos uno de cada tipo."
+        },
+        {
+          "pregunta": "¿Cómo pido los útiles de escritura a domicilio en Bogotá?",
+          "respuesta": "Solo necesitas escribirnos por WhatsApp con tu lista. Confirmamos disponibilidad, te pasamos el valor del envío a tu barrio y llevamos el pedido el mismo día o al siguiente hábil."
+        },
+        {
+          "pregunta": "¿Los resaltadores se secan rápido si no se usan?",
+          "respuesta": "Depende de la marca. Los resaltadores de buena calidad mantienen la tinta varios meses tapados. Lo mejor es guardarlos siempre con su tapa puesta y en posición horizontal para que la tinta no se acumule en un solo extremo."
+        }
+      ],
+      "heroImagen": "/images/blog/que-utiles-de-escritura-necesita-un-estudiante-en-bogota-2.jpg"
+    },
+    {
       "slug": "guia-para-comprar-morral-y-lonchera-que-duren-todo-el-ano",
       "title": "Guía para comprar morral y lonchera que duren todo el año",
       "h1": "Guía para comprar morral y lonchera que duren todo el año",
