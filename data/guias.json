@@ -1,6 +1,77 @@
 {
   "guias": [
     {
+      "slug": "materiales-de-arte-y-manualidades-para-el-colegio-guia-para",
+      "title": "Materiales de arte y manualidades para el colegio en Bogotá",
+      "h1": "Materiales de arte y manualidades para el colegio: guía para padres en Bogotá",
+      "metaDescription": "Descubre qué materiales de arte y manualidades necesita tu hijo en el colegio. Compra útiles escolares a domicilio en Bogotá por WhatsApp. Pide fácil.",
+      "excerpt": "Tu hijo vuelve a clases y la lista trae temperas, marcadores y pinceles. Te contamos qué materiales de arte y manualidades son los más útiles y cómo pedirlos a casa.",
+      "fecha": "2026-08-24",
+      "imagenCategoria": "pintar",
+      "categoriasRelacionadas": [
+        "pintar",
+        "utiles-escolares",
+        "papeles-y-blocks"
+      ],
+      "lead": "Elegir los materiales de arte correctos facilita las tareas, evita que tu hijo pierda cosas y le permite disfrutar cada actividad en clase.",
+      "secciones": [
+        {
+          "titulo": "Qué materiales de arte pide el colegio con más frecuencia",
+          "parrafos": [
+            "La lista escolar suele pedir temperas, marcadores, lápices de colores y pinceles. También aparecen tijeras de punta roma, pegante escolar y plastilina, sobre todo en primaria. Estos materiales cubren dibujo, pintura y modelado, que son las tres áreas básicas en clase de arte.",
+            "En Útiles Escolares encuentras todo armado como un kit de arte escolar. Así no tienes que recorrer cinco tiendas buscando marcas. Pides por WhatsApp y te lo llevamos a la puerta de la casa en Bogotá."
+          ]
+        },
+        {
+          "titulo": "Témperas, acuarelas y pinceles: qué tener en cuenta",
+          "parrafos": [
+            "Las témperas escolares vienen en presentaciones de 6 a 12 colores y rinden bien en papel grueso. Las acuarelas son más limpias, secan rápido y sirven para trabajos con detalles. Si tu hijo es pequeño, elige témperas no tóxicas y fáciles de lavar.",
+            "Para pintar necesitas también pinceles de pelo suave, un vaso mezclador y una camiseta vieja para proteger la ropa. Un buen set básico trae pinceles delgado, mediano y grueso. Lo encuentras en la categoría de Pintar de la tienda."
+          ]
+        },
+        {
+          "titulo": "Lápices, marcadores y colores para dibujo y Manualidades",
+          "parrafos": [
+            "Los lápices de colores triangulares son la mejor opción para los más chiquitos porque no se cansan la mano. Los escolares grandes prefieren marcadores punta fina para colorear sin manchar y portaminas para dibujo técnico.",
+            "Si tu hijo hace maquetas, suma tijeras con buen filo, pega blanca, cinta adhesiva y cartulina. Estos insumos están en Útiles Escolares y Papeles y Blocks. Comprar todo junto sale más fácil que buscar pieza por pieza."
+          ]
+        },
+        {
+          "titulo": "Dónde apoyar la creatividad sin gastar de más",
+          "parrafos": [
+            "Compra solo lo que la lista escolar pide. Luego, durante el año, repón lo que se acabe. Un morrial con buen espacio, como los de la categoría Morrales y Loncheras, ayuda a traer y llevar los materiales sin que se dañen.",
+            "Para fiestas del colegio o trabajos en grupo, revisa Decoración de Fiesta y Empaques de Regalos. Cartulinas, papeles de colores y cintas decorativas salen baratos y resuelven proyectos grandes a último momento."
+          ]
+        },
+        {
+          "titulo": "Cómo pedir tus materiales de arte y manualidades a domicilio",
+          "parrafos": [
+            "El proceso es simple. Envías la lista por WhatsApp, confirmas productos, pagas y al día siguiente recibes en tu casa. Atendemos en toda Bogotá y zonas cercanas, sin recargos escondidos.",
+            "Si tienes dudas con un material, te asesoramos por chat. Te decimos qué marca le sirve mejor a un niño de kínder o qué pincel le funciona a un estudiante de secundaria. Pide tu cotización sin compromiso."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Qué materiales de arte básicos necesita un niño en primaria?",
+          "respuesta": "Témperas de 6 a 12 colores, pinceles suaves, lápices de colores, marcadores, tijeras de punta roma, pegante y plastilina. Con eso cubre dibujo, pintura y modelado durante el año."
+        },
+        {
+          "pregunta": "¿Hacen domicilios en Bogotá para materiales de arte?",
+          "respuesta": "Sí, entregamos en toda Bogotá y municipios cercanos. Haces tu pedido por WhatsApp, confirmas el pago y recibes los materiales en la puerta de tu casa."
+        },
+        {
+          "pregunta": "¿Puedo pedir un kit completo de arte para el colegio?",
+          "respuesta": "Claro. Envíanos la lista del colegio por WhatsApp y armamos el kit con temperas, colores, pinceles, tijeras, pega y más. Ahorras tiempo y te queda todo listo."
+        },
+        {
+          "pregunta": "¿Tienen materiales de arte seguros para niños pequeños?",
+          "respuesta": "Trabajamos con marcas escolares no tóxicas, fáciles de lavar y con punta roma en las tijeras. Son productos aptos para kínder y primaria, recomendados por papás en Bogotá."
+        }
+      ],
+      "heroImagen": "/images/blog/materiales-de-arte-y-manualidades-para-el-colegio-guia-para.jpg"
+    },
+    {
       "slug": "que-utiles-de-escritura-necesita-un-estudiante-en-bogota-2",
       "title": "Útiles de escritura que necesita un estudiante en Bogotá",
       "h1": "Qué útiles de escritura necesita un estudiante en Bogotá",
