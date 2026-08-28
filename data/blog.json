@@ -1,6 +1,103 @@
 {
   "posts": [
     {
+      "slug": "topes-de-matriculas-2027-en-colegios-privados-de-bogota-y-como",
+      "metaTitle": "Topes de matrículas 2027 en Bogotá: cómo armar la lista de",
+      "h1": "Topes de matrículas 2027 en colegios privados de Bogotá y cómo ahorrar en la lista de útiles",
+      "metaDescription": "El Ministerio de Educación fijó el aumento de matrículas y pensiones para 2027 en Colombia. Arma la lista de útiles sin pasarte del presupuesto. Pide ya por",
+      "excerpt": "El Gobierno fijó el tope de matrículas y pensiones en colegios privados para 2027 en Colombia. Te contamos cómo impacta a las familias bogotanas y dónde ahorrar en útiles.",
+      "fecha": "2026-08-28",
+      "etiqueta": "Regreso a clases",
+      "heroCategoria": "utiles-escolares",
+      "lead": "El Ministerio de Educación ya puso el techo al alza de matrículas y pensiones en colegios privados para 2027, y las familias bogotanas empiezan a hacer cuentas con la lista de útiles en la mano.",
+      "intro": [
+        "La resolución del Ministerio de Educación fija un aumento máximo de 11,24 % en matrículas y pensiones para los colegios privados de Colombia en 2027. La medida llega justo cuando muchos padres en Bogotá están mirando el colegio donde inscribirán a sus hijos el próximo año.",
+        "En paralelo, la Secretaría de Educación del Distrito abrió el calendario de matrículas para colegios oficiales de 2027. Entre el alza de los privados y los cupos en los públicos, el gasto en útiles escolares termina siendo la variable que más pueden controlar las familias."
+      ],
+      "items": [
+        {
+          "titulo": "Cuadernos y libretas: el gasto base que más sube",
+          "texto": "Cada año se necesitan entre cinco y ocho cuadernos según el grado. Comprarlos por grado y materia evita caer en promociones mal armadas. Te los dejamos empacados y los recibes el mismo día en tu casa en Bogotá.",
+          "ctaCategoria": "utiles-escolares",
+          "ctaTexto": "Ver cuadernos"
+        },
+        {
+          "titulo": "Escritura: ahorrar por paquete, no por unidad",
+          "texto": "Esferos, lápices, borradores y tajalápices se pierden rápido en la primera semana de clase. Pedirlos en set completo sale más barato que comprarlos sueltos y te evita tres vueltas a la tienda. Despachamos a toda Bogotá por WhatsApp.",
+          "ctaCategoria": "escritura",
+          "ctaTexto": "Ver set de escritura"
+        },
+        {
+          "titulo": "Morrales y loncheras: una sola inversión para todo el año",
+          "texto": "Con el ajuste en pensiones, muchos papás prefieren un morral resistente que dure los diez meses y no tener que cambiarlo en abril. Te mostramos opciones por edad y talla, con cierre acolchado y compartimentos para el portátil.",
+          "ctaCategoria": "morrales-y-loncheras",
+          "ctaTexto": "Ver morrales"
+        },
+        {
+          "titulo": "Colores y témperas: la lista que más se infla",
+          "texto": "Los maestros piden cajas grandes de colores y temperas de varios tonos. Armar el kit completo desde el primer día evita comprar frasco por frasco después a precios más altos. Te lo llevamos en empaque cerrado.",
+          "ctaCategoria": "pintar",
+          "ctaTexto": "Ver kit de pintar"
+        },
+        {
+          "titulo": "Archivos y carpetas: el orden que piden los colegios",
+          "texto": "Carpeta de evaluación, folder celador, legajadores y sobre manila suelen estar en la lista de cada materia. Tenerlos listos antes del primer día evita multas y retardos. Te entregamos paquetes armados por grado.",
+          "ctaCategoria": "archivos-y-clasificacion",
+          "ctaTexto": "Ver archivos"
+        }
+      ],
+      "cierre": [
+        "Si ya tienes la lista de tu colegio en la mano, mándala por WhatsApp y te armamos el pedido completo con los útiles, el morral y los archivos al mismo tiempo. Llegamos a toda Bogotá el mismo día y aceptamos transferencia, Nequi y DaviPlata."
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuánto pueden subir las matrículas de colegios privados en Colombia en 2027?",
+          "respuesta": "El Ministerio de Educación fijó un aumento máximo de 11,24 % en matrículas y pensiones para los colegios privados en 2027. Cada colegio decide el porcentaje final dentro de ese tope."
+        },
+        {
+          "pregunta": "¿Cuándo son las matrículas en colegios oficiales de Bogotá para 2027?",
+          "respuesta": "La Secretaría de Educación del Distrito publicó el cronograma entre septiembre y noviembre de 2026. Las fechas cambian según el grado, así que toca revisar el portal bogota.gov.co para cada caso."
+        },
+        {
+          "pregunta": "¿Cómo hago mi pedido de útiles escolares en Bogotá?",
+          "respuesta": "Nos escribes por WhatsApp con la lista del colegio, te confirmamos precios y disponibilidad, y llevamos el pedido a tu casa el mismo día en Bogotá. Aceptamos transferencia, Nequi y DaviPlata."
+        },
+        {
+          "pregunta": "¿Tienen lista de útiles armada por grado?",
+          "respuesta": "Sí. Tenemos paquetes armados para primaria y bachillerato con cuadernos, escritura, colores y carpetas. Tú solo nos dices el grado y ajustamos las cantidades si el colegio pide algo distinto."
+        }
+      ],
+      "categoriasRelacionadas": [
+        "utiles-escolares",
+        "escritura",
+        "morrales-y-loncheras"
+      ],
+      "secciones": [
+        {
+          "titulo": "Qué dice la resolución del Ministerio sobre el alza de 11,24 %",
+          "parrafos": [
+            "El Ministerio de Educación fijó un tope nacional de 11,24 % al incremento de matrículas y pensiones en colegios privados para 2027. Cada colegio puede aplicar hasta ese valor, según su situación financiera y el concepto de la secretaría de educación regional. Varios rectores ya venían anticipando alzas por el aumento del salario mínimo.",
+            "Para una familia bogotana con dos hijos en privado, el impacto real puede sumar varios cientos de miles de pesos al año. Por eso revisar el contrato de prestación del servicio y la fecha de pago es tan clave como mirar la lista de útiles. La Superintendencia de Industria y Comercio también vigila que no se cobren conceptos no autorizados."
+          ]
+        },
+        {
+          "titulo": "Calendario oficial de matrículas 2027 en Bogotá",
+          "parrafos": [
+            "La Secretaría de Educación del Distrito publicó el cronograma para asignar cupos en colegios oficiales de Bogotá para el año lectivo 2027. Las fechas se reparten entre septiembre y noviembre, según el grado y el tipo de solicitud. Quienes ya tienen hermano matricizado en el colegio tienen prelación, y luego entran los criterios de vulnerabilidad y cercanía.",
+            "Para los padres que evalúan el paso del colegio privado al oficial, la lista de útiles suele ser la misma. Por eso conviene apartarla con tiempo, antes de noviembre, y no esperar a enero cuando los precios suben y los modelos más pedidos se agotan. Nosotros entregamos a domicilio en Bogotá todos los días."
+          ]
+        },
+        {
+          "titulo": "Cómo armar la lista de útiles sin pasarse del presupuesto",
+          "parrafos": [
+            "El primer paso es pedirle al colegio la lista oficial en PDF, no la versión de whatsapp del año pasado. Ahí salen los ítems exactos, cantidades y marcas sugeridas, que en varios casos son opcionales. Marcar lo obligatorio de lo opcional puede recortar entre el 15 % y el 25 % del gasto total.",
+            "Después se agrupan las compras por categoría: cuadernos y libretas, escritura, pintar, archivos y morrales. Comprar por paquetes armados suele rendir mejor que ir pieza por pieza, sobre todo en colores, témperas y lapiceros. Pedir todo en un solo domicilio también reduce el costo de transporte y los tiempos del papá o la mamá."
+          ]
+        }
+      ],
+      "heroImagen": "/images/blog/topes-de-matriculas-2027-en-colegios-privados-de-bogota-y-como.jpg"
+    },
+    {
       "slug": "regreso-a-clases-2026-en-bogota-cuanto-suben-los-utiles-y-que-si",
       "metaTitle": "Útiles escolares 2026 Bogotá: precios y lista permitida",
       "h1": "Regreso a clases 2026 en Bogotá: cuánto suben los útiles y qué sí puede pedir el colegio",
