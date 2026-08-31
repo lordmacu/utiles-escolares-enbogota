@@ -1,6 +1,96 @@
 {
   "posts": [
     {
+      "slug": "utiles-escolares-2026-en-bogota-precios-suben-y-asi-compras-sin",
+      "metaTitle": "Útiles escolares 2026 suben hasta 20% en Bogotá: cómo",
+      "h1": "Útiles escolares 2026 en Bogotá: precios suben y así compras sin pasarte del presupuesto",
+      "metaDescription": "Los útiles escolares suben hasta 20% en Colombia para 2026. Arma la lista con precios reales y pide a domicilio en Bogotá por WhatsApp. ¡Cotiza ya!",
+      "excerpt": "La lista de útiles para el regreso a clases viene más cara en 2026. Te contamos qué subió más y cómo armar el maletín sin desangrar la tarjeta.",
+      "fecha": "2026-08-31",
+      "etiqueta": "Regreso a clases",
+      "heroCategoria": "utiles-escolares",
+      "lead": "El regreso a clases 2026 en Bogotá golpea más fuerte que el año pasado, y muchas familias lo están notando al pasar por la papelería.",
+      "intro": [
+        "Según reportes de prensa publicados en agosto de 2026, los útiles escolares en Colombia registran un aumento de hasta 20% frente a 2025, impulsado por papel, cartón y plásticos importados. Una familia de cuatro estudiantes puede terminar gastando cerca de medio millón de pesos solo en la lista básica que piden los colegios.",
+        "Ante ese panorama, comprar con cabeza marca la diferencia. Comparar precios por unidad, elegir marcas confiables y armar paquetes por categoría ayuda a controlar el presupuesto sin sacrificar calidad. Además, recibir todo en la puerta de la casa en Bogotá evita trasteos y filas."
+      ],
+      "items": [
+        {
+          "titulo": "Cuadernos: el clásico que más pesa en la lista",
+          "texto": "Los cuadernos siguen siendo el ítem más repetido en las listas de los colegios bogotanos, y por eso su alza pega duro. Conviene comprar packs de cuadernos cuadriculados y rayados por volumen, revisando siempre la calidad de la hoja para que el esfero no traspase. En nuestro catálogo encuentras opciones desde preescolar hasta universidad, incluyendo cosidos, grapados y argollados.",
+          "ctaCategoria": "utiles-escolares",
+          "ctaTexto": "Ver cuadernos"
+        },
+        {
+          "titulo": "Esferos, lápices y colores: el kit básico que nunca sobra",
+          "texto": "Lapiceros negros, azules y rojos más un buen juego de colores y un lápiz negro con borrador forman el corazón de cualquier lista. Estos productos suelen ser los que más rápido se agotan a mitad de año, así que comprar de más no es mala idea. Tenemos sets escolares listos para entregar el mismo día en Bogotá.",
+          "ctaCategoria": "escritura",
+          "ctaTexto": "Ver escritura"
+        },
+        {
+          "titulo": "Morrales y loncheras: la inversión que rinde todo el año",
+          "texto": "Un morral resistente y una lonchera funcional se usan 10 meses seguidos, por eso vale la pena subir un poco el tope aquí. Modelos con refuerzo en la espalda y varios bolsillos aguantan el peso de los libros sin deformarse. En morrales y loncheras manejamos tallas desde kinder hasta bachillerato.",
+          "ctaCategoria": "morrales-y-loncheras",
+          "ctaTexto": "Ver morrales y loncheras"
+        },
+        {
+          "titulo": "Papeles, blocks y carpetas: lo que organiza el año",
+          "texto": "Blocks cuadriculados, hojas tamaño carta y carpetas celas o de fuelle reciben más exigencia que cualquier otro insumo. Comprarlos al inicio del calendario evita el clásico vuelto a la papelería en marzo. Tenemos papeles y blocks por resma y por unidad para ajustar el gasto.",
+          "ctaCategoria": "papeles-y-blocks",
+          "ctaTexto": "Ver papeles y blocks"
+        },
+        {
+          "titulo": "Témperas, pinceles y tijeras: arte escolar sin gastar de más",
+          "texto": "Las clases de arte piden témperas, pinceles, tijeras punta roma y pegante, artículos que también subieron en 2026. Comprar sets escolares completos sale más barato que cada producto suelto, y asegura que el niño tenga todo desde el primer día. Mira nuestra sección de pintar con opciones seguras para menores.",
+          "ctaCategoria": "pintar",
+          "ctaTexto": "Ver pintar"
+        }
+      ],
+      "cierre": [
+        "Si vives en Bogotá y quieres evitar filas y trancones, escríbenos por WhatsApp y te armamos el paquete de útiles a domicilio. Atendemos todos los barrios de la ciudad con entrega el mismo día para pedidos antes de las 2 p.m., y manejamos precios mayoristas para colegios y jardines."
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuánto subió la lista de útiles escolares en Colombia para 2026?",
+          "respuesta": "Los reportes de prensa indican alzas de hasta 20% frente a 2025 en algunos productos, con un incremento promedio del costo total del regreso a clases cercano a 13,8% según ANPEC."
+        },
+        {
+          "pregunta": "¿Hacen domicilios de útiles escolares en Bogotá?",
+          "respuesta": "Sí, entregamos a domicilio en todos los barrios de Bogotá. El pedido se hace por WhatsApp y suele llegar el mismo día si se confirma antes de las 2 p.m."
+        },
+        {
+          "pregunta": "¿Tienen precios especiales para colegios o jardines?",
+          "respuesta": "Manejamos tarifas mayoristas para instituciones educativas y jardines infantiles. Escríbenos por WhatsApp con la lista oficial y te enviamos cotización en minutos."
+        },
+        {
+          "pregunta": "¿Puedo pedir solo lo que me pide el colegio, sin paquetes armados?",
+          "respuesta": "Claro, armamos el pedido al gusto. Tú nos envías la lista del colegio y nosotros te cotizamos cada artículo por separado para que pagues solo por lo que necesitas."
+        }
+      ],
+      "categoriasRelacionadas": [
+        "utiles-escolares",
+        "escritura",
+        "morrales-y-loncheras"
+      ],
+      "secciones": [
+        {
+          "titulo": "Por qué subieron los útiles en 2026",
+          "parrafos": [
+            "El aumento responde a varios factores que se acumulan desde 2025. El precio del papel kraft, el cartón corrugado y las resinas plásticas viene en alza por costos logísticos y tasa de cambio. A eso se suma el inicio del calendario escolar en varias regiones, que concentra la demanda en pocas semanas y termina empujando el precio final al consumidor.",
+            "Para una familia bogotana con dos o tres hijos, el golpe se nota. La ANPEC reportó un incremento cercano a 13,8% en el costo total del regreso a clases frente al año anterior, mientras que medios regionales documentan alzas puntuales de hasta 20% en artículos específicos. Por eso, planificar la compra con tiempo se volvió casi obligatorio."
+          ]
+        },
+        {
+          "titulo": "Cómo armar una lista inteligente y ahorrar",
+          "parrafos": [
+            "El primer paso es pedir la lista oficial del colegio antes de salir a comprar, para no adquirir lo que no se va a usar. Después, conviene agrupar la compra por categorías: escritura, cuadernos, organización y arte, y buscar precios por unidad, no solo por paquete grande.",
+            "Otra estrategia útil es repartir el gasto en dos momentos. Lo urgente, como cuadernos y esferos, se compra en enero. Lo complementario, como carpetas, blocks y artículos de arte, puede esperar a febrero, cuando las papelerías suelen ofrecer rebajas de mitad de temporada."
+          ]
+        }
+      ],
+      "heroImagen": "/images/blog/utiles-escolares-2026-en-bogota-precios-suben-y-asi-compras-sin.jpg"
+    },
+    {
       "slug": "topes-de-matriculas-2027-en-colegios-privados-de-bogota-y-como",
       "metaTitle": "Topes de matrículas 2027 en Bogotá: cómo armar la lista de",
       "h1": "Topes de matrículas 2027 en colegios privados de Bogotá y cómo ahorrar en la lista de útiles",
