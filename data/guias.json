@@ -1,6 +1,78 @@
 {
   "guias": [
     {
+      "slug": "papel-blocks-y-resmas-cual-elegir-para-cada-uso",
+      "title": "Papel, blocks y resmas: cómo elegir el ideal",
+      "h1": "Papel, blocks y resmas: cuál elegir para cada uso",
+      "metaDescription": "Aprende a elegir entre papel, blocks y resmas para colegio, oficina y dibujo. Tipos, gramajes y usos. Pide a domicilio en Bogotá por WhatsApp.",
+      "excerpt": "Elegir bien entre resmas, blocks y papeles especiales ahorra plata y mejora tus trabajos. Te contamos cuál usar en cada caso.",
+      "fecha": "2026-09-07",
+      "imagenCategoria": "papeles-y-blocks",
+      "categoriasRelacionadas": [
+        "papeles-y-blocks",
+        "utiles-escolares",
+        "escritura",
+        "pintar"
+      ],
+      "lead": "No todos los papeles sirven para lo mismo. Conoce las diferencias entre resmas, blocks y hojas especiales y elige el correcto cada vez.",
+      "secciones": [
+        {
+          "titulo": "Resmas de papel: la base para imprimir y copiar",
+          "parrafos": [
+            "La resma trae 500 hojas y es lo que más se usa en oficinas, colegios y casas de Bogotá. Sirve para imprimir tareas, sacar copias o escribir apuntes a mano. La medida más común es carta, y también hay tamaño oficio para trámites y formatos más largos.",
+            "Fíjate en el gramaje: 75 g se usa en impresoras de uso diario, y 90 g o más da un acabado más firme, ideal para diplomas y presentaciones. Si quieres ahorrar, pide resmas de marcas reconocidas. Las encuentras dentro de nuestra categoría de Papeles y Blocks listas para envío a domicilio."
+          ]
+        },
+        {
+          "titulo": "Blocks y cuadernos: orden para tomar apuntes",
+          "parrafos": [
+            "El block es un grupo de hojas pegadas por un lado, con o sin rayas, que se usa mucho en clase y en reuniones. Hay blocks rayados, cuadriculados, con líneas y blancos para dibujo. Para los niños, el block cuadriculado funciona bien en matemáticas porque ayuda a mantener los números derechos.",
+            "Para dibujo técnico, busca blocks de hojas blancas más gruesas, que soportan lápiz y borrador sin romperse. Si necesitas reforzar el kit escolar, revisa también nuestros Útiles Escolares y completa el morral con todo lo del año."
+          ]
+        },
+        {
+          "titulo": "Papeles especiales: cartulina, kraft y de colores",
+          "parrafos": [
+            "La cartulina es más gruesa que una hoja normal y sirve para maquetas, murales y trabajos manuales. La encuentras por pliego o por unidad en colores surtidos. El papel kraft, de tono café, se usa mucho para empaques artesanales y proyectos del colegio con acabado rústico.",
+            "Los papeles de colores son clave en decoración y manualidades. Para fiestas infantiles, combínalos con nuestra sección de Decoración de Fiesta y dale un toque colorido a la mesa. Si vas a pegar y recortar mucho, un buen pegante escolar y una tijera firme hacen la diferencia."
+          ]
+        },
+        {
+          "titulo": "Block para pintar y dibujar: qué tener en cuenta",
+          "parrafos": [
+            "Si el block es para colorear con témperas o marcadores, busca hojas de más de 100 g para que no se traspase la pintura. Para trabajos con colores secos como lápices de color o crayolas, basta con un block de 75 a 90 g.",
+            "Los niños pequeños se sienten más cómodos con blocks tamaño carta o un poco más grandes. Si quieres un kit completo, mira nuestra categoría de Pintar y agrega témperas, pinceles y colores a la compra."
+          ]
+        },
+        {
+          "titulo": "Dónde comprar y cómo pedirlo a domicilio en Bogotá",
+          "parrafos": [
+            "En Útiles Escolares Bogotá encuentras resmas, blocks y papeles especiales con entrega a domicilio en toda la ciudad. Pedir es fácil: solo escribe por WhatsApp, dinos qué necesitas y te lo llevamos hasta la puerta de tu casa o colegio.",
+            "También puedes combinar el papel con esferos, morrales y demás implementos del año. Pagas contra entrega o por transferencia, según prefieras. Escríbenos y te armamos el paquete completo."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuál es la diferencia entre una resma y un block?",
+          "respuesta": "La resma trae 500 hojas sueltas, pensada para imprimir y fotocopiar. El block son hojas pegadas en una libreta, ideales para escribir a mano o dibujar."
+        },
+        {
+          "pregunta": "¿Qué gramaje de papel es mejor para imprimir?",
+          "respuesta": "El de 75 g funciona perfecto en impresoras de uso diario. Si quieres un acabado más profesional, elige 90 g o más."
+        },
+        {
+          "pregunta": "¿Hacen domicilios en toda Bogotá?",
+          "respuesta": "Sí, entregamos en todas las localidades de Bogotá. Solo escribe por WhatsApp con tu pedido y la dirección exacta."
+        },
+        {
+          "pregunta": "¿Puedo pedir blocks junto con otros útiles escolares?",
+          "respuesta": "Claro. Puedes combinar blocks, cuadernos, esferos, morrales y más en un solo pedido a domicilio."
+        }
+      ],
+      "heroImagen": "/images/blog/papel-blocks-y-resmas-cual-elegir-para-cada-uso.jpg"
+    },
+    {
       "slug": "como-organizar-y-clasificar-los-trabajos-del-colegio-con-carpetas-2",
       "title": "Cómo organizar y clasificar trabajos del colegio con",
       "h1": "Cómo organizar y clasificar los trabajos del colegio con carpetas y folders",
