@@ -1,6 +1,78 @@
 {
   "guias": [
     {
+      "slug": "como-montar-un-escritorio-de-estudio-en-casa-en-pocos-pasos",
+      "title": "Cómo montar un escritorio de estudio en casa | Bogotá",
+      "h1": "Cómo montar un escritorio de estudio en casa en pocos pasos",
+      "metaDescription": "Aprende cómo montar un escritorio de estudio en casa con útiles escolares y accesorios de oficina. Pide todo por WhatsApp y recíbelo a domicilio en Bogotá.",
+      "excerpt": "Te contamos qué necesitas para armar un escritorio de estudio cómodo y productivo en casa, con productos que puedes pedir hoy mismo a domicilio en Bogotá.",
+      "fecha": "2026-09-14",
+      "imagenCategoria": "accesorios-de-escritorio-y-oficina",
+      "categoriasRelacionadas": [
+        "accesorios-de-escritorio-y-oficina",
+        "utiles-escolares",
+        "escritura",
+        "archivos-y-clasificacion"
+      ],
+      "lead": "Armar un buen rincón para estudiar en casa no requiere grandes compras, solo piezas clave bien elegidas y un lugar con buena luz.",
+      "secciones": [
+        {
+          "titulo": "Elige el lugar correcto antes de comprar nada",
+          "parrafos": [
+            "Busca un sitio tranquilo, lejos de la cama y del ruido de la calle. Una esquina de la habitación o un rincón junto a una ventana suelen funcionar bien. La luz natural es la mejor aliada para no cansar la vista.",
+            "Mide el espacio disponible. Anota el alto y el ancho del tablero donde vas a trabajar. Con esas cifras claras eliges mejor la silla, las cajas y los accesorios, y evitas compras que no caben."
+          ]
+        },
+        {
+          "titulo": "La superficie y la silla: la base de todo",
+          "parrafos": [
+            "Una mesa firme y a la altura correcta marca la diferencia. La superficie debe quedar a la altura del ombligo cuando estás sentado, así los brazos descansan sin tensión. Si el tablero queda bajo, puedes elevarlo con cuñas firmes.",
+            "La silla debe tener respaldo que sostenga la zona lumbar. Ajusta la altura para que los pies toquen el piso. Un buen asiento sostiene horas de estudio sindolores en la espalda."
+          ]
+        },
+        {
+          "titulo": "Organiza los útiles que ya tienes y suma lo que falta",
+          "parrafos": [
+            "Vacía el morral y revisa qué traes del colegio. Separa cuadernos, esferos, lápices y colores en grupos. Lo que aún sirve se queda, lo que está gastado se reemplaza por uno nuevo.",
+            "Lleva un inventario rápido: un cuaderno por materia, un set de colores, tijeras, pega y un buen lápiz negro. Para profundizar, mira nuestra categoría de útiles escolares y arma tu lista base."
+          ]
+        },
+        {
+          "titulo": "Accesorios pequeños que cambian el día a día",
+          "parrafos": [
+            "Una lámpara de escritorio con luz LED evita sombras en el cuaderno. Un porta lápices mantiene los esferos a la mano. Un organizer o bandejas de escritorio ordenan clips, gomas y resaltadores sin que rueden por la mesa.",
+            "Para papeles sueltos y tareas impresas, una carpeta sencilla o un folder con gancho mantiene todo junto. En accesorios de escritorio y oficina encuentras cajas, portalápices y bandejas que se ajustan a cualquier rincón."
+          ]
+        },
+        {
+          "titulo": "Cuida los detalles de ergonomía y postura",
+          "parrafos": [
+            "La pantalla, si usas computador, debe quedar a la altura de los ojos. Sepárala al menos medio metro de la cara. El teclado va plano, con los codos cerca del cuerpo y flexionados a unos noventa grados.",
+            "Haz pausas cada cuarenta minutos. Levántate, estira los brazos y mira por la ventana un par de minutos. Una buena postura sostenida vale más que cualquier silla cara."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Qué productos básicos debo comprar para empezar?",
+          "respuesta": "Una silla cómoda, una lámpara, un porta lápices, cuadernos y un set de escritura. Con eso ya puedes montar un escritorio funcional y ordenado."
+        },
+        {
+          "pregunta": "¿Hacen domicilios en toda Bogotá?",
+          "respuesta": "Sí, entregamos a domicilio en todas las localidades de Bogotá. Confirmas tu zona por WhatsApp y te contamos el tiempo estimado de envío."
+        },
+        {
+          "pregunta": "¿Cómo hago el pedido si vivo en Soacha o cerca?",
+          "respuesta": "También despachamos a municipios cercanos. Escríbenos por WhatsApp con tu dirección exacta y te confirmamos cobertura y valor del envío."
+        },
+        {
+          "pregunta": "¿Puedo pedir útiles del colegio y accesorios de escritorio juntos?",
+          "respuesta": "Claro. Puedes armar un solo pedido con cuadernos, colores, morrales y accesorios de oficina. Lo recibes en un mismo domicilio y pagas al recibir."
+        }
+      ],
+      "heroImagen": "/images/blog/como-montar-un-escritorio-de-estudio-en-casa-en-pocos-pasos.jpg"
+    },
+    {
       "slug": "papel-blocks-y-resmas-cual-elegir-para-cada-uso",
       "title": "Papel, blocks y resmas: cómo elegir el ideal",
       "h1": "Papel, blocks y resmas: cuál elegir para cada uso",
