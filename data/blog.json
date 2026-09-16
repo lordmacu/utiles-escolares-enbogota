@@ -1,6 +1,104 @@
 {
   "posts": [
     {
+      "slug": "regreso-a-clases-2026-en-bogota-asi-queda-el-bolsillo-con-la",
+      "metaTitle": "Regreso a clases 2026 en Bogotá: cuánto cuesta la lista de",
+      "h1": "Regreso a clases 2026 en Bogotá: así queda el bolsillo con la nueva lista de útiles",
+      "metaDescription": "Regreso a clases 2026 en Bogotá: conoce los precios de útiles escolares, qué subió y qué se mantuvo. Pide tu lista por WhatsApp a domicilio.",
+      "excerpt": "El regreso a clases 2026 en Bogotá prende las alarmas del bolsillo. Te contamos qué útiles subieron, cuáles se sostanzaron y cómo armar la lista sin pasarse del presupuesto.",
+      "fecha": "2026-09-16",
+      "etiqueta": "Regreso a clases",
+      "heroCategoria": "utiles-escolares",
+      "lead": "Una familia bogotana puede gastar medio millón de pesos solo en la lista de útiles. Varios productos subieron hasta 20% frente a 2025, pero otros se sostanzaron.",
+      "intro": [
+        "Septiembre volvió a sacudir el presupuesto de los hogares en Bogotá. El regreso a clases llegó con la lista de útiles bajo el brazo y con precios que, según Fenalco y varios medios, subieron entre 10% y 20% frente al año pasado en productos como cuadernos, morrales y loncheras.",
+        "La buena noticia es que no todo subió. Tiendas de barrio y grandes superficies lanzaron colecciones desde $1.300 en esferos, lápices y colores. Con una buena planeación y pedidos a domicilio, es posible armar la lista completa sin destrabar la tarjeta."
+      ],
+      "items": [
+        {
+          "titulo": "Cuadernos y libretas: el clásico que más pesa en la lista",
+          "texto": "Los cuadernos grandes de 100 hojas siguen siendo el producto estrella de la lista. Este año varias marcas subieron entre $500 y $1.500 por unidad. Conviene comprar el paquete completo de una vez y revisar opciones de papel reciclado, que cuestan menos. En nuestra categoría de Papeles y Blocks encuentras modelos cosidos, argollados y universitarios listos para entregar el primer día.",
+          "ctaCategoria": "papeles-y-blocks",
+          "ctaTexto": "Ver cuadernos"
+        },
+        {
+          "titulo": "Escritura: esferos, lápices y colores que no pueden faltar",
+          "texto": "Esferos negros y rojos, lápices mirado #2 y cajas de colores de 12 o 24 son los más pedidos por los colegios. Fenalco reportó que estos productos se sostanzaron estables frente a 2025. Comprarlos sueltos o en kits escolares baja el precio unitario y evita repeticiones a mitad de año.",
+          "ctaCategoria": "escritura",
+          "ctaTexto": "Ver escritura"
+        },
+        {
+          "titulo": "Morrales y loncheras: la subida que más duele",
+          "texto": "Los morrales de buena capacidad y las loncheras térmicas son los productos que más subieron en 2026. Modelos con ruedas y ergonómicos pueden pasar los $150.000. Una salida práctica es elegir diseños duraderos y lavables, en lugar de los de moda que se rompen a los dos meses.",
+          "ctaCategoria": "morrales-y-loncheras",
+          "ctaTexto": "Ver morrales y loncheras"
+        },
+        {
+          "titulo": "Pintar y dibujar: témperas, plastilina y pinceles",
+          "texto": "Para los más pequeños, el kit de pintar incluye témperas, pinceles, plastilina y colores gruesos. Algunas marcas subieron, pero también hay packs escolares con varios productos a precio fijo. Comprar el kit completo siempre sale más barato que pieza por pieza.",
+          "ctaCategoria": "pintar",
+          "ctaTexto": "Ver pintar"
+        },
+        {
+          "titulo": "Archivos y clasificación: carpetas, legajadores y sobrecosidos",
+          "texto": "Las carpetas plastificadas, los legajadores tamaño carta y los sobrecosidos son los grandes olvidados de la lista, pero los colegios los piden cada vez más. Sirven para organizar guías, evaluaciones y talleres durante todo el año y cuestan menos de lo que la gente cree.",
+          "ctaCategoria": "archivos-y-clasificacion",
+          "ctaTexto": "Ver archivos y clasificación"
+        }
+      ],
+      "cierre": [
+        "Si vives en Bogotá y quieres evitar filas y trancones, pídele la lista de útiles a un asesor por WhatsApp. Te la entregamos en tu casa, en conjuntos residenciales y en oficinas, con pago contra entrega y precios pensados para el bolsillo de los papás en este regreso a clases 2026."
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuánto cuesta en promedio la lista de útiles escolares en Bogotá 2026?",
+          "respuesta": "Una familia con un niño en primaria puede gastar entre $300.000 y $500.000, según El Tiempo. Con dos hijos la cifra se duplica. Comprar en un solo pedido y pedir marcas equivalentes reduce el valor final."
+        },
+        {
+          "pregunta": "¿Qué útiles escolares subieron más en 2026?",
+          "respuesta": "Morrales, loncheras térmicas y cuadernos grandes lideran los aumentos, entre 10% y 20% frente a 2025, según Fenalco y El Colombiano. Esferos, lápices y colores se sostanzaron."
+        },
+        {
+          "pregunta": "¿Hacen domicilios de útiles escolares en Bogotá?",
+          "respuesta": "Sí. Hacemos entregas a domicilio en toda Bogotá y municipios cercanos. Pide tu lista por WhatsApp, te la consolidamos en un solo pedido y la recibes en la puerta de tu casa."
+        },
+        {
+          "pregunta": "¿Cómo pagar el pedido de útiles escolares?",
+          "respuesta": "Trabajamos con pago contra entrega en efectivo o por transferencia. También recibimos Nequi y Daviplata. Confirmas el valor final antes de que el domiciliario salga."
+        }
+      ],
+      "categoriasRelacionadas": [
+        "utiles-escolares",
+        "escritura",
+        "morrales-y-loncheras",
+        "papeles-y-blocks"
+      ],
+      "secciones": [
+        {
+          "titulo": "Por qué subieron los útiles escolares en Colombia en 2026",
+          "parrafos": [
+            "Varios medios coinciden en que el regreso a clases 2026 llega con un ajuste de entre 10% y 20% frente a 2025. Las razones son el aumento en el costo del papel, la tela de los morrales y los materiales plásticos, sumado al ajuste del salario mínimo y al transporte.",
+            "Fenalco aclaró que el promedio del mercado no refleja todos los productos. Esferos, lápices, carpetas se mantienen estables. Los morrales, loncheras térmicas y los cuadernos de mayor tamaño son los que más empujaron la subida."
+          ]
+        },
+        {
+          "titulo": "Cuánto puede gastar una familia bogotana en la lista completa",
+          "parrafos": [
+            "El Tiempo calculó que una familia con un niño en primaria puede gastar entre $300.000 y $500.000 solo en útiles, sin contar uniforme ni matrícula. Con dos o más hijos, la cifra se duplica fácilmente.",
+            "El truco está en armar la lista con tiempo, comprar en un solo lugar y aprovechar las colecciones escolares de grandes superficies. Hacer el pedido a domicilio por WhatsApp también evita traslados y permite comparar precios sin correr."
+          ]
+        },
+        {
+          "titulo": "Cómo armar una lista inteligente y ahorrar en el regreso a clases",
+          "parrafos": [
+            "Revisa la lista del colegio antes de comprar. Muchos planteles piden marcas específicas, pero otros aceptan opciones equivalentes más baratas. Marcar lo obligatorio y lo opcional es el primer paso para no pasarse.",
+            "Otra recomendación es revisar lo que quedó del año anterior. Colores, tijeras, pegante y muchos cuadernos a mitad de uso se pueden reaprovechar. Comprar solo lo faltante puede reducir la cuenta final entre 15% y 25%."
+          ]
+        }
+      ],
+      "heroImagen": "/images/blog/regreso-a-clases-2026-en-bogota-asi-queda-el-bolsillo-con-la.jpg"
+    },
+    {
       "slug": "receso-escolar-de-octubre-2026-en-colombia-fechas-oficiales-y",
       "metaTitle": "Receso escolar octubre 2026 en Colombia: fechas y útiles en",
       "h1": "Receso escolar de octubre 2026 en Colombia: fechas oficiales y cómo preparar la vuelta a clases con útiles nuevos",
