@@ -1,6 +1,77 @@
 {
   "guias": [
     {
+      "slug": "ideas-para-celebrar-fechas-especiales-en-el-salon-de-clases-y",
+      "title": "Ideas para celebrar fechas especiales en el salón de clases",
+      "h1": "Ideas para celebrar fechas especiales en el salón de clases y dejar a todos felices",
+      "metaDescription": "Descubre ideas prácticas para celebrar fechas especiales en el salón de clases. Decoración, dulces y detalles que puedes pedir a domicilio en Bogotá por",
+      "excerpt": "Organizar una fiesta escolar no tiene que ser complicado. Aquí encuentras ideas simples, útiles y muy bonitas para celebrar en el salón de clases.",
+      "fecha": "2026-09-23",
+      "imagenCategoria": "decoracion-de-fiesta",
+      "categoriasRelacionadas": [
+        "decoracion-de-fiesta",
+        "fiestas-tematicas",
+        "confiteria"
+      ],
+      "lead": "Celebrar en el salón de clases es más fácil cuando tienes claras las ideas y los productos que vas a usar.",
+      "secciones": [
+        {
+          "titulo": "Planea la fecha con tiempo y arma una lista corta",
+          "parrafos": [
+            "Lo primero es definir qué se celebra: cumpleaños, día del niño, amor y amistad, Halloween o fin de año. Con esa base eliges los colores, los dulces y la decoración del salón de clases. Una lista corta te evita comprar de más y gastar dinero en cosas que no vas a usar.",
+            "Anota el número de niños, el presupuesto y la hora del evento. Con esos datos decides si necesitas llevar platos, vasos y servilletas, o solo un detalle pequeño para cada uno."
+          ]
+        },
+        {
+          "titulo": "Decoración sencilla que se ve bonita y se recoge rápido",
+          "parrafos": [
+            "Para transformar el salón no necesitas grandes cosas. Guirnaldas, globos, banderines y centros de mesa con témperas y papeles de colores funcionan muy bien. En nuestra categoría de Decoración de Fiesta encuentras kits listos y piezas sueltas que combinan entre sí.",
+            "Si el salón es pequeño, pega los adornos en las paredes y en el tablero. Así dejas espacio en el piso para que los niños jueguen y se sienten cómodos."
+          ]
+        },
+        {
+          "titulo": "Dulces, detalles y sorpresas que gustan a todas las edades",
+          "parrafos": [
+            "Los dulces nunca faltan en una fiesta escolar. Gomitas, chocolates, paletas y chicles en bolsas individuales son prácticos y se reparten fácil. Mira las opciones que tenemos en Confitería para armar paquetes por niño sin complicarte.",
+            "Si prefieres un detalle útil, elige colores, stickers, libretas pequeñas o lápices decorados. Sirven como souvenir y los niños los usan después en clase."
+          ]
+        },
+        {
+          "titulo": "Ideas según la fecha que vas a celebrar",
+          "parrafos": [
+            "Para el día del niño o cumpleaños, prepara una mesa con globos, gorros y bolsas con dulces. Enamorados y amistad se ven lindos con tonos rosados y rojos, corazones y mensajes bonitos en el tablero. En Halloween usa naranja y negro, máscaras y calabazas hechas con cartulina.",
+            "En fiestas de fin de año o grados, los colores del colegio y los diplomas decorativos marcan la diferencia. Combina la decoración con empaques para regalos y entrega un presente pequeño a cada niño al final."
+          ]
+        },
+        {
+          "titulo": "Cómo pedir todo a domicilio por WhatsApp en Bogotá",
+          "parrafos": [
+            "Envíanos un mensaje por WhatsApp con la fecha, la cantidad de niños y el tipo de fiesta. Te armamos un paquete con decoración, desechables, dulces y detalles. Recibir todo en la puerta del colegio o en tu casa en Bogotá es rápido y sin filas.",
+            "Si ya tienes una idea clara, pregunta por las opciones de Fiestas Temáticas y Accesorios de Fiesta para sumar gorros, antifaces, matasuegras y más."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "pregunta": "¿Cuánto tiempo antes debo pedir la decoración para el salón?",
+          "respuesta": "Lo ideal es pedir todo entre tres y cinco días antes del evento. Así te da tiempo de revisar colores, cantidades y ajustar lo que falte antes del día de la fiesta."
+        },
+        {
+          "pregunta": "¿Hacen entregas a domicilio en colegios de Bogotá?",
+          "respuesta": "Sí, hacemos entregas a domicilio en Bogotá y podemos llevar el pedido directamente al colegio. Solo necesitas indicarnos la dirección y el nombre de la persona que recibe."
+        },
+        {
+          "pregunta": "¿Puedo armar un paquete con dulces y decoración juntos?",
+          "respuesta": "Claro, armamos paquetes personalizados con decoración, desechables, dulces y detalles. Envíanos por WhatsApp la cantidad de niños y el tipo de fecha que vas a celebrar."
+        },
+        {
+          "pregunta": "¿Tienen opciones de decoración para fiestas temáticas escolares?",
+          "respuesta": "Sí, contamos con decoración para varias temáticas escolares como Halloween, día del niño, amor y amistad y grados. Mira la categoría de Fiestas Temáticas y elige la que más te guste."
+        }
+      ],
+      "heroImagen": "/images/blog/ideas-para-celebrar-fechas-especiales-en-el-salon-de-clases-y.jpg"
+    },
+    {
       "slug": "como-montar-un-escritorio-de-estudio-en-casa-en-pocos-pasos",
       "title": "Cómo montar un escritorio de estudio en casa | Bogotá",
       "h1": "Cómo montar un escritorio de estudio en casa en pocos pasos",
